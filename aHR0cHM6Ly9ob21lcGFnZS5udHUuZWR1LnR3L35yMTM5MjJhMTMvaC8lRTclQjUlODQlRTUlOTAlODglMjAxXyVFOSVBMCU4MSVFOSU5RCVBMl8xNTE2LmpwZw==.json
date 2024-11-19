@@ -1,0 +1,1591 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "MEMO ROM\nG. C. JOHNSON\nINFORMATION :selected:\nACTION :selected:\nREPLY :unselected:\nSEE ME :unselected:\nMro Anthun Chen Repair parts do not fit our equipment. 140.112.213.82\n國史饭 Academia Histórica\nD\n278",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.0004003742942586541,
+      "width": 642,
+      "height": 901,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "MEMO",
+          "polygon": [
+            147,
+            60,
+            221,
+            61,
+            221,
+            77,
+            147,
+            77
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": "ROM",
+          "polygon": [
+            273,
+            59,
+            328,
+            59,
+            328,
+            77,
+            273,
+            77
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 5,
+            "length": 3
+          }
+        },
+        {
+          "content": "G.",
+          "polygon": [
+            147,
+            126,
+            171,
+            126,
+            171,
+            145,
+            147,
+            145
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 9,
+            "length": 2
+          }
+        },
+        {
+          "content": "C.",
+          "polygon": [
+            182,
+            126,
+            204,
+            126,
+            204,
+            146,
+            182,
+            146
+          ],
+          "confidence": 0.919,
+          "span": {
+            "offset": 12,
+            "length": 2
+          }
+        },
+        {
+          "content": "JOHNSON",
+          "polygon": [
+            215,
+            126,
+            330,
+            126,
+            330,
+            146,
+            215,
+            146
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 15,
+            "length": 7
+          }
+        },
+        {
+          "content": "INFORMATION",
+          "polygon": [
+            416,
+            186,
+            540,
+            186,
+            540,
+            203,
+            416,
+            203
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 23,
+            "length": 11
+          }
+        },
+        {
+          "content": "ACTION",
+          "polygon": [
+            416,
+            214,
+            481,
+            214,
+            481,
+            231,
+            416,
+            230
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 46,
+            "length": 6
+          }
+        },
+        {
+          "content": "REPLY",
+          "polygon": [
+            415,
+            241,
+            473,
+            241,
+            473,
+            257,
+            415,
+            257
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 64,
+            "length": 5
+          }
+        },
+        {
+          "content": "SEE",
+          "polygon": [
+            415,
+            269,
+            447,
+            269,
+            446,
+            284,
+            415,
+            284
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 83,
+            "length": 3
+          }
+        },
+        {
+          "content": "ME",
+          "polygon": [
+            455,
+            269,
+            480,
+            269,
+            480,
+            285,
+            455,
+            284
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 87,
+            "length": 2
+          }
+        },
+        {
+          "content": "Mro",
+          "polygon": [
+            60,
+            245,
+            173,
+            243,
+            173,
+            305,
+            60,
+            309
+          ],
+          "confidence": 0.207,
+          "span": {
+            "offset": 103,
+            "length": 3
+          }
+        },
+        {
+          "content": "Anthun",
+          "polygon": [
+            186,
+            243,
+            307,
+            241,
+            307,
+            298,
+            187,
+            303
+          ],
+          "confidence": 0.788,
+          "span": {
+            "offset": 107,
+            "length": 6
+          }
+        },
+        {
+          "content": "Chen",
+          "polygon": [
+            327,
+            241,
+            388,
+            240,
+            388,
+            296,
+            327,
+            297
+          ],
+          "confidence": 0.844,
+          "span": {
+            "offset": 114,
+            "length": 4
+          }
+        },
+        {
+          "content": "Repair",
+          "polygon": [
+            105,
+            339,
+            224,
+            338,
+            224,
+            391,
+            104,
+            390
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 119,
+            "length": 6
+          }
+        },
+        {
+          "content": "parts",
+          "polygon": [
+            258,
+            338,
+            349,
+            339,
+            349,
+            390,
+            257,
+            390
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 126,
+            "length": 5
+          }
+        },
+        {
+          "content": "do",
+          "polygon": [
+            374,
+            338,
+            423,
+            339,
+            423,
+            388,
+            374,
+            390
+          ],
+          "confidence": 0.906,
+          "span": {
+            "offset": 132,
+            "length": 2
+          }
+        },
+        {
+          "content": "not",
+          "polygon": [
+            438,
+            339,
+            515,
+            340,
+            515,
+            387,
+            438,
+            388
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 135,
+            "length": 3
+          }
+        },
+        {
+          "content": "fit",
+          "polygon": [
+            72,
+            405,
+            153,
+            405,
+            153,
+            449,
+            72,
+            451
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 139,
+            "length": 3
+          }
+        },
+        {
+          "content": "our",
+          "polygon": [
+            172,
+            405,
+            240,
+            403,
+            240,
+            447,
+            172,
+            448
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 143,
+            "length": 3
+          }
+        },
+        {
+          "content": "equipment.",
+          "polygon": [
+            266,
+            402,
+            470,
+            397,
+            470,
+            442,
+            266,
+            446
+          ],
+          "confidence": 0.834,
+          "span": {
+            "offset": 147,
+            "length": 10
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            177,
+            448,
+            455,
+            447,
+            456,
+            483,
+            177,
+            483
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 158,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            416,
+            790,
+            444,
+            790,
+            443,
+            831,
+            416,
+            831
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 173,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            448,
+            790,
+            475,
+            789,
+            474,
+            832,
+            448,
+            831
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 174,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            475,
+            789,
+            525,
+            790,
+            525,
+            833,
+            475,
+            832
+          ],
+          "confidence": 0.911,
+          "span": {
+            "offset": 175,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            403,
+            832,
+            464,
+            833,
+            463,
+            847,
+            403,
+            847
+          ],
+          "confidence": 0.872,
+          "span": {
+            "offset": 177,
+            "length": 8
+          }
+        },
+        {
+          "content": "Histórica",
+          "polygon": [
+            468,
+            833,
+            523,
+            834,
+            523,
+            848,
+            467,
+            847
+          ],
+          "confidence": 0.567,
+          "span": {
+            "offset": 186,
+            "length": 9
+          }
+        },
+        {
+          "content": "D",
+          "polygon": [
+            531,
+            771,
+            592,
+            775,
+            592,
+            852,
+            531,
+            853
+          ],
+          "confidence": 0.096,
+          "span": {
+            "offset": 196,
+            "length": 1
+          }
+        },
+        {
+          "content": "278",
+          "polygon": [
+            25,
+            840,
+            87,
+            837,
+            87,
+            882,
+            26,
+            884
+          ],
+          "confidence": 0.965,
+          "span": {
+            "offset": 198,
+            "length": 3
+          }
+        }
+      ],
+      "selectionMarks": [
+        {
+          "state": "selected",
+          "polygon": [
+            569,
+            188,
+            586,
+            188,
+            585,
+            207,
+            569,
+            207
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 35,
+            "length": 10
+          }
+        },
+        {
+          "state": "selected",
+          "polygon": [
+            568,
+            215,
+            584,
+            215,
+            584,
+            232,
+            567,
+            232
+          ],
+          "confidence": 0.68,
+          "span": {
+            "offset": 53,
+            "length": 10
+          }
+        },
+        {
+          "state": "unselected",
+          "polygon": [
+            567,
+            244,
+            584,
+            243,
+            584,
+            260,
+            567,
+            260
+          ],
+          "confidence": 0.835,
+          "span": {
+            "offset": 70,
+            "length": 12
+          }
+        },
+        {
+          "state": "unselected",
+          "polygon": [
+            567,
+            269,
+            584,
+            270,
+            584,
+            287,
+            567,
+            286
+          ],
+          "confidence": 0.894,
+          "span": {
+            "offset": 90,
+            "length": 12
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "MEMO",
+          "polygon": [
+            147,
+            60,
+            221,
+            60,
+            221,
+            77,
+            147,
+            77
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "ROM",
+          "polygon": [
+            273,
+            59,
+            327,
+            59,
+            327,
+            77,
+            273,
+            77
+          ],
+          "spans": [
+            {
+              "offset": 5,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "G. C. JOHNSON",
+          "polygon": [
+            147,
+            126,
+            330,
+            126,
+            330,
+            146,
+            147,
+            145
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "INFORMATION",
+          "polygon": [
+            416,
+            186,
+            539,
+            186,
+            539,
+            203,
+            416,
+            203
+          ],
+          "spans": [
+            {
+              "offset": 23,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "ACTION",
+          "polygon": [
+            416,
+            214,
+            481,
+            214,
+            481,
+            230,
+            416,
+            230
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "REPLY",
+          "polygon": [
+            415,
+            241,
+            472,
+            241,
+            472,
+            257,
+            415,
+            257
+          ],
+          "spans": [
+            {
+              "offset": 64,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "SEE ME",
+          "polygon": [
+            415,
+            269,
+            480,
+            269,
+            480,
+            284,
+            415,
+            284
+          ],
+          "spans": [
+            {
+              "offset": 83,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Mro Anthun Chen",
+          "polygon": [
+            60,
+            245,
+            387,
+            240,
+            388,
+            298,
+            60,
+            309
+          ],
+          "spans": [
+            {
+              "offset": 103,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Repair parts do not",
+          "polygon": [
+            104,
+            338,
+            514,
+            338,
+            514,
+            390,
+            104,
+            390
+          ],
+          "spans": [
+            {
+              "offset": 119,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "fit our equipment.",
+          "polygon": [
+            71,
+            405,
+            469,
+            397,
+            470,
+            442,
+            72,
+            450
+          ],
+          "spans": [
+            {
+              "offset": 139,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            177,
+            447,
+            455,
+            447,
+            455,
+            482,
+            177,
+            482
+          ],
+          "spans": [
+            {
+              "offset": 158,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            416,
+            789,
+            525,
+            790,
+            524,
+            833,
+            415,
+            831
+          ],
+          "spans": [
+            {
+              "offset": 173,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Histórica",
+          "polygon": [
+            403,
+            832,
+            523,
+            833,
+            523,
+            848,
+            403,
+            847
+          ],
+          "spans": [
+            {
+              "offset": 177,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "D",
+          "polygon": [
+            531,
+            771,
+            591,
+            771,
+            591,
+            852,
+            531,
+            852
+          ],
+          "spans": [
+            {
+              "offset": 196,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "278",
+          "polygon": [
+            24,
+            840,
+            85,
+            837,
+            87,
+            881,
+            26,
+            884
+          ],
+          "spans": [
+            {
+              "offset": 198,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 201
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 4,
+      "columnCount": 2,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "INFORMATION",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                174,
+                551,
+                176,
+                551,
+                211,
+                404,
+                209
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 23,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": ":selected:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                551,
+                176,
+                606,
+                177,
+                605,
+                212,
+                551,
+                211
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 35,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "ACTION",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                209,
+                551,
+                211,
+                551,
+                236,
+                404,
+                234
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": ":selected:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                551,
+                211,
+                605,
+                212,
+                605,
+                237,
+                551,
+                236
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "REPLY",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                234,
+                551,
+                236,
+                551,
+                264,
+                404,
+                262
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 64,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": ":unselected:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                551,
+                236,
+                605,
+                237,
+                605,
+                264,
+                551,
+                264
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 70,
+              "length": 12
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "SEE ME",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                262,
+                551,
+                264,
+                551,
+                295,
+                404,
+                294
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 83,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": ":unselected:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                551,
+                264,
+                605,
+                264,
+                605,
+                296,
+                551,
+                295
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 90,
+              "length": 12
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            410,
+            182,
+            596,
+            184,
+            595,
+            288,
+            409,
+            286
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 23,
+          "length": 79
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            147,
+            59,
+            327,
+            59,
+            327,
+            77,
+            147,
+            77
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "MEMO ROM"
+    },
+    {
+      "spans": [
+        {
+          "offset": 9,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            147,
+            126,
+            330,
+            126,
+            330,
+            146,
+            147,
+            145
+          ]
+        }
+      ],
+      "content": "G. C. JOHNSON"
+    },
+    {
+      "spans": [
+        {
+          "offset": 23,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            174,
+            551,
+            176,
+            551,
+            211,
+            404,
+            209
+          ]
+        }
+      ],
+      "content": "INFORMATION"
+    },
+    {
+      "spans": [
+        {
+          "offset": 35,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            551,
+            176,
+            606,
+            177,
+            605,
+            212,
+            551,
+            211
+          ]
+        }
+      ],
+      "content": ":selected:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 46,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            209,
+            551,
+            211,
+            551,
+            236,
+            404,
+            234
+          ]
+        }
+      ],
+      "content": "ACTION"
+    },
+    {
+      "spans": [
+        {
+          "offset": 53,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            551,
+            211,
+            605,
+            212,
+            605,
+            237,
+            551,
+            236
+          ]
+        }
+      ],
+      "content": ":selected:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 64,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            234,
+            551,
+            236,
+            551,
+            264,
+            404,
+            262
+          ]
+        }
+      ],
+      "content": "REPLY"
+    },
+    {
+      "spans": [
+        {
+          "offset": 70,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            551,
+            236,
+            605,
+            237,
+            605,
+            264,
+            551,
+            264
+          ]
+        }
+      ],
+      "content": ":unselected:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 83,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            262,
+            551,
+            264,
+            551,
+            295,
+            404,
+            294
+          ]
+        }
+      ],
+      "content": "SEE ME"
+    },
+    {
+      "spans": [
+        {
+          "offset": 90,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            551,
+            264,
+            605,
+            264,
+            605,
+            296,
+            551,
+            295
+          ]
+        }
+      ],
+      "content": ":unselected:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 103,
+          "length": 69
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            60,
+            240,
+            514,
+            240,
+            515,
+            482,
+            60,
+            483
+          ]
+        }
+      ],
+      "content": "Mro Anthun Chen Repair parts do not fit our equipment. 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 173,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            403,
+            789,
+            525,
+            790,
+            524,
+            848,
+            403,
+            847
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "國史饭 Academia Histórica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 196,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            531,
+            771,
+            591,
+            771,
+            591,
+            852,
+            531,
+            852
+          ]
+        }
+      ],
+      "content": "D"
+    },
+    {
+      "spans": [
+        {
+          "offset": 198,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            24,
+            840,
+            85,
+            837,
+            88,
+            881,
+            26,
+            884
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "278"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 103,
+          "length": 54
+        },
+        {
+          "offset": 198,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 173,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 197
+        }
+      ],
+      "elements": [
+        "/figures/0",
+        "/tables/0",
+        "/paragraphs/10",
+        "/figures/1"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            144,
+            47,
+            331,
+            47,
+            331,
+            147,
+            144,
+            148
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1"
+      ]
+    },
+    {
+      "id": "1.2",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            787,
+            596,
+            788,
+            596,
+            852,
+            405,
+            852
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 173,
+          "length": 24
+        }
+      ],
+      "elements": [
+        "/paragraphs/11",
+        "/paragraphs/12"
+      ]
+    }
+  ]
+}

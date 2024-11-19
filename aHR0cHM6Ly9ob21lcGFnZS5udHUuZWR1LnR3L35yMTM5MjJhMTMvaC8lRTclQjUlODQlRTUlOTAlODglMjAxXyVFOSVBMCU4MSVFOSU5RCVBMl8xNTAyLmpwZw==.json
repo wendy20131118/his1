@@ -1,0 +1,4223 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Date: June 9, 1962\nshipment NO. 229 Sx. Bayou state V-14 Arr. May 17, 1962 Keelung PIO/C-10218 P.O. = 61-018\nQt'y & Unit Four Boxes\nDescription\nwt. (Lb.) Cu.ft.\nLoader,Aggregate, Bucket, Crawler\nMounted, 3 Cu. yd. Minute, IHC Gas. Engine driven, lifg. Barber Greene Co. Mid1. 82AG, Serial NO. 82AG-52-84, Engine Mdl. UD9A, 1 Set.\nFkg. #1. Tractor, Power Unit, Crawler 22170\n762\nMtd. 1 ea.\nFlood Light 2 ea. (Broken)\nBattery 2 ea.\nPkg. /2. Loader Elevator I ea.\n11590\n743\nPkg. 3. Spiral Feeder Platforms lea.\n4530\n216\nPkg. #4. Attachments & Parts\n2950\n80\n/ / / Say four boxes only / / /\n264\n@ 216 D\nAcademia Histórica",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.13401170074939728,
+      "width": 1287,
+      "height": 1681,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Date:",
+          "polygon": [
+            785,
+            355,
+            849,
+            355,
+            849,
+            379,
+            785,
+            379
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "June",
+          "polygon": [
+            859,
+            355,
+            914,
+            354,
+            914,
+            379,
+            859,
+            379
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 6,
+            "length": 4
+          }
+        },
+        {
+          "content": "9,",
+          "polygon": [
+            924,
+            354,
+            949,
+            354,
+            949,
+            378,
+            924,
+            379
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 11,
+            "length": 2
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            959,
+            354,
+            1013,
+            354,
+            1013,
+            378,
+            959,
+            379
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 14,
+            "length": 4
+          }
+        },
+        {
+          "content": "shipment",
+          "polygon": [
+            188,
+            376,
+            290,
+            376,
+            290,
+            400,
+            188,
+            400
+          ],
+          "confidence": 0.607,
+          "span": {
+            "offset": 19,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            295,
+            376,
+            334,
+            376,
+            334,
+            400,
+            295,
+            400
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 28,
+            "length": 3
+          }
+        },
+        {
+          "content": "229",
+          "polygon": [
+            350,
+            376,
+            388,
+            376,
+            388,
+            400,
+            350,
+            400
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 32,
+            "length": 3
+          }
+        },
+        {
+          "content": "Sx.",
+          "polygon": [
+            187,
+            403,
+            223,
+            402,
+            223,
+            425,
+            187,
+            425
+          ],
+          "confidence": 0.942,
+          "span": {
+            "offset": 36,
+            "length": 3
+          }
+        },
+        {
+          "content": "Bayou",
+          "polygon": [
+            230,
+            402,
+            301,
+            402,
+            301,
+            425,
+            230,
+            425
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 40,
+            "length": 5
+          }
+        },
+        {
+          "content": "state",
+          "polygon": [
+            308,
+            402,
+            375,
+            402,
+            375,
+            425,
+            308,
+            425
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 46,
+            "length": 5
+          }
+        },
+        {
+          "content": "V-14",
+          "polygon": [
+            387,
+            402,
+            439,
+            402,
+            439,
+            424,
+            387,
+            425
+          ],
+          "confidence": 0.892,
+          "span": {
+            "offset": 52,
+            "length": 4
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            188,
+            429,
+            234,
+            428,
+            234,
+            450,
+            188,
+            451
+          ],
+          "confidence": 0.615,
+          "span": {
+            "offset": 57,
+            "length": 4
+          }
+        },
+        {
+          "content": "May",
+          "polygon": [
+            247,
+            428,
+            288,
+            428,
+            288,
+            450,
+            247,
+            450
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 62,
+            "length": 3
+          }
+        },
+        {
+          "content": "17,",
+          "polygon": [
+            299,
+            428,
+            336,
+            427,
+            336,
+            450,
+            299,
+            450
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 66,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            350,
+            427,
+            400,
+            427,
+            399,
+            450,
+            350,
+            450
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 70,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            425,
+            428,
+            512,
+            428,
+            512,
+            451,
+            425,
+            450
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 75,
+            "length": 7
+          }
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            186,
+            451,
+            328,
+            451,
+            328,
+            473,
+            186,
+            474
+          ],
+          "confidence": 0.848,
+          "span": {
+            "offset": 83,
+            "length": 11
+          }
+        },
+        {
+          "content": "P.O.",
+          "polygon": [
+            183,
+            478,
+            238,
+            477,
+            239,
+            500,
+            183,
+            500
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 95,
+            "length": 4
+          }
+        },
+        {
+          "content": "=",
+          "polygon": [
+            248,
+            477,
+            257,
+            477,
+            257,
+            499,
+            248,
+            500
+          ],
+          "confidence": 0.304,
+          "span": {
+            "offset": 100,
+            "length": 1
+          }
+        },
+        {
+          "content": "61-018",
+          "polygon": [
+            261,
+            477,
+            340,
+            476,
+            340,
+            498,
+            261,
+            499
+          ],
+          "confidence": 0.362,
+          "span": {
+            "offset": 102,
+            "length": 6
+          }
+        },
+        {
+          "content": "Qt'y",
+          "polygon": [
+            184,
+            603,
+            237,
+            603,
+            237,
+            625,
+            185,
+            626
+          ],
+          "confidence": 0.444,
+          "span": {
+            "offset": 109,
+            "length": 4
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            248,
+            603,
+            260,
+            603,
+            260,
+            625,
+            248,
+            625
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 114,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            268,
+            603,
+            324,
+            602,
+            324,
+            624,
+            268,
+            624
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 116,
+            "length": 4
+          }
+        },
+        {
+          "content": "Four",
+          "polygon": [
+            184,
+            628,
+            236,
+            628,
+            236,
+            648,
+            184,
+            648
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 121,
+            "length": 4
+          }
+        },
+        {
+          "content": "Boxes",
+          "polygon": [
+            248,
+            629,
+            313,
+            629,
+            313,
+            648,
+            248,
+            648
+          ],
+          "confidence": 0.936,
+          "span": {
+            "offset": 126,
+            "length": 5
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            448,
+            603,
+            587,
+            603,
+            587,
+            625,
+            448,
+            624
+          ],
+          "confidence": 0.849,
+          "span": {
+            "offset": 132,
+            "length": 11
+          }
+        },
+        {
+          "content": "wt.",
+          "polygon": [
+            933,
+            604,
+            969,
+            604,
+            969,
+            628,
+            933,
+            627
+          ],
+          "confidence": 0.678,
+          "span": {
+            "offset": 144,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Lb.)",
+          "polygon": [
+            975,
+            604,
+            1042,
+            604,
+            1042,
+            628,
+            975,
+            628
+          ],
+          "confidence": 0.846,
+          "span": {
+            "offset": 148,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cu.ft.",
+          "polygon": [
+            1047,
+            605,
+            1120,
+            605,
+            1120,
+            628,
+            1047,
+            628
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 154,
+            "length": 6
+          }
+        },
+        {
+          "content": "Loader,Aggregate,",
+          "polygon": [
+            447,
+            628,
+            665,
+            628,
+            665,
+            652,
+            447,
+            650
+          ],
+          "confidence": 0.676,
+          "span": {
+            "offset": 161,
+            "length": 17
+          }
+        },
+        {
+          "content": "Bucket,",
+          "polygon": [
+            671,
+            628,
+            765,
+            628,
+            765,
+            651,
+            671,
+            652
+          ],
+          "confidence": 0.954,
+          "span": {
+            "offset": 179,
+            "length": 7
+          }
+        },
+        {
+          "content": "Crawler",
+          "polygon": [
+            772,
+            628,
+            862,
+            629,
+            862,
+            651,
+            772,
+            651
+          ],
+          "confidence": 0.604,
+          "span": {
+            "offset": 187,
+            "length": 7
+          }
+        },
+        {
+          "content": "Mounted,",
+          "polygon": [
+            447,
+            653,
+            552,
+            653,
+            552,
+            676,
+            447,
+            675
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 195,
+            "length": 8
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            560,
+            653,
+            574,
+            653,
+            573,
+            676,
+            560,
+            676
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 204,
+            "length": 1
+          }
+        },
+        {
+          "content": "Cu.",
+          "polygon": [
+            584,
+            653,
+            620,
+            653,
+            620,
+            676,
+            584,
+            676
+          ],
+          "confidence": 0.903,
+          "span": {
+            "offset": 206,
+            "length": 3
+          }
+        },
+        {
+          "content": "yd.",
+          "polygon": [
+            634,
+            653,
+            674,
+            653,
+            674,
+            676,
+            634,
+            676
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 210,
+            "length": 3
+          }
+        },
+        {
+          "content": "Minute,",
+          "polygon": [
+            683,
+            653,
+            774,
+            654,
+            774,
+            677,
+            683,
+            676
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 214,
+            "length": 7
+          }
+        },
+        {
+          "content": "IHC",
+          "polygon": [
+            785,
+            654,
+            821,
+            654,
+            821,
+            677,
+            785,
+            677
+          ],
+          "confidence": 0.846,
+          "span": {
+            "offset": 222,
+            "length": 3
+          }
+        },
+        {
+          "content": "Gas.",
+          "polygon": [
+            835,
+            654,
+            883,
+            655,
+            883,
+            677,
+            835,
+            677
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 226,
+            "length": 4
+          }
+        },
+        {
+          "content": "Engine",
+          "polygon": [
+            448,
+            677,
+            523,
+            677,
+            523,
+            700,
+            448,
+            700
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 231,
+            "length": 6
+          }
+        },
+        {
+          "content": "driven,",
+          "polygon": [
+            534,
+            677,
+            623,
+            678,
+            623,
+            701,
+            534,
+            700
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 238,
+            "length": 7
+          }
+        },
+        {
+          "content": "lifg.",
+          "polygon": [
+            633,
+            678,
+            687,
+            678,
+            687,
+            701,
+            633,
+            701
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 246,
+            "length": 5
+          }
+        },
+        {
+          "content": "Barber",
+          "polygon": [
+            693,
+            678,
+            778,
+            679,
+            778,
+            701,
+            693,
+            701
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 252,
+            "length": 6
+          }
+        },
+        {
+          "content": "Greene",
+          "polygon": [
+            785,
+            679,
+            860,
+            680,
+            860,
+            701,
+            785,
+            701
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 259,
+            "length": 6
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            871,
+            680,
+            909,
+            680,
+            909,
+            702,
+            871,
+            701
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 266,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mid1.",
+          "polygon": [
+            446,
+            701,
+            495,
+            701,
+            495,
+            724,
+            446,
+            724
+          ],
+          "confidence": 0.633,
+          "span": {
+            "offset": 270,
+            "length": 5
+          }
+        },
+        {
+          "content": "82AG,",
+          "polygon": [
+            512,
+            701,
+            572,
+            702,
+            572,
+            725,
+            512,
+            724
+          ],
+          "confidence": 0.739,
+          "span": {
+            "offset": 276,
+            "length": 5
+          }
+        },
+        {
+          "content": "Serial",
+          "polygon": [
+            585,
+            702,
+            660,
+            702,
+            660,
+            725,
+            585,
+            725
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 282,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            672,
+            702,
+            712,
+            702,
+            712,
+            726,
+            672,
+            725
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 289,
+            "length": 3
+          }
+        },
+        {
+          "content": "82AG-52-84,",
+          "polygon": [
+            717,
+            703,
+            860,
+            704,
+            860,
+            727,
+            717,
+            726
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 293,
+            "length": 11
+          }
+        },
+        {
+          "content": "Engine",
+          "polygon": [
+            448,
+            727,
+            522,
+            727,
+            522,
+            750,
+            448,
+            750
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 305,
+            "length": 6
+          }
+        },
+        {
+          "content": "Mdl.",
+          "polygon": [
+            528,
+            727,
+            591,
+            727,
+            591,
+            750,
+            528,
+            750
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 312,
+            "length": 4
+          }
+        },
+        {
+          "content": "UD9A,",
+          "polygon": [
+            596,
+            727,
+            658,
+            727,
+            659,
+            750,
+            596,
+            750
+          ],
+          "confidence": 0.876,
+          "span": {
+            "offset": 317,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            672,
+            727,
+            686,
+            727,
+            686,
+            750,
+            672,
+            750
+          ],
+          "confidence": 0.354,
+          "span": {
+            "offset": 323,
+            "length": 1
+          }
+        },
+        {
+          "content": "Set.",
+          "polygon": [
+            694,
+            727,
+            748,
+            728,
+            748,
+            750,
+            694,
+            750
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 325,
+            "length": 4
+          }
+        },
+        {
+          "content": "Fkg.",
+          "polygon": [
+            449,
+            751,
+            502,
+            751,
+            501,
+            775,
+            449,
+            775
+          ],
+          "confidence": 0.836,
+          "span": {
+            "offset": 330,
+            "length": 4
+          }
+        },
+        {
+          "content": "#1.",
+          "polygon": [
+            511,
+            752,
+            547,
+            752,
+            547,
+            775,
+            511,
+            775
+          ],
+          "confidence": 0.801,
+          "span": {
+            "offset": 335,
+            "length": 3
+          }
+        },
+        {
+          "content": "Tractor,",
+          "polygon": [
+            558,
+            752,
+            658,
+            753,
+            658,
+            775,
+            558,
+            775
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 339,
+            "length": 8
+          }
+        },
+        {
+          "content": "Power",
+          "polygon": [
+            672,
+            753,
+            735,
+            753,
+            735,
+            776,
+            672,
+            775
+          ],
+          "confidence": 0.788,
+          "span": {
+            "offset": 348,
+            "length": 5
+          }
+        },
+        {
+          "content": "Unit,",
+          "polygon": [
+            746,
+            753,
+            808,
+            753,
+            808,
+            777,
+            746,
+            776
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 354,
+            "length": 5
+          }
+        },
+        {
+          "content": "Crawler",
+          "polygon": [
+            822,
+            753,
+            911,
+            753,
+            911,
+            776,
+            822,
+            777
+          ],
+          "confidence": 0.875,
+          "span": {
+            "offset": 360,
+            "length": 7
+          }
+        },
+        {
+          "content": "22170",
+          "polygon": [
+            935,
+            753,
+            1000,
+            753,
+            1000,
+            777,
+            935,
+            777
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 368,
+            "length": 5
+          }
+        },
+        {
+          "content": "762",
+          "polygon": [
+            1047,
+            753,
+            1086,
+            753,
+            1086,
+            776,
+            1047,
+            776
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 374,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mtd.",
+          "polygon": [
+            558,
+            777,
+            608,
+            777,
+            608,
+            799,
+            558,
+            799
+          ],
+          "confidence": 0.823,
+          "span": {
+            "offset": 378,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            623,
+            778,
+            634,
+            778,
+            633,
+            799,
+            623,
+            799
+          ],
+          "confidence": 0.186,
+          "span": {
+            "offset": 383,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            648,
+            778,
+            684,
+            778,
+            684,
+            799,
+            648,
+            799
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 385,
+            "length": 3
+          }
+        },
+        {
+          "content": "Flood",
+          "polygon": [
+            558,
+            801,
+            623,
+            801,
+            623,
+            824,
+            558,
+            824
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 389,
+            "length": 5
+          }
+        },
+        {
+          "content": "Light",
+          "polygon": [
+            628,
+            801,
+            697,
+            801,
+            697,
+            825,
+            628,
+            824
+          ],
+          "confidence": 0.653,
+          "span": {
+            "offset": 395,
+            "length": 5
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            708,
+            802,
+            729,
+            802,
+            729,
+            825,
+            708,
+            825
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 401,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            736,
+            802,
+            772,
+            802,
+            772,
+            825,
+            736,
+            825
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 403,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Broken)",
+          "polygon": [
+            787,
+            802,
+            885,
+            802,
+            885,
+            826,
+            787,
+            826
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 407,
+            "length": 8
+          }
+        },
+        {
+          "content": "Battery",
+          "polygon": [
+            558,
+            827,
+            646,
+            827,
+            646,
+            849,
+            558,
+            848
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 416,
+            "length": 7
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            673,
+            828,
+            688,
+            828,
+            688,
+            849,
+            673,
+            849
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 424,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            697,
+            828,
+            733,
+            828,
+            733,
+            849,
+            697,
+            849
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 426,
+            "length": 3
+          }
+        },
+        {
+          "content": "Pkg.",
+          "polygon": [
+            447,
+            850,
+            498,
+            850,
+            497,
+            874,
+            447,
+            873
+          ],
+          "confidence": 0.87,
+          "span": {
+            "offset": 430,
+            "length": 4
+          }
+        },
+        {
+          "content": "/2.",
+          "polygon": [
+            511,
+            850,
+            547,
+            850,
+            547,
+            874,
+            511,
+            874
+          ],
+          "confidence": 0.544,
+          "span": {
+            "offset": 435,
+            "length": 3
+          }
+        },
+        {
+          "content": "Loader",
+          "polygon": [
+            557,
+            850,
+            636,
+            851,
+            636,
+            874,
+            557,
+            874
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 439,
+            "length": 6
+          }
+        },
+        {
+          "content": "Elevator",
+          "polygon": [
+            649,
+            851,
+            746,
+            851,
+            746,
+            874,
+            648,
+            874
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 446,
+            "length": 8
+          }
+        },
+        {
+          "content": "I",
+          "polygon": [
+            772,
+            852,
+            790,
+            852,
+            790,
+            874,
+            772,
+            874
+          ],
+          "confidence": 0.239,
+          "span": {
+            "offset": 455,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            798,
+            852,
+            833,
+            852,
+            833,
+            874,
+            798,
+            874
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 457,
+            "length": 3
+          }
+        },
+        {
+          "content": "11590",
+          "polygon": [
+            933,
+            852,
+            999,
+            852,
+            999,
+            874,
+            933,
+            874
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 461,
+            "length": 5
+          }
+        },
+        {
+          "content": "743",
+          "polygon": [
+            1046,
+            852,
+            1085,
+            852,
+            1085,
+            876,
+            1046,
+            875
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 467,
+            "length": 3
+          }
+        },
+        {
+          "content": "Pkg.",
+          "polygon": [
+            447,
+            876,
+            497,
+            876,
+            497,
+            899,
+            446,
+            898
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 471,
+            "length": 4
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            524,
+            876,
+            545,
+            876,
+            544,
+            899,
+            523,
+            899
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 476,
+            "length": 2
+          }
+        },
+        {
+          "content": "Spiral",
+          "polygon": [
+            558,
+            876,
+            635,
+            876,
+            635,
+            899,
+            558,
+            899
+          ],
+          "confidence": 0.92,
+          "span": {
+            "offset": 479,
+            "length": 6
+          }
+        },
+        {
+          "content": "Feeder",
+          "polygon": [
+            646,
+            876,
+            722,
+            877,
+            722,
+            899,
+            646,
+            899
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 486,
+            "length": 6
+          }
+        },
+        {
+          "content": "Platforms",
+          "polygon": [
+            733,
+            877,
+            849,
+            877,
+            849,
+            899,
+            733,
+            899
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 493,
+            "length": 9
+          }
+        },
+        {
+          "content": "lea.",
+          "polygon": [
+            859,
+            877,
+            907,
+            877,
+            907,
+            900,
+            859,
+            899
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 503,
+            "length": 4
+          }
+        },
+        {
+          "content": "4530",
+          "polygon": [
+            933,
+            877,
+            985,
+            878,
+            985,
+            900,
+            933,
+            899
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 508,
+            "length": 4
+          }
+        },
+        {
+          "content": "216",
+          "polygon": [
+            1045,
+            878,
+            1085,
+            878,
+            1085,
+            898,
+            1045,
+            898
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 513,
+            "length": 3
+          }
+        },
+        {
+          "content": "Pkg.",
+          "polygon": [
+            447,
+            901,
+            495,
+            901,
+            495,
+            924,
+            447,
+            924
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 517,
+            "length": 4
+          }
+        },
+        {
+          "content": "#4.",
+          "polygon": [
+            510,
+            901,
+            549,
+            901,
+            549,
+            924,
+            510,
+            924
+          ],
+          "confidence": 0.651,
+          "span": {
+            "offset": 522,
+            "length": 3
+          }
+        },
+        {
+          "content": "Attachments",
+          "polygon": [
+            560,
+            901,
+            698,
+            902,
+            698,
+            924,
+            560,
+            924
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 526,
+            "length": 11
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            709,
+            902,
+            723,
+            902,
+            723,
+            924,
+            709,
+            924
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 538,
+            "length": 1
+          }
+        },
+        {
+          "content": "Parts",
+          "polygon": [
+            733,
+            902,
+            799,
+            902,
+            799,
+            924,
+            733,
+            924
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 540,
+            "length": 5
+          }
+        },
+        {
+          "content": "2950",
+          "polygon": [
+            932,
+            903,
+            988,
+            903,
+            988,
+            924,
+            932,
+            924
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 546,
+            "length": 4
+          }
+        },
+        {
+          "content": "80",
+          "polygon": [
+            1046,
+            903,
+            1074,
+            903,
+            1074,
+            924,
+            1046,
+            924
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 551,
+            "length": 2
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            420,
+            996,
+            436,
+            996,
+            435,
+            1026,
+            420,
+            1026
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 554,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            450,
+            996,
+            463,
+            996,
+            463,
+            1026,
+            449,
+            1026
+          ],
+          "confidence": 0.881,
+          "span": {
+            "offset": 556,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            468,
+            996,
+            484,
+            996,
+            484,
+            1026,
+            468,
+            1026
+          ],
+          "confidence": 0.858,
+          "span": {
+            "offset": 558,
+            "length": 1
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            491,
+            996,
+            536,
+            997,
+            536,
+            1025,
+            491,
+            1025
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 560,
+            "length": 3
+          }
+        },
+        {
+          "content": "four",
+          "polygon": [
+            546,
+            997,
+            598,
+            997,
+            597,
+            1025,
+            545,
+            1025
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 564,
+            "length": 4
+          }
+        },
+        {
+          "content": "boxes",
+          "polygon": [
+            608,
+            997,
+            673,
+            998,
+            673,
+            1026,
+            608,
+            1025
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 569,
+            "length": 5
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            683,
+            998,
+            735,
+            997,
+            735,
+            1026,
+            683,
+            1026
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 575,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            746,
+            997,
+            762,
+            997,
+            762,
+            1026,
+            746,
+            1026
+          ],
+          "confidence": 0.802,
+          "span": {
+            "offset": 580,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            768,
+            997,
+            788,
+            997,
+            788,
+            1026,
+            768,
+            1026
+          ],
+          "confidence": 0.724,
+          "span": {
+            "offset": 582,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            794,
+            997,
+            813,
+            997,
+            813,
+            1026,
+            794,
+            1026
+          ],
+          "confidence": 0.902,
+          "span": {
+            "offset": 584,
+            "length": 1
+          }
+        },
+        {
+          "content": "264",
+          "polygon": [
+            22,
+            1608,
+            92,
+            1608,
+            92,
+            1640,
+            22,
+            1640
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 586,
+            "length": 3
+          }
+        },
+        {
+          "content": "@",
+          "polygon": [
+            908,
+            1518,
+            951,
+            1518,
+            951,
+            1593,
+            909,
+            1593
+          ],
+          "confidence": 0.071,
+          "span": {
+            "offset": 590,
+            "length": 1
+          }
+        },
+        {
+          "content": "216",
+          "polygon": [
+            978,
+            1518,
+            1111,
+            1520,
+            1111,
+            1596,
+            978,
+            1593
+          ],
+          "confidence": 0.071,
+          "span": {
+            "offset": 592,
+            "length": 3
+          }
+        },
+        {
+          "content": "D",
+          "polygon": [
+            1126,
+            1464,
+            1238,
+            1471,
+            1238,
+            1631,
+            1129,
+            1631
+          ],
+          "confidence": 0.096,
+          "span": {
+            "offset": 596,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            881,
+            1598,
+            998,
+            1600,
+            998,
+            1623,
+            880,
+            1622
+          ],
+          "confidence": 0.81,
+          "span": {
+            "offset": 598,
+            "length": 8
+          }
+        },
+        {
+          "content": "Histórica",
+          "polygon": [
+            1004,
+            1600,
+            1108,
+            1603,
+            1108,
+            1624,
+            1004,
+            1623
+          ],
+          "confidence": 0.435,
+          "span": {
+            "offset": 607,
+            "length": 9
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Date: June 9, 1962",
+          "polygon": [
+            785,
+            355,
+            1012,
+            354,
+            1013,
+            378,
+            785,
+            379
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "shipment NO. 229",
+          "polygon": [
+            188,
+            376,
+            387,
+            376,
+            387,
+            400,
+            188,
+            399
+          ],
+          "spans": [
+            {
+              "offset": 19,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Sx. Bayou state V-14",
+          "polygon": [
+            187,
+            402,
+            438,
+            402,
+            438,
+            424,
+            187,
+            425
+          ],
+          "spans": [
+            {
+              "offset": 36,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Arr. May 17, 1962 Keelung",
+          "polygon": [
+            188,
+            427,
+            512,
+            427,
+            512,
+            451,
+            188,
+            450
+          ],
+          "spans": [
+            {
+              "offset": 57,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            186,
+            451,
+            328,
+            450,
+            328,
+            473,
+            186,
+            474
+          ],
+          "spans": [
+            {
+              "offset": 83,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "P.O. = 61-018",
+          "polygon": [
+            183,
+            478,
+            340,
+            476,
+            340,
+            498,
+            183,
+            500
+          ],
+          "spans": [
+            {
+              "offset": 95,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Qt'y & Unit",
+          "polygon": [
+            184,
+            603,
+            324,
+            602,
+            324,
+            624,
+            185,
+            625
+          ],
+          "spans": [
+            {
+              "offset": 109,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Four Boxes",
+          "polygon": [
+            184,
+            628,
+            312,
+            628,
+            312,
+            647,
+            184,
+            647
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            448,
+            603,
+            587,
+            603,
+            587,
+            625,
+            448,
+            625
+          ],
+          "spans": [
+            {
+              "offset": 132,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "wt. (Lb.) Cu.ft.",
+          "polygon": [
+            933,
+            604,
+            1120,
+            605,
+            1120,
+            628,
+            932,
+            627
+          ],
+          "spans": [
+            {
+              "offset": 144,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Loader,Aggregate, Bucket, Crawler",
+          "polygon": [
+            447,
+            627,
+            862,
+            628,
+            862,
+            652,
+            447,
+            651
+          ],
+          "spans": [
+            {
+              "offset": 161,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "Mounted, 3 Cu. yd. Minute, IHC Gas.",
+          "polygon": [
+            447,
+            652,
+            883,
+            654,
+            883,
+            677,
+            447,
+            675
+          ],
+          "spans": [
+            {
+              "offset": 195,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "Engine driven, lifg. Barber Greene Co.",
+          "polygon": [
+            448,
+            677,
+            909,
+            679,
+            909,
+            702,
+            448,
+            699
+          ],
+          "spans": [
+            {
+              "offset": 231,
+              "length": 38
+            }
+          ]
+        },
+        {
+          "content": "Mid1. 82AG, Serial NO. 82AG-52-84,",
+          "polygon": [
+            446,
+            701,
+            860,
+            703,
+            860,
+            727,
+            446,
+            724
+          ],
+          "spans": [
+            {
+              "offset": 270,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "Engine Mdl. UD9A, 1 Set.",
+          "polygon": [
+            448,
+            727,
+            747,
+            727,
+            747,
+            750,
+            448,
+            750
+          ],
+          "spans": [
+            {
+              "offset": 305,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "Fkg. #1. Tractor, Power Unit, Crawler 22170",
+          "polygon": [
+            449,
+            751,
+            999,
+            753,
+            999,
+            777,
+            449,
+            776
+          ],
+          "spans": [
+            {
+              "offset": 330,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "762",
+          "polygon": [
+            1047,
+            753,
+            1085,
+            753,
+            1085,
+            775,
+            1047,
+            775
+          ],
+          "spans": [
+            {
+              "offset": 374,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Mtd. 1 ea.",
+          "polygon": [
+            558,
+            777,
+            684,
+            778,
+            684,
+            800,
+            558,
+            798
+          ],
+          "spans": [
+            {
+              "offset": 378,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "Flood Light 2 ea. (Broken)",
+          "polygon": [
+            558,
+            801,
+            884,
+            802,
+            884,
+            826,
+            558,
+            825
+          ],
+          "spans": [
+            {
+              "offset": 389,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "Battery 2 ea.",
+          "polygon": [
+            558,
+            827,
+            733,
+            828,
+            733,
+            849,
+            558,
+            848
+          ],
+          "spans": [
+            {
+              "offset": 416,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Pkg. /2. Loader Elevator I ea.",
+          "polygon": [
+            447,
+            850,
+            833,
+            852,
+            833,
+            874,
+            447,
+            873
+          ],
+          "spans": [
+            {
+              "offset": 430,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "11590",
+          "polygon": [
+            933,
+            852,
+            998,
+            852,
+            998,
+            874,
+            933,
+            874
+          ],
+          "spans": [
+            {
+              "offset": 461,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "743",
+          "polygon": [
+            1046,
+            852,
+            1085,
+            852,
+            1085,
+            876,
+            1046,
+            876
+          ],
+          "spans": [
+            {
+              "offset": 467,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Pkg. 3. Spiral Feeder Platforms lea.",
+          "polygon": [
+            447,
+            876,
+            907,
+            877,
+            907,
+            900,
+            446,
+            898
+          ],
+          "spans": [
+            {
+              "offset": 471,
+              "length": 36
+            }
+          ]
+        },
+        {
+          "content": "4530",
+          "polygon": [
+            933,
+            877,
+            985,
+            878,
+            985,
+            899,
+            933,
+            899
+          ],
+          "spans": [
+            {
+              "offset": 508,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "216",
+          "polygon": [
+            1045,
+            878,
+            1084,
+            878,
+            1084,
+            898,
+            1045,
+            898
+          ],
+          "spans": [
+            {
+              "offset": 513,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Pkg. #4. Attachments & Parts",
+          "polygon": [
+            447,
+            901,
+            799,
+            902,
+            799,
+            925,
+            447,
+            924
+          ],
+          "spans": [
+            {
+              "offset": 517,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "2950",
+          "polygon": [
+            932,
+            903,
+            988,
+            903,
+            988,
+            924,
+            932,
+            924
+          ],
+          "spans": [
+            {
+              "offset": 546,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "80",
+          "polygon": [
+            1046,
+            903,
+            1073,
+            903,
+            1073,
+            923,
+            1046,
+            923
+          ],
+          "spans": [
+            {
+              "offset": 551,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "/ / / Say four boxes only / / /",
+          "polygon": [
+            420,
+            996,
+            812,
+            997,
+            812,
+            1026,
+            420,
+            1025
+          ],
+          "spans": [
+            {
+              "offset": 554,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "264",
+          "polygon": [
+            22,
+            1607,
+            92,
+            1607,
+            92,
+            1639,
+            22,
+            1639
+          ],
+          "spans": [
+            {
+              "offset": 586,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "@ 216",
+          "polygon": [
+            909,
+            1518,
+            1111,
+            1519,
+            1110,
+            1596,
+            908,
+            1591
+          ],
+          "spans": [
+            {
+              "offset": 590,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "D",
+          "polygon": [
+            1126,
+            1463,
+            1235,
+            1462,
+            1238,
+            1630,
+            1128,
+            1631
+          ],
+          "spans": [
+            {
+              "offset": 596,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "Academia Histórica",
+          "polygon": [
+            881,
+            1598,
+            1108,
+            1601,
+            1107,
+            1625,
+            880,
+            1622
+          ],
+          "spans": [
+            {
+              "offset": 598,
+              "length": 18
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 616
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 11,
+      "columnCount": 3,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                437,
+                590,
+                922,
+                590,
+                922,
+                627,
+                436,
+                625
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 132,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "wt. (Lb.)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                922,
+                590,
+                1022,
+                591,
+                1022,
+                628,
+                922,
+                627
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 144,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Cu.ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1022,
+                591,
+                1121,
+                591,
+                1121,
+                629,
+                1022,
+                628
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 154,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "Loader,Aggregate, Bucket, Crawler",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                436,
+                625,
+                922,
+                627,
+                921,
+                652,
+                436,
+                651
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 161,
+              "length": 33
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                922,
+                627,
+                1022,
+                628,
+                1021,
+                653,
+                921,
+                652
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1022,
+                628,
+                1121,
+                629,
+                1120,
+                653,
+                1021,
+                653
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "content": "Mounted, 3 Cu. yd. Minute, IHC Gas. Engine driven, lifg. Barber Greene Co. Mid1. 82AG, Serial NO. 82AG-52-84, Engine Mdl. UD9A, 1 Set.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                436,
+                651,
+                921,
+                652,
+                921,
+                751,
+                434,
+                749
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 195,
+              "length": 134
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "rowSpan": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                921,
+                652,
+                1021,
+                653,
+                1020,
+                752,
+                921,
+                751
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1021,
+                653,
+                1120,
+                653,
+                1120,
+                679,
+                1021,
+                678
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1021,
+                678,
+                1120,
+                679,
+                1119,
+                752,
+                1020,
+                752
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "Fkg. #1. Tractor, Power Unit, Crawler",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                434,
+                749,
+                921,
+                751,
+                920,
+                777,
+                434,
+                775
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 330,
+              "length": 37
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "rowSpan": 2,
+          "content": "22170",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                921,
+                751,
+                1020,
+                752,
+                1020,
+                799,
+                920,
+                799
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 368,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "762",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1020,
+                752,
+                1119,
+                752,
+                1119,
+                778,
+                1020,
+                777
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 374,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "Mtd. 1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                434,
+                775,
+                920,
+                777,
+                920,
+                799,
+                433,
+                798
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 378,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1020,
+                777,
+                1119,
+                778,
+                1119,
+                800,
+                1020,
+                799
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "Flood Light 2 ea. (Broken)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                433,
+                798,
+                920,
+                799,
+                920,
+                827,
+                433,
+                824
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 389,
+              "length": 26
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                920,
+                799,
+                1020,
+                799,
+                1020,
+                827,
+                920,
+                827
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1020,
+                799,
+                1119,
+                800,
+                1119,
+                828,
+                1020,
+                827
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "content": "Battery 2 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                433,
+                824,
+                920,
+                827,
+                920,
+                849,
+                433,
+                846
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 416,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                920,
+                827,
+                1020,
+                827,
+                1019,
+                850,
+                920,
+                849
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1020,
+                827,
+                1119,
+                828,
+                1118,
+                851,
+                1019,
+                850
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 0,
+          "content": "Pkg. /2. Loader Elevator I ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                433,
+                846,
+                920,
+                849,
+                920,
+                874,
+                432,
+                874
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 430,
+              "length": 30
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 1,
+          "content": "11590",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                920,
+                849,
+                1019,
+                850,
+                1019,
+                875,
+                920,
+                874
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 461,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 2,
+          "content": "743",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1019,
+                850,
+                1118,
+                851,
+                1118,
+                875,
+                1019,
+                875
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 467,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 0,
+          "content": "Pkg. 3. Spiral Feeder Platforms lea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                432,
+                874,
+                920,
+                874,
+                920,
+                900,
+                432,
+                899
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 471,
+              "length": 36
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 1,
+          "content": "4530",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                920,
+                874,
+                1019,
+                875,
+                1019,
+                901,
+                920,
+                900
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 508,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 2,
+          "content": "216",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1019,
+                875,
+                1118,
+                875,
+                1118,
+                901,
+                1019,
+                901
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 513,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 0,
+          "content": "Pkg. #4. Attachments & Parts",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                432,
+                899,
+                920,
+                900,
+                919,
+                935,
+                431,
+                934
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 517,
+              "length": 28
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 1,
+          "content": "2950",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                920,
+                900,
+                1019,
+                901,
+                1019,
+                935,
+                919,
+                935
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 546,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 2,
+          "content": "80",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1019,
+                901,
+                1118,
+                901,
+                1117,
+                936,
+                1019,
+                935
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 551,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            442,
+            596,
+            1093,
+            597,
+            1092,
+            932,
+            441,
+            931
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 132,
+          "length": 421
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            785,
+            355,
+            1012,
+            354,
+            1013,
+            378,
+            785,
+            379
+          ]
+        }
+      ],
+      "content": "Date: June 9, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 19,
+          "length": 89
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            183,
+            376,
+            512,
+            376,
+            512,
+            500,
+            183,
+            500
+          ]
+        }
+      ],
+      "content": "shipment NO. 229 Sx. Bayou state V-14 Arr. May 17, 1962 Keelung PIO/C-10218 P.O. = 61-018"
+    },
+    {
+      "spans": [
+        {
+          "offset": 109,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            183,
+            603,
+            324,
+            602,
+            324,
+            647,
+            184,
+            649
+          ]
+        }
+      ],
+      "content": "Qt'y & Unit Four Boxes"
+    },
+    {
+      "spans": [
+        {
+          "offset": 132,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            437,
+            590,
+            922,
+            590,
+            922,
+            627,
+            436,
+            625
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 144,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            922,
+            590,
+            1022,
+            591,
+            1022,
+            628,
+            922,
+            627
+          ]
+        }
+      ],
+      "content": "wt. (Lb.)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 154,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1022,
+            591,
+            1121,
+            591,
+            1121,
+            629,
+            1022,
+            628
+          ]
+        }
+      ],
+      "content": "Cu.ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 161,
+          "length": 33
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            436,
+            625,
+            922,
+            627,
+            921,
+            652,
+            436,
+            651
+          ]
+        }
+      ],
+      "content": "Loader,Aggregate, Bucket, Crawler"
+    },
+    {
+      "spans": [
+        {
+          "offset": 195,
+          "length": 134
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            436,
+            651,
+            921,
+            652,
+            921,
+            751,
+            434,
+            749
+          ]
+        }
+      ],
+      "content": "Mounted, 3 Cu. yd. Minute, IHC Gas. Engine driven, lifg. Barber Greene Co. Mid1. 82AG, Serial NO. 82AG-52-84, Engine Mdl. UD9A, 1 Set."
+    },
+    {
+      "spans": [
+        {
+          "offset": 330,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            434,
+            749,
+            921,
+            751,
+            920,
+            777,
+            434,
+            775
+          ]
+        }
+      ],
+      "content": "Fkg. #1. Tractor, Power Unit, Crawler"
+    },
+    {
+      "spans": [
+        {
+          "offset": 368,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            921,
+            751,
+            1020,
+            752,
+            1020,
+            799,
+            920,
+            799
+          ]
+        }
+      ],
+      "content": "22170"
+    },
+    {
+      "spans": [
+        {
+          "offset": 374,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1020,
+            752,
+            1119,
+            752,
+            1119,
+            778,
+            1020,
+            777
+          ]
+        }
+      ],
+      "content": "762"
+    },
+    {
+      "spans": [
+        {
+          "offset": 378,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            434,
+            775,
+            920,
+            777,
+            920,
+            799,
+            433,
+            798
+          ]
+        }
+      ],
+      "content": "Mtd. 1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 389,
+          "length": 26
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            433,
+            798,
+            920,
+            799,
+            920,
+            827,
+            433,
+            824
+          ]
+        }
+      ],
+      "content": "Flood Light 2 ea. (Broken)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 416,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            433,
+            824,
+            920,
+            827,
+            920,
+            849,
+            433,
+            846
+          ]
+        }
+      ],
+      "content": "Battery 2 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 430,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            433,
+            846,
+            920,
+            849,
+            920,
+            874,
+            432,
+            874
+          ]
+        }
+      ],
+      "content": "Pkg. /2. Loader Elevator I ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 461,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            920,
+            849,
+            1019,
+            850,
+            1019,
+            875,
+            920,
+            874
+          ]
+        }
+      ],
+      "content": "11590"
+    },
+    {
+      "spans": [
+        {
+          "offset": 467,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1019,
+            850,
+            1118,
+            851,
+            1118,
+            875,
+            1019,
+            875
+          ]
+        }
+      ],
+      "content": "743"
+    },
+    {
+      "spans": [
+        {
+          "offset": 471,
+          "length": 36
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            432,
+            874,
+            920,
+            874,
+            920,
+            900,
+            432,
+            899
+          ]
+        }
+      ],
+      "content": "Pkg. 3. Spiral Feeder Platforms lea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 508,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            920,
+            874,
+            1019,
+            875,
+            1019,
+            901,
+            920,
+            900
+          ]
+        }
+      ],
+      "content": "4530"
+    },
+    {
+      "spans": [
+        {
+          "offset": 513,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1019,
+            875,
+            1118,
+            875,
+            1118,
+            901,
+            1019,
+            901
+          ]
+        }
+      ],
+      "content": "216"
+    },
+    {
+      "spans": [
+        {
+          "offset": 517,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            432,
+            899,
+            920,
+            900,
+            919,
+            935,
+            431,
+            934
+          ]
+        }
+      ],
+      "content": "Pkg. #4. Attachments & Parts"
+    },
+    {
+      "spans": [
+        {
+          "offset": 546,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            920,
+            900,
+            1019,
+            901,
+            1019,
+            935,
+            919,
+            935
+          ]
+        }
+      ],
+      "content": "2950"
+    },
+    {
+      "spans": [
+        {
+          "offset": 551,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1019,
+            901,
+            1118,
+            901,
+            1117,
+            936,
+            1019,
+            935
+          ]
+        }
+      ],
+      "content": "80"
+    },
+    {
+      "spans": [
+        {
+          "offset": 554,
+          "length": 31
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            420,
+            996,
+            812,
+            997,
+            812,
+            1026,
+            420,
+            1025
+          ]
+        }
+      ],
+      "content": "/ / / Say four boxes only / / /"
+    },
+    {
+      "spans": [
+        {
+          "offset": 586,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            22,
+            1607,
+            92,
+            1607,
+            92,
+            1639,
+            22,
+            1639
+          ]
+        }
+      ],
+      "content": "264"
+    },
+    {
+      "spans": [
+        {
+          "offset": 590,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            907,
+            1465,
+            1236,
+            1462,
+            1238,
+            1630,
+            908,
+            1634
+          ]
+        }
+      ],
+      "content": "@ 216 D"
+    },
+    {
+      "spans": [
+        {
+          "offset": 598,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            881,
+            1598,
+            1108,
+            1601,
+            1107,
+            1626,
+            880,
+            1622
+          ]
+        }
+      ],
+      "content": "Academia Histórica"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 586,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 590,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 616
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/tables/0",
+        "/paragraphs/23",
+        "/paragraphs/24",
+        "/paragraphs/25",
+        "/paragraphs/26"
+      ]
+    }
+  ]
+}

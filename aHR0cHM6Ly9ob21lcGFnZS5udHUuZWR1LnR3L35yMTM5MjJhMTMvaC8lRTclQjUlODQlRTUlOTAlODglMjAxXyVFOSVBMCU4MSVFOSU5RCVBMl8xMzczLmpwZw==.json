@@ -1,0 +1,2833 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "GSA Control Number 62-7-5744 (Cat. # 63-1-MG, Region 7, P. 10)\nItem 2\nCONTROL, Power, R. G. Letorneau, (A. C. Unit $550.00 - Total $550.00).\nCondition - N-2 Each - 1\nCommodity Group - 38 Allocation - THB\nARD - 7-26-62\nGSA Control Number 9-62- (Cat. # 692, Region 9, P. 7)\n52864(34)\nItem 1\nLATHE (3416) bench, carriage type - lead screw, metal ped. 11\" swg, 36\" CC, belt drv., 2 hp, AC, 60 cyc, 115V, 1 ph, 1940 Sheldon #1136 BMWQ. AC$715.\nCondition - 0-2 Each - 1\nCommodity Group - 34 Allocation - THB\nARD - 7-26-62\n@216\nAcademia Histórica\n135",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.007600000128149986,
+      "width": 1173,
+      "height": 1574,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "GSA",
+          "polygon": [
+            151,
+            191,
+            193,
+            191,
+            193,
+            215,
+            151,
+            215
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "Control",
+          "polygon": [
+            205,
+            191,
+            295,
+            191,
+            295,
+            216,
+            205,
+            216
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 4,
+            "length": 7
+          }
+        },
+        {
+          "content": "Number",
+          "polygon": [
+            305,
+            191,
+            383,
+            191,
+            383,
+            216,
+            305,
+            216
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 12,
+            "length": 6
+          }
+        },
+        {
+          "content": "62-7-5744",
+          "polygon": [
+            394,
+            191,
+            509,
+            191,
+            509,
+            216,
+            394,
+            216
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 19,
+            "length": 9
+          }
+        },
+        {
+          "content": "(Cat.",
+          "polygon": [
+            632,
+            187,
+            699,
+            188,
+            699,
+            217,
+            632,
+            217
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 29,
+            "length": 5
+          }
+        },
+        {
+          "content": "#",
+          "polygon": [
+            707,
+            188,
+            721,
+            188,
+            722,
+            217,
+            707,
+            217
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 35,
+            "length": 1
+          }
+        },
+        {
+          "content": "63-1-MG,",
+          "polygon": [
+            734,
+            188,
+            831,
+            187,
+            831,
+            217,
+            734,
+            217
+          ],
+          "confidence": 0.846,
+          "span": {
+            "offset": 37,
+            "length": 8
+          }
+        },
+        {
+          "content": "Region",
+          "polygon": [
+            844,
+            187,
+            922,
+            187,
+            922,
+            217,
+            844,
+            217
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 46,
+            "length": 6
+          }
+        },
+        {
+          "content": "7,",
+          "polygon": [
+            931,
+            187,
+            960,
+            187,
+            961,
+            216,
+            931,
+            217
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 53,
+            "length": 2
+          }
+        },
+        {
+          "content": "P.",
+          "polygon": [
+            970,
+            187,
+            999,
+            187,
+            1000,
+            216,
+            970,
+            216
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 56,
+            "length": 2
+          }
+        },
+        {
+          "content": "10)",
+          "polygon": [
+            1007,
+            187,
+            1046,
+            187,
+            1046,
+            216,
+            1008,
+            216
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 59,
+            "length": 3
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            153,
+            268,
+            201,
+            269,
+            201,
+            291,
+            153,
+            291
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 63,
+            "length": 4
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            219,
+            269,
+            236,
+            269,
+            236,
+            291,
+            219,
+            291
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 68,
+            "length": 1
+          }
+        },
+        {
+          "content": "CONTROL,",
+          "polygon": [
+            216,
+            341,
+            317,
+            341,
+            317,
+            365,
+            216,
+            365
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 70,
+            "length": 8
+          }
+        },
+        {
+          "content": "Power,",
+          "polygon": [
+            330,
+            341,
+            404,
+            341,
+            404,
+            365,
+            330,
+            365
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 79,
+            "length": 6
+          }
+        },
+        {
+          "content": "R.",
+          "polygon": [
+            418,
+            341,
+            445,
+            341,
+            445,
+            365,
+            418,
+            365
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 86,
+            "length": 2
+          }
+        },
+        {
+          "content": "G.",
+          "polygon": [
+            455,
+            341,
+            481,
+            341,
+            481,
+            365,
+            455,
+            365
+          ],
+          "confidence": 0.883,
+          "span": {
+            "offset": 89,
+            "length": 2
+          }
+        },
+        {
+          "content": "Letorneau,",
+          "polygon": [
+            493,
+            342,
+            621,
+            343,
+            621,
+            365,
+            493,
+            365
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 92,
+            "length": 10
+          }
+        },
+        {
+          "content": "(A.",
+          "polygon": [
+            217,
+            366,
+            255,
+            366,
+            255,
+            392,
+            217,
+            392
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 103,
+            "length": 3
+          }
+        },
+        {
+          "content": "C.",
+          "polygon": [
+            267,
+            366,
+            296,
+            366,
+            296,
+            392,
+            267,
+            392
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 107,
+            "length": 2
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            305,
+            366,
+            356,
+            366,
+            356,
+            392,
+            305,
+            392
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 110,
+            "length": 4
+          }
+        },
+        {
+          "content": "$550.00",
+          "polygon": [
+            367,
+            366,
+            458,
+            366,
+            458,
+            391,
+            367,
+            392
+          ],
+          "confidence": 0.839,
+          "span": {
+            "offset": 115,
+            "length": 7
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            467,
+            366,
+            482,
+            366,
+            482,
+            391,
+            467,
+            391
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 123,
+            "length": 1
+          }
+        },
+        {
+          "content": "Total",
+          "polygon": [
+            493,
+            366,
+            557,
+            366,
+            557,
+            391,
+            493,
+            391
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 125,
+            "length": 5
+          }
+        },
+        {
+          "content": "$550.00).",
+          "polygon": [
+            581,
+            366,
+            695,
+            365,
+            695,
+            391,
+            581,
+            391
+          ],
+          "confidence": 0.839,
+          "span": {
+            "offset": 131,
+            "length": 9
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            215,
+            442,
+            333,
+            442,
+            333,
+            466,
+            215,
+            465
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 141,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            343,
+            442,
+            354,
+            442,
+            354,
+            466,
+            343,
+            466
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 151,
+            "length": 1
+          }
+        },
+        {
+          "content": "N-2",
+          "polygon": [
+            365,
+            442,
+            409,
+            442,
+            409,
+            466,
+            365,
+            466
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 153,
+            "length": 3
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            692,
+            440,
+            746,
+            440,
+            746,
+            464,
+            692,
+            464
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 157,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            757,
+            441,
+            772,
+            440,
+            772,
+            464,
+            757,
+            464
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 162,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            781,
+            440,
+            797,
+            440,
+            797,
+            464,
+            781,
+            464
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 164,
+            "length": 1
+          }
+        },
+        {
+          "content": "Commodity",
+          "polygon": [
+            215,
+            518,
+            333,
+            517,
+            333,
+            543,
+            215,
+            543
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 166,
+            "length": 9
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            342,
+            517,
+            411,
+            517,
+            411,
+            543,
+            342,
+            543
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 176,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            417,
+            517,
+            438,
+            517,
+            438,
+            543,
+            417,
+            543
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 182,
+            "length": 1
+          }
+        },
+        {
+          "content": "38",
+          "polygon": [
+            444,
+            517,
+            473,
+            517,
+            473,
+            542,
+            444,
+            543
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 184,
+            "length": 2
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            691,
+            516,
+            822,
+            515,
+            822,
+            538,
+            691,
+            539
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 187,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            832,
+            515,
+            848,
+            515,
+            848,
+            538,
+            832,
+            538
+          ],
+          "confidence": 0.538,
+          "span": {
+            "offset": 198,
+            "length": 1
+          }
+        },
+        {
+          "content": "THB",
+          "polygon": [
+            856,
+            515,
+            898,
+            515,
+            898,
+            538,
+            856,
+            538
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 200,
+            "length": 3
+          }
+        },
+        {
+          "content": "ARD",
+          "polygon": [
+            692,
+            590,
+            733,
+            590,
+            733,
+            615,
+            692,
+            615
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 204,
+            "length": 3
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            743,
+            590,
+            755,
+            590,
+            755,
+            615,
+            743,
+            615
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 208,
+            "length": 1
+          }
+        },
+        {
+          "content": "7-26-62",
+          "polygon": [
+            772,
+            590,
+            861,
+            590,
+            861,
+            615,
+            772,
+            615
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 210,
+            "length": 7
+          }
+        },
+        {
+          "content": "GSA",
+          "polygon": [
+            152,
+            767,
+            194,
+            766,
+            194,
+            791,
+            152,
+            791
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 218,
+            "length": 3
+          }
+        },
+        {
+          "content": "Control",
+          "polygon": [
+            205,
+            766,
+            294,
+            766,
+            294,
+            791,
+            205,
+            791
+          ],
+          "confidence": 0.967,
+          "span": {
+            "offset": 222,
+            "length": 7
+          }
+        },
+        {
+          "content": "Number",
+          "polygon": [
+            305,
+            766,
+            382,
+            766,
+            382,
+            791,
+            305,
+            791
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 230,
+            "length": 6
+          }
+        },
+        {
+          "content": "9-62-",
+          "polygon": [
+            393,
+            766,
+            459,
+            766,
+            459,
+            790,
+            394,
+            790
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 237,
+            "length": 5
+          }
+        },
+        {
+          "content": "(Cat.",
+          "polygon": [
+            644,
+            763,
+            708,
+            763,
+            708,
+            791,
+            644,
+            791
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 243,
+            "length": 5
+          }
+        },
+        {
+          "content": "#",
+          "polygon": [
+            720,
+            763,
+            734,
+            763,
+            734,
+            791,
+            720,
+            791
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 249,
+            "length": 1
+          }
+        },
+        {
+          "content": "692,",
+          "polygon": [
+            746,
+            763,
+            793,
+            763,
+            793,
+            791,
+            746,
+            792
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 251,
+            "length": 4
+          }
+        },
+        {
+          "content": "Region",
+          "polygon": [
+            804,
+            763,
+            884,
+            763,
+            884,
+            792,
+            804,
+            792
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 256,
+            "length": 6
+          }
+        },
+        {
+          "content": "9,",
+          "polygon": [
+            895,
+            763,
+            923,
+            763,
+            923,
+            792,
+            895,
+            792
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 263,
+            "length": 2
+          }
+        },
+        {
+          "content": "P.",
+          "polygon": [
+            931,
+            763,
+            962,
+            763,
+            962,
+            792,
+            931,
+            792
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 266,
+            "length": 2
+          }
+        },
+        {
+          "content": "7)",
+          "polygon": [
+            974,
+            763,
+            996,
+            763,
+            996,
+            791,
+            974,
+            792
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 269,
+            "length": 2
+          }
+        },
+        {
+          "content": "52864(34)",
+          "polygon": [
+            393,
+            791,
+            507,
+            790,
+            507,
+            816,
+            393,
+            816
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 272,
+            "length": 9
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            164,
+            868,
+            217,
+            868,
+            217,
+            891,
+            164,
+            891
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 282,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            229,
+            868,
+            243,
+            868,
+            243,
+            891,
+            229,
+            891
+          ],
+          "confidence": 0.696,
+          "span": {
+            "offset": 287,
+            "length": 1
+          }
+        },
+        {
+          "content": "LATHE",
+          "polygon": [
+            214,
+            942,
+            281,
+            941,
+            281,
+            966,
+            214,
+            966
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 289,
+            "length": 5
+          }
+        },
+        {
+          "content": "(3416)",
+          "polygon": [
+            294,
+            941,
+            366,
+            942,
+            366,
+            967,
+            294,
+            967
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 295,
+            "length": 6
+          }
+        },
+        {
+          "content": "bench,",
+          "polygon": [
+            378,
+            942,
+            456,
+            942,
+            456,
+            966,
+            378,
+            967
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 302,
+            "length": 6
+          }
+        },
+        {
+          "content": "carriage",
+          "polygon": [
+            469,
+            942,
+            569,
+            941,
+            569,
+            966,
+            469,
+            966
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 309,
+            "length": 8
+          }
+        },
+        {
+          "content": "type",
+          "polygon": [
+            580,
+            941,
+            632,
+            941,
+            632,
+            966,
+            580,
+            966
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 318,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            642,
+            941,
+            662,
+            941,
+            662,
+            966,
+            642,
+            966
+          ],
+          "confidence": 0.828,
+          "span": {
+            "offset": 323,
+            "length": 1
+          }
+        },
+        {
+          "content": "lead",
+          "polygon": [
+            667,
+            941,
+            721,
+            941,
+            721,
+            966,
+            668,
+            966
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 325,
+            "length": 4
+          }
+        },
+        {
+          "content": "screw,",
+          "polygon": [
+            732,
+            941,
+            808,
+            941,
+            808,
+            965,
+            732,
+            966
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 330,
+            "length": 6
+          }
+        },
+        {
+          "content": "metal",
+          "polygon": [
+            818,
+            940,
+            883,
+            941,
+            883,
+            965,
+            818,
+            965
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 337,
+            "length": 5
+          }
+        },
+        {
+          "content": "ped.",
+          "polygon": [
+            895,
+            940,
+            944,
+            940,
+            944,
+            965,
+            895,
+            965
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 343,
+            "length": 4
+          }
+        },
+        {
+          "content": "11\"",
+          "polygon": [
+            956,
+            940,
+            996,
+            940,
+            996,
+            965,
+            957,
+            965
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 348,
+            "length": 3
+          }
+        },
+        {
+          "content": "swg,",
+          "polygon": [
+            1009,
+            941,
+            1057,
+            941,
+            1057,
+            966,
+            1009,
+            965
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 352,
+            "length": 4
+          }
+        },
+        {
+          "content": "36\"",
+          "polygon": [
+            216,
+            968,
+            256,
+            968,
+            255,
+            993,
+            216,
+            993
+          ],
+          "confidence": 0.938,
+          "span": {
+            "offset": 357,
+            "length": 3
+          }
+        },
+        {
+          "content": "CC,",
+          "polygon": [
+            266,
+            968,
+            304,
+            968,
+            304,
+            993,
+            266,
+            993
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 361,
+            "length": 3
+          }
+        },
+        {
+          "content": "belt",
+          "polygon": [
+            314,
+            968,
+            366,
+            968,
+            366,
+            993,
+            314,
+            993
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 365,
+            "length": 4
+          }
+        },
+        {
+          "content": "drv.,",
+          "polygon": [
+            380,
+            968,
+            442,
+            967,
+            442,
+            993,
+            380,
+            993
+          ],
+          "confidence": 0.817,
+          "span": {
+            "offset": 370,
+            "length": 5
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            456,
+            967,
+            469,
+            967,
+            469,
+            993,
+            456,
+            993
+          ],
+          "confidence": 0.209,
+          "span": {
+            "offset": 376,
+            "length": 1
+          }
+        },
+        {
+          "content": "hp,",
+          "polygon": [
+            479,
+            967,
+            521,
+            967,
+            521,
+            993,
+            479,
+            993
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 378,
+            "length": 3
+          }
+        },
+        {
+          "content": "AC,",
+          "polygon": [
+            529,
+            967,
+            573,
+            966,
+            573,
+            993,
+            529,
+            993
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 382,
+            "length": 3
+          }
+        },
+        {
+          "content": "60",
+          "polygon": [
+            581,
+            966,
+            607,
+            966,
+            607,
+            993,
+            581,
+            993
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 386,
+            "length": 2
+          }
+        },
+        {
+          "content": "cyc,",
+          "polygon": [
+            620,
+            966,
+            673,
+            966,
+            673,
+            993,
+            620,
+            993
+          ],
+          "confidence": 0.716,
+          "span": {
+            "offset": 389,
+            "length": 4
+          }
+        },
+        {
+          "content": "115V,",
+          "polygon": [
+            680,
+            966,
+            744,
+            965,
+            744,
+            992,
+            680,
+            993
+          ],
+          "confidence": 0.929,
+          "span": {
+            "offset": 394,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            754,
+            965,
+            770,
+            965,
+            770,
+            992,
+            754,
+            992
+          ],
+          "confidence": 0.854,
+          "span": {
+            "offset": 400,
+            "length": 1
+          }
+        },
+        {
+          "content": "ph,",
+          "polygon": [
+            782,
+            965,
+            820,
+            965,
+            820,
+            992,
+            782,
+            992
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 402,
+            "length": 3
+          }
+        },
+        {
+          "content": "1940",
+          "polygon": [
+            832,
+            965,
+            883,
+            965,
+            883,
+            991,
+            832,
+            992
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 406,
+            "length": 4
+          }
+        },
+        {
+          "content": "Sheldon",
+          "polygon": [
+            894,
+            965,
+            984,
+            965,
+            984,
+            991,
+            894,
+            991
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 411,
+            "length": 7
+          }
+        },
+        {
+          "content": "#1136",
+          "polygon": [
+            995,
+            965,
+            1062,
+            964,
+            1062,
+            990,
+            996,
+            991
+          ],
+          "confidence": 0.913,
+          "span": {
+            "offset": 419,
+            "length": 5
+          }
+        },
+        {
+          "content": "BMWQ.",
+          "polygon": [
+            216,
+            993,
+            282,
+            993,
+            282,
+            1018,
+            215,
+            1017
+          ],
+          "confidence": 0.936,
+          "span": {
+            "offset": 425,
+            "length": 5
+          }
+        },
+        {
+          "content": "AC$715.",
+          "polygon": [
+            303,
+            993,
+            394,
+            993,
+            394,
+            1018,
+            303,
+            1018
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 431,
+            "length": 7
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            215,
+            1068,
+            331,
+            1068,
+            331,
+            1091,
+            215,
+            1091
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 439,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            341,
+            1068,
+            357,
+            1068,
+            357,
+            1092,
+            341,
+            1092
+          ],
+          "confidence": 0.927,
+          "span": {
+            "offset": 449,
+            "length": 1
+          }
+        },
+        {
+          "content": "0-2",
+          "polygon": [
+            368,
+            1068,
+            409,
+            1068,
+            409,
+            1092,
+            368,
+            1092
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 451,
+            "length": 3
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            666,
+            1066,
+            720,
+            1066,
+            720,
+            1090,
+            666,
+            1090
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 455,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            728,
+            1066,
+            746,
+            1066,
+            746,
+            1090,
+            728,
+            1090
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 460,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            756,
+            1066,
+            771,
+            1066,
+            771,
+            1090,
+            756,
+            1090
+          ],
+          "confidence": 0.696,
+          "span": {
+            "offset": 462,
+            "length": 1
+          }
+        },
+        {
+          "content": "Commodity",
+          "polygon": [
+            214,
+            1144,
+            332,
+            1144,
+            332,
+            1169,
+            214,
+            1169
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 464,
+            "length": 9
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            341,
+            1143,
+            406,
+            1144,
+            406,
+            1169,
+            341,
+            1169
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 474,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            416,
+            1143,
+            433,
+            1143,
+            433,
+            1169,
+            416,
+            1169
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 480,
+            "length": 1
+          }
+        },
+        {
+          "content": "34",
+          "polygon": [
+            443,
+            1143,
+            471,
+            1144,
+            471,
+            1169,
+            443,
+            1169
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 482,
+            "length": 2
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            666,
+            1142,
+            796,
+            1142,
+            796,
+            1165,
+            666,
+            1165
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 485,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            806,
+            1142,
+            821,
+            1142,
+            821,
+            1164,
+            806,
+            1164
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 496,
+            "length": 1
+          }
+        },
+        {
+          "content": "THB",
+          "polygon": [
+            832,
+            1142,
+            873,
+            1141,
+            873,
+            1164,
+            833,
+            1164
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 498,
+            "length": 3
+          }
+        },
+        {
+          "content": "ARD",
+          "polygon": [
+            666,
+            1217,
+            707,
+            1217,
+            707,
+            1242,
+            666,
+            1241
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 502,
+            "length": 3
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            718,
+            1217,
+            735,
+            1217,
+            735,
+            1241,
+            718,
+            1242
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 506,
+            "length": 1
+          }
+        },
+        {
+          "content": "7-26-62",
+          "polygon": [
+            744,
+            1217,
+            836,
+            1216,
+            836,
+            1241,
+            744,
+            1241
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 508,
+            "length": 7
+          }
+        },
+        {
+          "content": "@216",
+          "polygon": [
+            818,
+            1419,
+            1005,
+            1420,
+            1005,
+            1493,
+            818,
+            1489
+          ],
+          "confidence": 0.221,
+          "span": {
+            "offset": 516,
+            "length": 4
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            802,
+            1496,
+            898,
+            1496,
+            898,
+            1517,
+            802,
+            1517
+          ],
+          "confidence": 0.598,
+          "span": {
+            "offset": 521,
+            "length": 8
+          }
+        },
+        {
+          "content": "Histórica",
+          "polygon": [
+            906,
+            1496,
+            1003,
+            1498,
+            1003,
+            1517,
+            906,
+            1517
+          ],
+          "confidence": 0.541,
+          "span": {
+            "offset": 530,
+            "length": 9
+          }
+        },
+        {
+          "content": "135",
+          "polygon": [
+            20,
+            1517,
+            75,
+            1517,
+            75,
+            1553,
+            20,
+            1553
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 540,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "GSA Control Number 62-7-5744",
+          "polygon": [
+            151,
+            191,
+            509,
+            191,
+            509,
+            216,
+            151,
+            216
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "(Cat. # 63-1-MG, Region 7, P. 10)",
+          "polygon": [
+            632,
+            187,
+            1046,
+            187,
+            1046,
+            216,
+            632,
+            217
+          ],
+          "spans": [
+            {
+              "offset": 29,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "Item 2",
+          "polygon": [
+            153,
+            268,
+            235,
+            268,
+            235,
+            291,
+            153,
+            291
+          ],
+          "spans": [
+            {
+              "offset": 63,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "CONTROL, Power, R. G. Letorneau,",
+          "polygon": [
+            216,
+            341,
+            620,
+            342,
+            620,
+            365,
+            216,
+            365
+          ],
+          "spans": [
+            {
+              "offset": 70,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "(A. C. Unit $550.00 - Total $550.00).",
+          "polygon": [
+            217,
+            366,
+            694,
+            365,
+            695,
+            391,
+            217,
+            392
+          ],
+          "spans": [
+            {
+              "offset": 103,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "Condition - N-2",
+          "polygon": [
+            215,
+            442,
+            409,
+            442,
+            409,
+            466,
+            215,
+            465
+          ],
+          "spans": [
+            {
+              "offset": 141,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Each - 1",
+          "polygon": [
+            692,
+            440,
+            797,
+            440,
+            797,
+            464,
+            692,
+            464
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Commodity Group - 38",
+          "polygon": [
+            215,
+            517,
+            472,
+            517,
+            472,
+            542,
+            215,
+            543
+          ],
+          "spans": [
+            {
+              "offset": 166,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Allocation - THB",
+          "polygon": [
+            691,
+            516,
+            897,
+            515,
+            897,
+            538,
+            691,
+            539
+          ],
+          "spans": [
+            {
+              "offset": 187,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "ARD - 7-26-62",
+          "polygon": [
+            692,
+            590,
+            861,
+            590,
+            861,
+            614,
+            692,
+            614
+          ],
+          "spans": [
+            {
+              "offset": 204,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "GSA Control Number 9-62-",
+          "polygon": [
+            152,
+            766,
+            459,
+            766,
+            459,
+            791,
+            152,
+            791
+          ],
+          "spans": [
+            {
+              "offset": 218,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "(Cat. # 692, Region 9, P. 7)",
+          "polygon": [
+            644,
+            763,
+            996,
+            763,
+            996,
+            792,
+            644,
+            791
+          ],
+          "spans": [
+            {
+              "offset": 243,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "52864(34)",
+          "polygon": [
+            393,
+            790,
+            506,
+            790,
+            506,
+            816,
+            393,
+            816
+          ],
+          "spans": [
+            {
+              "offset": 272,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "Item 1",
+          "polygon": [
+            164,
+            868,
+            243,
+            868,
+            243,
+            891,
+            164,
+            890
+          ],
+          "spans": [
+            {
+              "offset": 282,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "LATHE (3416) bench, carriage type - lead screw, metal ped. 11\" swg,",
+          "polygon": [
+            214,
+            941,
+            1057,
+            940,
+            1057,
+            965,
+            214,
+            967
+          ],
+          "spans": [
+            {
+              "offset": 289,
+              "length": 67
+            }
+          ]
+        },
+        {
+          "content": "36\" CC, belt drv., 2 hp, AC, 60 cyc, 115V, 1 ph, 1940 Sheldon #1136",
+          "polygon": [
+            216,
+            968,
+            1061,
+            964,
+            1061,
+            991,
+            216,
+            993
+          ],
+          "spans": [
+            {
+              "offset": 357,
+              "length": 67
+            }
+          ]
+        },
+        {
+          "content": "BMWQ. AC$715.",
+          "polygon": [
+            215,
+            993,
+            393,
+            993,
+            393,
+            1018,
+            215,
+            1017
+          ],
+          "spans": [
+            {
+              "offset": 425,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Condition - 0-2",
+          "polygon": [
+            215,
+            1068,
+            408,
+            1068,
+            408,
+            1092,
+            215,
+            1091
+          ],
+          "spans": [
+            {
+              "offset": 439,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Each - 1",
+          "polygon": [
+            666,
+            1066,
+            771,
+            1066,
+            771,
+            1089,
+            666,
+            1090
+          ],
+          "spans": [
+            {
+              "offset": 455,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Commodity Group - 34",
+          "polygon": [
+            214,
+            1143,
+            470,
+            1143,
+            470,
+            1169,
+            214,
+            1169
+          ],
+          "spans": [
+            {
+              "offset": 464,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Allocation - THB",
+          "polygon": [
+            665,
+            1142,
+            872,
+            1141,
+            872,
+            1164,
+            666,
+            1165
+          ],
+          "spans": [
+            {
+              "offset": 485,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "ARD - 7-26-62",
+          "polygon": [
+            666,
+            1217,
+            835,
+            1216,
+            835,
+            1241,
+            666,
+            1242
+          ],
+          "spans": [
+            {
+              "offset": 502,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "@216",
+          "polygon": [
+            818,
+            1419,
+            1005,
+            1420,
+            1004,
+            1492,
+            817,
+            1491
+          ],
+          "spans": [
+            {
+              "offset": 516,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Academia Histórica",
+          "polygon": [
+            802,
+            1495,
+            1002,
+            1496,
+            1002,
+            1517,
+            802,
+            1517
+          ],
+          "spans": [
+            {
+              "offset": 521,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "135",
+          "polygon": [
+            20,
+            1517,
+            75,
+            1517,
+            75,
+            1552,
+            20,
+            1552
+          ],
+          "spans": [
+            {
+              "offset": 540,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 543
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 62
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            151,
+            188,
+            1046,
+            187,
+            1046,
+            216,
+            151,
+            218
+          ]
+        }
+      ],
+      "content": "GSA Control Number 62-7-5744 (Cat. # 63-1-MG, Region 7, P. 10)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 63,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            153,
+            268,
+            235,
+            268,
+            235,
+            291,
+            153,
+            291
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "Item 2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 70,
+          "length": 70
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            216,
+            341,
+            694,
+            340,
+            695,
+            391,
+            216,
+            392
+          ]
+        }
+      ],
+      "content": "CONTROL, Power, R. G. Letorneau, (A. C. Unit $550.00 - Total $550.00)."
+    },
+    {
+      "spans": [
+        {
+          "offset": 141,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            215,
+            442,
+            797,
+            440,
+            797,
+            464,
+            215,
+            466
+          ]
+        }
+      ],
+      "content": "Condition - N-2 Each - 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 166,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            215,
+            517,
+            897,
+            515,
+            897,
+            541,
+            215,
+            543
+          ]
+        }
+      ],
+      "content": "Commodity Group - 38 Allocation - THB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 204,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            692,
+            590,
+            861,
+            590,
+            861,
+            614,
+            692,
+            614
+          ]
+        }
+      ],
+      "content": "ARD - 7-26-62"
+    },
+    {
+      "spans": [
+        {
+          "offset": 218,
+          "length": 53
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            152,
+            762,
+            996,
+            763,
+            996,
+            792,
+            152,
+            791
+          ]
+        }
+      ],
+      "content": "GSA Control Number 9-62- (Cat. # 692, Region 9, P. 7)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 272,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            393,
+            790,
+            506,
+            790,
+            506,
+            816,
+            393,
+            816
+          ]
+        }
+      ],
+      "content": "52864(34)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 282,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            164,
+            868,
+            243,
+            868,
+            243,
+            891,
+            164,
+            890
+          ]
+        }
+      ],
+      "content": "Item 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 289,
+          "length": 149
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            214,
+            941,
+            1061,
+            940,
+            1061,
+            1017,
+            214,
+            1018
+          ]
+        }
+      ],
+      "content": "LATHE (3416) bench, carriage type - lead screw, metal ped. 11\" swg, 36\" CC, belt drv., 2 hp, AC, 60 cyc, 115V, 1 ph, 1940 Sheldon #1136 BMWQ. AC$715."
+    },
+    {
+      "spans": [
+        {
+          "offset": 439,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            215,
+            1068,
+            771,
+            1066,
+            771,
+            1090,
+            215,
+            1092
+          ]
+        }
+      ],
+      "content": "Condition - 0-2 Each - 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 464,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            214,
+            1143,
+            872,
+            1141,
+            872,
+            1168,
+            214,
+            1170
+          ]
+        }
+      ],
+      "content": "Commodity Group - 34 Allocation - THB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 502,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            666,
+            1217,
+            835,
+            1216,
+            835,
+            1241,
+            666,
+            1242
+          ]
+        }
+      ],
+      "content": "ARD - 7-26-62"
+    },
+    {
+      "spans": [
+        {
+          "offset": 516,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            818,
+            1419,
+            1005,
+            1420,
+            1004,
+            1492,
+            817,
+            1491
+          ]
+        }
+      ],
+      "content": "@216"
+    },
+    {
+      "spans": [
+        {
+          "offset": 521,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            802,
+            1495,
+            1002,
+            1496,
+            1002,
+            1517,
+            802,
+            1517
+          ]
+        }
+      ],
+      "content": "Academia Histórica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 540,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            20,
+            1517,
+            75,
+            1517,
+            75,
+            1552,
+            20,
+            1552
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "135"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.6,
+      "spans": [
+        {
+          "offset": 516,
+          "length": 4
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 540,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 539
+        }
+      ],
+      "elements": [
+        "/sections/1",
+        "/sections/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 62
+        }
+      ],
+      "elements": [
+        "/paragraphs/0"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 63,
+          "length": 476
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/paragraphs/6",
+        "/paragraphs/7",
+        "/paragraphs/8",
+        "/paragraphs/9",
+        "/paragraphs/10",
+        "/paragraphs/11",
+        "/paragraphs/12",
+        "/paragraphs/13",
+        "/paragraphs/14"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "許躍薾 140.112.213.82\n026\n國史饭 Academia Historica :unselected:",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.06218716874718666,
+      "width": 1073,
+      "height": 1531,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "許",
+          "polygon": [
+            478,
+            711,
+            506,
+            711,
+            505,
+            752,
+            478,
+            752
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            517,
+            711,
+            543,
+            712,
+            543,
+            752,
+            517,
+            752
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            560,
+            712,
+            594,
+            712,
+            594,
+            753,
+            560,
+            752
+          ],
+          "confidence": 0.677,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            393,
+            761,
+            671,
+            761,
+            671,
+            799,
+            393,
+            799
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 4,
+            "length": 14
+          }
+        },
+        {
+          "content": "026",
+          "polygon": [
+            41,
+            1431,
+            98,
+            1418,
+            102,
+            1456,
+            46,
+            1467
+          ],
+          "confidence": 0.808,
+          "span": {
+            "offset": 19,
+            "length": 3
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            724,
+            1377,
+            772,
+            1378,
+            772,
+            1448,
+            724,
+            1448
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 23,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            779,
+            1377,
+            825,
+            1377,
+            825,
+            1450,
+            779,
+            1449
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 24,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            826,
+            1377,
+            908,
+            1378,
+            908,
+            1451,
+            826,
+            1450
+          ],
+          "confidence": 0.864,
+          "span": {
+            "offset": 25,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            704,
+            1450,
+            805,
+            1450,
+            805,
+            1474,
+            704,
+            1474
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 27,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            812,
+            1450,
+            905,
+            1451,
+            905,
+            1475,
+            812,
+            1474
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 36,
+            "length": 9
+          }
+        }
+      ],
+      "selectionMarks": [
+        {
+          "state": "unselected",
+          "polygon": [
+            482,
+            736,
+            493,
+            736,
+            493,
+            748,
+            482,
+            748
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 46,
+            "length": 12
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "許躍薾",
+          "polygon": [
+            478,
+            711,
+            593,
+            711,
+            593,
+            752,
+            478,
+            752
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            393,
+            761,
+            670,
+            761,
+            670,
+            799,
+            393,
+            798
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "026",
+          "polygon": [
+            41,
+            1430,
+            97,
+            1418,
+            102,
+            1455,
+            46,
+            1467
+          ],
+          "spans": [
+            {
+              "offset": 19,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            724,
+            1377,
+            908,
+            1377,
+            908,
+            1451,
+            724,
+            1451
+          ],
+          "spans": [
+            {
+              "offset": 23,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            704,
+            1449,
+            905,
+            1450,
+            905,
+            1474,
+            704,
+            1474
+          ],
+          "spans": [
+            {
+              "offset": 27,
+              "length": 18
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 58
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            393,
+            711,
+            670,
+            711,
+            670,
+            799,
+            393,
+            798
+          ]
+        }
+      ],
+      "content": "許躍薾 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 19,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            38,
+            1430,
+            97,
+            1418,
+            104,
+            1454,
+            46,
+            1467
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "026"
+    },
+    {
+      "spans": [
+        {
+          "offset": 23,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            704,
+            1376,
+            908,
+            1377,
+            908,
+            1474,
+            704,
+            1474
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 19,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 23,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 0
+        },
+        {
+          "offset": 0,
+          "length": 18
+        },
+        {
+          "offset": 23,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/figures/0",
+        "/paragraphs/0",
+        "/figures/1"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            240,
+            103,
+            976,
+            103,
+            976,
+            581,
+            240,
+            581
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 0
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            702,
+            1369,
+            1025,
+            1369,
+            1025,
+            1481,
+            702,
+            1481
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 23,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/2"
+      ]
+    }
+  ]
+}

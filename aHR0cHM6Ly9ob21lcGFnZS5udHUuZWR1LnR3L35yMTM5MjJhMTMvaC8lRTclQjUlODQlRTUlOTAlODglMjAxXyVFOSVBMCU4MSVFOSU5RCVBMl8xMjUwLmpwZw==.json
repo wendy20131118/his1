@@ -1,0 +1,3051 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Date: August 3, 1962\nshipment NO. 248 Ex. Howell Lykes Arr. July 20, 1962 Keelung PIO/0-10218 P.O. 361-082\nt'y & Unit\nDescription\nit. (Lb.) Cu.ft.\nTwo Boxes\nFurnace, heat treating, electric, direct fired, 15 K.W., rating 2500 degrees F., operating temperature, 220 V., AC, 60 cyc., 1 phase, inside dimensions 12\" long, 8\" wide, 5\" high, Mfr. Perce, Mdl. FG-76-109. Box NO. 1\n2177\n94\nControl Panel and component parts as above described Furnace. Box NO. 2\n518\n39.7\n// / Say two boxes only / 11\n12\n(2) 216 Academia Historica",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.12559999525547028,
+      "width": 1231,
+      "height": 1780,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Date:",
+          "polygon": [
+            769,
+            489,
+            832,
+            488,
+            832,
+            513,
+            769,
+            513
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "August",
+          "polygon": [
+            841,
+            488,
+            922,
+            487,
+            922,
+            512,
+            841,
+            513
+          ],
+          "confidence": 0.646,
+          "span": {
+            "offset": 6,
+            "length": 6
+          }
+        },
+        {
+          "content": "3,",
+          "polygon": [
+            935,
+            487,
+            964,
+            487,
+            965,
+            512,
+            935,
+            512
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 13,
+            "length": 2
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            970,
+            487,
+            1024,
+            485,
+            1024,
+            511,
+            971,
+            512
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "shipment",
+          "polygon": [
+            145,
+            540,
+            243,
+            540,
+            243,
+            565,
+            145,
+            565
+          ],
+          "confidence": 0.729,
+          "span": {
+            "offset": 21,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            248,
+            540,
+            293,
+            540,
+            294,
+            565,
+            248,
+            565
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 30,
+            "length": 3
+          }
+        },
+        {
+          "content": "248",
+          "polygon": [
+            306,
+            540,
+            348,
+            540,
+            348,
+            564,
+            306,
+            565
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 34,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ex.",
+          "polygon": [
+            145,
+            568,
+            179,
+            568,
+            179,
+            590,
+            145,
+            590
+          ],
+          "confidence": 0.69,
+          "span": {
+            "offset": 38,
+            "length": 3
+          }
+        },
+        {
+          "content": "Howell",
+          "polygon": [
+            192,
+            567,
+            273,
+            567,
+            273,
+            590,
+            193,
+            590
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 42,
+            "length": 6
+          }
+        },
+        {
+          "content": "Lykes",
+          "polygon": [
+            281,
+            567,
+            349,
+            567,
+            349,
+            589,
+            281,
+            590
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 49,
+            "length": 5
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            144,
+            594,
+            192,
+            593,
+            192,
+            616,
+            144,
+            616
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 55,
+            "length": 4
+          }
+        },
+        {
+          "content": "July",
+          "polygon": [
+            207,
+            592,
+            259,
+            592,
+            259,
+            616,
+            207,
+            616
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 60,
+            "length": 4
+          }
+        },
+        {
+          "content": "20,",
+          "polygon": [
+            270,
+            592,
+            311,
+            591,
+            311,
+            616,
+            270,
+            616
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 65,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            316,
+            591,
+            372,
+            590,
+            372,
+            614,
+            316,
+            616
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 69,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            395,
+            592,
+            486,
+            593,
+            486,
+            615,
+            395,
+            614
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 74,
+            "length": 7
+          }
+        },
+        {
+          "content": "PIO/0-10218",
+          "polygon": [
+            143,
+            617,
+            286,
+            616,
+            286,
+            639,
+            144,
+            641
+          ],
+          "confidence": 0.631,
+          "span": {
+            "offset": 82,
+            "length": 11
+          }
+        },
+        {
+          "content": "P.O.",
+          "polygon": [
+            143,
+            643,
+            201,
+            643,
+            201,
+            666,
+            143,
+            666
+          ],
+          "confidence": 0.653,
+          "span": {
+            "offset": 94,
+            "length": 4
+          }
+        },
+        {
+          "content": "361-082",
+          "polygon": [
+            208,
+            643,
+            297,
+            641,
+            297,
+            665,
+            208,
+            666
+          ],
+          "confidence": 0.824,
+          "span": {
+            "offset": 99,
+            "length": 7
+          }
+        },
+        {
+          "content": "t'y",
+          "polygon": [
+            157,
+            745,
+            198,
+            745,
+            198,
+            766,
+            157,
+            766
+          ],
+          "confidence": 0.34,
+          "span": {
+            "offset": 107,
+            "length": 3
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            207,
+            745,
+            221,
+            745,
+            221,
+            766,
+            207,
+            766
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 111,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            234,
+            745,
+            285,
+            744,
+            285,
+            765,
+            234,
+            766
+          ],
+          "confidence": 0.903,
+          "span": {
+            "offset": 113,
+            "length": 4
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            409,
+            745,
+            550,
+            744,
+            550,
+            765,
+            409,
+            765
+          ],
+          "confidence": 0.794,
+          "span": {
+            "offset": 118,
+            "length": 11
+          }
+        },
+        {
+          "content": "it.",
+          "polygon": [
+            901,
+            741,
+            934,
+            740,
+            934,
+            765,
+            901,
+            765
+          ],
+          "confidence": 0.632,
+          "span": {
+            "offset": 130,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Lb.)",
+          "polygon": [
+            939,
+            740,
+            999,
+            740,
+            999,
+            764,
+            939,
+            765
+          ],
+          "confidence": 0.629,
+          "span": {
+            "offset": 134,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cu.ft.",
+          "polygon": [
+            1007,
+            740,
+            1088,
+            740,
+            1088,
+            764,
+            1007,
+            764
+          ],
+          "confidence": 0.892,
+          "span": {
+            "offset": 140,
+            "length": 6
+          }
+        },
+        {
+          "content": "Two",
+          "polygon": [
+            144,
+            771,
+            185,
+            771,
+            185,
+            790,
+            144,
+            790
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 147,
+            "length": 3
+          }
+        },
+        {
+          "content": "Boxes",
+          "polygon": [
+            220,
+            772,
+            286,
+            773,
+            286,
+            791,
+            220,
+            790
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 151,
+            "length": 5
+          }
+        },
+        {
+          "content": "Furnace,",
+          "polygon": [
+            408,
+            769,
+            508,
+            768,
+            508,
+            791,
+            408,
+            791
+          ],
+          "confidence": 0.851,
+          "span": {
+            "offset": 157,
+            "length": 8
+          }
+        },
+        {
+          "content": "heat",
+          "polygon": [
+            522,
+            768,
+            573,
+            768,
+            574,
+            791,
+            522,
+            791
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 166,
+            "length": 4
+          }
+        },
+        {
+          "content": "treating,",
+          "polygon": [
+            585,
+            768,
+            697,
+            767,
+            697,
+            791,
+            585,
+            791
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 171,
+            "length": 9
+          }
+        },
+        {
+          "content": "electric,",
+          "polygon": [
+            710,
+            767,
+            825,
+            767,
+            825,
+            790,
+            710,
+            791
+          ],
+          "confidence": 0.677,
+          "span": {
+            "offset": 181,
+            "length": 9
+          }
+        },
+        {
+          "content": "direct",
+          "polygon": [
+            409,
+            792,
+            485,
+            792,
+            485,
+            815,
+            409,
+            815
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 191,
+            "length": 6
+          }
+        },
+        {
+          "content": "fired,",
+          "polygon": [
+            497,
+            792,
+            571,
+            792,
+            571,
+            816,
+            497,
+            815
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 198,
+            "length": 6
+          }
+        },
+        {
+          "content": "15",
+          "polygon": [
+            584,
+            792,
+            610,
+            792,
+            610,
+            816,
+            584,
+            816
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 205,
+            "length": 2
+          }
+        },
+        {
+          "content": "K.W.,",
+          "polygon": [
+            624,
+            792,
+            684,
+            792,
+            684,
+            816,
+            624,
+            816
+          ],
+          "confidence": 0.837,
+          "span": {
+            "offset": 208,
+            "length": 5
+          }
+        },
+        {
+          "content": "rating",
+          "polygon": [
+            698,
+            792,
+            777,
+            792,
+            777,
+            816,
+            698,
+            816
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 214,
+            "length": 6
+          }
+        },
+        {
+          "content": "2500",
+          "polygon": [
+            786,
+            792,
+            839,
+            792,
+            839,
+            815,
+            786,
+            815
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 221,
+            "length": 4
+          }
+        },
+        {
+          "content": "degrees",
+          "polygon": [
+            410,
+            819,
+            500,
+            819,
+            500,
+            842,
+            410,
+            842
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 226,
+            "length": 7
+          }
+        },
+        {
+          "content": "F.,",
+          "polygon": [
+            509,
+            819,
+            546,
+            819,
+            546,
+            842,
+            509,
+            842
+          ],
+          "confidence": 0.87,
+          "span": {
+            "offset": 234,
+            "length": 3
+          }
+        },
+        {
+          "content": "operating",
+          "polygon": [
+            554,
+            819,
+            674,
+            819,
+            674,
+            842,
+            554,
+            842
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 238,
+            "length": 9
+          }
+        },
+        {
+          "content": "temperature,",
+          "polygon": [
+            685,
+            819,
+            838,
+            819,
+            838,
+            840,
+            686,
+            841
+          ],
+          "confidence": 0.547,
+          "span": {
+            "offset": 248,
+            "length": 12
+          }
+        },
+        {
+          "content": "220",
+          "polygon": [
+            409,
+            843,
+            450,
+            843,
+            450,
+            867,
+            409,
+            866
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 261,
+            "length": 3
+          }
+        },
+        {
+          "content": "V.,",
+          "polygon": [
+            461,
+            843,
+            497,
+            843,
+            497,
+            867,
+            461,
+            867
+          ],
+          "confidence": 0.641,
+          "span": {
+            "offset": 265,
+            "length": 3
+          }
+        },
+        {
+          "content": "AC,",
+          "polygon": [
+            506,
+            843,
+            553,
+            843,
+            553,
+            867,
+            506,
+            867
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 269,
+            "length": 3
+          }
+        },
+        {
+          "content": "60",
+          "polygon": [
+            561,
+            843,
+            587,
+            843,
+            587,
+            867,
+            561,
+            867
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 273,
+            "length": 2
+          }
+        },
+        {
+          "content": "cyc.,",
+          "polygon": [
+            600,
+            843,
+            661,
+            843,
+            661,
+            867,
+            600,
+            867
+          ],
+          "confidence": 0.826,
+          "span": {
+            "offset": 276,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            672,
+            843,
+            686,
+            843,
+            686,
+            867,
+            672,
+            867
+          ],
+          "confidence": 0.596,
+          "span": {
+            "offset": 282,
+            "length": 1
+          }
+        },
+        {
+          "content": "phase,",
+          "polygon": [
+            697,
+            843,
+            773,
+            843,
+            773,
+            866,
+            697,
+            867
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 284,
+            "length": 6
+          }
+        },
+        {
+          "content": "inside",
+          "polygon": [
+            784,
+            842,
+            865,
+            842,
+            865,
+            865,
+            784,
+            866
+          ],
+          "confidence": 0.697,
+          "span": {
+            "offset": 291,
+            "length": 6
+          }
+        },
+        {
+          "content": "dimensions",
+          "polygon": [
+            410,
+            868,
+            537,
+            868,
+            537,
+            891,
+            410,
+            890
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 298,
+            "length": 10
+          }
+        },
+        {
+          "content": "12\"",
+          "polygon": [
+            548,
+            868,
+            591,
+            867,
+            591,
+            891,
+            548,
+            891
+          ],
+          "confidence": 0.579,
+          "span": {
+            "offset": 309,
+            "length": 3
+          }
+        },
+        {
+          "content": "long,",
+          "polygon": [
+            597,
+            868,
+            669,
+            867,
+            669,
+            890,
+            597,
+            891
+          ],
+          "confidence": 0.883,
+          "span": {
+            "offset": 313,
+            "length": 5
+          }
+        },
+        {
+          "content": "8\"",
+          "polygon": [
+            674,
+            867,
+            703,
+            867,
+            703,
+            890,
+            674,
+            890
+          ],
+          "confidence": 0.897,
+          "span": {
+            "offset": 319,
+            "length": 2
+          }
+        },
+        {
+          "content": "wide,",
+          "polygon": [
+            711,
+            867,
+            773,
+            867,
+            773,
+            890,
+            711,
+            890
+          ],
+          "confidence": 0.794,
+          "span": {
+            "offset": 322,
+            "length": 5
+          }
+        },
+        {
+          "content": "5\"",
+          "polygon": [
+            787,
+            867,
+            813,
+            867,
+            813,
+            890,
+            787,
+            890
+          ],
+          "confidence": 0.36,
+          "span": {
+            "offset": 328,
+            "length": 2
+          }
+        },
+        {
+          "content": "high,",
+          "polygon": [
+            407,
+            893,
+            472,
+            893,
+            472,
+            917,
+            407,
+            917
+          ],
+          "confidence": 0.947,
+          "span": {
+            "offset": 331,
+            "length": 5
+          }
+        },
+        {
+          "content": "Mfr.",
+          "polygon": [
+            481,
+            893,
+            537,
+            893,
+            537,
+            917,
+            481,
+            917
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 337,
+            "length": 4
+          }
+        },
+        {
+          "content": "Perce,",
+          "polygon": [
+            548,
+            893,
+            622,
+            892,
+            622,
+            917,
+            548,
+            917
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 342,
+            "length": 6
+          }
+        },
+        {
+          "content": "Mdl.",
+          "polygon": [
+            630,
+            892,
+            692,
+            892,
+            692,
+            917,
+            631,
+            917
+          ],
+          "confidence": 0.743,
+          "span": {
+            "offset": 349,
+            "length": 4
+          }
+        },
+        {
+          "content": "FG-76-109.",
+          "polygon": [
+            698,
+            892,
+            823,
+            891,
+            823,
+            915,
+            699,
+            917
+          ],
+          "confidence": 0.888,
+          "span": {
+            "offset": 354,
+            "length": 10
+          }
+        },
+        {
+          "content": "Box",
+          "polygon": [
+            410,
+            919,
+            449,
+            919,
+            449,
+            942,
+            410,
+            941
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 365,
+            "length": 3
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            459,
+            919,
+            496,
+            919,
+            496,
+            942,
+            459,
+            942
+          ],
+          "confidence": 0.902,
+          "span": {
+            "offset": 369,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            510,
+            919,
+            527,
+            919,
+            527,
+            942,
+            510,
+            942
+          ],
+          "confidence": 0.661,
+          "span": {
+            "offset": 373,
+            "length": 1
+          }
+        },
+        {
+          "content": "2177",
+          "polygon": [
+            899,
+            916,
+            953,
+            916,
+            953,
+            940,
+            899,
+            939
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 375,
+            "length": 4
+          }
+        },
+        {
+          "content": "94",
+          "polygon": [
+            1013,
+            917,
+            1041,
+            917,
+            1041,
+            939,
+            1013,
+            939
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 380,
+            "length": 2
+          }
+        },
+        {
+          "content": "Control",
+          "polygon": [
+            409,
+            969,
+            500,
+            968,
+            500,
+            992,
+            409,
+            992
+          ],
+          "confidence": 0.658,
+          "span": {
+            "offset": 383,
+            "length": 7
+          }
+        },
+        {
+          "content": "Panel",
+          "polygon": [
+            511,
+            968,
+            574,
+            968,
+            574,
+            992,
+            511,
+            992
+          ],
+          "confidence": 0.634,
+          "span": {
+            "offset": 391,
+            "length": 5
+          }
+        },
+        {
+          "content": "and",
+          "polygon": [
+            586,
+            968,
+            625,
+            968,
+            625,
+            992,
+            586,
+            992
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 397,
+            "length": 3
+          }
+        },
+        {
+          "content": "component",
+          "polygon": [
+            638,
+            968,
+            751,
+            968,
+            751,
+            991,
+            638,
+            992
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 401,
+            "length": 9
+          }
+        },
+        {
+          "content": "parts",
+          "polygon": [
+            763,
+            968,
+            828,
+            968,
+            828,
+            991,
+            763,
+            991
+          ],
+          "confidence": 0.695,
+          "span": {
+            "offset": 411,
+            "length": 5
+          }
+        },
+        {
+          "content": "as",
+          "polygon": [
+            410,
+            996,
+            436,
+            995,
+            436,
+            1017,
+            410,
+            1017
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 417,
+            "length": 2
+          }
+        },
+        {
+          "content": "above",
+          "polygon": [
+            448,
+            995,
+            512,
+            994,
+            513,
+            1016,
+            448,
+            1016
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 420,
+            "length": 5
+          }
+        },
+        {
+          "content": "described",
+          "polygon": [
+            524,
+            994,
+            638,
+            994,
+            638,
+            1016,
+            524,
+            1016
+          ],
+          "confidence": 0.696,
+          "span": {
+            "offset": 426,
+            "length": 9
+          }
+        },
+        {
+          "content": "Furnace.",
+          "polygon": [
+            649,
+            994,
+            750,
+            995,
+            750,
+            1016,
+            649,
+            1016
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 436,
+            "length": 8
+          }
+        },
+        {
+          "content": "Box",
+          "polygon": [
+            410,
+            1020,
+            451,
+            1019,
+            451,
+            1042,
+            410,
+            1042
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 445,
+            "length": 3
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            459,
+            1019,
+            501,
+            1019,
+            501,
+            1041,
+            459,
+            1042
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 449,
+            "length": 3
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            511,
+            1019,
+            527,
+            1019,
+            527,
+            1041,
+            511,
+            1041
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 453,
+            "length": 1
+          }
+        },
+        {
+          "content": "518",
+          "polygon": [
+            900,
+            1018,
+            941,
+            1017,
+            941,
+            1038,
+            901,
+            1039
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 455,
+            "length": 3
+          }
+        },
+        {
+          "content": "39.7",
+          "polygon": [
+            1013,
+            1016,
+            1067,
+            1016,
+            1067,
+            1040,
+            1013,
+            1040
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 459,
+            "length": 4
+          }
+        },
+        {
+          "content": "//",
+          "polygon": [
+            436,
+            1163,
+            477,
+            1164,
+            476,
+            1196,
+            435,
+            1195
+          ],
+          "confidence": 0.853,
+          "span": {
+            "offset": 464,
+            "length": 2
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            487,
+            1164,
+            502,
+            1165,
+            501,
+            1195,
+            486,
+            1196
+          ],
+          "confidence": 0.769,
+          "span": {
+            "offset": 467,
+            "length": 1
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            510,
+            1165,
+            552,
+            1165,
+            552,
+            1195,
+            510,
+            1195
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 469,
+            "length": 3
+          }
+        },
+        {
+          "content": "two",
+          "polygon": [
+            562,
+            1165,
+            601,
+            1165,
+            601,
+            1195,
+            562,
+            1195
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 473,
+            "length": 3
+          }
+        },
+        {
+          "content": "boxes",
+          "polygon": [
+            608,
+            1165,
+            677,
+            1165,
+            677,
+            1195,
+            608,
+            1195
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 477,
+            "length": 5
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            686,
+            1165,
+            740,
+            1164,
+            740,
+            1194,
+            686,
+            1195
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 483,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            751,
+            1164,
+            767,
+            1164,
+            767,
+            1194,
+            751,
+            1195
+          ],
+          "confidence": 0.808,
+          "span": {
+            "offset": 488,
+            "length": 1
+          }
+        },
+        {
+          "content": "11",
+          "polygon": [
+            777,
+            1164,
+            818,
+            1163,
+            818,
+            1194,
+            777,
+            1194
+          ],
+          "confidence": 0.62,
+          "span": {
+            "offset": 490,
+            "length": 2
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            24,
+            1694,
+            57,
+            1694,
+            57,
+            1724,
+            24,
+            1724
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 493,
+            "length": 2
+          }
+        },
+        {
+          "content": "(2)",
+          "polygon": [
+            835,
+            1609,
+            893,
+            1611,
+            893,
+            1691,
+            834,
+            1691
+          ],
+          "confidence": 0.625,
+          "span": {
+            "offset": 496,
+            "length": 3
+          }
+        },
+        {
+          "content": "216",
+          "polygon": [
+            909,
+            1611,
+            1048,
+            1612,
+            1048,
+            1694,
+            909,
+            1691
+          ],
+          "confidence": 0.141,
+          "span": {
+            "offset": 500,
+            "length": 3
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            811,
+            1698,
+            926,
+            1698,
+            926,
+            1722,
+            811,
+            1721
+          ],
+          "confidence": 0.938,
+          "span": {
+            "offset": 504,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            935,
+            1698,
+            1045,
+            1700,
+            1045,
+            1722,
+            935,
+            1722
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 513,
+            "length": 9
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Date: August 3, 1962",
+          "polygon": [
+            768,
+            489,
+            1024,
+            485,
+            1024,
+            511,
+            769,
+            513
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "shipment NO. 248",
+          "polygon": [
+            145,
+            540,
+            348,
+            540,
+            348,
+            564,
+            145,
+            565
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Ex. Howell Lykes",
+          "polygon": [
+            145,
+            567,
+            348,
+            567,
+            349,
+            589,
+            145,
+            590
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Arr. July 20, 1962",
+          "polygon": [
+            144,
+            593,
+            372,
+            590,
+            372,
+            615,
+            144,
+            616
+          ],
+          "spans": [
+            {
+              "offset": 55,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            395,
+            592,
+            485,
+            593,
+            485,
+            615,
+            394,
+            614
+          ],
+          "spans": [
+            {
+              "offset": 74,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "PIO/0-10218",
+          "polygon": [
+            143,
+            617,
+            286,
+            616,
+            286,
+            640,
+            143,
+            641
+          ],
+          "spans": [
+            {
+              "offset": 82,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "P.O. 361-082",
+          "polygon": [
+            143,
+            643,
+            296,
+            641,
+            297,
+            664,
+            143,
+            666
+          ],
+          "spans": [
+            {
+              "offset": 94,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "t'y & Unit",
+          "polygon": [
+            157,
+            745,
+            284,
+            744,
+            284,
+            766,
+            157,
+            766
+          ],
+          "spans": [
+            {
+              "offset": 107,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            409,
+            744,
+            549,
+            744,
+            549,
+            765,
+            409,
+            765
+          ],
+          "spans": [
+            {
+              "offset": 118,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "it. (Lb.) Cu.ft.",
+          "polygon": [
+            901,
+            740,
+            1087,
+            740,
+            1088,
+            764,
+            901,
+            764
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Two",
+          "polygon": [
+            144,
+            771,
+            185,
+            771,
+            185,
+            790,
+            144,
+            790
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Boxes",
+          "polygon": [
+            220,
+            772,
+            286,
+            773,
+            286,
+            791,
+            220,
+            790
+          ],
+          "spans": [
+            {
+              "offset": 151,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Furnace, heat treating, electric,",
+          "polygon": [
+            408,
+            768,
+            824,
+            767,
+            825,
+            790,
+            408,
+            791
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "direct fired, 15 K.W., rating 2500",
+          "polygon": [
+            409,
+            792,
+            838,
+            792,
+            838,
+            816,
+            409,
+            816
+          ],
+          "spans": [
+            {
+              "offset": 191,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "degrees F., operating temperature,",
+          "polygon": [
+            410,
+            819,
+            837,
+            818,
+            837,
+            841,
+            410,
+            842
+          ],
+          "spans": [
+            {
+              "offset": 226,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "220 V., AC, 60 cyc., 1 phase, inside",
+          "polygon": [
+            409,
+            843,
+            864,
+            842,
+            864,
+            866,
+            409,
+            867
+          ],
+          "spans": [
+            {
+              "offset": 261,
+              "length": 36
+            }
+          ]
+        },
+        {
+          "content": "dimensions 12\" long, 8\" wide, 5\"",
+          "polygon": [
+            409,
+            868,
+            813,
+            867,
+            813,
+            890,
+            410,
+            891
+          ],
+          "spans": [
+            {
+              "offset": 298,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "high, Mfr. Perce, Mdl. FG-76-109.",
+          "polygon": [
+            407,
+            893,
+            822,
+            891,
+            822,
+            916,
+            407,
+            917
+          ],
+          "spans": [
+            {
+              "offset": 331,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "Box NO. 1",
+          "polygon": [
+            410,
+            918,
+            526,
+            919,
+            526,
+            942,
+            409,
+            941
+          ],
+          "spans": [
+            {
+              "offset": 365,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "2177",
+          "polygon": [
+            899,
+            916,
+            952,
+            916,
+            952,
+            939,
+            899,
+            939
+          ],
+          "spans": [
+            {
+              "offset": 375,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "94",
+          "polygon": [
+            1013,
+            917,
+            1041,
+            917,
+            1040,
+            939,
+            1013,
+            939
+          ],
+          "spans": [
+            {
+              "offset": 380,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Control Panel and component parts",
+          "polygon": [
+            409,
+            968,
+            828,
+            967,
+            828,
+            991,
+            409,
+            992
+          ],
+          "spans": [
+            {
+              "offset": 383,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "as above described Furnace.",
+          "polygon": [
+            410,
+            994,
+            749,
+            994,
+            750,
+            1016,
+            410,
+            1016
+          ],
+          "spans": [
+            {
+              "offset": 417,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "Box NO. 2",
+          "polygon": [
+            410,
+            1019,
+            526,
+            1019,
+            526,
+            1041,
+            410,
+            1042
+          ],
+          "spans": [
+            {
+              "offset": 445,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "518",
+          "polygon": [
+            900,
+            1018,
+            941,
+            1017,
+            941,
+            1038,
+            901,
+            1039
+          ],
+          "spans": [
+            {
+              "offset": 455,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "39.7",
+          "polygon": [
+            1013,
+            1016,
+            1066,
+            1016,
+            1066,
+            1040,
+            1013,
+            1040
+          ],
+          "spans": [
+            {
+              "offset": 459,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "// / Say two boxes only / 11",
+          "polygon": [
+            435,
+            1163,
+            818,
+            1163,
+            818,
+            1195,
+            435,
+            1195
+          ],
+          "spans": [
+            {
+              "offset": 464,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "12",
+          "polygon": [
+            24,
+            1694,
+            56,
+            1694,
+            56,
+            1723,
+            24,
+            1723
+          ],
+          "spans": [
+            {
+              "offset": 493,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "(2) 216",
+          "polygon": [
+            835,
+            1609,
+            1048,
+            1612,
+            1047,
+            1694,
+            834,
+            1690
+          ],
+          "spans": [
+            {
+              "offset": 496,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            811,
+            1697,
+            1044,
+            1699,
+            1044,
+            1722,
+            811,
+            1721
+          ],
+          "spans": [
+            {
+              "offset": 504,
+              "length": 18
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 522
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 3,
+      "columnCount": 4,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "t'y & Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                134,
+                733,
+                346,
+                732,
+                346,
+                766,
+                134,
+                766
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 107,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                346,
+                732,
+                880,
+                731,
+                880,
+                765,
+                346,
+                766
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 118,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "it. (Lb.)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                880,
+                731,
+                980,
+                731,
+                980,
+                764,
+                880,
+                765
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "Cu.ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                980,
+                731,
+                1102,
+                731,
+                1103,
+                763,
+                980,
+                764
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 140,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "Two Boxes",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                134,
+                766,
+                346,
+                766,
+                345,
+                954,
+                134,
+                954
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Furnace, heat treating, electric, direct fired, 15 K.W., rating 2500 degrees F., operating temperature, 220 V., AC, 60 cyc., 1 phase, inside dimensions 12\" long, 8\" wide, 5\" high, Mfr. Perce, Mdl. FG-76-109. Box NO. 1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                346,
+                766,
+                880,
+                765,
+                880,
+                953,
+                345,
+                954
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 217
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "2177",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                880,
+                765,
+                980,
+                764,
+                980,
+                953,
+                880,
+                953
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 375,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "94",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                980,
+                764,
+                1103,
+                763,
+                1104,
+                953,
+                980,
+                953
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 380,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                134,
+                954,
+                345,
+                954,
+                345,
+                1054,
+                133,
+                1054
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "Control Panel and component parts as above described Furnace. Box NO. 2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                345,
+                954,
+                880,
+                953,
+                880,
+                1054,
+                345,
+                1054
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 383,
+              "length": 71
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "518",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                880,
+                953,
+                980,
+                953,
+                980,
+                1054,
+                880,
+                1054
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 455,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "39.7",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                980,
+                953,
+                1104,
+                953,
+                1104,
+                1054,
+                980,
+                1054
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 459,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            137,
+            734,
+            1111,
+            733,
+            1112,
+            1053,
+            138,
+            1054
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 107,
+          "length": 356
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            488,
+            1024,
+            485,
+            1024,
+            511,
+            769,
+            514
+          ]
+        }
+      ],
+      "content": "Date: August 3, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 85
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            143,
+            540,
+            485,
+            539,
+            486,
+            664,
+            143,
+            666
+          ]
+        }
+      ],
+      "content": "shipment NO. 248 Ex. Howell Lykes Arr. July 20, 1962 Keelung PIO/0-10218 P.O. 361-082"
+    },
+    {
+      "spans": [
+        {
+          "offset": 107,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            134,
+            733,
+            346,
+            732,
+            346,
+            766,
+            134,
+            766
+          ]
+        }
+      ],
+      "content": "t'y & Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 118,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            346,
+            732,
+            880,
+            731,
+            880,
+            765,
+            346,
+            766
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            880,
+            731,
+            980,
+            731,
+            980,
+            764,
+            880,
+            765
+          ]
+        }
+      ],
+      "content": "it. (Lb.)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 140,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            980,
+            731,
+            1102,
+            731,
+            1103,
+            763,
+            980,
+            764
+          ]
+        }
+      ],
+      "content": "Cu.ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 147,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            134,
+            766,
+            346,
+            766,
+            345,
+            954,
+            134,
+            954
+          ]
+        }
+      ],
+      "content": "Two Boxes"
+    },
+    {
+      "spans": [
+        {
+          "offset": 157,
+          "length": 217
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            346,
+            766,
+            880,
+            765,
+            880,
+            953,
+            345,
+            954
+          ]
+        }
+      ],
+      "content": "Furnace, heat treating, electric, direct fired, 15 K.W., rating 2500 degrees F., operating temperature, 220 V., AC, 60 cyc., 1 phase, inside dimensions 12\" long, 8\" wide, 5\" high, Mfr. Perce, Mdl. FG-76-109. Box NO. 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 375,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            880,
+            765,
+            980,
+            764,
+            980,
+            953,
+            880,
+            953
+          ]
+        }
+      ],
+      "content": "2177"
+    },
+    {
+      "spans": [
+        {
+          "offset": 380,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            980,
+            764,
+            1103,
+            763,
+            1104,
+            953,
+            980,
+            953
+          ]
+        }
+      ],
+      "content": "94"
+    },
+    {
+      "spans": [
+        {
+          "offset": 383,
+          "length": 71
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            345,
+            954,
+            880,
+            953,
+            880,
+            1054,
+            345,
+            1054
+          ]
+        }
+      ],
+      "content": "Control Panel and component parts as above described Furnace. Box NO. 2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 455,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            880,
+            953,
+            980,
+            953,
+            980,
+            1054,
+            880,
+            1054
+          ]
+        }
+      ],
+      "content": "518"
+    },
+    {
+      "spans": [
+        {
+          "offset": 459,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            980,
+            953,
+            1104,
+            953,
+            1104,
+            1054,
+            980,
+            1054
+          ]
+        }
+      ],
+      "content": "39.7"
+    },
+    {
+      "spans": [
+        {
+          "offset": 464,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            435,
+            1163,
+            818,
+            1163,
+            818,
+            1195,
+            435,
+            1195
+          ]
+        }
+      ],
+      "content": "// / Say two boxes only / 11"
+    },
+    {
+      "spans": [
+        {
+          "offset": 493,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            24,
+            1694,
+            56,
+            1694,
+            56,
+            1723,
+            24,
+            1723
+          ]
+        }
+      ],
+      "content": "12"
+    },
+    {
+      "spans": [
+        {
+          "offset": 496,
+          "length": 26
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            812,
+            1609,
+            1048,
+            1612,
+            1047,
+            1724,
+            810,
+            1721
+          ]
+        }
+      ],
+      "content": "(2) 216 Academia Historica"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 493,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 496,
+          "length": 7
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 522
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/13",
+        "/paragraphs/14",
+        "/paragraphs/15"
+      ]
+    }
+  ]
+}

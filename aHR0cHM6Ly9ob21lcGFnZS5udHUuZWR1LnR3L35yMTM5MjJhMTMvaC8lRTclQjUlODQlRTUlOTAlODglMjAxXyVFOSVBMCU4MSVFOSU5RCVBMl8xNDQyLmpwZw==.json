@@ -1,0 +1,2254 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Date: June 20, 1962\nShipment NO. 235 Ex. Pres. Hayes Arr. May 29, 1962 Keelung PIO/C-10218 P.O. E61-035\netly & Unit\nDescription\nwt. (Lb.) Cu.ft.\none\nBox\nTire air pressure gage, 0-400 sq. in. Lbs, Mifg. A. Schrader's Son Go. 20 ea.\n120\n5.5\n/ / / Say one item only / / /\n0\n2216\nAcademia Historica\n204",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.19200000166893005,
+      "width": 1287,
+      "height": 1735,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Date:",
+          "polygon": [
+            809,
+            392,
+            875,
+            392,
+            876,
+            416,
+            809,
+            417
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "June",
+          "polygon": [
+            884,
+            392,
+            938,
+            391,
+            938,
+            416,
+            885,
+            416
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 6,
+            "length": 4
+          }
+        },
+        {
+          "content": "20,",
+          "polygon": [
+            950,
+            390,
+            992,
+            390,
+            992,
+            415,
+            950,
+            415
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 11,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            998,
+            390,
+            1051,
+            389,
+            1051,
+            414,
+            999,
+            415
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 15,
+            "length": 4
+          }
+        },
+        {
+          "content": "Shipment",
+          "polygon": [
+            185,
+            421,
+            285,
+            420,
+            285,
+            442,
+            185,
+            443
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 20,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            290,
+            420,
+            333,
+            419,
+            333,
+            442,
+            290,
+            442
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 29,
+            "length": 3
+          }
+        },
+        {
+          "content": "235",
+          "polygon": [
+            348,
+            419,
+            387,
+            419,
+            387,
+            441,
+            348,
+            442
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 33,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ex.",
+          "polygon": [
+            187,
+            447,
+            220,
+            446,
+            220,
+            467,
+            187,
+            467
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 37,
+            "length": 3
+          }
+        },
+        {
+          "content": "Pres.",
+          "polygon": [
+            235,
+            446,
+            301,
+            446,
+            301,
+            467,
+            236,
+            467
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 41,
+            "length": 5
+          }
+        },
+        {
+          "content": "Hayes",
+          "polygon": [
+            310,
+            446,
+            376,
+            446,
+            377,
+            466,
+            310,
+            467
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 47,
+            "length": 5
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            187,
+            472,
+            233,
+            472,
+            233,
+            493,
+            187,
+            494
+          ],
+          "confidence": 0.915,
+          "span": {
+            "offset": 53,
+            "length": 4
+          }
+        },
+        {
+          "content": "May",
+          "polygon": [
+            246,
+            471,
+            288,
+            470,
+            287,
+            493,
+            246,
+            493
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 58,
+            "length": 3
+          }
+        },
+        {
+          "content": "29,",
+          "polygon": [
+            298,
+            470,
+            334,
+            469,
+            334,
+            493,
+            298,
+            493
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 62,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            344,
+            470,
+            403,
+            469,
+            403,
+            493,
+            344,
+            493
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 66,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            424,
+            469,
+            515,
+            470,
+            515,
+            493,
+            424,
+            493
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 71,
+            "length": 7
+          }
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            186,
+            494,
+            327,
+            494,
+            327,
+            516,
+            186,
+            517
+          ],
+          "confidence": 0.803,
+          "span": {
+            "offset": 79,
+            "length": 11
+          }
+        },
+        {
+          "content": "P.O.",
+          "polygon": [
+            185,
+            520,
+            238,
+            519,
+            238,
+            543,
+            185,
+            544
+          ],
+          "confidence": 0.592,
+          "span": {
+            "offset": 91,
+            "length": 4
+          }
+        },
+        {
+          "content": "E61-035",
+          "polygon": [
+            249,
+            519,
+            338,
+            519,
+            338,
+            543,
+            249,
+            543
+          ],
+          "confidence": 0.868,
+          "span": {
+            "offset": 96,
+            "length": 7
+          }
+        },
+        {
+          "content": "etly",
+          "polygon": [
+            187,
+            671,
+            240,
+            670,
+            241,
+            691,
+            187,
+            692
+          ],
+          "confidence": 0.634,
+          "span": {
+            "offset": 104,
+            "length": 4
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            250,
+            670,
+            263,
+            670,
+            263,
+            691,
+            250,
+            691
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 109,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            269,
+            670,
+            327,
+            669,
+            327,
+            690,
+            269,
+            691
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 111,
+            "length": 4
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            462,
+            669,
+            602,
+            669,
+            602,
+            689,
+            462,
+            690
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 116,
+            "length": 11
+          }
+        },
+        {
+          "content": "wt.",
+          "polygon": [
+            977,
+            667,
+            1010,
+            666,
+            1011,
+            689,
+            977,
+            689
+          ],
+          "confidence": 0.659,
+          "span": {
+            "offset": 128,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Lb.)",
+          "polygon": [
+            1015,
+            666,
+            1074,
+            666,
+            1074,
+            689,
+            1015,
+            689
+          ],
+          "confidence": 0.673,
+          "span": {
+            "offset": 132,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cu.ft.",
+          "polygon": [
+            1089,
+            666,
+            1164,
+            667,
+            1164,
+            690,
+            1089,
+            689
+          ],
+          "confidence": 0.879,
+          "span": {
+            "offset": 138,
+            "length": 6
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            186,
+            697,
+            227,
+            698,
+            227,
+            714,
+            186,
+            715
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 145,
+            "length": 3
+          }
+        },
+        {
+          "content": "Box",
+          "polygon": [
+            262,
+            698,
+            304,
+            697,
+            304,
+            715,
+            262,
+            715
+          ],
+          "confidence": 0.841,
+          "span": {
+            "offset": 149,
+            "length": 3
+          }
+        },
+        {
+          "content": "Tire",
+          "polygon": [
+            461,
+            694,
+            515,
+            694,
+            515,
+            717,
+            462,
+            716
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 153,
+            "length": 4
+          }
+        },
+        {
+          "content": "air",
+          "polygon": [
+            527,
+            694,
+            564,
+            694,
+            565,
+            716,
+            527,
+            716
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 158,
+            "length": 3
+          }
+        },
+        {
+          "content": "pressure",
+          "polygon": [
+            575,
+            694,
+            677,
+            693,
+            677,
+            717,
+            575,
+            716
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 162,
+            "length": 8
+          }
+        },
+        {
+          "content": "gage,",
+          "polygon": [
+            689,
+            694,
+            749,
+            693,
+            749,
+            717,
+            690,
+            717
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 171,
+            "length": 5
+          }
+        },
+        {
+          "content": "0-400",
+          "polygon": [
+            758,
+            693,
+            827,
+            693,
+            827,
+            716,
+            758,
+            717
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 177,
+            "length": 5
+          }
+        },
+        {
+          "content": "sq.",
+          "polygon": [
+            839,
+            693,
+            882,
+            692,
+            882,
+            716,
+            839,
+            716
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 183,
+            "length": 3
+          }
+        },
+        {
+          "content": "in.",
+          "polygon": [
+            888,
+            692,
+            926,
+            692,
+            926,
+            716,
+            889,
+            716
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 187,
+            "length": 3
+          }
+        },
+        {
+          "content": "Lbs,",
+          "polygon": [
+            461,
+            719,
+            514,
+            719,
+            514,
+            742,
+            461,
+            742
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 191,
+            "length": 4
+          }
+        },
+        {
+          "content": "Mifg.",
+          "polygon": [
+            522,
+            719,
+            574,
+            718,
+            575,
+            742,
+            522,
+            742
+          ],
+          "confidence": 0.629,
+          "span": {
+            "offset": 196,
+            "length": 5
+          }
+        },
+        {
+          "content": "A.",
+          "polygon": [
+            589,
+            718,
+            617,
+            718,
+            617,
+            741,
+            589,
+            742
+          ],
+          "confidence": 0.854,
+          "span": {
+            "offset": 202,
+            "length": 2
+          }
+        },
+        {
+          "content": "Schrader's",
+          "polygon": [
+            624,
+            718,
+            753,
+            718,
+            753,
+            741,
+            624,
+            741
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 205,
+            "length": 10
+          }
+        },
+        {
+          "content": "Son",
+          "polygon": [
+            759,
+            718,
+            801,
+            718,
+            801,
+            740,
+            759,
+            741
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 216,
+            "length": 3
+          }
+        },
+        {
+          "content": "Go.",
+          "polygon": [
+            808,
+            718,
+            852,
+            718,
+            852,
+            740,
+            808,
+            740
+          ],
+          "confidence": 0.697,
+          "span": {
+            "offset": 220,
+            "length": 3
+          }
+        },
+        {
+          "content": "20",
+          "polygon": [
+            863,
+            718,
+            892,
+            717,
+            892,
+            739,
+            864,
+            740
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 224,
+            "length": 2
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            902,
+            717,
+            938,
+            718,
+            938,
+            740,
+            902,
+            739
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 227,
+            "length": 3
+          }
+        },
+        {
+          "content": "120",
+          "polygon": [
+            976,
+            692,
+            1016,
+            692,
+            1016,
+            713,
+            976,
+            713
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 231,
+            "length": 3
+          }
+        },
+        {
+          "content": "5.5",
+          "polygon": [
+            1102,
+            693,
+            1141,
+            693,
+            1140,
+            715,
+            1102,
+            715
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 235,
+            "length": 3
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            461,
+            839,
+            480,
+            839,
+            480,
+            869,
+            461,
+            869
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 239,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            488,
+            839,
+            503,
+            839,
+            503,
+            869,
+            488,
+            869
+          ],
+          "confidence": 0.879,
+          "span": {
+            "offset": 241,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            513,
+            839,
+            529,
+            839,
+            529,
+            868,
+            513,
+            869
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 243,
+            "length": 1
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            537,
+            839,
+            578,
+            840,
+            578,
+            868,
+            537,
+            868
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 245,
+            "length": 3
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            588,
+            840,
+            632,
+            840,
+            632,
+            868,
+            588,
+            868
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 249,
+            "length": 3
+          }
+        },
+        {
+          "content": "item",
+          "polygon": [
+            638,
+            840,
+            689,
+            840,
+            689,
+            868,
+            638,
+            868
+          ],
+          "confidence": 0.911,
+          "span": {
+            "offset": 253,
+            "length": 4
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            699,
+            840,
+            753,
+            840,
+            753,
+            868,
+            699,
+            868
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 258,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            766,
+            839,
+            782,
+            839,
+            782,
+            868,
+            767,
+            868
+          ],
+          "confidence": 0.848,
+          "span": {
+            "offset": 263,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            790,
+            839,
+            804,
+            839,
+            805,
+            868,
+            790,
+            868
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 265,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            814,
+            839,
+            831,
+            839,
+            831,
+            868,
+            814,
+            868
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 267,
+            "length": 1
+          }
+        },
+        {
+          "content": "0",
+          "polygon": [
+            1113,
+            1516,
+            1235,
+            1512,
+            1239,
+            1687,
+            1123,
+            1686
+          ],
+          "confidence": 0.093,
+          "span": {
+            "offset": 269,
+            "length": 1
+          }
+        },
+        {
+          "content": "2216",
+          "polygon": [
+            900,
+            1571,
+            1107,
+            1572,
+            1107,
+            1649,
+            901,
+            1645
+          ],
+          "confidence": 0.148,
+          "span": {
+            "offset": 271,
+            "length": 4
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            876,
+            1651,
+            989,
+            1652,
+            989,
+            1678,
+            876,
+            1677
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 276,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            997,
+            1652,
+            1105,
+            1654,
+            1105,
+            1679,
+            996,
+            1678
+          ],
+          "confidence": 0.796,
+          "span": {
+            "offset": 285,
+            "length": 9
+          }
+        },
+        {
+          "content": "204",
+          "polygon": [
+            26,
+            1678,
+            101,
+            1677,
+            101,
+            1715,
+            26,
+            1714
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 295,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Date: June 20, 1962",
+          "polygon": [
+            809,
+            392,
+            1051,
+            389,
+            1051,
+            414,
+            809,
+            417
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "Shipment NO. 235",
+          "polygon": [
+            185,
+            420,
+            387,
+            419,
+            387,
+            441,
+            185,
+            443
+          ],
+          "spans": [
+            {
+              "offset": 20,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Ex. Pres. Hayes",
+          "polygon": [
+            187,
+            446,
+            376,
+            445,
+            376,
+            466,
+            187,
+            467
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Arr. May 29, 1962 Keelung",
+          "polygon": [
+            187,
+            470,
+            514,
+            469,
+            514,
+            493,
+            187,
+            494
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            186,
+            494,
+            327,
+            493,
+            327,
+            516,
+            186,
+            517
+          ],
+          "spans": [
+            {
+              "offset": 79,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "P.O. E61-035",
+          "polygon": [
+            185,
+            519,
+            337,
+            518,
+            337,
+            543,
+            185,
+            543
+          ],
+          "spans": [
+            {
+              "offset": 91,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "etly & Unit",
+          "polygon": [
+            187,
+            671,
+            326,
+            669,
+            326,
+            690,
+            187,
+            692
+          ],
+          "spans": [
+            {
+              "offset": 104,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            462,
+            669,
+            601,
+            668,
+            602,
+            689,
+            462,
+            690
+          ],
+          "spans": [
+            {
+              "offset": 116,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "wt. (Lb.) Cu.ft.",
+          "polygon": [
+            977,
+            666,
+            1164,
+            666,
+            1164,
+            689,
+            977,
+            689
+          ],
+          "spans": [
+            {
+              "offset": 128,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "one",
+          "polygon": [
+            186,
+            697,
+            226,
+            697,
+            226,
+            715,
+            186,
+            715
+          ],
+          "spans": [
+            {
+              "offset": 145,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Box",
+          "polygon": [
+            262,
+            698,
+            303,
+            697,
+            304,
+            715,
+            262,
+            715
+          ],
+          "spans": [
+            {
+              "offset": 149,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Tire air pressure gage, 0-400 sq. in.",
+          "polygon": [
+            461,
+            694,
+            925,
+            692,
+            925,
+            716,
+            462,
+            717
+          ],
+          "spans": [
+            {
+              "offset": 153,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "Lbs, Mifg. A. Schrader's Son Go. 20 ea.",
+          "polygon": [
+            461,
+            719,
+            937,
+            717,
+            938,
+            739,
+            461,
+            742
+          ],
+          "spans": [
+            {
+              "offset": 191,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "120",
+          "polygon": [
+            976,
+            692,
+            1016,
+            692,
+            1016,
+            713,
+            976,
+            713
+          ],
+          "spans": [
+            {
+              "offset": 231,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "5.5",
+          "polygon": [
+            1102,
+            693,
+            1140,
+            693,
+            1140,
+            715,
+            1102,
+            715
+          ],
+          "spans": [
+            {
+              "offset": 235,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "/ / / Say one item only / / /",
+          "polygon": [
+            461,
+            839,
+            830,
+            839,
+            830,
+            868,
+            461,
+            868
+          ],
+          "spans": [
+            {
+              "offset": 239,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "0",
+          "polygon": [
+            1113,
+            1509,
+            1229,
+            1507,
+            1239,
+            1687,
+            1122,
+            1687
+          ],
+          "spans": [
+            {
+              "offset": 269,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2216",
+          "polygon": [
+            900,
+            1570,
+            1107,
+            1571,
+            1106,
+            1649,
+            900,
+            1646
+          ],
+          "spans": [
+            {
+              "offset": 271,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            876,
+            1651,
+            1104,
+            1652,
+            1104,
+            1679,
+            876,
+            1677
+          ],
+          "spans": [
+            {
+              "offset": 276,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "204",
+          "polygon": [
+            26,
+            1676,
+            100,
+            1677,
+            100,
+            1715,
+            25,
+            1714
+          ],
+          "spans": [
+            {
+              "offset": 295,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 298
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 2,
+      "columnCount": 5,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "etly",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                176,
+                655,
+                241,
+                655,
+                239,
+                692,
+                175,
+                692
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 104,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "& Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                241,
+                655,
+                392,
+                655,
+                392,
+                692,
+                239,
+                692
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 109,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                392,
+                655,
+                954,
+                654,
+                954,
+                691,
+                392,
+                692
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 116,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "wt. (Lb.)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                954,
+                654,
+                1051,
+                654,
+                1051,
+                691,
+                954,
+                691
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 128,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "content": "Cu.ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1051,
+                654,
+                1172,
+                654,
+                1173,
+                691,
+                1051,
+                691
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 138,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "one",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                175,
+                692,
+                239,
+                692,
+                238,
+                751,
+                173,
+                751
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 145,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Box",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                239,
+                692,
+                392,
+                692,
+                392,
+                751,
+                238,
+                751
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 149,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "Tire air pressure gage, 0-400 sq. in. Lbs, Mifg. A. Schrader's Son Go. 20 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                392,
+                692,
+                954,
+                691,
+                954,
+                751,
+                392,
+                751
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 153,
+              "length": 77
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "120",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                954,
+                691,
+                1051,
+                691,
+                1051,
+                751,
+                954,
+                751
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 231,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "content": "5.5",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1051,
+                691,
+                1173,
+                691,
+                1174,
+                751,
+                1051,
+                751
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 235,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            177,
+            661,
+            1171,
+            652,
+            1173,
+            740,
+            180,
+            749
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 104,
+          "length": 134
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            809,
+            392,
+            1051,
+            389,
+            1051,
+            414,
+            809,
+            417
+          ]
+        }
+      ],
+      "content": "Date: June 20, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 20,
+          "length": 83
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            420,
+            514,
+            418,
+            515,
+            541,
+            185,
+            544
+          ]
+        }
+      ],
+      "content": "Shipment NO. 235 Ex. Pres. Hayes Arr. May 29, 1962 Keelung PIO/C-10218 P.O. E61-035"
+    },
+    {
+      "spans": [
+        {
+          "offset": 104,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            176,
+            655,
+            241,
+            655,
+            239,
+            692,
+            175,
+            692
+          ]
+        }
+      ],
+      "content": "etly"
+    },
+    {
+      "spans": [
+        {
+          "offset": 109,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            241,
+            655,
+            392,
+            655,
+            392,
+            692,
+            239,
+            692
+          ]
+        }
+      ],
+      "content": "& Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 116,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            392,
+            655,
+            954,
+            654,
+            954,
+            691,
+            392,
+            692
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 128,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            954,
+            654,
+            1051,
+            654,
+            1051,
+            691,
+            954,
+            691
+          ]
+        }
+      ],
+      "content": "wt. (Lb.)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 138,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1051,
+            654,
+            1172,
+            654,
+            1173,
+            691,
+            1051,
+            691
+          ]
+        }
+      ],
+      "content": "Cu.ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 145,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            175,
+            692,
+            239,
+            692,
+            238,
+            751,
+            173,
+            751
+          ]
+        }
+      ],
+      "content": "one"
+    },
+    {
+      "spans": [
+        {
+          "offset": 149,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            239,
+            692,
+            392,
+            692,
+            392,
+            751,
+            238,
+            751
+          ]
+        }
+      ],
+      "content": "Box"
+    },
+    {
+      "spans": [
+        {
+          "offset": 153,
+          "length": 77
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            392,
+            692,
+            954,
+            691,
+            954,
+            751,
+            392,
+            751
+          ]
+        }
+      ],
+      "content": "Tire air pressure gage, 0-400 sq. in. Lbs, Mifg. A. Schrader's Son Go. 20 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 231,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            954,
+            691,
+            1051,
+            691,
+            1051,
+            751,
+            954,
+            751
+          ]
+        }
+      ],
+      "content": "120"
+    },
+    {
+      "spans": [
+        {
+          "offset": 235,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1051,
+            691,
+            1173,
+            691,
+            1174,
+            751,
+            1051,
+            751
+          ]
+        }
+      ],
+      "content": "5.5"
+    },
+    {
+      "spans": [
+        {
+          "offset": 239,
+          "length": 29
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            461,
+            839,
+            830,
+            839,
+            830,
+            868,
+            461,
+            868
+          ]
+        }
+      ],
+      "content": "/ / / Say one item only / / /"
+    },
+    {
+      "spans": [
+        {
+          "offset": 269,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1113,
+            1509,
+            1229,
+            1502,
+            1239,
+            1687,
+            1123,
+            1693
+          ]
+        }
+      ],
+      "content": "0"
+    },
+    {
+      "spans": [
+        {
+          "offset": 271,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            900,
+            1569,
+            1107,
+            1571,
+            1106,
+            1649,
+            900,
+            1647
+          ]
+        }
+      ],
+      "content": "2216"
+    },
+    {
+      "spans": [
+        {
+          "offset": 276,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            876,
+            1651,
+            1104,
+            1652,
+            1104,
+            1679,
+            876,
+            1677
+          ]
+        }
+      ],
+      "content": "Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 295,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            26,
+            1676,
+            100,
+            1677,
+            100,
+            1715,
+            25,
+            1714
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "204"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 235,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 271,
+          "length": 4
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 295,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 294
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/12",
+        "/paragraphs/13",
+        "/paragraphs/14",
+        "/paragraphs/15"
+      ]
+    }
+  ]
+}

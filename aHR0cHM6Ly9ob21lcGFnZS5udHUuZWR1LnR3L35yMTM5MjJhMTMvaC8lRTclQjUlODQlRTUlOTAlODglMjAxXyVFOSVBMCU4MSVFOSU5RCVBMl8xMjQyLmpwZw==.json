@@ -1,0 +1,949 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "请 ( 12) 卷\n許躍薾. 140.112.213.82\n國史饭 Academia Historica\n51. 2. 400\n行政院美援運用委員會\n4",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.13346600532531738,
+      "width": 934,
+      "height": 1600,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "请",
+          "polygon": [
+            383,
+            216,
+            514,
+            219,
+            514,
+            357,
+            384,
+            357
+          ],
+          "confidence": 0.372,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "(",
+          "polygon": [
+            385,
+            398,
+            405,
+            397,
+            406,
+            461,
+            386,
+            463
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "12)",
+          "polygon": [
+            427,
+            395,
+            500,
+            390,
+            500,
+            453,
+            427,
+            459
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 4,
+            "length": 3
+          }
+        },
+        {
+          "content": "卷",
+          "polygon": [
+            388,
+            486,
+            492,
+            478,
+            492,
+            615,
+            389,
+            619
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 8,
+            "length": 1
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            410,
+            748,
+            435,
+            748,
+            435,
+            787,
+            410,
+            787
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            451,
+            748,
+            476,
+            749,
+            476,
+            787,
+            451,
+            787
+          ],
+          "confidence": 0.972,
+          "span": {
+            "offset": 11,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            491,
+            749,
+            516,
+            749,
+            516,
+            787,
+            491,
+            787
+          ],
+          "confidence": 0.717,
+          "span": {
+            "offset": 12,
+            "length": 1
+          }
+        },
+        {
+          "content": ".",
+          "polygon": [
+            522,
+            749,
+            531,
+            749,
+            531,
+            787,
+            522,
+            787
+          ],
+          "confidence": 0.938,
+          "span": {
+            "offset": 13,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            324,
+            797,
+            601,
+            797,
+            601,
+            833,
+            324,
+            833
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 15,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            574,
+            1445,
+            618,
+            1445,
+            618,
+            1510,
+            574,
+            1510
+          ],
+          "confidence": 0.931,
+          "span": {
+            "offset": 30,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            625,
+            1445,
+            671,
+            1445,
+            670,
+            1511,
+            624,
+            1510
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 31,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            677,
+            1445,
+            762,
+            1444,
+            762,
+            1513,
+            677,
+            1511
+          ],
+          "confidence": 0.905,
+          "span": {
+            "offset": 32,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            549,
+            1518,
+            656,
+            1518,
+            655,
+            1543,
+            549,
+            1543
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 34,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            664,
+            1518,
+            760,
+            1519,
+            760,
+            1544,
+            664,
+            1543
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 43,
+            "length": 9
+          }
+        },
+        {
+          "content": "51.",
+          "polygon": [
+            138,
+            1504,
+            160,
+            1504,
+            160,
+            1522,
+            138,
+            1521
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 53,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            168,
+            1504,
+            181,
+            1504,
+            181,
+            1522,
+            168,
+            1522
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 57,
+            "length": 2
+          }
+        },
+        {
+          "content": "400",
+          "polygon": [
+            189,
+            1504,
+            216,
+            1504,
+            216,
+            1522,
+            189,
+            1522
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 60,
+            "length": 3
+          }
+        },
+        {
+          "content": "行",
+          "polygon": [
+            83,
+            1023,
+            109,
+            1022,
+            109,
+            1049,
+            83,
+            1049
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 64,
+            "length": 1
+          }
+        },
+        {
+          "content": "政",
+          "polygon": [
+            83,
+            1070,
+            109,
+            1070,
+            109,
+            1090,
+            83,
+            1091
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 65,
+            "length": 1
+          }
+        },
+        {
+          "content": "院",
+          "polygon": [
+            82,
+            1113,
+            109,
+            1112,
+            108,
+            1133,
+            82,
+            1134
+          ],
+          "confidence": 0.971,
+          "span": {
+            "offset": 66,
+            "length": 1
+          }
+        },
+        {
+          "content": "美",
+          "polygon": [
+            82,
+            1153,
+            108,
+            1152,
+            108,
+            1178,
+            83,
+            1178
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 67,
+            "length": 1
+          }
+        },
+        {
+          "content": "援",
+          "polygon": [
+            83,
+            1199,
+            108,
+            1198,
+            108,
+            1219,
+            82,
+            1220
+          ],
+          "confidence": 0.972,
+          "span": {
+            "offset": 68,
+            "length": 1
+          }
+        },
+        {
+          "content": "運",
+          "polygon": [
+            82,
+            1241,
+            108,
+            1240,
+            107,
+            1263,
+            82,
+            1264
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 69,
+            "length": 1
+          }
+        },
+        {
+          "content": "用",
+          "polygon": [
+            82,
+            1284,
+            106,
+            1284,
+            106,
+            1305,
+            82,
+            1306
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 70,
+            "length": 1
+          }
+        },
+        {
+          "content": "委",
+          "polygon": [
+            82,
+            1326,
+            106,
+            1326,
+            106,
+            1349,
+            82,
+            1349
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 71,
+            "length": 1
+          }
+        },
+        {
+          "content": "員",
+          "polygon": [
+            82,
+            1366,
+            105,
+            1366,
+            105,
+            1392,
+            81,
+            1392
+          ],
+          "confidence": 0.944,
+          "span": {
+            "offset": 72,
+            "length": 1
+          }
+        },
+        {
+          "content": "會",
+          "polygon": [
+            81,
+            1410,
+            105,
+            1410,
+            105,
+            1437,
+            80,
+            1437
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 73,
+            "length": 1
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            30,
+            1537,
+            57,
+            1537,
+            57,
+            1578,
+            29,
+            1577
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 75,
+            "length": 1
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "请",
+          "polygon": [
+            383,
+            208,
+            513,
+            208,
+            514,
+            357,
+            384,
+            357
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "( 12)",
+          "polygon": [
+            385,
+            397,
+            498,
+            390,
+            500,
+            453,
+            386,
+            462
+          ],
+          "spans": [
+            {
+              "offset": 2,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "卷",
+          "polygon": [
+            388,
+            479,
+            490,
+            478,
+            491,
+            619,
+            389,
+            619
+          ],
+          "spans": [
+            {
+              "offset": 8,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "許躍薾.",
+          "polygon": [
+            410,
+            748,
+            531,
+            748,
+            531,
+            786,
+            410,
+            786
+          ],
+          "spans": [
+            {
+              "offset": 10,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            324,
+            797,
+            600,
+            797,
+            600,
+            833,
+            324,
+            833
+          ],
+          "spans": [
+            {
+              "offset": 15,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            574,
+            1443,
+            762,
+            1444,
+            761,
+            1512,
+            574,
+            1511
+          ],
+          "spans": [
+            {
+              "offset": 30,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            549,
+            1517,
+            760,
+            1518,
+            760,
+            1544,
+            549,
+            1543
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "51. 2. 400",
+          "polygon": [
+            138,
+            1504,
+            216,
+            1504,
+            216,
+            1522,
+            138,
+            1521
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "行政院美援運用委員會",
+          "polygon": [
+            83,
+            1022,
+            110,
+            1022,
+            106,
+            1436,
+            80,
+            1436
+          ],
+          "spans": [
+            {
+              "offset": 64,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "4",
+          "polygon": [
+            30,
+            1537,
+            57,
+            1537,
+            56,
+            1577,
+            29,
+            1577
+          ],
+          "spans": [
+            {
+              "offset": 75,
+              "length": 1
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 76
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            383,
+            208,
+            513,
+            208,
+            514,
+            619,
+            384,
+            619
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "请 ( 12) 卷"
+    },
+    {
+      "spans": [
+        {
+          "offset": 10,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            324,
+            748,
+            600,
+            748,
+            600,
+            833,
+            324,
+            833
+          ]
+        }
+      ],
+      "content": "許躍薾. 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 30,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            549,
+            1443,
+            762,
+            1444,
+            761,
+            1544,
+            549,
+            1543
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 53,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            138,
+            1504,
+            216,
+            1504,
+            216,
+            1522,
+            138,
+            1521
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "51. 2. 400"
+    },
+    {
+      "spans": [
+        {
+          "offset": 64,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            83,
+            1022,
+            110,
+            1022,
+            106,
+            1436,
+            80,
+            1436
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "行政院美援運用委員會"
+    },
+    {
+      "spans": [
+        {
+          "offset": 75,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            30,
+            1537,
+            57,
+            1537,
+            56,
+            1577,
+            29,
+            1577
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "4"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        },
+        {
+          "offset": 75,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 8,
+          "length": 1
+        },
+        {
+          "offset": 30,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 63
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            125,
+            147,
+            807,
+            146,
+            807,
+            1513,
+            125,
+            1513
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 63
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5006 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "US AID/C TAIPEI TOKYO USAID A- 2 6 5\nUN CLASSIFIED\nS 8\nRequisition Number\nItem No.\nStook Humber\nNomenclature\nQu'by\n7187-2086-8600\n42\n9510-596-2574\nSteel Bar\n365 2\n1\n43\n9510-596-3781\nSteel Bar\n469 2℃\nVỤ\n44\n9520-596-3747\nSteel Ber\n814 ft\n59\n45\n9510-596-8874\nSteel Bar\n141 ft\nF\n46\n9510-596-6298\nTool Steel\n109 1%\n7187-2086-8800\n3.\n9510-596-3867\nSteel Bar\n$972 ft\n\"\n2\n9515-222-5041\nSteel Plate\n14 PM\nCLOUGH\n許躍薾 140.112.213.82\nUNCLASSIFIED\n國史饭 Academia Historica\n426",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.15309999883174896,
+      "width": 1229,
+      "height": 1586,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "US",
+          "polygon": [
+            56,
+            147,
+            83,
+            147,
+            83,
+            172,
+            56,
+            172
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 2
+          }
+        },
+        {
+          "content": "AID/C",
+          "polygon": [
+            95,
+            147,
+            161,
+            146,
+            161,
+            172,
+            95,
+            172
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 3,
+            "length": 5
+          }
+        },
+        {
+          "content": "TAIPEI",
+          "polygon": [
+            171,
+            146,
+            248,
+            146,
+            248,
+            170,
+            171,
+            172
+          ],
+          "confidence": 0.874,
+          "span": {
+            "offset": 9,
+            "length": 6
+          }
+        },
+        {
+          "content": "TOKYO",
+          "polygon": [
+            283,
+            145,
+            346,
+            145,
+            346,
+            168,
+            283,
+            169
+          ],
+          "confidence": 0.438,
+          "span": {
+            "offset": 16,
+            "length": 5
+          }
+        },
+        {
+          "content": "USAID",
+          "polygon": [
+            360,
+            145,
+            424,
+            145,
+            424,
+            168,
+            360,
+            168
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 22,
+            "length": 5
+          }
+        },
+        {
+          "content": "A-",
+          "polygon": [
+            435,
+            145,
+            462,
+            144,
+            462,
+            168,
+            435,
+            168
+          ],
+          "confidence": 0.821,
+          "span": {
+            "offset": 28,
+            "length": 2
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            468,
+            144,
+            481,
+            144,
+            481,
+            168,
+            468,
+            168
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 31,
+            "length": 1
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            493,
+            144,
+            507,
+            144,
+            507,
+            168,
+            493,
+            168
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 33,
+            "length": 1
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            519,
+            144,
+            536,
+            144,
+            536,
+            168,
+            519,
+            168
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 35,
+            "length": 1
+          }
+        },
+        {
+          "content": "UN",
+          "polygon": [
+            672,
+            142,
+            698,
+            142,
+            698,
+            163,
+            672,
+            163
+          ],
+          "confidence": 0.337,
+          "span": {
+            "offset": 37,
+            "length": 2
+          }
+        },
+        {
+          "content": "CLASSIFIED",
+          "polygon": [
+            702,
+            142,
+            829,
+            141,
+            829,
+            163,
+            702,
+            163
+          ],
+          "confidence": 0.556,
+          "span": {
+            "offset": 40,
+            "length": 10
+          }
+        },
+        {
+          "content": "S",
+          "polygon": [
+            1039,
+            143,
+            1054,
+            142,
+            1054,
+            162,
+            1039,
+            163
+          ],
+          "confidence": 0.233,
+          "span": {
+            "offset": 51,
+            "length": 1
+          }
+        },
+        {
+          "content": "8",
+          "polygon": [
+            1113,
+            143,
+            1130,
+            143,
+            1130,
+            162,
+            1113,
+            162
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 53,
+            "length": 1
+          }
+        },
+        {
+          "content": "Requisition",
+          "polygon": [
+            158,
+            250,
+            299,
+            249,
+            299,
+            270,
+            159,
+            271
+          ],
+          "confidence": 0.589,
+          "span": {
+            "offset": 55,
+            "length": 11
+          }
+        },
+        {
+          "content": "Number",
+          "polygon": [
+            309,
+            249,
+            390,
+            248,
+            390,
+            269,
+            309,
+            270
+          ],
+          "confidence": 0.549,
+          "span": {
+            "offset": 67,
+            "length": 6
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            424,
+            248,
+            476,
+            248,
+            476,
+            267,
+            425,
+            267
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 74,
+            "length": 4
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            486,
+            248,
+            525,
+            248,
+            525,
+            267,
+            486,
+            268
+          ],
+          "confidence": 0.459,
+          "span": {
+            "offset": 79,
+            "length": 3
+          }
+        },
+        {
+          "content": "Stook",
+          "polygon": [
+            559,
+            246,
+            626,
+            246,
+            626,
+            267,
+            559,
+            267
+          ],
+          "confidence": 0.947,
+          "span": {
+            "offset": 83,
+            "length": 5
+          }
+        },
+        {
+          "content": "Humber",
+          "polygon": [
+            636,
+            246,
+            714,
+            246,
+            714,
+            267,
+            636,
+            267
+          ],
+          "confidence": 0.731,
+          "span": {
+            "offset": 89,
+            "length": 6
+          }
+        },
+        {
+          "content": "Nomenclature",
+          "polygon": [
+            760,
+            245,
+            917,
+            243,
+            917,
+            264,
+            760,
+            266
+          ],
+          "confidence": 0.626,
+          "span": {
+            "offset": 96,
+            "length": 12
+          }
+        },
+        {
+          "content": "Qu'by",
+          "polygon": [
+            950,
+            243,
+            1018,
+            243,
+            1018,
+            266,
+            950,
+            266
+          ],
+          "confidence": 0.42,
+          "span": {
+            "offset": 109,
+            "length": 5
+          }
+        },
+        {
+          "content": "7187-2086-8600",
+          "polygon": [
+            184,
+            299,
+            365,
+            298,
+            365,
+            320,
+            184,
+            321
+          ],
+          "confidence": 0.703,
+          "span": {
+            "offset": 115,
+            "length": 14
+          }
+        },
+        {
+          "content": "42",
+          "polygon": [
+            460,
+            298,
+            489,
+            298,
+            489,
+            319,
+            461,
+            319
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 130,
+            "length": 2
+          }
+        },
+        {
+          "content": "9510-596-2574",
+          "polygon": [
+            549,
+            296,
+            716,
+            295,
+            716,
+            318,
+            550,
+            319
+          ],
+          "confidence": 0.678,
+          "span": {
+            "offset": 133,
+            "length": 13
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            763,
+            294,
+            828,
+            294,
+            828,
+            316,
+            763,
+            317
+          ],
+          "confidence": 0.685,
+          "span": {
+            "offset": 147,
+            "length": 5
+          }
+        },
+        {
+          "content": "Bar",
+          "polygon": [
+            842,
+            294,
+            879,
+            294,
+            879,
+            317,
+            842,
+            317
+          ],
+          "confidence": 0.873,
+          "span": {
+            "offset": 153,
+            "length": 3
+          }
+        },
+        {
+          "content": "365",
+          "polygon": [
+            951,
+            292,
+            991,
+            292,
+            991,
+            314,
+            951,
+            315
+          ],
+          "confidence": 0.76,
+          "span": {
+            "offset": 157,
+            "length": 3
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            1003,
+            292,
+            1031,
+            292,
+            1031,
+            314,
+            1003,
+            314
+          ],
+          "confidence": 0.121,
+          "span": {
+            "offset": 161,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            261,
+            336,
+            275,
+            336,
+            275,
+            349,
+            261,
+            349
+          ],
+          "confidence": 0.239,
+          "span": {
+            "offset": 163,
+            "length": 1
+          }
+        },
+        {
+          "content": "43",
+          "polygon": [
+            461,
+            336,
+            489,
+            335,
+            489,
+            356,
+            462,
+            357
+          ],
+          "confidence": 0.762,
+          "span": {
+            "offset": 165,
+            "length": 2
+          }
+        },
+        {
+          "content": "9510-596-3781",
+          "polygon": [
+            550,
+            333,
+            717,
+            332,
+            717,
+            355,
+            551,
+            356
+          ],
+          "confidence": 0.637,
+          "span": {
+            "offset": 168,
+            "length": 13
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            764,
+            332,
+            829,
+            333,
+            829,
+            354,
+            764,
+            354
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 182,
+            "length": 5
+          }
+        },
+        {
+          "content": "Bar",
+          "polygon": [
+            843,
+            333,
+            880,
+            332,
+            880,
+            354,
+            843,
+            354
+          ],
+          "confidence": 0.955,
+          "span": {
+            "offset": 188,
+            "length": 3
+          }
+        },
+        {
+          "content": "469",
+          "polygon": [
+            951,
+            331,
+            991,
+            331,
+            991,
+            352,
+            952,
+            352
+          ],
+          "confidence": 0.792,
+          "span": {
+            "offset": 192,
+            "length": 3
+          }
+        },
+        {
+          "content": "2℃",
+          "polygon": [
+            1003,
+            331,
+            1031,
+            330,
+            1031,
+            352,
+            1003,
+            352
+          ],
+          "confidence": 0.261,
+          "span": {
+            "offset": 196,
+            "length": 2
+          }
+        },
+        {
+          "content": "VỤ",
+          "polygon": [
+            262,
+            374,
+            276,
+            374,
+            276,
+            386,
+            262,
+            386
+          ],
+          "confidence": 0.077,
+          "span": {
+            "offset": 199,
+            "length": 2
+          }
+        },
+        {
+          "content": "44",
+          "polygon": [
+            462,
+            374,
+            490,
+            374,
+            490,
+            394,
+            462,
+            394
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 202,
+            "length": 2
+          }
+        },
+        {
+          "content": "9520-596-3747",
+          "polygon": [
+            551,
+            372,
+            717,
+            371,
+            717,
+            393,
+            551,
+            394
+          ],
+          "confidence": 0.671,
+          "span": {
+            "offset": 205,
+            "length": 13
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            764,
+            370,
+            828,
+            370,
+            828,
+            391,
+            764,
+            392
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 219,
+            "length": 5
+          }
+        },
+        {
+          "content": "Ber",
+          "polygon": [
+            842,
+            370,
+            880,
+            369,
+            880,
+            392,
+            842,
+            391
+          ],
+          "confidence": 0.408,
+          "span": {
+            "offset": 225,
+            "length": 3
+          }
+        },
+        {
+          "content": "814",
+          "polygon": [
+            952,
+            368,
+            992,
+            368,
+            992,
+            391,
+            952,
+            391
+          ],
+          "confidence": 0.65,
+          "span": {
+            "offset": 229,
+            "length": 3
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            1005,
+            368,
+            1031,
+            368,
+            1031,
+            390,
+            1005,
+            390
+          ],
+          "confidence": 0.202,
+          "span": {
+            "offset": 233,
+            "length": 2
+          }
+        },
+        {
+          "content": "59",
+          "polygon": [
+            261,
+            411,
+            276,
+            411,
+            276,
+            424,
+            261,
+            424
+          ],
+          "confidence": 0.45,
+          "span": {
+            "offset": 236,
+            "length": 2
+          }
+        },
+        {
+          "content": "45",
+          "polygon": [
+            463,
+            411,
+            491,
+            411,
+            491,
+            431,
+            463,
+            431
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 239,
+            "length": 2
+          }
+        },
+        {
+          "content": "9510-596-8874",
+          "polygon": [
+            551,
+            409,
+            718,
+            408,
+            718,
+            431,
+            551,
+            432
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 242,
+            "length": 13
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            764,
+            407,
+            829,
+            407,
+            829,
+            429,
+            764,
+            429
+          ],
+          "confidence": 0.937,
+          "span": {
+            "offset": 256,
+            "length": 5
+          }
+        },
+        {
+          "content": "Bar",
+          "polygon": [
+            844,
+            407,
+            882,
+            407,
+            882,
+            429,
+            844,
+            429
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 262,
+            "length": 3
+          }
+        },
+        {
+          "content": "141",
+          "polygon": [
+            954,
+            405,
+            993,
+            405,
+            993,
+            427,
+            954,
+            427
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 266,
+            "length": 3
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            1005,
+            405,
+            1032,
+            405,
+            1032,
+            427,
+            1005,
+            427
+          ],
+          "confidence": 0.842,
+          "span": {
+            "offset": 270,
+            "length": 2
+          }
+        },
+        {
+          "content": "F",
+          "polygon": [
+            263,
+            449,
+            276,
+            449,
+            276,
+            462,
+            263,
+            462
+          ],
+          "confidence": 0.105,
+          "span": {
+            "offset": 273,
+            "length": 1
+          }
+        },
+        {
+          "content": "46",
+          "polygon": [
+            463,
+            449,
+            492,
+            449,
+            492,
+            468,
+            463,
+            468
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 275,
+            "length": 2
+          }
+        },
+        {
+          "content": "9510-596-6298",
+          "polygon": [
+            551,
+            447,
+            719,
+            446,
+            719,
+            468,
+            552,
+            469
+          ],
+          "confidence": 0.906,
+          "span": {
+            "offset": 278,
+            "length": 13
+          }
+        },
+        {
+          "content": "Tool",
+          "polygon": [
+            765,
+            444,
+            817,
+            444,
+            817,
+            467,
+            765,
+            467
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 292,
+            "length": 4
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            830,
+            444,
+            894,
+            444,
+            894,
+            466,
+            830,
+            467
+          ],
+          "confidence": 0.946,
+          "span": {
+            "offset": 297,
+            "length": 5
+          }
+        },
+        {
+          "content": "109",
+          "polygon": [
+            955,
+            443,
+            993,
+            443,
+            993,
+            465,
+            955,
+            465
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 303,
+            "length": 3
+          }
+        },
+        {
+          "content": "1%",
+          "polygon": [
+            1005,
+            443,
+            1033,
+            443,
+            1033,
+            465,
+            1005,
+            465
+          ],
+          "confidence": 0.07,
+          "span": {
+            "offset": 307,
+            "length": 2
+          }
+        },
+        {
+          "content": "7187-2086-8800",
+          "polygon": [
+            186,
+            500,
+            366,
+            500,
+            366,
+            522,
+            187,
+            523
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 310,
+            "length": 14
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            478,
+            499,
+            492,
+            499,
+            492,
+            520,
+            478,
+            520
+          ],
+          "confidence": 0.443,
+          "span": {
+            "offset": 325,
+            "length": 2
+          }
+        },
+        {
+          "content": "9510-596-3867",
+          "polygon": [
+            552,
+            498,
+            719,
+            497,
+            719,
+            520,
+            552,
+            521
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 328,
+            "length": 13
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            766,
+            496,
+            831,
+            496,
+            831,
+            518,
+            766,
+            518
+          ],
+          "confidence": 0.928,
+          "span": {
+            "offset": 342,
+            "length": 5
+          }
+        },
+        {
+          "content": "Bar",
+          "polygon": [
+            843,
+            496,
+            883,
+            496,
+            883,
+            518,
+            843,
+            518
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 348,
+            "length": 3
+          }
+        },
+        {
+          "content": "$972",
+          "polygon": [
+            942,
+            494,
+            993,
+            495,
+            993,
+            517,
+            942,
+            517
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 352,
+            "length": 4
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            1007,
+            494,
+            1033,
+            494,
+            1033,
+            517,
+            1007,
+            517
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 357,
+            "length": 2
+          }
+        },
+        {
+          "content": "\"",
+          "polygon": [
+            264,
+            537,
+            278,
+            537,
+            278,
+            550,
+            264,
+            551
+          ],
+          "confidence": 0.062,
+          "span": {
+            "offset": 360,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            477,
+            537,
+            493,
+            537,
+            493,
+            557,
+            477,
+            557
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 362,
+            "length": 1
+          }
+        },
+        {
+          "content": "9515-222-5041",
+          "polygon": [
+            553,
+            535,
+            720,
+            534,
+            720,
+            557,
+            553,
+            558
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 364,
+            "length": 13
+          }
+        },
+        {
+          "content": "Steel",
+          "polygon": [
+            766,
+            534,
+            831,
+            534,
+            831,
+            555,
+            767,
+            555
+          ],
+          "confidence": 0.859,
+          "span": {
+            "offset": 378,
+            "length": 5
+          }
+        },
+        {
+          "content": "Plate",
+          "polygon": [
+            845,
+            534,
+            910,
+            533,
+            910,
+            555,
+            845,
+            555
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 384,
+            "length": 5
+          }
+        },
+        {
+          "content": "14",
+          "polygon": [
+            968,
+            532,
+            994,
+            532,
+            994,
+            554,
+            968,
+            554
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 390,
+            "length": 2
+          }
+        },
+        {
+          "content": "PM",
+          "polygon": [
+            1006,
+            532,
+            1035,
+            532,
+            1035,
+            554,
+            1006,
+            554
+          ],
+          "confidence": 0.845,
+          "span": {
+            "offset": 393,
+            "length": 2
+          }
+        },
+        {
+          "content": "CLOUGH",
+          "polygon": [
+            745,
+            647,
+            824,
+            647,
+            824,
+            668,
+            745,
+            668
+          ],
+          "confidence": 0.632,
+          "span": {
+            "offset": 396,
+            "length": 6
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            555,
+            740,
+            581,
+            740,
+            581,
+            780,
+            555,
+            780
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 403,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            592,
+            740,
+            617,
+            740,
+            617,
+            780,
+            592,
+            780
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 404,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            633,
+            740,
+            673,
+            740,
+            673,
+            780,
+            633,
+            780
+          ],
+          "confidence": 0.887,
+          "span": {
+            "offset": 405,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            470,
+            789,
+            750,
+            789,
+            750,
+            826,
+            470,
+            827
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 407,
+            "length": 14
+          }
+        },
+        {
+          "content": "UNCLASSIFIED",
+          "polygon": [
+            552,
+            1424,
+            708,
+            1423,
+            708,
+            1445,
+            553,
+            1447
+          ],
+          "confidence": 0.722,
+          "span": {
+            "offset": 422,
+            "length": 12
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            869,
+            1429,
+            916,
+            1430,
+            916,
+            1499,
+            869,
+            1500
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 435,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            924,
+            1429,
+            973,
+            1428,
+            973,
+            1501,
+            924,
+            1500
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 436,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            980,
+            1428,
+            1062,
+            1429,
+            1062,
+            1502,
+            980,
+            1502
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 437,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            847,
+            1504,
+            954,
+            1504,
+            954,
+            1529,
+            847,
+            1530
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 439,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            962,
+            1504,
+            1058,
+            1505,
+            1058,
+            1530,
+            962,
+            1529
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 448,
+            "length": 9
+          }
+        },
+        {
+          "content": "426",
+          "polygon": [
+            17,
+            1522,
+            83,
+            1518,
+            83,
+            1563,
+            18,
+            1566
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 458,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "US AID/C TAIPEI",
+          "polygon": [
+            56,
+            147,
+            247,
+            145,
+            248,
+            170,
+            56,
+            172
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "TOKYO USAID A- 2 6 5",
+          "polygon": [
+            283,
+            145,
+            536,
+            144,
+            536,
+            167,
+            283,
+            169
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "UN CLASSIFIED",
+          "polygon": [
+            672,
+            142,
+            828,
+            141,
+            828,
+            162,
+            672,
+            163
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "S",
+          "polygon": [
+            1039,
+            142,
+            1054,
+            142,
+            1054,
+            162,
+            1039,
+            162
+          ],
+          "spans": [
+            {
+              "offset": 51,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "8",
+          "polygon": [
+            1113,
+            143,
+            1129,
+            143,
+            1129,
+            162,
+            1113,
+            162
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "Requisition Number",
+          "polygon": [
+            158,
+            249,
+            390,
+            248,
+            390,
+            269,
+            159,
+            271
+          ],
+          "spans": [
+            {
+              "offset": 55,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "Item No.",
+          "polygon": [
+            424,
+            247,
+            525,
+            248,
+            525,
+            267,
+            424,
+            267
+          ],
+          "spans": [
+            {
+              "offset": 74,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Stook Humber",
+          "polygon": [
+            559,
+            246,
+            713,
+            246,
+            713,
+            266,
+            559,
+            266
+          ],
+          "spans": [
+            {
+              "offset": 83,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Nomenclature",
+          "polygon": [
+            760,
+            245,
+            917,
+            243,
+            917,
+            264,
+            760,
+            265
+          ],
+          "spans": [
+            {
+              "offset": 96,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Qu'by",
+          "polygon": [
+            950,
+            243,
+            1018,
+            243,
+            1018,
+            266,
+            950,
+            265
+          ],
+          "spans": [
+            {
+              "offset": 109,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "7187-2086-8600",
+          "polygon": [
+            184,
+            299,
+            365,
+            298,
+            365,
+            320,
+            184,
+            321
+          ],
+          "spans": [
+            {
+              "offset": 115,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "42",
+          "polygon": [
+            460,
+            298,
+            488,
+            298,
+            488,
+            318,
+            460,
+            318
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "9510-596-2574",
+          "polygon": [
+            549,
+            296,
+            715,
+            295,
+            715,
+            317,
+            549,
+            319
+          ],
+          "spans": [
+            {
+              "offset": 133,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Steel Bar",
+          "polygon": [
+            763,
+            294,
+            879,
+            294,
+            879,
+            316,
+            763,
+            317
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "365 2",
+          "polygon": [
+            951,
+            292,
+            1030,
+            292,
+            1030,
+            314,
+            951,
+            314
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            261,
+            336,
+            275,
+            336,
+            275,
+            349,
+            261,
+            349
+          ],
+          "spans": [
+            {
+              "offset": 163,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "43",
+          "polygon": [
+            461,
+            336,
+            489,
+            335,
+            489,
+            356,
+            462,
+            356
+          ],
+          "spans": [
+            {
+              "offset": 165,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "9510-596-3781",
+          "polygon": [
+            550,
+            333,
+            716,
+            332,
+            717,
+            355,
+            550,
+            356
+          ],
+          "spans": [
+            {
+              "offset": 168,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Steel Bar",
+          "polygon": [
+            764,
+            332,
+            880,
+            332,
+            880,
+            353,
+            764,
+            354
+          ],
+          "spans": [
+            {
+              "offset": 182,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "469 2℃",
+          "polygon": [
+            951,
+            331,
+            1031,
+            330,
+            1031,
+            352,
+            952,
+            352
+          ],
+          "spans": [
+            {
+              "offset": 192,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "VỤ",
+          "polygon": [
+            262,
+            374,
+            275,
+            374,
+            275,
+            386,
+            262,
+            386
+          ],
+          "spans": [
+            {
+              "offset": 199,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "44",
+          "polygon": [
+            462,
+            374,
+            489,
+            374,
+            489,
+            394,
+            462,
+            394
+          ],
+          "spans": [
+            {
+              "offset": 202,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "9520-596-3747",
+          "polygon": [
+            551,
+            371,
+            717,
+            371,
+            717,
+            393,
+            551,
+            394
+          ],
+          "spans": [
+            {
+              "offset": 205,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Steel Ber",
+          "polygon": [
+            764,
+            369,
+            880,
+            369,
+            880,
+            391,
+            764,
+            391
+          ],
+          "spans": [
+            {
+              "offset": 219,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "814 ft",
+          "polygon": [
+            952,
+            368,
+            1031,
+            368,
+            1031,
+            390,
+            952,
+            390
+          ],
+          "spans": [
+            {
+              "offset": 229,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "59",
+          "polygon": [
+            261,
+            411,
+            276,
+            411,
+            276,
+            424,
+            261,
+            424
+          ],
+          "spans": [
+            {
+              "offset": 236,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "45",
+          "polygon": [
+            463,
+            411,
+            491,
+            411,
+            491,
+            431,
+            463,
+            431
+          ],
+          "spans": [
+            {
+              "offset": 239,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "9510-596-8874",
+          "polygon": [
+            551,
+            409,
+            717,
+            408,
+            717,
+            430,
+            551,
+            432
+          ],
+          "spans": [
+            {
+              "offset": 242,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Steel Bar",
+          "polygon": [
+            764,
+            407,
+            881,
+            407,
+            881,
+            429,
+            764,
+            429
+          ],
+          "spans": [
+            {
+              "offset": 256,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "141 ft",
+          "polygon": [
+            954,
+            405,
+            1032,
+            405,
+            1032,
+            427,
+            954,
+            427
+          ],
+          "spans": [
+            {
+              "offset": 266,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "F",
+          "polygon": [
+            263,
+            449,
+            276,
+            449,
+            276,
+            462,
+            263,
+            462
+          ],
+          "spans": [
+            {
+              "offset": 273,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "46",
+          "polygon": [
+            463,
+            449,
+            491,
+            449,
+            491,
+            468,
+            463,
+            468
+          ],
+          "spans": [
+            {
+              "offset": 275,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "9510-596-6298",
+          "polygon": [
+            551,
+            447,
+            718,
+            446,
+            718,
+            468,
+            551,
+            469
+          ],
+          "spans": [
+            {
+              "offset": 278,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Tool Steel",
+          "polygon": [
+            765,
+            444,
+            893,
+            443,
+            893,
+            466,
+            765,
+            467
+          ],
+          "spans": [
+            {
+              "offset": 292,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "109 1%",
+          "polygon": [
+            955,
+            443,
+            1032,
+            443,
+            1032,
+            465,
+            955,
+            465
+          ],
+          "spans": [
+            {
+              "offset": 303,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "7187-2086-8800",
+          "polygon": [
+            186,
+            500,
+            365,
+            500,
+            365,
+            522,
+            186,
+            522
+          ],
+          "spans": [
+            {
+              "offset": 310,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            478,
+            499,
+            491,
+            499,
+            492,
+            520,
+            478,
+            520
+          ],
+          "spans": [
+            {
+              "offset": 325,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "9510-596-3867",
+          "polygon": [
+            552,
+            498,
+            719,
+            497,
+            719,
+            519,
+            552,
+            520
+          ],
+          "spans": [
+            {
+              "offset": 328,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Steel Bar",
+          "polygon": [
+            766,
+            496,
+            882,
+            496,
+            882,
+            518,
+            766,
+            518
+          ],
+          "spans": [
+            {
+              "offset": 342,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "$972 ft",
+          "polygon": [
+            942,
+            494,
+            1033,
+            494,
+            1033,
+            516,
+            942,
+            517
+          ],
+          "spans": [
+            {
+              "offset": 352,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "\"",
+          "polygon": [
+            264,
+            537,
+            278,
+            537,
+            278,
+            550,
+            264,
+            550
+          ],
+          "spans": [
+            {
+              "offset": 360,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            477,
+            537,
+            492,
+            537,
+            492,
+            557,
+            477,
+            557
+          ],
+          "spans": [
+            {
+              "offset": 362,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "9515-222-5041",
+          "polygon": [
+            553,
+            535,
+            719,
+            534,
+            719,
+            557,
+            553,
+            558
+          ],
+          "spans": [
+            {
+              "offset": 364,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Steel Plate",
+          "polygon": [
+            766,
+            534,
+            910,
+            533,
+            910,
+            555,
+            766,
+            555
+          ],
+          "spans": [
+            {
+              "offset": 378,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "14 PM",
+          "polygon": [
+            968,
+            532,
+            1034,
+            532,
+            1034,
+            554,
+            968,
+            554
+          ],
+          "spans": [
+            {
+              "offset": 390,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "CLOUGH",
+          "polygon": [
+            745,
+            647,
+            823,
+            647,
+            823,
+            668,
+            745,
+            668
+          ],
+          "spans": [
+            {
+              "offset": 396,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "許躍薾",
+          "polygon": [
+            555,
+            740,
+            673,
+            740,
+            673,
+            779,
+            555,
+            779
+          ],
+          "spans": [
+            {
+              "offset": 403,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            470,
+            789,
+            749,
+            789,
+            749,
+            825,
+            470,
+            826
+          ],
+          "spans": [
+            {
+              "offset": 407,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "UNCLASSIFIED",
+          "polygon": [
+            552,
+            1424,
+            707,
+            1423,
+            707,
+            1445,
+            552,
+            1446
+          ],
+          "spans": [
+            {
+              "offset": 422,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            869,
+            1428,
+            1061,
+            1428,
+            1061,
+            1502,
+            869,
+            1501
+          ],
+          "spans": [
+            {
+              "offset": 435,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            847,
+            1503,
+            1058,
+            1504,
+            1058,
+            1529,
+            847,
+            1529
+          ],
+          "spans": [
+            {
+              "offset": 439,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "426",
+          "polygon": [
+            17,
+            1521,
+            82,
+            1519,
+            83,
+            1563,
+            18,
+            1565
+          ],
+          "spans": [
+            {
+              "offset": 458,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 461
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 8,
+      "columnCount": 6,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Requisition Number",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                238,
+                406,
+                236,
+                406,
+                272,
+                150,
+                273
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 55,
+              "length": 18
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Item No.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                236,
+                536,
+                235,
+                536,
+                271,
+                406,
+                272
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 74,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Stook Humber",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                536,
+                235,
+                738,
+                234,
+                738,
+                270,
+                536,
+                271
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 83,
+              "length": 12
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "Nomenclature",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                234,
+                929,
+                233,
+                929,
+                268,
+                738,
+                270
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 96,
+              "length": 12
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "Qu'by",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                233,
+                1041,
+                233,
+                1041,
+                267,
+                929,
+                268
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 109,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "7187-2086-8600",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                273,
+                406,
+                272,
+                406,
+                326,
+                150,
+                328
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 115,
+              "length": 14
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "42",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                272,
+                536,
+                271,
+                536,
+                325,
+                406,
+                326
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "9510-596-2574",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                536,
+                271,
+                738,
+                270,
+                738,
+                324,
+                536,
+                325
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 133,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "Steel Bar",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                270,
+                929,
+                268,
+                929,
+                322,
+                738,
+                324
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "365 2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                268,
+                1041,
+                267,
+                1042,
+                321,
+                929,
+                322
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                328,
+                406,
+                326,
+                406,
+                363,
+                150,
+                364
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 163,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "43",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                326,
+                536,
+                325,
+                536,
+                362,
+                406,
+                363
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 165,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "9510-596-3781",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                536,
+                325,
+                738,
+                324,
+                739,
+                360,
+                536,
+                362
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 168,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "Steel Bar",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                324,
+                929,
+                322,
+                929,
+                359,
+                739,
+                360
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 182,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "469 2℃",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                322,
+                1042,
+                321,
+                1042,
+                358,
+                929,
+                359
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 192,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "VỤ",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                364,
+                406,
+                363,
+                406,
+                400,
+                150,
+                402
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 199,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "44",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                363,
+                536,
+                362,
+                537,
+                400,
+                406,
+                400
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 202,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "9520-596-3747",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                536,
+                362,
+                739,
+                360,
+                739,
+                398,
+                537,
+                400
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 205,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "Steel Ber",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                739,
+                360,
+                929,
+                359,
+                929,
+                397,
+                739,
+                398
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 219,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "814 ft",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                359,
+                1042,
+                358,
+                1042,
+                396,
+                929,
+                397
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 229,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "59",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                402,
+                406,
+                400,
+                406,
+                438,
+                150,
+                439
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 236,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/23"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "45",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                400,
+                537,
+                400,
+                537,
+                437,
+                406,
+                438
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 239,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/24"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "9510-596-8874",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                400,
+                739,
+                398,
+                739,
+                436,
+                537,
+                437
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 242,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/25"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 3,
+          "content": "Steel Bar",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                739,
+                398,
+                929,
+                397,
+                929,
+                435,
+                739,
+                436
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 256,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/26"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "141 ft",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                397,
+                1042,
+                396,
+                1043,
+                435,
+                929,
+                435
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 266,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/27"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "F",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                439,
+                406,
+                438,
+                406,
+                483,
+                150,
+                484
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 273,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/28"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "46",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                438,
+                537,
+                437,
+                537,
+                482,
+                406,
+                483
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 275,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/29"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "9510-596-6298",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                437,
+                739,
+                436,
+                740,
+                481,
+                537,
+                482
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 278,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/30"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 3,
+          "content": "Tool Steel",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                739,
+                436,
+                929,
+                435,
+                929,
+                480,
+                740,
+                481
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 292,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/31"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "109 1%",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                435,
+                1043,
+                435,
+                1043,
+                480,
+                929,
+                480
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 303,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/32"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "7187-2086-8800",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                484,
+                406,
+                483,
+                406,
+                528,
+                150,
+                530
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 310,
+              "length": 14
+            }
+          ],
+          "elements": [
+            "/paragraphs/33"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "3.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                483,
+                537,
+                482,
+                537,
+                527,
+                406,
+                528
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 325,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/34"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "9510-596-3867",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                482,
+                740,
+                481,
+                740,
+                526,
+                537,
+                527
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 328,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/35"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 3,
+          "content": "Steel Bar",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                481,
+                929,
+                480,
+                930,
+                525,
+                740,
+                526
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 342,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/36"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 4,
+          "columnSpan": 2,
+          "content": "$972 ft",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                929,
+                480,
+                1043,
+                480,
+                1044,
+                525,
+                930,
+                525
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 352,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/37"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "content": "\"",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                150,
+                530,
+                406,
+                528,
+                406,
+                565,
+                150,
+                566
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 360,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/38"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 1,
+          "content": "2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                528,
+                537,
+                527,
+                538,
+                564,
+                406,
+                565
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 362,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/39"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "content": "9515-222-5041",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                527,
+                740,
+                526,
+                740,
+                563,
+                538,
+                564
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 364,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/40"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 3,
+          "content": "Steel Plate",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                526,
+                930,
+                525,
+                930,
+                563,
+                740,
+                563
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 378,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/41"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 4,
+          "content": "14",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                930,
+                525,
+                996,
+                525,
+                996,
+                563,
+                930,
+                563
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 390,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/42"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 5,
+          "content": "PM",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                996,
+                525,
+                1044,
+                525,
+                1044,
+                563,
+                996,
+                563
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 393,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/43"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            158,
+            240,
+            1040,
+            239,
+            1041,
+            559,
+            159,
+            559
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 55,
+          "length": 340
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 36
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            56,
+            147,
+            536,
+            143,
+            536,
+            168,
+            56,
+            172
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "US AID/C TAIPEI TOKYO USAID A- 2 6 5"
+    },
+    {
+      "spans": [
+        {
+          "offset": 37,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            672,
+            142,
+            828,
+            141,
+            828,
+            162,
+            672,
+            163
+          ]
+        }
+      ],
+      "content": "UN CLASSIFIED"
+    },
+    {
+      "spans": [
+        {
+          "offset": 51,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1039,
+            142,
+            1129,
+            142,
+            1129,
+            162,
+            1039,
+            162
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "S 8"
+    },
+    {
+      "spans": [
+        {
+          "offset": 55,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            238,
+            406,
+            236,
+            406,
+            272,
+            150,
+            273
+          ]
+        }
+      ],
+      "content": "Requisition Number"
+    },
+    {
+      "spans": [
+        {
+          "offset": 74,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            236,
+            536,
+            235,
+            536,
+            271,
+            406,
+            272
+          ]
+        }
+      ],
+      "content": "Item No."
+    },
+    {
+      "spans": [
+        {
+          "offset": 83,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            536,
+            235,
+            738,
+            234,
+            738,
+            270,
+            536,
+            271
+          ]
+        }
+      ],
+      "content": "Stook Humber"
+    },
+    {
+      "spans": [
+        {
+          "offset": 96,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            234,
+            929,
+            233,
+            929,
+            268,
+            738,
+            270
+          ]
+        }
+      ],
+      "content": "Nomenclature"
+    },
+    {
+      "spans": [
+        {
+          "offset": 109,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            233,
+            1041,
+            233,
+            1041,
+            267,
+            929,
+            268
+          ]
+        }
+      ],
+      "content": "Qu'by"
+    },
+    {
+      "spans": [
+        {
+          "offset": 115,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            273,
+            406,
+            272,
+            406,
+            326,
+            150,
+            328
+          ]
+        }
+      ],
+      "content": "7187-2086-8600"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            272,
+            536,
+            271,
+            536,
+            325,
+            406,
+            326
+          ]
+        }
+      ],
+      "content": "42"
+    },
+    {
+      "spans": [
+        {
+          "offset": 133,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            536,
+            271,
+            738,
+            270,
+            738,
+            324,
+            536,
+            325
+          ]
+        }
+      ],
+      "content": "9510-596-2574"
+    },
+    {
+      "spans": [
+        {
+          "offset": 147,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            270,
+            929,
+            268,
+            929,
+            322,
+            738,
+            324
+          ]
+        }
+      ],
+      "content": "Steel Bar"
+    },
+    {
+      "spans": [
+        {
+          "offset": 157,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            268,
+            1041,
+            267,
+            1042,
+            321,
+            929,
+            322
+          ]
+        }
+      ],
+      "content": "365 2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 163,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            328,
+            406,
+            326,
+            406,
+            363,
+            150,
+            364
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 165,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            326,
+            536,
+            325,
+            536,
+            362,
+            406,
+            363
+          ]
+        }
+      ],
+      "content": "43"
+    },
+    {
+      "spans": [
+        {
+          "offset": 168,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            536,
+            325,
+            738,
+            324,
+            739,
+            360,
+            536,
+            362
+          ]
+        }
+      ],
+      "content": "9510-596-3781"
+    },
+    {
+      "spans": [
+        {
+          "offset": 182,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            324,
+            929,
+            322,
+            929,
+            359,
+            739,
+            360
+          ]
+        }
+      ],
+      "content": "Steel Bar"
+    },
+    {
+      "spans": [
+        {
+          "offset": 192,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            322,
+            1042,
+            321,
+            1042,
+            358,
+            929,
+            359
+          ]
+        }
+      ],
+      "content": "469 2℃"
+    },
+    {
+      "spans": [
+        {
+          "offset": 199,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            364,
+            406,
+            363,
+            406,
+            400,
+            150,
+            402
+          ]
+        }
+      ],
+      "content": "VỤ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 202,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            363,
+            536,
+            362,
+            537,
+            400,
+            406,
+            400
+          ]
+        }
+      ],
+      "content": "44"
+    },
+    {
+      "spans": [
+        {
+          "offset": 205,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            536,
+            362,
+            739,
+            360,
+            739,
+            398,
+            537,
+            400
+          ]
+        }
+      ],
+      "content": "9520-596-3747"
+    },
+    {
+      "spans": [
+        {
+          "offset": 219,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            739,
+            360,
+            929,
+            359,
+            929,
+            397,
+            739,
+            398
+          ]
+        }
+      ],
+      "content": "Steel Ber"
+    },
+    {
+      "spans": [
+        {
+          "offset": 229,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            359,
+            1042,
+            358,
+            1042,
+            396,
+            929,
+            397
+          ]
+        }
+      ],
+      "content": "814 ft"
+    },
+    {
+      "spans": [
+        {
+          "offset": 236,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            402,
+            406,
+            400,
+            406,
+            438,
+            150,
+            439
+          ]
+        }
+      ],
+      "content": "59"
+    },
+    {
+      "spans": [
+        {
+          "offset": 239,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            400,
+            537,
+            400,
+            537,
+            437,
+            406,
+            438
+          ]
+        }
+      ],
+      "content": "45"
+    },
+    {
+      "spans": [
+        {
+          "offset": 242,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            537,
+            400,
+            739,
+            398,
+            739,
+            436,
+            537,
+            437
+          ]
+        }
+      ],
+      "content": "9510-596-8874"
+    },
+    {
+      "spans": [
+        {
+          "offset": 256,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            739,
+            398,
+            929,
+            397,
+            929,
+            435,
+            739,
+            436
+          ]
+        }
+      ],
+      "content": "Steel Bar"
+    },
+    {
+      "spans": [
+        {
+          "offset": 266,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            397,
+            1042,
+            396,
+            1043,
+            435,
+            929,
+            435
+          ]
+        }
+      ],
+      "content": "141 ft"
+    },
+    {
+      "spans": [
+        {
+          "offset": 273,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            439,
+            406,
+            438,
+            406,
+            483,
+            150,
+            484
+          ]
+        }
+      ],
+      "content": "F"
+    },
+    {
+      "spans": [
+        {
+          "offset": 275,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            438,
+            537,
+            437,
+            537,
+            482,
+            406,
+            483
+          ]
+        }
+      ],
+      "content": "46"
+    },
+    {
+      "spans": [
+        {
+          "offset": 278,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            537,
+            437,
+            739,
+            436,
+            740,
+            481,
+            537,
+            482
+          ]
+        }
+      ],
+      "content": "9510-596-6298"
+    },
+    {
+      "spans": [
+        {
+          "offset": 292,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            739,
+            436,
+            929,
+            435,
+            929,
+            480,
+            740,
+            481
+          ]
+        }
+      ],
+      "content": "Tool Steel"
+    },
+    {
+      "spans": [
+        {
+          "offset": 303,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            435,
+            1043,
+            435,
+            1043,
+            480,
+            929,
+            480
+          ]
+        }
+      ],
+      "content": "109 1%"
+    },
+    {
+      "spans": [
+        {
+          "offset": 310,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            484,
+            406,
+            483,
+            406,
+            528,
+            150,
+            530
+          ]
+        }
+      ],
+      "content": "7187-2086-8800"
+    },
+    {
+      "spans": [
+        {
+          "offset": 325,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            483,
+            537,
+            482,
+            537,
+            527,
+            406,
+            528
+          ]
+        }
+      ],
+      "content": "3."
+    },
+    {
+      "spans": [
+        {
+          "offset": 328,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            537,
+            482,
+            740,
+            481,
+            740,
+            526,
+            537,
+            527
+          ]
+        }
+      ],
+      "content": "9510-596-3867"
+    },
+    {
+      "spans": [
+        {
+          "offset": 342,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            481,
+            929,
+            480,
+            930,
+            525,
+            740,
+            526
+          ]
+        }
+      ],
+      "content": "Steel Bar"
+    },
+    {
+      "spans": [
+        {
+          "offset": 352,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            480,
+            1043,
+            480,
+            1044,
+            525,
+            930,
+            525
+          ]
+        }
+      ],
+      "content": "$972 ft"
+    },
+    {
+      "spans": [
+        {
+          "offset": 360,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            530,
+            406,
+            528,
+            406,
+            565,
+            150,
+            566
+          ]
+        }
+      ],
+      "content": "\""
+    },
+    {
+      "spans": [
+        {
+          "offset": 362,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            528,
+            537,
+            527,
+            538,
+            564,
+            406,
+            565
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 364,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            537,
+            527,
+            740,
+            526,
+            740,
+            563,
+            538,
+            564
+          ]
+        }
+      ],
+      "content": "9515-222-5041"
+    },
+    {
+      "spans": [
+        {
+          "offset": 378,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            526,
+            930,
+            525,
+            930,
+            563,
+            740,
+            563
+          ]
+        }
+      ],
+      "content": "Steel Plate"
+    },
+    {
+      "spans": [
+        {
+          "offset": 390,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            930,
+            525,
+            996,
+            525,
+            996,
+            563,
+            930,
+            563
+          ]
+        }
+      ],
+      "content": "14"
+    },
+    {
+      "spans": [
+        {
+          "offset": 393,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            996,
+            525,
+            1044,
+            525,
+            1044,
+            563,
+            996,
+            563
+          ]
+        }
+      ],
+      "content": "PM"
+    },
+    {
+      "spans": [
+        {
+          "offset": 396,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            745,
+            647,
+            823,
+            647,
+            823,
+            668,
+            745,
+            668
+          ]
+        }
+      ],
+      "content": "CLOUGH"
+    },
+    {
+      "spans": [
+        {
+          "offset": 403,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            470,
+            740,
+            749,
+            740,
+            749,
+            825,
+            470,
+            826
+          ]
+        }
+      ],
+      "content": "許躍薾 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 422,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            552,
+            1424,
+            707,
+            1423,
+            707,
+            1445,
+            552,
+            1446
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "UNCLASSIFIED"
+    },
+    {
+      "spans": [
+        {
+          "offset": 435,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            847,
+            1428,
+            1061,
+            1428,
+            1061,
+            1529,
+            847,
+            1529
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 458,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            16,
+            1521,
+            82,
+            1519,
+            83,
+            1563,
+            18,
+            1565
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "426"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 53,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 109,
+          "length": 5
+        },
+        {
+          "offset": 236,
+          "length": 2
+        },
+        {
+          "offset": 435,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 266,
+          "length": 6
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 458,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 37,
+          "length": 13
+        },
+        {
+          "offset": 55,
+          "length": 366
+        },
+        {
+          "offset": 435,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/44",
+        "/paragraphs/45",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            850,
+            1422,
+            1184,
+            1422,
+            1184,
+            1539,
+            850,
+            1539
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 435,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/47"
+      ]
+    }
+  ]
+}

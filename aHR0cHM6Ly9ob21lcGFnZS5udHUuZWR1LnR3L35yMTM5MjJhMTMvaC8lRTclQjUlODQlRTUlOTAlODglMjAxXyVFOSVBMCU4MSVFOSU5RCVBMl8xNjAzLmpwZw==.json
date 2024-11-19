@@ -1,0 +1,4259 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "C/R (SI) OPP40\nDate: May 16, 1962\nShipment NO. 224-3 Ex. James Lykes Arr. April 30, 1962 Keelung PIO/C-10218 P.O. 361-087\nQtly & Unit\nDescription\nwt. (Lb. ) Cu.ft.\nFour Crate\nTransformer, 37.5 KVA 7620/13200Y(PKG NO.1)\nPrimary Voltage, 240/480 Secondary\n4,480\n153.4\nVoltage, \"General Electric Co.\" (PKG NO.2)\n6 ea.\n(PKG NO.3)\n3,935\n153.4\nTransformer, 15 KVA 7620/13200Y\n2,735\n115.7\nPrimary Voltage, 240/480 Secondary (PKG NO.4)\nVoltage, \"General Electric Co.\" 6 ea.\n1,620\n82.6\nTransformer, 7.5 KVA 7620/13900Y Primary Voltage, 120/240 Secondary Voltage, \"General Electric Co.\" 5 ea.\n/ / / Say four crates only / / /\n2\nAcademia Historica\n365",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.29182058572769165,
+      "width": 1290,
+      "height": 1712,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "C/R",
+          "polygon": [
+            499,
+            283,
+            568,
+            282,
+            568,
+            317,
+            499,
+            318
+          ],
+          "confidence": 0.714,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "(SI)",
+          "polygon": [
+            576,
+            282,
+            646,
+            280,
+            647,
+            315,
+            576,
+            317
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 4,
+            "length": 4
+          }
+        },
+        {
+          "content": "OPP40",
+          "polygon": [
+            668,
+            278,
+            769,
+            275,
+            769,
+            309,
+            669,
+            314
+          ],
+          "confidence": 0.425,
+          "span": {
+            "offset": 9,
+            "length": 5
+          }
+        },
+        {
+          "content": "Date:",
+          "polygon": [
+            781,
+            369,
+            842,
+            369,
+            842,
+            394,
+            781,
+            394
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 15,
+            "length": 5
+          }
+        },
+        {
+          "content": "May",
+          "polygon": [
+            853,
+            369,
+            896,
+            369,
+            896,
+            394,
+            853,
+            394
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 21,
+            "length": 3
+          }
+        },
+        {
+          "content": "16,",
+          "polygon": [
+            907,
+            369,
+            943,
+            369,
+            943,
+            394,
+            907,
+            394
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 25,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            951,
+            369,
+            1008,
+            369,
+            1008,
+            394,
+            951,
+            394
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 29,
+            "length": 4
+          }
+        },
+        {
+          "content": "Shipment",
+          "polygon": [
+            217,
+            415,
+            318,
+            416,
+            318,
+            439,
+            217,
+            438
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 34,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            331,
+            416,
+            370,
+            416,
+            370,
+            439,
+            330,
+            439
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 43,
+            "length": 3
+          }
+        },
+        {
+          "content": "224-3",
+          "polygon": [
+            382,
+            416,
+            446,
+            416,
+            446,
+            439,
+            381,
+            439
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 47,
+            "length": 5
+          }
+        },
+        {
+          "content": "Ex.",
+          "polygon": [
+            218,
+            441,
+            256,
+            441,
+            256,
+            462,
+            218,
+            462
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 53,
+            "length": 3
+          }
+        },
+        {
+          "content": "James",
+          "polygon": [
+            262,
+            441,
+            332,
+            441,
+            331,
+            463,
+            262,
+            462
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 57,
+            "length": 5
+          }
+        },
+        {
+          "content": "Lykes",
+          "polygon": [
+            342,
+            441,
+            409,
+            441,
+            409,
+            463,
+            342,
+            463
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 63,
+            "length": 5
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            221,
+            466,
+            266,
+            466,
+            266,
+            488,
+            220,
+            488
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 69,
+            "length": 4
+          }
+        },
+        {
+          "content": "April",
+          "polygon": [
+            294,
+            466,
+            357,
+            466,
+            357,
+            489,
+            294,
+            488
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 74,
+            "length": 5
+          }
+        },
+        {
+          "content": "30,",
+          "polygon": [
+            369,
+            465,
+            406,
+            466,
+            406,
+            489,
+            369,
+            489
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 80,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            414,
+            466,
+            469,
+            466,
+            468,
+            490,
+            414,
+            489
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 84,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            480,
+            466,
+            571,
+            467,
+            571,
+            491,
+            479,
+            490
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 89,
+            "length": 7
+          }
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            219,
+            489,
+            359,
+            489,
+            359,
+            511,
+            219,
+            512
+          ],
+          "confidence": 0.837,
+          "span": {
+            "offset": 97,
+            "length": 11
+          }
+        },
+        {
+          "content": "P.O.",
+          "polygon": [
+            219,
+            514,
+            269,
+            514,
+            269,
+            537,
+            219,
+            537
+          ],
+          "confidence": 0.82,
+          "span": {
+            "offset": 109,
+            "length": 4
+          }
+        },
+        {
+          "content": "361-087",
+          "polygon": [
+            281,
+            514,
+            372,
+            514,
+            371,
+            537,
+            280,
+            537
+          ],
+          "confidence": 0.749,
+          "span": {
+            "offset": 114,
+            "length": 7
+          }
+        },
+        {
+          "content": "Qtly",
+          "polygon": [
+            216,
+            663,
+            270,
+            663,
+            270,
+            685,
+            216,
+            685
+          ],
+          "confidence": 0.708,
+          "span": {
+            "offset": 122,
+            "length": 4
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            279,
+            663,
+            293,
+            662,
+            293,
+            685,
+            279,
+            685
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 127,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            305,
+            662,
+            356,
+            662,
+            356,
+            685,
+            305,
+            685
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 129,
+            "length": 4
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            504,
+            664,
+            646,
+            664,
+            646,
+            686,
+            504,
+            686
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 134,
+            "length": 11
+          }
+        },
+        {
+          "content": "wt.",
+          "polygon": [
+            991,
+            666,
+            1027,
+            666,
+            1027,
+            690,
+            991,
+            689
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 146,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Lb.",
+          "polygon": [
+            1032,
+            666,
+            1077,
+            667,
+            1077,
+            691,
+            1032,
+            690
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 150,
+            "length": 4
+          }
+        },
+        {
+          "content": ")",
+          "polygon": [
+            1083,
+            667,
+            1097,
+            667,
+            1097,
+            691,
+            1083,
+            691
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 155,
+            "length": 1
+          }
+        },
+        {
+          "content": "Cu.ft.",
+          "polygon": [
+            1104,
+            667,
+            1180,
+            668,
+            1180,
+            692,
+            1104,
+            691
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 157,
+            "length": 6
+          }
+        },
+        {
+          "content": "Four",
+          "polygon": [
+            216,
+            688,
+            270,
+            689,
+            270,
+            707,
+            216,
+            707
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 164,
+            "length": 4
+          }
+        },
+        {
+          "content": "Crate",
+          "polygon": [
+            293,
+            690,
+            357,
+            689,
+            357,
+            709,
+            293,
+            709
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 169,
+            "length": 5
+          }
+        },
+        {
+          "content": "Transformer,",
+          "polygon": [
+            503,
+            688,
+            654,
+            689,
+            654,
+            713,
+            503,
+            712
+          ],
+          "confidence": 0.925,
+          "span": {
+            "offset": 175,
+            "length": 12
+          }
+        },
+        {
+          "content": "37.5",
+          "polygon": [
+            667,
+            689,
+            718,
+            688,
+            718,
+            713,
+            667,
+            713
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 188,
+            "length": 4
+          }
+        },
+        {
+          "content": "KVA",
+          "polygon": [
+            731,
+            688,
+            769,
+            689,
+            768,
+            714,
+            730,
+            713
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 193,
+            "length": 3
+          }
+        },
+        {
+          "content": "7620/13200Y(PKG",
+          "polygon": [
+            796,
+            689,
+            983,
+            691,
+            983,
+            716,
+            796,
+            714
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 197,
+            "length": 15
+          }
+        },
+        {
+          "content": "NO.1)",
+          "polygon": [
+            992,
+            692,
+            1056,
+            693,
+            1056,
+            717,
+            992,
+            716
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 213,
+            "length": 5
+          }
+        },
+        {
+          "content": "Primary",
+          "polygon": [
+            503,
+            713,
+            595,
+            714,
+            595,
+            737,
+            503,
+            736
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 219,
+            "length": 7
+          }
+        },
+        {
+          "content": "Voltage,",
+          "polygon": [
+            606,
+            714,
+            710,
+            714,
+            710,
+            738,
+            606,
+            737
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 227,
+            "length": 8
+          }
+        },
+        {
+          "content": "240/480",
+          "polygon": [
+            717,
+            714,
+            807,
+            715,
+            806,
+            738,
+            717,
+            738
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 236,
+            "length": 7
+          }
+        },
+        {
+          "content": "Secondary",
+          "polygon": [
+            819,
+            715,
+            933,
+            717,
+            933,
+            740,
+            818,
+            738
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 244,
+            "length": 9
+          }
+        },
+        {
+          "content": "4,480",
+          "polygon": [
+            1006,
+            719,
+            1071,
+            719,
+            1071,
+            741,
+            1006,
+            741
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 254,
+            "length": 5
+          }
+        },
+        {
+          "content": "153.4",
+          "polygon": [
+            1103,
+            718,
+            1170,
+            719,
+            1170,
+            743,
+            1103,
+            742
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 260,
+            "length": 5
+          }
+        },
+        {
+          "content": "Voltage,",
+          "polygon": [
+            506,
+            738,
+            611,
+            739,
+            611,
+            762,
+            506,
+            761
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 266,
+            "length": 8
+          }
+        },
+        {
+          "content": "\"General",
+          "polygon": [
+            620,
+            739,
+            719,
+            739,
+            719,
+            762,
+            620,
+            762
+          ],
+          "confidence": 0.939,
+          "span": {
+            "offset": 275,
+            "length": 8
+          }
+        },
+        {
+          "content": "Electric",
+          "polygon": [
+            732,
+            739,
+            831,
+            740,
+            831,
+            763,
+            732,
+            762
+          ],
+          "confidence": 0.919,
+          "span": {
+            "offset": 284,
+            "length": 8
+          }
+        },
+        {
+          "content": "Co.\"",
+          "polygon": [
+            840,
+            740,
+            894,
+            741,
+            894,
+            763,
+            840,
+            763
+          ],
+          "confidence": 0.826,
+          "span": {
+            "offset": 293,
+            "length": 4
+          }
+        },
+        {
+          "content": "(PKG",
+          "polygon": [
+            932,
+            740,
+            983,
+            741,
+            983,
+            765,
+            932,
+            765
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 298,
+            "length": 4
+          }
+        },
+        {
+          "content": "NO.2)",
+          "polygon": [
+            992,
+            741,
+            1054,
+            742,
+            1054,
+            766,
+            992,
+            765
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 303,
+            "length": 5
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            504,
+            763,
+            517,
+            763,
+            517,
+            784,
+            504,
+            784
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 309,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            530,
+            764,
+            566,
+            766,
+            566,
+            785,
+            530,
+            784
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 311,
+            "length": 3
+          }
+        },
+        {
+          "content": "(PKG",
+          "polygon": [
+            933,
+            789,
+            983,
+            790,
+            983,
+            814,
+            933,
+            813
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 315,
+            "length": 4
+          }
+        },
+        {
+          "content": "NO.3)",
+          "polygon": [
+            991,
+            790,
+            1055,
+            792,
+            1055,
+            815,
+            991,
+            814
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 320,
+            "length": 5
+          }
+        },
+        {
+          "content": "3,935",
+          "polygon": [
+            1006,
+            767,
+            1069,
+            767,
+            1069,
+            791,
+            1006,
+            792
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 326,
+            "length": 5
+          }
+        },
+        {
+          "content": "153.4",
+          "polygon": [
+            1103,
+            768,
+            1170,
+            769,
+            1170,
+            792,
+            1103,
+            791
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 332,
+            "length": 5
+          }
+        },
+        {
+          "content": "Transformer,",
+          "polygon": [
+            502,
+            811,
+            657,
+            812,
+            656,
+            836,
+            502,
+            835
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 338,
+            "length": 12
+          }
+        },
+        {
+          "content": "15",
+          "polygon": [
+            679,
+            812,
+            705,
+            812,
+            705,
+            836,
+            679,
+            836
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 351,
+            "length": 2
+          }
+        },
+        {
+          "content": "KVA",
+          "polygon": [
+            713,
+            812,
+            756,
+            812,
+            755,
+            837,
+            713,
+            836
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 354,
+            "length": 3
+          }
+        },
+        {
+          "content": "7620/13200Y",
+          "polygon": [
+            783,
+            812,
+            922,
+            813,
+            922,
+            838,
+            783,
+            837
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 358,
+            "length": 11
+          }
+        },
+        {
+          "content": "2,735",
+          "polygon": [
+            1004,
+            816,
+            1069,
+            816,
+            1069,
+            840,
+            1004,
+            840
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 370,
+            "length": 5
+          }
+        },
+        {
+          "content": "115.7",
+          "polygon": [
+            1103,
+            816,
+            1170,
+            817,
+            1170,
+            841,
+            1103,
+            840
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 376,
+            "length": 5
+          }
+        },
+        {
+          "content": "Primary",
+          "polygon": [
+            503,
+            837,
+            594,
+            837,
+            594,
+            861,
+            502,
+            860
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 382,
+            "length": 7
+          }
+        },
+        {
+          "content": "Voltage,",
+          "polygon": [
+            605,
+            837,
+            708,
+            838,
+            708,
+            862,
+            605,
+            861
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 390,
+            "length": 8
+          }
+        },
+        {
+          "content": "240/480",
+          "polygon": [
+            713,
+            838,
+            806,
+            839,
+            806,
+            862,
+            713,
+            862
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 399,
+            "length": 7
+          }
+        },
+        {
+          "content": "Secondary",
+          "polygon": [
+            817,
+            839,
+            932,
+            839,
+            932,
+            863,
+            816,
+            862
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 407,
+            "length": 9
+          }
+        },
+        {
+          "content": "(PKG",
+          "polygon": [
+            945,
+            839,
+            996,
+            840,
+            995,
+            864,
+            945,
+            863
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 417,
+            "length": 4
+          }
+        },
+        {
+          "content": "NO.4)",
+          "polygon": [
+            1004,
+            840,
+            1068,
+            841,
+            1068,
+            864,
+            1004,
+            863
+          ],
+          "confidence": 0.94,
+          "span": {
+            "offset": 422,
+            "length": 5
+          }
+        },
+        {
+          "content": "Voltage,",
+          "polygon": [
+            504,
+            861,
+            603,
+            862,
+            603,
+            885,
+            504,
+            884
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 428,
+            "length": 8
+          }
+        },
+        {
+          "content": "\"General",
+          "polygon": [
+            619,
+            862,
+            719,
+            862,
+            719,
+            885,
+            619,
+            885
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 437,
+            "length": 8
+          }
+        },
+        {
+          "content": "Electric",
+          "polygon": [
+            730,
+            862,
+            831,
+            863,
+            831,
+            886,
+            730,
+            886
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 446,
+            "length": 8
+          }
+        },
+        {
+          "content": "Co.\"",
+          "polygon": [
+            841,
+            863,
+            894,
+            864,
+            894,
+            886,
+            841,
+            886
+          ],
+          "confidence": 0.683,
+          "span": {
+            "offset": 455,
+            "length": 4
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            503,
+            887,
+            517,
+            888,
+            516,
+            909,
+            503,
+            909
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 460,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            529,
+            889,
+            567,
+            891,
+            566,
+            911,
+            529,
+            910
+          ],
+          "confidence": 0.703,
+          "span": {
+            "offset": 462,
+            "length": 3
+          }
+        },
+        {
+          "content": "1,620",
+          "polygon": [
+            1004,
+            864,
+            1070,
+            865,
+            1070,
+            888,
+            1004,
+            888
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 466,
+            "length": 5
+          }
+        },
+        {
+          "content": "82.6",
+          "polygon": [
+            1105,
+            865,
+            1156,
+            865,
+            1156,
+            887,
+            1105,
+            887
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 472,
+            "length": 4
+          }
+        },
+        {
+          "content": "Transformer,",
+          "polygon": [
+            501,
+            936,
+            653,
+            936,
+            653,
+            961,
+            501,
+            960
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 477,
+            "length": 12
+          }
+        },
+        {
+          "content": "7.5",
+          "polygon": [
+            667,
+            936,
+            704,
+            936,
+            704,
+            961,
+            666,
+            961
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 490,
+            "length": 3
+          }
+        },
+        {
+          "content": "KVA",
+          "polygon": [
+            716,
+            936,
+            756,
+            936,
+            756,
+            961,
+            716,
+            961
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 494,
+            "length": 3
+          }
+        },
+        {
+          "content": "7620/13900Y",
+          "polygon": [
+            783,
+            936,
+            921,
+            937,
+            921,
+            963,
+            782,
+            961
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 498,
+            "length": 11
+          }
+        },
+        {
+          "content": "Primary",
+          "polygon": [
+            501,
+            962,
+            594,
+            962,
+            593,
+            986,
+            501,
+            985
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 510,
+            "length": 7
+          }
+        },
+        {
+          "content": "Voltage,",
+          "polygon": [
+            605,
+            962,
+            703,
+            963,
+            703,
+            987,
+            604,
+            986
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 518,
+            "length": 8
+          }
+        },
+        {
+          "content": "120/240",
+          "polygon": [
+            716,
+            963,
+            805,
+            963,
+            805,
+            988,
+            715,
+            987
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 527,
+            "length": 7
+          }
+        },
+        {
+          "content": "Secondary",
+          "polygon": [
+            816,
+            963,
+            931,
+            965,
+            931,
+            989,
+            816,
+            988
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 535,
+            "length": 9
+          }
+        },
+        {
+          "content": "Voltage,",
+          "polygon": [
+            503,
+            987,
+            604,
+            987,
+            604,
+            1010,
+            503,
+            1010
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 545,
+            "length": 8
+          }
+        },
+        {
+          "content": "\"General",
+          "polygon": [
+            618,
+            988,
+            717,
+            988,
+            717,
+            1011,
+            618,
+            1010
+          ],
+          "confidence": 0.906,
+          "span": {
+            "offset": 554,
+            "length": 8
+          }
+        },
+        {
+          "content": "Electric",
+          "polygon": [
+            723,
+            988,
+            830,
+            988,
+            830,
+            1011,
+            723,
+            1011
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 563,
+            "length": 8
+          }
+        },
+        {
+          "content": "Co.\"",
+          "polygon": [
+            841,
+            988,
+            892,
+            989,
+            892,
+            1011,
+            840,
+            1011
+          ],
+          "confidence": 0.905,
+          "span": {
+            "offset": 572,
+            "length": 4
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            503,
+            1012,
+            516,
+            1012,
+            515,
+            1035,
+            502,
+            1034
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 577,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            530,
+            1014,
+            566,
+            1015,
+            566,
+            1036,
+            529,
+            1034
+          ],
+          "confidence": 0.936,
+          "span": {
+            "offset": 579,
+            "length": 3
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            415,
+            1104,
+            432,
+            1104,
+            430,
+            1135,
+            414,
+            1135
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 583,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            438,
+            1104,
+            456,
+            1105,
+            455,
+            1136,
+            437,
+            1135
+          ],
+          "confidence": 0.933,
+          "span": {
+            "offset": 585,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            463,
+            1105,
+            481,
+            1106,
+            480,
+            1136,
+            462,
+            1136
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 587,
+            "length": 1
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            490,
+            1106,
+            531,
+            1106,
+            531,
+            1137,
+            489,
+            1137
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 589,
+            "length": 3
+          }
+        },
+        {
+          "content": "four",
+          "polygon": [
+            540,
+            1107,
+            593,
+            1108,
+            592,
+            1137,
+            540,
+            1137
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 593,
+            "length": 4
+          }
+        },
+        {
+          "content": "crates",
+          "polygon": [
+            605,
+            1108,
+            682,
+            1110,
+            681,
+            1139,
+            604,
+            1137
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 598,
+            "length": 6
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            690,
+            1109,
+            743,
+            1109,
+            742,
+            1139,
+            690,
+            1139
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 605,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            753,
+            1109,
+            771,
+            1108,
+            770,
+            1138,
+            752,
+            1138
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 610,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            779,
+            1108,
+            795,
+            1107,
+            795,
+            1138,
+            778,
+            1138
+          ],
+          "confidence": 0.942,
+          "span": {
+            "offset": 612,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            804,
+            1107,
+            817,
+            1107,
+            817,
+            1139,
+            803,
+            1138
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 614,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            1125,
+            1488,
+            1244,
+            1494,
+            1244,
+            1661,
+            1130,
+            1661
+          ],
+          "confidence": 0.098,
+          "span": {
+            "offset": 616,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            887,
+            1629,
+            996,
+            1630,
+            996,
+            1655,
+            887,
+            1653
+          ],
+          "confidence": 0.844,
+          "span": {
+            "offset": 618,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1004,
+            1630,
+            1108,
+            1631,
+            1108,
+            1655,
+            1004,
+            1655
+          ],
+          "confidence": 0.664,
+          "span": {
+            "offset": 627,
+            "length": 9
+          }
+        },
+        {
+          "content": "365",
+          "polygon": [
+            40,
+            1643,
+            106,
+            1640,
+            106,
+            1678,
+            40,
+            1680
+          ],
+          "confidence": 0.968,
+          "span": {
+            "offset": 637,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "C/R (SI) OPP40",
+          "polygon": [
+            498,
+            283,
+            768,
+            275,
+            769,
+            311,
+            499,
+            318
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Date: May 16, 1962",
+          "polygon": [
+            781,
+            369,
+            1008,
+            368,
+            1008,
+            394,
+            781,
+            394
+          ],
+          "spans": [
+            {
+              "offset": 15,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "Shipment NO. 224-3",
+          "polygon": [
+            217,
+            415,
+            446,
+            416,
+            446,
+            439,
+            217,
+            438
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "Ex. James Lykes",
+          "polygon": [
+            218,
+            440,
+            409,
+            441,
+            409,
+            463,
+            218,
+            462
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Arr. April 30, 1962 Keelung",
+          "polygon": [
+            221,
+            465,
+            570,
+            466,
+            570,
+            491,
+            220,
+            488
+          ],
+          "spans": [
+            {
+              "offset": 69,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            219,
+            489,
+            359,
+            489,
+            359,
+            511,
+            219,
+            512
+          ],
+          "spans": [
+            {
+              "offset": 97,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "P.O. 361-087",
+          "polygon": [
+            219,
+            513,
+            371,
+            513,
+            371,
+            537,
+            219,
+            537
+          ],
+          "spans": [
+            {
+              "offset": 109,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Qtly & Unit",
+          "polygon": [
+            216,
+            663,
+            356,
+            662,
+            356,
+            684,
+            216,
+            685
+          ],
+          "spans": [
+            {
+              "offset": 122,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            504,
+            664,
+            645,
+            664,
+            645,
+            686,
+            504,
+            686
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "wt. (Lb. ) Cu.ft.",
+          "polygon": [
+            991,
+            666,
+            1180,
+            668,
+            1180,
+            692,
+            991,
+            689
+          ],
+          "spans": [
+            {
+              "offset": 146,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "Four",
+          "polygon": [
+            216,
+            688,
+            269,
+            688,
+            269,
+            708,
+            216,
+            707
+          ],
+          "spans": [
+            {
+              "offset": 164,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Crate",
+          "polygon": [
+            292,
+            690,
+            356,
+            689,
+            357,
+            709,
+            293,
+            709
+          ],
+          "spans": [
+            {
+              "offset": 169,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Transformer, 37.5 KVA 7620/13200Y(PKG NO.1)",
+          "polygon": [
+            503,
+            688,
+            1056,
+            691,
+            1055,
+            716,
+            503,
+            711
+          ],
+          "spans": [
+            {
+              "offset": 175,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "Primary Voltage, 240/480 Secondary",
+          "polygon": [
+            503,
+            712,
+            933,
+            716,
+            933,
+            739,
+            503,
+            736
+          ],
+          "spans": [
+            {
+              "offset": 219,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "4,480",
+          "polygon": [
+            1006,
+            719,
+            1070,
+            719,
+            1070,
+            741,
+            1006,
+            741
+          ],
+          "spans": [
+            {
+              "offset": 254,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "153.4",
+          "polygon": [
+            1103,
+            718,
+            1170,
+            719,
+            1170,
+            743,
+            1103,
+            742
+          ],
+          "spans": [
+            {
+              "offset": 260,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Voltage, \"General Electric Co.\"",
+          "polygon": [
+            506,
+            738,
+            893,
+            740,
+            893,
+            763,
+            506,
+            761
+          ],
+          "spans": [
+            {
+              "offset": 266,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "(PKG NO.2)",
+          "polygon": [
+            932,
+            740,
+            1054,
+            741,
+            1054,
+            765,
+            932,
+            764
+          ],
+          "spans": [
+            {
+              "offset": 298,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "6 ea.",
+          "polygon": [
+            504,
+            763,
+            566,
+            765,
+            566,
+            785,
+            503,
+            783
+          ],
+          "spans": [
+            {
+              "offset": 309,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "(PKG NO.3)",
+          "polygon": [
+            933,
+            789,
+            1055,
+            790,
+            1054,
+            815,
+            933,
+            813
+          ],
+          "spans": [
+            {
+              "offset": 315,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "3,935",
+          "polygon": [
+            1006,
+            767,
+            1068,
+            767,
+            1068,
+            791,
+            1006,
+            791
+          ],
+          "spans": [
+            {
+              "offset": 326,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "153.4",
+          "polygon": [
+            1103,
+            768,
+            1169,
+            769,
+            1169,
+            792,
+            1103,
+            791
+          ],
+          "spans": [
+            {
+              "offset": 332,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Transformer, 15 KVA 7620/13200Y",
+          "polygon": [
+            502,
+            811,
+            921,
+            812,
+            921,
+            837,
+            502,
+            835
+          ],
+          "spans": [
+            {
+              "offset": 338,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "2,735",
+          "polygon": [
+            1004,
+            816,
+            1069,
+            816,
+            1069,
+            840,
+            1004,
+            840
+          ],
+          "spans": [
+            {
+              "offset": 370,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "115.7",
+          "polygon": [
+            1103,
+            816,
+            1169,
+            817,
+            1169,
+            841,
+            1103,
+            840
+          ],
+          "spans": [
+            {
+              "offset": 376,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Primary Voltage, 240/480 Secondary (PKG NO.4)",
+          "polygon": [
+            502,
+            837,
+            1068,
+            840,
+            1068,
+            864,
+            502,
+            861
+          ],
+          "spans": [
+            {
+              "offset": 382,
+              "length": 45
+            }
+          ]
+        },
+        {
+          "content": "Voltage, \"General Electric Co.\"",
+          "polygon": [
+            504,
+            861,
+            894,
+            863,
+            893,
+            886,
+            504,
+            885
+          ],
+          "spans": [
+            {
+              "offset": 428,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "6 ea.",
+          "polygon": [
+            503,
+            887,
+            567,
+            890,
+            566,
+            911,
+            502,
+            908
+          ],
+          "spans": [
+            {
+              "offset": 460,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "1,620",
+          "polygon": [
+            1004,
+            864,
+            1069,
+            864,
+            1069,
+            888,
+            1004,
+            888
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "82.6",
+          "polygon": [
+            1105,
+            865,
+            1156,
+            865,
+            1155,
+            887,
+            1105,
+            887
+          ],
+          "spans": [
+            {
+              "offset": 472,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Transformer, 7.5 KVA 7620/13900Y",
+          "polygon": [
+            501,
+            935,
+            920,
+            937,
+            920,
+            962,
+            501,
+            960
+          ],
+          "spans": [
+            {
+              "offset": 477,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "Primary Voltage, 120/240 Secondary",
+          "polygon": [
+            501,
+            961,
+            931,
+            964,
+            931,
+            989,
+            501,
+            985
+          ],
+          "spans": [
+            {
+              "offset": 510,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "Voltage, \"General Electric Co.\"",
+          "polygon": [
+            503,
+            987,
+            892,
+            988,
+            892,
+            1011,
+            503,
+            1010
+          ],
+          "spans": [
+            {
+              "offset": 545,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "5 ea.",
+          "polygon": [
+            503,
+            1012,
+            565,
+            1014,
+            565,
+            1036,
+            502,
+            1034
+          ],
+          "spans": [
+            {
+              "offset": 577,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "/ / / Say four crates only / / /",
+          "polygon": [
+            414,
+            1104,
+            816,
+            1107,
+            816,
+            1139,
+            414,
+            1136
+          ],
+          "spans": [
+            {
+              "offset": 583,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            1125,
+            1488,
+            1240,
+            1487,
+            1243,
+            1660,
+            1128,
+            1661
+          ],
+          "spans": [
+            {
+              "offset": 616,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            887,
+            1629,
+            1108,
+            1631,
+            1108,
+            1656,
+            887,
+            1654
+          ],
+          "spans": [
+            {
+              "offset": 618,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "365",
+          "polygon": [
+            40,
+            1642,
+            106,
+            1640,
+            106,
+            1677,
+            40,
+            1680
+          ],
+          "spans": [
+            {
+              "offset": 637,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 640
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 8,
+      "columnCount": 4,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Qtly & Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                648,
+                426,
+                650,
+                426,
+                686,
+                203,
+                686
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 122,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                650,
+                987,
+                653,
+                987,
+                690,
+                426,
+                686
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "wt. (Lb. )",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                653,
+                1091,
+                654,
+                1091,
+                691,
+                987,
+                690
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 146,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "Cu.ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                654,
+                1193,
+                656,
+                1193,
+                692,
+                1091,
+                691
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "Four Crate",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                686,
+                426,
+                686,
+                426,
+                711,
+                203,
+                711
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 164,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Transformer, 37.5 KVA 7620/13200Y(PKG",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                686,
+                987,
+                690,
+                987,
+                715,
+                426,
+                711
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 175,
+              "length": 37
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "NO.1)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                690,
+                1091,
+                691,
+                1091,
+                715,
+                987,
+                715
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 213,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                691,
+                1193,
+                692,
+                1193,
+                716,
+                1091,
+                715
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                711,
+                426,
+                711,
+                426,
+                735,
+                203,
+                733
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "Primary Voltage, 240/480 Secondary",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                711,
+                987,
+                715,
+                987,
+                738,
+                426,
+                735
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 219,
+              "length": 34
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "4,480",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                715,
+                1091,
+                715,
+                1091,
+                739,
+                987,
+                738
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 254,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "153.4",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                715,
+                1193,
+                716,
+                1193,
+                740,
+                1091,
+                739
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 260,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                733,
+                426,
+                735,
+                426,
+                762,
+                203,
+                760
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "columnSpan": 2,
+          "content": "Voltage, \"General Electric Co.\" (PKG NO.2)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                735,
+                1091,
+                739,
+                1091,
+                766,
+                426,
+                762
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 266,
+              "length": 42
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                739,
+                1193,
+                740,
+                1193,
+                767,
+                1091,
+                766
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                760,
+                426,
+                762,
+                426,
+                796,
+                203,
+                794
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "6 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                762,
+                987,
+                765,
+                987,
+                800,
+                426,
+                796
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 309,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "3,935",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                765,
+                1091,
+                766,
+                1091,
+                802,
+                987,
+                800
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 326,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 3,
+          "content": "153.4",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                766,
+                1193,
+                767,
+                1193,
+                803,
+                1091,
+                802
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 332,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                794,
+                426,
+                796,
+                426,
+                835,
+                203,
+                833
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "(PKG\nTransformer, 15 KVA 7620/13200Y",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                796,
+                987,
+                800,
+                987,
+                838,
+                426,
+                835
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 315,
+              "length": 4
+            },
+            {
+              "offset": 338,
+              "length": 31
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "NO.3)\n2,735",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                800,
+                1091,
+                802,
+                1091,
+                839,
+                987,
+                838
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 320,
+              "length": 5
+            },
+            {
+              "offset": 370,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 3,
+          "content": "115.7",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                802,
+                1193,
+                803,
+                1192,
+                839,
+                1091,
+                839
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 376,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                833,
+                426,
+                835,
+                426,
+                922,
+                203,
+                922
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "Primary Voltage, 240/480 Secondary (PKG\nVoltage, \"General Electric Co.\" 6 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                835,
+                987,
+                838,
+                987,
+                923,
+                426,
+                922
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 382,
+              "length": 39
+            },
+            {
+              "offset": 428,
+              "length": 37
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "NO.4)\n1,620",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                838,
+                1091,
+                839,
+                1091,
+                924,
+                987,
+                923
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 422,
+              "length": 5
+            },
+            {
+              "offset": 466,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 3,
+          "content": "82.6",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                839,
+                1192,
+                839,
+                1192,
+                924,
+                1091,
+                924
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 472,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                203,
+                922,
+                426,
+                922,
+                427,
+                1046,
+                202,
+                1046
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 1,
+          "content": "Transformer, 7.5 KVA 7620/13900Y Primary Voltage, 120/240 Secondary Voltage, \"General Electric Co.\" 5 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                426,
+                922,
+                987,
+                923,
+                987,
+                1048,
+                427,
+                1046
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 477,
+              "length": 105
+            }
+          ],
+          "elements": [
+            "/paragraphs/23"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                987,
+                923,
+                1091,
+                924,
+                1090,
+                1048,
+                987,
+                1048
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1091,
+                924,
+                1192,
+                924,
+                1191,
+                1049,
+                1090,
+                1048
+              ]
+            }
+          ],
+          "spans": []
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            205,
+            652,
+            1201,
+            653,
+            1200,
+            1048,
+            204,
+            1047
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 122,
+          "length": 192
+        },
+        {
+          "offset": 326,
+          "length": 11
+        },
+        {
+          "offset": 315,
+          "length": 4
+        },
+        {
+          "offset": 338,
+          "length": 31
+        },
+        {
+          "offset": 320,
+          "length": 5
+        },
+        {
+          "offset": 370,
+          "length": 51
+        },
+        {
+          "offset": 428,
+          "length": 37
+        },
+        {
+          "offset": 422,
+          "length": 5
+        },
+        {
+          "offset": 466,
+          "length": 116
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            498,
+            282,
+            768,
+            275,
+            769,
+            311,
+            499,
+            318
+          ]
+        }
+      ],
+      "content": "C/R (SI) OPP40"
+    },
+    {
+      "spans": [
+        {
+          "offset": 15,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            781,
+            369,
+            1008,
+            368,
+            1008,
+            394,
+            781,
+            394
+          ]
+        }
+      ],
+      "content": "Date: May 16, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 34,
+          "length": 87
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            217,
+            415,
+            570,
+            415,
+            570,
+            537,
+            216,
+            537
+          ]
+        }
+      ],
+      "content": "Shipment NO. 224-3 Ex. James Lykes Arr. April 30, 1962 Keelung PIO/C-10218 P.O. 361-087"
+    },
+    {
+      "spans": [
+        {
+          "offset": 122,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            203,
+            648,
+            426,
+            650,
+            426,
+            686,
+            203,
+            686
+          ]
+        }
+      ],
+      "content": "Qtly & Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 134,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            650,
+            987,
+            653,
+            987,
+            690,
+            426,
+            686
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 146,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            987,
+            653,
+            1091,
+            654,
+            1091,
+            691,
+            987,
+            690
+          ]
+        }
+      ],
+      "content": "wt. (Lb. )"
+    },
+    {
+      "spans": [
+        {
+          "offset": 157,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1091,
+            654,
+            1193,
+            656,
+            1193,
+            692,
+            1091,
+            691
+          ]
+        }
+      ],
+      "content": "Cu.ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 164,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            203,
+            686,
+            426,
+            686,
+            426,
+            711,
+            203,
+            711
+          ]
+        }
+      ],
+      "content": "Four Crate"
+    },
+    {
+      "spans": [
+        {
+          "offset": 175,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            686,
+            987,
+            690,
+            987,
+            715,
+            426,
+            711
+          ]
+        }
+      ],
+      "content": "Transformer, 37.5 KVA 7620/13200Y(PKG"
+    },
+    {
+      "spans": [
+        {
+          "offset": 213,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            987,
+            690,
+            1091,
+            691,
+            1091,
+            715,
+            987,
+            715
+          ]
+        }
+      ],
+      "content": "NO.1)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 219,
+          "length": 34
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            711,
+            987,
+            715,
+            987,
+            738,
+            426,
+            735
+          ]
+        }
+      ],
+      "content": "Primary Voltage, 240/480 Secondary"
+    },
+    {
+      "spans": [
+        {
+          "offset": 254,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            987,
+            715,
+            1091,
+            715,
+            1091,
+            739,
+            987,
+            738
+          ]
+        }
+      ],
+      "content": "4,480"
+    },
+    {
+      "spans": [
+        {
+          "offset": 260,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1091,
+            715,
+            1193,
+            716,
+            1193,
+            740,
+            1091,
+            739
+          ]
+        }
+      ],
+      "content": "153.4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 266,
+          "length": 42
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            735,
+            1091,
+            739,
+            1091,
+            766,
+            426,
+            762
+          ]
+        }
+      ],
+      "content": "Voltage, \"General Electric Co.\" (PKG NO.2)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 309,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            762,
+            987,
+            765,
+            987,
+            800,
+            426,
+            796
+          ]
+        }
+      ],
+      "content": "6 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 326,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            987,
+            765,
+            1091,
+            766,
+            1091,
+            802,
+            987,
+            800
+          ]
+        }
+      ],
+      "content": "3,935"
+    },
+    {
+      "spans": [
+        {
+          "offset": 332,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1091,
+            766,
+            1193,
+            767,
+            1193,
+            803,
+            1091,
+            802
+          ]
+        }
+      ],
+      "content": "153.4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 315,
+          "length": 4
+        },
+        {
+          "offset": 338,
+          "length": 31
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            796,
+            987,
+            800,
+            987,
+            838,
+            426,
+            835
+          ]
+        }
+      ],
+      "content": "(PKG\nTransformer, 15 KVA 7620/13200Y"
+    },
+    {
+      "spans": [
+        {
+          "offset": 320,
+          "length": 5
+        },
+        {
+          "offset": 370,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            987,
+            800,
+            1091,
+            802,
+            1091,
+            839,
+            987,
+            838
+          ]
+        }
+      ],
+      "content": "NO.3)\n2,735"
+    },
+    {
+      "spans": [
+        {
+          "offset": 376,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1091,
+            802,
+            1193,
+            803,
+            1192,
+            839,
+            1091,
+            839
+          ]
+        }
+      ],
+      "content": "115.7"
+    },
+    {
+      "spans": [
+        {
+          "offset": 382,
+          "length": 39
+        },
+        {
+          "offset": 428,
+          "length": 37
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            835,
+            987,
+            838,
+            987,
+            923,
+            426,
+            922
+          ]
+        }
+      ],
+      "content": "Primary Voltage, 240/480 Secondary (PKG\nVoltage, \"General Electric Co.\" 6 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 422,
+          "length": 5
+        },
+        {
+          "offset": 466,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            987,
+            838,
+            1091,
+            839,
+            1091,
+            924,
+            987,
+            923
+          ]
+        }
+      ],
+      "content": "NO.4)\n1,620"
+    },
+    {
+      "spans": [
+        {
+          "offset": 472,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1091,
+            839,
+            1192,
+            839,
+            1192,
+            924,
+            1091,
+            924
+          ]
+        }
+      ],
+      "content": "82.6"
+    },
+    {
+      "spans": [
+        {
+          "offset": 477,
+          "length": 105
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            426,
+            922,
+            987,
+            923,
+            987,
+            1048,
+            427,
+            1046
+          ]
+        }
+      ],
+      "content": "Transformer, 7.5 KVA 7620/13900Y Primary Voltage, 120/240 Secondary Voltage, \"General Electric Co.\" 5 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 583,
+          "length": 32
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            414,
+            1104,
+            816,
+            1107,
+            816,
+            1140,
+            414,
+            1136
+          ]
+        }
+      ],
+      "content": "/ / / Say four crates only / / /"
+    },
+    {
+      "spans": [
+        {
+          "offset": 616,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1125,
+            1488,
+            1240,
+            1486,
+            1243,
+            1660,
+            1128,
+            1662
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 618,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            887,
+            1629,
+            1108,
+            1631,
+            1108,
+            1656,
+            887,
+            1654
+          ]
+        }
+      ],
+      "content": "Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 637,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            39,
+            1642,
+            106,
+            1640,
+            107,
+            1677,
+            40,
+            1680
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "365"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 14
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 577,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 637,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 314
+        },
+        {
+          "offset": 326,
+          "length": 11
+        },
+        {
+          "offset": 315,
+          "length": 4
+        },
+        {
+          "offset": 338,
+          "length": 31
+        },
+        {
+          "offset": 320,
+          "length": 5
+        },
+        {
+          "offset": 370,
+          "length": 51
+        },
+        {
+          "offset": 428,
+          "length": 37
+        },
+        {
+          "offset": 422,
+          "length": 5
+        },
+        {
+          "offset": 466,
+          "length": 170
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/tables/0",
+        "/paragraphs/24",
+        "/paragraphs/25",
+        "/paragraphs/26"
+      ]
+    }
+  ]
+}

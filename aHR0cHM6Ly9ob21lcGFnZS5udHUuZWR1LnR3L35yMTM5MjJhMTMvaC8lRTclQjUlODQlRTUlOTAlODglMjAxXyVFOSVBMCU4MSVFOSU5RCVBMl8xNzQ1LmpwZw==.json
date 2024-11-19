@@ -1,0 +1,9806 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "TA IWAN HIGHWAY BUREAU LIST\nGROUP I (From Tainan)\n1. Jack, hydraulic, 5 ton\n4 ea.\n2. Tamper, backfill\n1 ea.\n3. Steam cleaner compound\n2 drums\n4. File, visible\n2 ea.\n5. Jack, hydraulic, 4 wheels\n1 ea.\n6. Truck, hand, two wheels\n1 ea.\n7.\nTruck, Willys jeep, 1953\n1 ea.\n8. Truck, cargo, 4 ton, Dodge 1953\n1 ea.\n9. Drill press\n1 ea.\n10. Cleaning solution, carbon, \"Turco\"\n3 drums\n11. Trimmer, paper, 30\"\n1 ea.\n12. Stand, jack, screw type\n1 ea.\nGROUP II (From Tainan)\n1.\nTruck, shop, van. 212 ton\n莊曜爾\n1 ea.\n2.\nTrailer, bomb-warhead 2.213.82\n3 ea.\n3. . Trailer, missile-transport\n1 ea.\n4.\nTransfer case ass'y\n2 ea.\n5. Axle ass'y, front\n1 ea.\n6.\nAxle ass'y, rear\n1 ea.\nGROUP III (From Tainan)\n1. Station wagon, Ford 1955\n1 ea.\n2. Differential case\n3 ea.\n3. Transfer case ass'y\n1 ea.\n4. Winch ass'y, truck\n1 ea.\nGROUP IV (From Tainan)\n1. Truck, tractor, 5 ton, diamond T\n2 ea.\n2. Refueler, semi-trailer type, 2000 gal.\n1 ea.\n3. Trailer, missile transport\n1 ea.\n4. Trailer, van\n1 ea.\n5. Truck, cargo, 4 ton, Dodge 1953\n1 ea.\n6. Trailer, semi, 16'\n國史饭\n1 ea.\nAcademia Historica\n507",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 1.9667179584503174,
+      "width": 1317,
+      "height": 1669,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "TA",
+          "polygon": [
+            574,
+            191,
+            598,
+            191,
+            598,
+            214,
+            573,
+            213
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 0,
+            "length": 2
+          }
+        },
+        {
+          "content": "IWAN",
+          "polygon": [
+            604,
+            192,
+            651,
+            193,
+            650,
+            215,
+            603,
+            214
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 3,
+            "length": 4
+          }
+        },
+        {
+          "content": "HIGHWAY",
+          "polygon": [
+            663,
+            193,
+            753,
+            196,
+            752,
+            218,
+            663,
+            215
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 8,
+            "length": 7
+          }
+        },
+        {
+          "content": "BUREAU",
+          "polygon": [
+            764,
+            196,
+            839,
+            199,
+            839,
+            221,
+            763,
+            219
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 16,
+            "length": 6
+          }
+        },
+        {
+          "content": "LIST",
+          "polygon": [
+            854,
+            199,
+            905,
+            200,
+            905,
+            223,
+            854,
+            221
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 23,
+            "length": 4
+          }
+        },
+        {
+          "content": "GROUP",
+          "polygon": [
+            584,
+            265,
+            653,
+            267,
+            653,
+            288,
+            583,
+            285
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 28,
+            "length": 5
+          }
+        },
+        {
+          "content": "I",
+          "polygon": [
+            674,
+            268,
+            688,
+            269,
+            688,
+            288,
+            674,
+            288
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 34,
+            "length": 1
+          }
+        },
+        {
+          "content": "(From",
+          "polygon": [
+            725,
+            269,
+            789,
+            271,
+            788,
+            293,
+            724,
+            291
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 36,
+            "length": 5
+          }
+        },
+        {
+          "content": "Tainan)",
+          "polygon": [
+            799,
+            271,
+            887,
+            274,
+            887,
+            297,
+            799,
+            294
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 42,
+            "length": 7
+          }
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            319,
+            333,
+            342,
+            334,
+            342,
+            353,
+            319,
+            352
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 50,
+            "length": 2
+          }
+        },
+        {
+          "content": "Jack,",
+          "polygon": [
+            368,
+            332,
+            430,
+            335,
+            429,
+            358,
+            367,
+            356
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 53,
+            "length": 5
+          }
+        },
+        {
+          "content": "hydraulic,",
+          "polygon": [
+            445,
+            335,
+            569,
+            339,
+            568,
+            363,
+            445,
+            359
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 59,
+            "length": 10
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            585,
+            340,
+            597,
+            340,
+            596,
+            364,
+            584,
+            363
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 70,
+            "length": 1
+          }
+        },
+        {
+          "content": "ton",
+          "polygon": [
+            611,
+            341,
+            648,
+            342,
+            647,
+            365,
+            610,
+            364
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 72,
+            "length": 3
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            973,
+            354,
+            985,
+            354,
+            985,
+            375,
+            972,
+            374
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 76,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            998,
+            355,
+            1033,
+            356,
+            1033,
+            376,
+            998,
+            375
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 78,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            316,
+            356,
+            341,
+            357,
+            341,
+            378,
+            316,
+            376
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 82,
+            "length": 2
+          }
+        },
+        {
+          "content": "Tamper,",
+          "polygon": [
+            366,
+            358,
+            454,
+            361,
+            454,
+            383,
+            366,
+            380
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 85,
+            "length": 7
+          }
+        },
+        {
+          "content": "backfill",
+          "polygon": [
+            470,
+            361,
+            570,
+            364,
+            570,
+            386,
+            470,
+            384
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 93,
+            "length": 8
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            973,
+            380,
+            984,
+            381,
+            983,
+            399,
+            973,
+            399
+          ],
+          "confidence": 0.568,
+          "span": {
+            "offset": 102,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            998,
+            381,
+            1033,
+            382,
+            1033,
+            401,
+            998,
+            400
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 104,
+            "length": 3
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            317,
+            382,
+            341,
+            382,
+            341,
+            403,
+            317,
+            402
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 108,
+            "length": 2
+          }
+        },
+        {
+          "content": "Steam",
+          "polygon": [
+            364,
+            383,
+            432,
+            386,
+            431,
+            408,
+            364,
+            404
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 111,
+            "length": 5
+          }
+        },
+        {
+          "content": "cleaner",
+          "polygon": [
+            444,
+            387,
+            531,
+            390,
+            531,
+            412,
+            443,
+            408
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 117,
+            "length": 7
+          }
+        },
+        {
+          "content": "compound",
+          "polygon": [
+            545,
+            390,
+            647,
+            394,
+            647,
+            416,
+            544,
+            412
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 125,
+            "length": 8
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            970,
+            403,
+            983,
+            404,
+            982,
+            424,
+            970,
+            424
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 134,
+            "length": 1
+          }
+        },
+        {
+          "content": "drums",
+          "polygon": [
+            997,
+            404,
+            1058,
+            407,
+            1058,
+            426,
+            996,
+            424
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 136,
+            "length": 5
+          }
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            315,
+            407,
+            340,
+            408,
+            339,
+            428,
+            315,
+            427
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 142,
+            "length": 2
+          }
+        },
+        {
+          "content": "File,",
+          "polygon": [
+            364,
+            408,
+            428,
+            411,
+            427,
+            432,
+            363,
+            429
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 145,
+            "length": 5
+          }
+        },
+        {
+          "content": "visible",
+          "polygon": [
+            440,
+            411,
+            532,
+            414,
+            531,
+            435,
+            440,
+            433
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 151,
+            "length": 7
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            969,
+            428,
+            982,
+            429,
+            982,
+            449,
+            968,
+            448
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 159,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            996,
+            430,
+            1031,
+            432,
+            1031,
+            451,
+            996,
+            449
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 161,
+            "length": 3
+          }
+        },
+        {
+          "content": "5.",
+          "polygon": [
+            315,
+            431,
+            339,
+            432,
+            338,
+            453,
+            314,
+            451
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 165,
+            "length": 2
+          }
+        },
+        {
+          "content": "Jack,",
+          "polygon": [
+            365,
+            432,
+            427,
+            435,
+            426,
+            457,
+            364,
+            454
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 168,
+            "length": 5
+          }
+        },
+        {
+          "content": "hydraulic,",
+          "polygon": [
+            443,
+            435,
+            570,
+            440,
+            570,
+            463,
+            442,
+            458
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 174,
+            "length": 10
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            580,
+            440,
+            592,
+            440,
+            591,
+            463,
+            579,
+            463
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 185,
+            "length": 1
+          }
+        },
+        {
+          "content": "wheels",
+          "polygon": [
+            605,
+            441,
+            682,
+            444,
+            681,
+            467,
+            604,
+            464
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 187,
+            "length": 6
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            971,
+            455,
+            981,
+            455,
+            981,
+            474,
+            971,
+            474
+          ],
+          "confidence": 0.589,
+          "span": {
+            "offset": 194,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            995,
+            456,
+            1031,
+            458,
+            1031,
+            476,
+            995,
+            474
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 196,
+            "length": 3
+          }
+        },
+        {
+          "content": "6.",
+          "polygon": [
+            315,
+            456,
+            337,
+            458,
+            337,
+            478,
+            314,
+            477
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 200,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            363,
+            458,
+            438,
+            461,
+            438,
+            483,
+            362,
+            480
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 203,
+            "length": 6
+          }
+        },
+        {
+          "content": "hand,",
+          "polygon": [
+            454,
+            462,
+            515,
+            464,
+            514,
+            486,
+            454,
+            484
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 210,
+            "length": 5
+          }
+        },
+        {
+          "content": "two",
+          "polygon": [
+            530,
+            465,
+            567,
+            466,
+            567,
+            487,
+            530,
+            486
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 216,
+            "length": 3
+          }
+        },
+        {
+          "content": "wheels",
+          "polygon": [
+            579,
+            466,
+            655,
+            469,
+            655,
+            490,
+            578,
+            488
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 220,
+            "length": 6
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            971,
+            479,
+            980,
+            480,
+            980,
+            499,
+            970,
+            499
+          ],
+          "confidence": 0.582,
+          "span": {
+            "offset": 227,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            995,
+            480,
+            1029,
+            482,
+            1028,
+            501,
+            994,
+            499
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 229,
+            "length": 3
+          }
+        },
+        {
+          "content": "7.",
+          "polygon": [
+            314,
+            482,
+            337,
+            483,
+            337,
+            503,
+            314,
+            502
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 233,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            362,
+            483,
+            438,
+            486,
+            437,
+            508,
+            361,
+            505
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 236,
+            "length": 6
+          }
+        },
+        {
+          "content": "Willys",
+          "polygon": [
+            453,
+            487,
+            526,
+            489,
+            525,
+            512,
+            452,
+            509
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 243,
+            "length": 6
+          }
+        },
+        {
+          "content": "jeep,",
+          "polygon": [
+            540,
+            490,
+            601,
+            492,
+            601,
+            514,
+            540,
+            512
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 250,
+            "length": 5
+          }
+        },
+        {
+          "content": "1953",
+          "polygon": [
+            618,
+            492,
+            670,
+            494,
+            670,
+            516,
+            617,
+            515
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 256,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            969,
+            504,
+            980,
+            505,
+            979,
+            524,
+            969,
+            524
+          ],
+          "confidence": 0.569,
+          "span": {
+            "offset": 261,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            993,
+            506,
+            1028,
+            507,
+            1028,
+            526,
+            993,
+            525
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 263,
+            "length": 3
+          }
+        },
+        {
+          "content": "8.",
+          "polygon": [
+            312,
+            507,
+            336,
+            508,
+            336,
+            529,
+            312,
+            527
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 267,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            361,
+            507,
+            437,
+            511,
+            436,
+            533,
+            360,
+            531
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 270,
+            "length": 6
+          }
+        },
+        {
+          "content": "cargo,",
+          "polygon": [
+            452,
+            511,
+            525,
+            514,
+            524,
+            538,
+            451,
+            534
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 277,
+            "length": 6
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            540,
+            514,
+            554,
+            515,
+            553,
+            538,
+            539,
+            538
+          ],
+          "confidence": 0.212,
+          "span": {
+            "offset": 284,
+            "length": 1
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            567,
+            515,
+            613,
+            517,
+            612,
+            540,
+            566,
+            539
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 286,
+            "length": 4
+          }
+        },
+        {
+          "content": "Dodge",
+          "polygon": [
+            625,
+            517,
+            691,
+            519,
+            691,
+            542,
+            625,
+            540
+          ],
+          "confidence": 0.829,
+          "span": {
+            "offset": 291,
+            "length": 5
+          }
+        },
+        {
+          "content": "1953",
+          "polygon": [
+            706,
+            519,
+            756,
+            520,
+            756,
+            544,
+            705,
+            543
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 297,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            969,
+            529,
+            979,
+            530,
+            979,
+            549,
+            968,
+            548
+          ],
+          "confidence": 0.558,
+          "span": {
+            "offset": 302,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            993,
+            531,
+            1028,
+            532,
+            1028,
+            551,
+            993,
+            549
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 304,
+            "length": 3
+          }
+        },
+        {
+          "content": "9.",
+          "polygon": [
+            312,
+            532,
+            335,
+            534,
+            335,
+            554,
+            311,
+            552
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 308,
+            "length": 2
+          }
+        },
+        {
+          "content": "Drill",
+          "polygon": [
+            360,
+            533,
+            425,
+            536,
+            424,
+            558,
+            359,
+            555
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 311,
+            "length": 5
+          }
+        },
+        {
+          "content": "press",
+          "polygon": [
+            441,
+            537,
+            502,
+            540,
+            502,
+            561,
+            440,
+            559
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 317,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            967,
+            555,
+            979,
+            555,
+            978,
+            574,
+            967,
+            574
+          ],
+          "confidence": 0.648,
+          "span": {
+            "offset": 323,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            993,
+            556,
+            1028,
+            557,
+            1027,
+            576,
+            992,
+            575
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 325,
+            "length": 3
+          }
+        },
+        {
+          "content": "10.",
+          "polygon": [
+            299,
+            558,
+            335,
+            559,
+            335,
+            579,
+            299,
+            577
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 329,
+            "length": 3
+          }
+        },
+        {
+          "content": "Cleaning",
+          "polygon": [
+            358,
+            558,
+            462,
+            562,
+            461,
+            585,
+            357,
+            581
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 333,
+            "length": 8
+          }
+        },
+        {
+          "content": "solution,",
+          "polygon": [
+            476,
+            562,
+            587,
+            566,
+            586,
+            589,
+            475,
+            586
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 342,
+            "length": 9
+          }
+        },
+        {
+          "content": "carbon,",
+          "polygon": [
+            602,
+            566,
+            689,
+            568,
+            689,
+            592,
+            601,
+            590
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 352,
+            "length": 7
+          }
+        },
+        {
+          "content": "\"Turco\"",
+          "polygon": [
+            702,
+            568,
+            790,
+            570,
+            789,
+            595,
+            701,
+            592
+          ],
+          "confidence": 0.789,
+          "span": {
+            "offset": 360,
+            "length": 7
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            967,
+            579,
+            979,
+            579,
+            979,
+            599,
+            966,
+            599
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 368,
+            "length": 1
+          }
+        },
+        {
+          "content": "drums",
+          "polygon": [
+            992,
+            580,
+            1053,
+            582,
+            1053,
+            602,
+            991,
+            600
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 370,
+            "length": 5
+          }
+        },
+        {
+          "content": "11.",
+          "polygon": [
+            300,
+            582,
+            333,
+            584,
+            333,
+            603,
+            299,
+            602
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 376,
+            "length": 3
+          }
+        },
+        {
+          "content": "Trimmer,",
+          "polygon": [
+            360,
+            583,
+            460,
+            588,
+            459,
+            611,
+            359,
+            606
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 380,
+            "length": 8
+          }
+        },
+        {
+          "content": "paper,",
+          "polygon": [
+            476,
+            588,
+            548,
+            591,
+            547,
+            614,
+            476,
+            611
+          ],
+          "confidence": 0.878,
+          "span": {
+            "offset": 389,
+            "length": 6
+          }
+        },
+        {
+          "content": "30\"",
+          "polygon": [
+            564,
+            591,
+            599,
+            592,
+            598,
+            615,
+            563,
+            614
+          ],
+          "confidence": 0.899,
+          "span": {
+            "offset": 396,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            966,
+            605,
+            977,
+            606,
+            976,
+            625,
+            966,
+            624
+          ],
+          "confidence": 0.685,
+          "span": {
+            "offset": 400,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            991,
+            606,
+            1026,
+            608,
+            1026,
+            627,
+            990,
+            625
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 402,
+            "length": 3
+          }
+        },
+        {
+          "content": "12.",
+          "polygon": [
+            298,
+            607,
+            333,
+            608,
+            333,
+            629,
+            298,
+            627
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 406,
+            "length": 3
+          }
+        },
+        {
+          "content": "Stand,",
+          "polygon": [
+            357,
+            609,
+            435,
+            612,
+            434,
+            636,
+            356,
+            632
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 410,
+            "length": 6
+          }
+        },
+        {
+          "content": "jack,",
+          "polygon": [
+            449,
+            613,
+            510,
+            616,
+            509,
+            638,
+            447,
+            636
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 417,
+            "length": 5
+          }
+        },
+        {
+          "content": "screw",
+          "polygon": [
+            525,
+            616,
+            588,
+            619,
+            587,
+            641,
+            524,
+            638
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 423,
+            "length": 5
+          }
+        },
+        {
+          "content": "type",
+          "polygon": [
+            601,
+            619,
+            652,
+            621,
+            652,
+            644,
+            601,
+            642
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 429,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            966,
+            630,
+            976,
+            631,
+            976,
+            650,
+            965,
+            649
+          ],
+          "confidence": 0.386,
+          "span": {
+            "offset": 434,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            991,
+            631,
+            1025,
+            633,
+            1024,
+            652,
+            990,
+            650
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 436,
+            "length": 3
+          }
+        },
+        {
+          "content": "GROUP",
+          "polygon": [
+            569,
+            741,
+            635,
+            743,
+            635,
+            764,
+            569,
+            762
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 440,
+            "length": 5
+          }
+        },
+        {
+          "content": "II",
+          "polygon": [
+            661,
+            743,
+            687,
+            744,
+            686,
+            765,
+            660,
+            765
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 446,
+            "length": 2
+          }
+        },
+        {
+          "content": "(From",
+          "polygon": [
+            723,
+            745,
+            786,
+            747,
+            785,
+            769,
+            723,
+            767
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 449,
+            "length": 5
+          }
+        },
+        {
+          "content": "Tainan)",
+          "polygon": [
+            797,
+            747,
+            884,
+            749,
+            884,
+            773,
+            796,
+            770
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 455,
+            "length": 7
+          }
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            305,
+            797,
+            327,
+            798,
+            327,
+            817,
+            305,
+            816
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 463,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            352,
+            796,
+            429,
+            800,
+            428,
+            823,
+            351,
+            820
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 466,
+            "length": 6
+          }
+        },
+        {
+          "content": "shop,",
+          "polygon": [
+            444,
+            801,
+            503,
+            802,
+            503,
+            825,
+            443,
+            823
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 473,
+            "length": 5
+          }
+        },
+        {
+          "content": "van.",
+          "polygon": [
+            519,
+            803,
+            567,
+            804,
+            566,
+            827,
+            518,
+            825
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 479,
+            "length": 4
+          }
+        },
+        {
+          "content": "212",
+          "polygon": [
+            581,
+            805,
+            608,
+            806,
+            607,
+            829,
+            581,
+            828
+          ],
+          "confidence": 0.349,
+          "span": {
+            "offset": 484,
+            "length": 3
+          }
+        },
+        {
+          "content": "ton",
+          "polygon": [
+            621,
+            806,
+            660,
+            809,
+            659,
+            831,
+            620,
+            829
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 488,
+            "length": 3
+          }
+        },
+        {
+          "content": "莊",
+          "polygon": [
+            601,
+            777,
+            624,
+            779,
+            622,
+            811,
+            599,
+            808
+          ],
+          "confidence": 0.692,
+          "span": {
+            "offset": 492,
+            "length": 1
+          }
+        },
+        {
+          "content": "曜",
+          "polygon": [
+            638,
+            780,
+            659,
+            782,
+            658,
+            817,
+            636,
+            812
+          ],
+          "confidence": 0.875,
+          "span": {
+            "offset": 493,
+            "length": 1
+          }
+        },
+        {
+          "content": "爾",
+          "polygon": [
+            678,
+            783,
+            716,
+            785,
+            716,
+            822,
+            677,
+            818
+          ],
+          "confidence": 0.681,
+          "span": {
+            "offset": 494,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            960,
+            818,
+            970,
+            818,
+            970,
+            838,
+            959,
+            837
+          ],
+          "confidence": 0.676,
+          "span": {
+            "offset": 496,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            985,
+            819,
+            1019,
+            821,
+            1018,
+            840,
+            984,
+            838
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 498,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            301,
+            821,
+            327,
+            821,
+            327,
+            842,
+            301,
+            841
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 502,
+            "length": 2
+          }
+        },
+        {
+          "content": "Trailer,",
+          "polygon": [
+            351,
+            822,
+            452,
+            826,
+            452,
+            848,
+            350,
+            844
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 505,
+            "length": 8
+          }
+        },
+        {
+          "content": "bomb-warhead",
+          "polygon": [
+            468,
+            826,
+            621,
+            831,
+            621,
+            853,
+            468,
+            848
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 514,
+            "length": 12
+          }
+        },
+        {
+          "content": "2.213.82",
+          "polygon": [
+            641,
+            830,
+            794,
+            833,
+            794,
+            867,
+            639,
+            861
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 527,
+            "length": 8
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            959,
+            842,
+            972,
+            843,
+            971,
+            862,
+            958,
+            862
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 536,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            984,
+            843,
+            1018,
+            845,
+            1017,
+            865,
+            983,
+            863
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 538,
+            "length": 3
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            303,
+            846,
+            326,
+            847,
+            326,
+            867,
+            302,
+            866
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 542,
+            "length": 2
+          }
+        },
+        {
+          "content": ".",
+          "polygon": [
+            320,
+            847,
+            325,
+            847,
+            324,
+            869,
+            319,
+            868
+          ],
+          "confidence": 0.355,
+          "span": {
+            "offset": 545,
+            "length": 1
+          }
+        },
+        {
+          "content": "Trailer,",
+          "polygon": [
+            353,
+            848,
+            451,
+            851,
+            451,
+            873,
+            352,
+            869
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 547,
+            "length": 8
+          }
+        },
+        {
+          "content": "missile-transport",
+          "polygon": [
+            467,
+            852,
+            683,
+            860,
+            683,
+            880,
+            467,
+            873
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 556,
+            "length": 17
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            959,
+            868,
+            968,
+            868,
+            968,
+            887,
+            958,
+            886
+          ],
+          "confidence": 0.458,
+          "span": {
+            "offset": 574,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            983,
+            869,
+            1018,
+            871,
+            1018,
+            889,
+            982,
+            887
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 576,
+            "length": 3
+          }
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            301,
+            872,
+            325,
+            873,
+            325,
+            893,
+            301,
+            892
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 580,
+            "length": 2
+          }
+        },
+        {
+          "content": "Transfer",
+          "polygon": [
+            350,
+            872,
+            453,
+            876,
+            452,
+            899,
+            349,
+            894
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 583,
+            "length": 8
+          }
+        },
+        {
+          "content": "case",
+          "polygon": [
+            466,
+            877,
+            516,
+            879,
+            515,
+            901,
+            465,
+            899
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 592,
+            "length": 4
+          }
+        },
+        {
+          "content": "ass'y",
+          "polygon": [
+            529,
+            879,
+            594,
+            882,
+            593,
+            905,
+            528,
+            902
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 597,
+            "length": 5
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            955,
+            891,
+            968,
+            892,
+            967,
+            911,
+            954,
+            911
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 603,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            982,
+            893,
+            1016,
+            896,
+            1015,
+            914,
+            982,
+            912
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 605,
+            "length": 3
+          }
+        },
+        {
+          "content": "5.",
+          "polygon": [
+            303,
+            897,
+            324,
+            897,
+            323,
+            920,
+            301,
+            919
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 609,
+            "length": 2
+          }
+        },
+        {
+          "content": "Axle",
+          "polygon": [
+            349,
+            898,
+            402,
+            900,
+            401,
+            922,
+            348,
+            921
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 612,
+            "length": 4
+          }
+        },
+        {
+          "content": "ass'y,",
+          "polygon": [
+            416,
+            900,
+            489,
+            902,
+            488,
+            926,
+            415,
+            923
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 617,
+            "length": 6
+          }
+        },
+        {
+          "content": "front",
+          "polygon": [
+            505,
+            903,
+            567,
+            905,
+            566,
+            927,
+            504,
+            926
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 624,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            957,
+            918,
+            967,
+            918,
+            967,
+            937,
+            956,
+            937
+          ],
+          "confidence": 0.553,
+          "span": {
+            "offset": 630,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            981,
+            919,
+            1015,
+            920,
+            1015,
+            940,
+            980,
+            938
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 632,
+            "length": 3
+          }
+        },
+        {
+          "content": "6.",
+          "polygon": [
+            300,
+            921,
+            323,
+            923,
+            323,
+            943,
+            299,
+            941
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 636,
+            "length": 2
+          }
+        },
+        {
+          "content": "Axle",
+          "polygon": [
+            345,
+            923,
+            401,
+            925,
+            400,
+            947,
+            344,
+            945
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 639,
+            "length": 4
+          }
+        },
+        {
+          "content": "ass'y,",
+          "polygon": [
+            415,
+            926,
+            487,
+            928,
+            486,
+            951,
+            413,
+            948
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 644,
+            "length": 6
+          }
+        },
+        {
+          "content": "rear",
+          "polygon": [
+            504,
+            929,
+            553,
+            931,
+            552,
+            952,
+            503,
+            951
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 651,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            956,
+            943,
+            966,
+            944,
+            966,
+            962,
+            955,
+            962
+          ],
+          "confidence": 0.58,
+          "span": {
+            "offset": 656,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            981,
+            945,
+            1014,
+            946,
+            1014,
+            964,
+            980,
+            963
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 658,
+            "length": 3
+          }
+        },
+        {
+          "content": "GROUP",
+          "polygon": [
+            559,
+            1053,
+            626,
+            1054,
+            625,
+            1077,
+            559,
+            1075
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 662,
+            "length": 5
+          }
+        },
+        {
+          "content": "III",
+          "polygon": [
+            651,
+            1055,
+            687,
+            1056,
+            686,
+            1079,
+            650,
+            1078
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 668,
+            "length": 3
+          }
+        },
+        {
+          "content": "(From",
+          "polygon": [
+            715,
+            1057,
+            776,
+            1059,
+            776,
+            1082,
+            714,
+            1080
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 672,
+            "length": 5
+          }
+        },
+        {
+          "content": "Tainan)",
+          "polygon": [
+            787,
+            1059,
+            875,
+            1061,
+            875,
+            1086,
+            786,
+            1082
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 678,
+            "length": 7
+          }
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            300,
+            1109,
+            317,
+            1110,
+            316,
+            1132,
+            299,
+            1131
+          ],
+          "confidence": 0.449,
+          "span": {
+            "offset": 686,
+            "length": 2
+          }
+        },
+        {
+          "content": "Station",
+          "polygon": [
+            344,
+            1110,
+            433,
+            1112,
+            432,
+            1134,
+            343,
+            1132
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 689,
+            "length": 7
+          }
+        },
+        {
+          "content": "wagon,",
+          "polygon": [
+            446,
+            1112,
+            519,
+            1114,
+            518,
+            1137,
+            445,
+            1135
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 697,
+            "length": 6
+          }
+        },
+        {
+          "content": "Ford",
+          "polygon": [
+            534,
+            1115,
+            584,
+            1116,
+            583,
+            1138,
+            533,
+            1137
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 704,
+            "length": 4
+          }
+        },
+        {
+          "content": "1955",
+          "polygon": [
+            599,
+            1117,
+            649,
+            1118,
+            648,
+            1140,
+            598,
+            1139
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 709,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            950,
+            1129,
+            960,
+            1129,
+            960,
+            1149,
+            949,
+            1148
+          ],
+          "confidence": 0.566,
+          "span": {
+            "offset": 714,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            975,
+            1130,
+            1009,
+            1131,
+            1008,
+            1151,
+            974,
+            1150
+          ],
+          "confidence": 0.899,
+          "span": {
+            "offset": 716,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            292,
+            1133,
+            317,
+            1134,
+            317,
+            1154,
+            292,
+            1153
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 720,
+            "length": 2
+          }
+        },
+        {
+          "content": "Differential",
+          "polygon": [
+            342,
+            1134,
+            494,
+            1139,
+            494,
+            1160,
+            341,
+            1155
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 723,
+            "length": 12
+          }
+        },
+        {
+          "content": "case",
+          "polygon": [
+            508,
+            1140,
+            559,
+            1142,
+            559,
+            1163,
+            507,
+            1161
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 736,
+            "length": 4
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            948,
+            1153,
+            961,
+            1154,
+            960,
+            1174,
+            947,
+            1173
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 741,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            974,
+            1155,
+            1008,
+            1156,
+            1007,
+            1176,
+            973,
+            1174
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 743,
+            "length": 3
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            293,
+            1158,
+            315,
+            1159,
+            315,
+            1180,
+            292,
+            1178
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 747,
+            "length": 2
+          }
+        },
+        {
+          "content": "Transfer",
+          "polygon": [
+            344,
+            1159,
+            444,
+            1162,
+            443,
+            1185,
+            343,
+            1182
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 750,
+            "length": 8
+          }
+        },
+        {
+          "content": "case",
+          "polygon": [
+            457,
+            1163,
+            507,
+            1164,
+            506,
+            1188,
+            456,
+            1186
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 759,
+            "length": 4
+          }
+        },
+        {
+          "content": "ass'y",
+          "polygon": [
+            520,
+            1165,
+            584,
+            1167,
+            583,
+            1191,
+            519,
+            1189
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 764,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            948,
+            1179,
+            959,
+            1180,
+            958,
+            1199,
+            948,
+            1198
+          ],
+          "confidence": 0.496,
+          "span": {
+            "offset": 770,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            973,
+            1180,
+            1007,
+            1182,
+            1007,
+            1201,
+            972,
+            1199
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 772,
+            "length": 3
+          }
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            291,
+            1184,
+            314,
+            1185,
+            314,
+            1205,
+            290,
+            1203
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 776,
+            "length": 2
+          }
+        },
+        {
+          "content": "Winch",
+          "polygon": [
+            339,
+            1185,
+            405,
+            1186,
+            404,
+            1208,
+            338,
+            1207
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 779,
+            "length": 5
+          }
+        },
+        {
+          "content": "ass'y,",
+          "polygon": [
+            419,
+            1187,
+            491,
+            1190,
+            491,
+            1212,
+            418,
+            1209
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 785,
+            "length": 6
+          }
+        },
+        {
+          "content": "truck",
+          "polygon": [
+            507,
+            1190,
+            571,
+            1192,
+            570,
+            1214,
+            506,
+            1213
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 792,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            948,
+            1204,
+            958,
+            1205,
+            958,
+            1224,
+            947,
+            1223
+          ],
+          "confidence": 0.164,
+          "span": {
+            "offset": 798,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            972,
+            1205,
+            1007,
+            1207,
+            1006,
+            1226,
+            971,
+            1224
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 800,
+            "length": 3
+          }
+        },
+        {
+          "content": "GROUP",
+          "polygon": [
+            552,
+            1304,
+            618,
+            1305,
+            618,
+            1326,
+            552,
+            1324
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 804,
+            "length": 5
+          }
+        },
+        {
+          "content": "IV",
+          "polygon": [
+            644,
+            1306,
+            667,
+            1306,
+            667,
+            1327,
+            643,
+            1326
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 810,
+            "length": 2
+          }
+        },
+        {
+          "content": "(From",
+          "polygon": [
+            705,
+            1308,
+            768,
+            1309,
+            768,
+            1331,
+            705,
+            1329
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 813,
+            "length": 5
+          }
+        },
+        {
+          "content": "Tainan)",
+          "polygon": [
+            779,
+            1310,
+            867,
+            1312,
+            867,
+            1334,
+            779,
+            1332
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 819,
+            "length": 7
+          }
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            287,
+            1360,
+            309,
+            1360,
+            309,
+            1379,
+            287,
+            1379
+          ],
+          "confidence": 0.937,
+          "span": {
+            "offset": 827,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            334,
+            1359,
+            411,
+            1362,
+            410,
+            1384,
+            333,
+            1382
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 830,
+            "length": 6
+          }
+        },
+        {
+          "content": "tractor,",
+          "polygon": [
+            427,
+            1362,
+            524,
+            1365,
+            523,
+            1388,
+            426,
+            1385
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 837,
+            "length": 8
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            539,
+            1366,
+            552,
+            1366,
+            551,
+            1389,
+            538,
+            1389
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 846,
+            "length": 1
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            565,
+            1366,
+            612,
+            1367,
+            611,
+            1390,
+            565,
+            1389
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 848,
+            "length": 4
+          }
+        },
+        {
+          "content": "diamond",
+          "polygon": [
+            628,
+            1368,
+            715,
+            1371,
+            714,
+            1393,
+            627,
+            1391
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 853,
+            "length": 7
+          }
+        },
+        {
+          "content": "T",
+          "polygon": [
+            727,
+            1371,
+            742,
+            1372,
+            742,
+            1394,
+            726,
+            1393
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 861,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            940,
+            1378,
+            952,
+            1379,
+            952,
+            1398,
+            939,
+            1398
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 863,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            967,
+            1380,
+            1001,
+            1381,
+            1001,
+            1400,
+            966,
+            1399
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 865,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            284,
+            1384,
+            309,
+            1385,
+            309,
+            1405,
+            284,
+            1403
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 869,
+            "length": 2
+          }
+        },
+        {
+          "content": "Refueler,",
+          "polygon": [
+            333,
+            1384,
+            448,
+            1388,
+            447,
+            1411,
+            333,
+            1407
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 872,
+            "length": 9
+          }
+        },
+        {
+          "content": "semi-trailer",
+          "polygon": [
+            464,
+            1389,
+            614,
+            1394,
+            614,
+            1417,
+            463,
+            1412
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 882,
+            "length": 12
+          }
+        },
+        {
+          "content": "type,",
+          "polygon": [
+            628,
+            1394,
+            687,
+            1395,
+            687,
+            1419,
+            627,
+            1418
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 895,
+            "length": 5
+          }
+        },
+        {
+          "content": "2000",
+          "polygon": [
+            701,
+            1396,
+            752,
+            1397,
+            752,
+            1422,
+            701,
+            1420
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 901,
+            "length": 4
+          }
+        },
+        {
+          "content": "gal.",
+          "polygon": [
+            765,
+            1398,
+            813,
+            1399,
+            813,
+            1424,
+            764,
+            1422
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 906,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            942,
+            1405,
+            952,
+            1405,
+            951,
+            1424,
+            941,
+            1423
+          ],
+          "confidence": 0.242,
+          "span": {
+            "offset": 911,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            966,
+            1405,
+            1000,
+            1407,
+            1000,
+            1426,
+            965,
+            1424
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 913,
+            "length": 3
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            285,
+            1409,
+            308,
+            1409,
+            308,
+            1430,
+            285,
+            1429
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 917,
+            "length": 2
+          }
+        },
+        {
+          "content": "Trailer,",
+          "polygon": [
+            334,
+            1409,
+            434,
+            1414,
+            433,
+            1436,
+            333,
+            1431
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 920,
+            "length": 8
+          }
+        },
+        {
+          "content": "missile",
+          "polygon": [
+            450,
+            1414,
+            537,
+            1417,
+            536,
+            1439,
+            449,
+            1436
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 929,
+            "length": 7
+          }
+        },
+        {
+          "content": "transport",
+          "polygon": [
+            552,
+            1418,
+            665,
+            1422,
+            665,
+            1444,
+            551,
+            1440
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 937,
+            "length": 9
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            941,
+            1430,
+            951,
+            1430,
+            951,
+            1449,
+            941,
+            1448
+          ],
+          "confidence": 0.239,
+          "span": {
+            "offset": 947,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            965,
+            1431,
+            1000,
+            1432,
+            1000,
+            1451,
+            965,
+            1449
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 949,
+            "length": 3
+          }
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            284,
+            1435,
+            307,
+            1435,
+            307,
+            1457,
+            283,
+            1456
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 953,
+            "length": 2
+          }
+        },
+        {
+          "content": "Trailer,",
+          "polygon": [
+            334,
+            1436,
+            434,
+            1439,
+            433,
+            1461,
+            334,
+            1458
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 956,
+            "length": 8
+          }
+        },
+        {
+          "content": "van",
+          "polygon": [
+            449,
+            1440,
+            488,
+            1442,
+            487,
+            1462,
+            448,
+            1461
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 965,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            940,
+            1455,
+            950,
+            1455,
+            950,
+            1474,
+            940,
+            1474
+          ],
+          "confidence": 0.239,
+          "span": {
+            "offset": 969,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            964,
+            1456,
+            999,
+            1457,
+            999,
+            1475,
+            963,
+            1474
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 971,
+            "length": 3
+          }
+        },
+        {
+          "content": "5.",
+          "polygon": [
+            283,
+            1459,
+            306,
+            1460,
+            305,
+            1483,
+            282,
+            1482
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 975,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            334,
+            1461,
+            408,
+            1463,
+            407,
+            1487,
+            333,
+            1484
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 978,
+            "length": 6
+          }
+        },
+        {
+          "content": "cargo,",
+          "polygon": [
+            423,
+            1463,
+            496,
+            1465,
+            495,
+            1490,
+            422,
+            1487
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 985,
+            "length": 6
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            510,
+            1466,
+            525,
+            1466,
+            524,
+            1490,
+            509,
+            1490
+          ],
+          "confidence": 0.383,
+          "span": {
+            "offset": 992,
+            "length": 1
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            538,
+            1466,
+            584,
+            1467,
+            583,
+            1492,
+            537,
+            1491
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 994,
+            "length": 4
+          }
+        },
+        {
+          "content": "Dodge",
+          "polygon": [
+            599,
+            1468,
+            662,
+            1469,
+            662,
+            1494,
+            598,
+            1492
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 999,
+            "length": 5
+          }
+        },
+        {
+          "content": "1953",
+          "polygon": [
+            676,
+            1470,
+            727,
+            1471,
+            727,
+            1495,
+            676,
+            1494
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1005,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            940,
+            1480,
+            950,
+            1481,
+            950,
+            1499,
+            939,
+            1499
+          ],
+          "confidence": 0.238,
+          "span": {
+            "offset": 1010,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            964,
+            1481,
+            999,
+            1483,
+            999,
+            1501,
+            963,
+            1499
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1012,
+            "length": 3
+          }
+        },
+        {
+          "content": "6.",
+          "polygon": [
+            282,
+            1485,
+            306,
+            1485,
+            305,
+            1506,
+            282,
+            1505
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1016,
+            "length": 2
+          }
+        },
+        {
+          "content": "Trailer,",
+          "polygon": [
+            331,
+            1486,
+            432,
+            1489,
+            431,
+            1511,
+            330,
+            1507
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 1019,
+            "length": 8
+          }
+        },
+        {
+          "content": "semi,",
+          "polygon": [
+            448,
+            1490,
+            508,
+            1491,
+            507,
+            1513,
+            447,
+            1512
+          ],
+          "confidence": 0.943,
+          "span": {
+            "offset": 1028,
+            "length": 5
+          }
+        },
+        {
+          "content": "16'",
+          "polygon": [
+            524,
+            1492,
+            556,
+            1493,
+            556,
+            1514,
+            524,
+            1514
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1034,
+            "length": 3
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            941,
+            1505,
+            992,
+            1507,
+            992,
+            1582,
+            941,
+            1581
+          ],
+          "confidence": 0.919,
+          "span": {
+            "offset": 1038,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            999,
+            1507,
+            1052,
+            1507,
+            1052,
+            1583,
+            999,
+            1582
+          ],
+          "confidence": 0.773,
+          "span": {
+            "offset": 1039,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            1060,
+            1507,
+            1143,
+            1508,
+            1143,
+            1586,
+            1060,
+            1583
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1040,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            938,
+            1505,
+            948,
+            1505,
+            948,
+            1524,
+            938,
+            1524
+          ],
+          "confidence": 0.655,
+          "span": {
+            "offset": 1042,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            962,
+            1506,
+            997,
+            1507,
+            997,
+            1525,
+            962,
+            1524
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 1044,
+            "length": 3
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            921,
+            1586,
+            1031,
+            1586,
+            1030,
+            1611,
+            921,
+            1611
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1048,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1039,
+            1586,
+            1140,
+            1588,
+            1140,
+            1612,
+            1038,
+            1611
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1057,
+            "length": 9
+          }
+        },
+        {
+          "content": "507",
+          "polygon": [
+            26,
+            1614,
+            89,
+            1611,
+            89,
+            1654,
+            26,
+            1656
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1067,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "TA IWAN HIGHWAY BUREAU LIST",
+          "polygon": [
+            574,
+            190,
+            905,
+            200,
+            904,
+            223,
+            573,
+            213
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "GROUP",
+          "polygon": [
+            584,
+            265,
+            653,
+            267,
+            652,
+            287,
+            583,
+            285
+          ],
+          "spans": [
+            {
+              "offset": 28,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "I",
+          "polygon": [
+            674,
+            268,
+            687,
+            269,
+            687,
+            288,
+            674,
+            288
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "(From Tainan)",
+          "polygon": [
+            725,
+            269,
+            887,
+            274,
+            886,
+            296,
+            724,
+            291
+          ],
+          "spans": [
+            {
+              "offset": 36,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            319,
+            333,
+            342,
+            333,
+            341,
+            353,
+            319,
+            353
+          ],
+          "spans": [
+            {
+              "offset": 50,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Jack, hydraulic, 5 ton",
+          "polygon": [
+            368,
+            332,
+            647,
+            342,
+            647,
+            365,
+            367,
+            356
+          ],
+          "spans": [
+            {
+              "offset": 53,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "4 ea.",
+          "polygon": [
+            973,
+            354,
+            1033,
+            356,
+            1032,
+            376,
+            972,
+            374
+          ],
+          "spans": [
+            {
+              "offset": 76,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            316,
+            356,
+            341,
+            357,
+            341,
+            377,
+            315,
+            377
+          ],
+          "spans": [
+            {
+              "offset": 82,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Tamper, backfill",
+          "polygon": [
+            366,
+            358,
+            570,
+            364,
+            569,
+            386,
+            366,
+            381
+          ],
+          "spans": [
+            {
+              "offset": 85,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            973,
+            380,
+            1033,
+            382,
+            1032,
+            401,
+            973,
+            399
+          ],
+          "spans": [
+            {
+              "offset": 102,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            317,
+            382,
+            340,
+            382,
+            340,
+            403,
+            317,
+            402
+          ],
+          "spans": [
+            {
+              "offset": 108,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Steam cleaner compound",
+          "polygon": [
+            364,
+            383,
+            646,
+            394,
+            646,
+            416,
+            363,
+            405
+          ],
+          "spans": [
+            {
+              "offset": 111,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "2 drums",
+          "polygon": [
+            970,
+            403,
+            1058,
+            406,
+            1057,
+            426,
+            970,
+            423
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            315,
+            407,
+            340,
+            408,
+            339,
+            428,
+            314,
+            427
+          ],
+          "spans": [
+            {
+              "offset": 142,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "File, visible",
+          "polygon": [
+            364,
+            408,
+            531,
+            414,
+            531,
+            435,
+            363,
+            430
+          ],
+          "spans": [
+            {
+              "offset": 145,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "2 ea.",
+          "polygon": [
+            969,
+            428,
+            1031,
+            431,
+            1030,
+            451,
+            968,
+            448
+          ],
+          "spans": [
+            {
+              "offset": 159,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "5.",
+          "polygon": [
+            315,
+            431,
+            338,
+            432,
+            338,
+            452,
+            314,
+            452
+          ],
+          "spans": [
+            {
+              "offset": 165,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Jack, hydraulic, 4 wheels",
+          "polygon": [
+            364,
+            432,
+            681,
+            444,
+            680,
+            467,
+            364,
+            455
+          ],
+          "spans": [
+            {
+              "offset": 168,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            971,
+            455,
+            1030,
+            458,
+            1029,
+            476,
+            970,
+            473
+          ],
+          "spans": [
+            {
+              "offset": 194,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "6.",
+          "polygon": [
+            315,
+            456,
+            337,
+            458,
+            337,
+            478,
+            314,
+            476
+          ],
+          "spans": [
+            {
+              "offset": 200,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Truck, hand, two wheels",
+          "polygon": [
+            363,
+            458,
+            655,
+            469,
+            654,
+            490,
+            362,
+            480
+          ],
+          "spans": [
+            {
+              "offset": 203,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            971,
+            479,
+            1029,
+            482,
+            1028,
+            501,
+            970,
+            498
+          ],
+          "spans": [
+            {
+              "offset": 227,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "7.",
+          "polygon": [
+            314,
+            482,
+            337,
+            483,
+            336,
+            503,
+            313,
+            502
+          ],
+          "spans": [
+            {
+              "offset": 233,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Truck, Willys jeep, 1953",
+          "polygon": [
+            362,
+            483,
+            670,
+            494,
+            669,
+            516,
+            361,
+            506
+          ],
+          "spans": [
+            {
+              "offset": 236,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            969,
+            504,
+            1028,
+            507,
+            1027,
+            526,
+            969,
+            523
+          ],
+          "spans": [
+            {
+              "offset": 261,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "8.",
+          "polygon": [
+            312,
+            507,
+            336,
+            508,
+            336,
+            529,
+            311,
+            527
+          ],
+          "spans": [
+            {
+              "offset": 267,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Truck, cargo, 4 ton, Dodge 1953",
+          "polygon": [
+            361,
+            507,
+            756,
+            520,
+            756,
+            544,
+            360,
+            532
+          ],
+          "spans": [
+            {
+              "offset": 270,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            969,
+            529,
+            1028,
+            532,
+            1027,
+            551,
+            968,
+            548
+          ],
+          "spans": [
+            {
+              "offset": 302,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "9.",
+          "polygon": [
+            312,
+            532,
+            335,
+            533,
+            334,
+            553,
+            311,
+            552
+          ],
+          "spans": [
+            {
+              "offset": 308,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Drill press",
+          "polygon": [
+            360,
+            533,
+            502,
+            540,
+            501,
+            561,
+            359,
+            555
+          ],
+          "spans": [
+            {
+              "offset": 311,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            967,
+            555,
+            1027,
+            557,
+            1026,
+            576,
+            967,
+            574
+          ],
+          "spans": [
+            {
+              "offset": 323,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "10.",
+          "polygon": [
+            300,
+            557,
+            335,
+            559,
+            334,
+            578,
+            299,
+            577
+          ],
+          "spans": [
+            {
+              "offset": 329,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Cleaning solution, carbon, \"Turco\"",
+          "polygon": [
+            358,
+            558,
+            789,
+            570,
+            789,
+            595,
+            357,
+            583
+          ],
+          "spans": [
+            {
+              "offset": 333,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "3 drums",
+          "polygon": [
+            967,
+            579,
+            1053,
+            582,
+            1052,
+            602,
+            966,
+            599
+          ],
+          "spans": [
+            {
+              "offset": 368,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "11.",
+          "polygon": [
+            300,
+            582,
+            333,
+            584,
+            333,
+            603,
+            299,
+            602
+          ],
+          "spans": [
+            {
+              "offset": 376,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Trimmer, paper, 30\"",
+          "polygon": [
+            360,
+            583,
+            599,
+            592,
+            598,
+            615,
+            359,
+            607
+          ],
+          "spans": [
+            {
+              "offset": 380,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            966,
+            605,
+            1026,
+            608,
+            1025,
+            627,
+            965,
+            624
+          ],
+          "spans": [
+            {
+              "offset": 400,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "12.",
+          "polygon": [
+            298,
+            607,
+            333,
+            608,
+            333,
+            629,
+            298,
+            628
+          ],
+          "spans": [
+            {
+              "offset": 406,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Stand, jack, screw type",
+          "polygon": [
+            357,
+            608,
+            652,
+            621,
+            651,
+            644,
+            356,
+            632
+          ],
+          "spans": [
+            {
+              "offset": 410,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            966,
+            630,
+            1025,
+            633,
+            1024,
+            652,
+            965,
+            649
+          ],
+          "spans": [
+            {
+              "offset": 434,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "GROUP II",
+          "polygon": [
+            569,
+            740,
+            687,
+            744,
+            686,
+            765,
+            569,
+            762
+          ],
+          "spans": [
+            {
+              "offset": 440,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "(From Tainan)",
+          "polygon": [
+            723,
+            745,
+            884,
+            749,
+            883,
+            772,
+            722,
+            768
+          ],
+          "spans": [
+            {
+              "offset": 449,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            305,
+            797,
+            327,
+            797,
+            327,
+            817,
+            305,
+            816
+          ],
+          "spans": [
+            {
+              "offset": 463,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Truck, shop, van. 212 ton",
+          "polygon": [
+            352,
+            796,
+            659,
+            807,
+            658,
+            831,
+            351,
+            820
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "莊曜爾",
+          "polygon": [
+            601,
+            777,
+            716,
+            785,
+            715,
+            821,
+            599,
+            813
+          ],
+          "spans": [
+            {
+              "offset": 492,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            960,
+            818,
+            1018,
+            821,
+            1017,
+            840,
+            959,
+            837
+          ],
+          "spans": [
+            {
+              "offset": 496,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            301,
+            821,
+            327,
+            821,
+            326,
+            842,
+            301,
+            841
+          ],
+          "spans": [
+            {
+              "offset": 502,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Trailer, bomb-warhead",
+          "polygon": [
+            351,
+            822,
+            621,
+            831,
+            620,
+            853,
+            350,
+            844
+          ],
+          "spans": [
+            {
+              "offset": 505,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "content": "2.213.82",
+          "polygon": [
+            633,
+            829,
+            794,
+            833,
+            793,
+            867,
+            632,
+            863
+          ],
+          "spans": [
+            {
+              "offset": 527,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "3 ea.",
+          "polygon": [
+            959,
+            842,
+            1017,
+            845,
+            1016,
+            865,
+            958,
+            862
+          ],
+          "spans": [
+            {
+              "offset": 536,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            303,
+            846,
+            326,
+            846,
+            326,
+            867,
+            302,
+            866
+          ],
+          "spans": [
+            {
+              "offset": 542,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": ". Trailer, missile-transport",
+          "polygon": [
+            320,
+            846,
+            683,
+            859,
+            682,
+            880,
+            319,
+            868
+          ],
+          "spans": [
+            {
+              "offset": 545,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            959,
+            868,
+            1017,
+            871,
+            1016,
+            889,
+            958,
+            886
+          ],
+          "spans": [
+            {
+              "offset": 574,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            301,
+            872,
+            325,
+            872,
+            324,
+            893,
+            300,
+            892
+          ],
+          "spans": [
+            {
+              "offset": 580,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Transfer case ass'y",
+          "polygon": [
+            350,
+            871,
+            594,
+            882,
+            593,
+            905,
+            349,
+            894
+          ],
+          "spans": [
+            {
+              "offset": 583,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "2 ea.",
+          "polygon": [
+            955,
+            891,
+            1016,
+            895,
+            1015,
+            914,
+            954,
+            911
+          ],
+          "spans": [
+            {
+              "offset": 603,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "5. Axle ass'y, front",
+          "polygon": [
+            302,
+            896,
+            566,
+            904,
+            566,
+            927,
+            301,
+            920
+          ],
+          "spans": [
+            {
+              "offset": 609,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            957,
+            917,
+            1015,
+            920,
+            1014,
+            939,
+            956,
+            937
+          ],
+          "spans": [
+            {
+              "offset": 630,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "6.",
+          "polygon": [
+            300,
+            921,
+            323,
+            922,
+            323,
+            943,
+            299,
+            942
+          ],
+          "spans": [
+            {
+              "offset": 636,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Axle ass'y, rear",
+          "polygon": [
+            345,
+            923,
+            553,
+            931,
+            552,
+            953,
+            344,
+            945
+          ],
+          "spans": [
+            {
+              "offset": 639,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            956,
+            943,
+            1014,
+            946,
+            1013,
+            964,
+            955,
+            961
+          ],
+          "spans": [
+            {
+              "offset": 656,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "GROUP III (From Tainan)",
+          "polygon": [
+            559,
+            1052,
+            875,
+            1061,
+            874,
+            1085,
+            559,
+            1076
+          ],
+          "spans": [
+            {
+              "offset": 662,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "1. Station wagon, Ford 1955",
+          "polygon": [
+            300,
+            1109,
+            649,
+            1118,
+            648,
+            1140,
+            299,
+            1131
+          ],
+          "spans": [
+            {
+              "offset": 686,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            950,
+            1129,
+            1009,
+            1131,
+            1008,
+            1151,
+            949,
+            1148
+          ],
+          "spans": [
+            {
+              "offset": 714,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            292,
+            1133,
+            316,
+            1134,
+            316,
+            1153,
+            292,
+            1153
+          ],
+          "spans": [
+            {
+              "offset": 720,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Differential case",
+          "polygon": [
+            339,
+            1134,
+            559,
+            1141,
+            558,
+            1163,
+            338,
+            1155
+          ],
+          "spans": [
+            {
+              "offset": 723,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "3 ea.",
+          "polygon": [
+            948,
+            1153,
+            1007,
+            1156,
+            1006,
+            1176,
+            947,
+            1173
+          ],
+          "spans": [
+            {
+              "offset": 741,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            293,
+            1158,
+            315,
+            1158,
+            314,
+            1179,
+            292,
+            1179
+          ],
+          "spans": [
+            {
+              "offset": 747,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Transfer case ass'y",
+          "polygon": [
+            322,
+            1159,
+            583,
+            1167,
+            583,
+            1191,
+            322,
+            1182
+          ],
+          "spans": [
+            {
+              "offset": 750,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            948,
+            1179,
+            1007,
+            1181,
+            1006,
+            1201,
+            947,
+            1198
+          ],
+          "spans": [
+            {
+              "offset": 770,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            291,
+            1184,
+            314,
+            1185,
+            314,
+            1204,
+            290,
+            1203
+          ],
+          "spans": [
+            {
+              "offset": 776,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Winch ass'y, truck",
+          "polygon": [
+            328,
+            1184,
+            571,
+            1192,
+            570,
+            1214,
+            328,
+            1207
+          ],
+          "spans": [
+            {
+              "offset": 779,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            948,
+            1204,
+            1006,
+            1207,
+            1005,
+            1226,
+            947,
+            1223
+          ],
+          "spans": [
+            {
+              "offset": 798,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "GROUP IV",
+          "polygon": [
+            552,
+            1303,
+            667,
+            1306,
+            666,
+            1327,
+            552,
+            1324
+          ],
+          "spans": [
+            {
+              "offset": 804,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "(From Tainan)",
+          "polygon": [
+            705,
+            1307,
+            867,
+            1312,
+            866,
+            1334,
+            705,
+            1329
+          ],
+          "spans": [
+            {
+              "offset": 813,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            287,
+            1360,
+            309,
+            1360,
+            309,
+            1379,
+            287,
+            1379
+          ],
+          "spans": [
+            {
+              "offset": 827,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Truck, tractor, 5 ton, diamond T",
+          "polygon": [
+            334,
+            1359,
+            742,
+            1371,
+            741,
+            1394,
+            333,
+            1382
+          ],
+          "spans": [
+            {
+              "offset": 830,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "2 ea.",
+          "polygon": [
+            940,
+            1378,
+            1001,
+            1381,
+            1000,
+            1401,
+            939,
+            1398
+          ],
+          "spans": [
+            {
+              "offset": 863,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            284,
+            1384,
+            309,
+            1385,
+            308,
+            1405,
+            284,
+            1403
+          ],
+          "spans": [
+            {
+              "offset": 869,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Refueler, semi-trailer type, 2000 gal.",
+          "polygon": [
+            333,
+            1384,
+            813,
+            1399,
+            812,
+            1423,
+            332,
+            1408
+          ],
+          "spans": [
+            {
+              "offset": 872,
+              "length": 38
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            942,
+            1404,
+            1000,
+            1406,
+            999,
+            1425,
+            941,
+            1423
+          ],
+          "spans": [
+            {
+              "offset": 911,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            285,
+            1409,
+            308,
+            1409,
+            307,
+            1430,
+            285,
+            1430
+          ],
+          "spans": [
+            {
+              "offset": 917,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Trailer, missile transport",
+          "polygon": [
+            334,
+            1409,
+            665,
+            1422,
+            664,
+            1444,
+            333,
+            1432
+          ],
+          "spans": [
+            {
+              "offset": 920,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            941,
+            1430,
+            1000,
+            1432,
+            999,
+            1450,
+            940,
+            1448
+          ],
+          "spans": [
+            {
+              "offset": 947,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "4. Trailer, van",
+          "polygon": [
+            284,
+            1434,
+            487,
+            1441,
+            487,
+            1462,
+            283,
+            1456
+          ],
+          "spans": [
+            {
+              "offset": 953,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            940,
+            1455,
+            999,
+            1457,
+            998,
+            1475,
+            940,
+            1473
+          ],
+          "spans": [
+            {
+              "offset": 969,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "5. Truck, cargo, 4 ton, Dodge 1953",
+          "polygon": [
+            283,
+            1459,
+            727,
+            1471,
+            726,
+            1495,
+            282,
+            1484
+          ],
+          "spans": [
+            {
+              "offset": 975,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            940,
+            1480,
+            998,
+            1482,
+            998,
+            1501,
+            939,
+            1499
+          ],
+          "spans": [
+            {
+              "offset": 1010,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "6.",
+          "polygon": [
+            282,
+            1485,
+            306,
+            1485,
+            305,
+            1505,
+            282,
+            1505
+          ],
+          "spans": [
+            {
+              "offset": 1016,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Trailer, semi, 16'",
+          "polygon": [
+            331,
+            1486,
+            556,
+            1493,
+            555,
+            1515,
+            330,
+            1508
+          ],
+          "spans": [
+            {
+              "offset": 1019,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            941,
+            1505,
+            1143,
+            1507,
+            1142,
+            1586,
+            940,
+            1583
+          ],
+          "spans": [
+            {
+              "offset": 1038,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "1 ea.",
+          "polygon": [
+            938,
+            1505,
+            997,
+            1507,
+            996,
+            1525,
+            938,
+            1523
+          ],
+          "spans": [
+            {
+              "offset": 1042,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            921,
+            1586,
+            1139,
+            1587,
+            1139,
+            1611,
+            921,
+            1610
+          ],
+          "spans": [
+            {
+              "offset": 1048,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "507",
+          "polygon": [
+            25,
+            1613,
+            89,
+            1611,
+            89,
+            1654,
+            26,
+            1656
+          ],
+          "spans": [
+            {
+              "offset": 1067,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1070
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 12,
+      "columnCount": 3,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "1. Jack, hydraulic, 5 ton",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                306,
+                315,
+                878,
+                336,
+                877,
+                374,
+                304,
+                353
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 50,
+              "length": 25
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "4 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                878,
+                336,
+                1068,
+                343,
+                1068,
+                380,
+                877,
+                374
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 76,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "2. Tamper, backfill",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                304,
+                353,
+                877,
+                374,
+                877,
+                399,
+                303,
+                378
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 82,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                877,
+                374,
+                1068,
+                380,
+                1067,
+                406,
+                877,
+                399
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 102,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "3. Steam cleaner compound",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                303,
+                378,
+                877,
+                399,
+                876,
+                425,
+                301,
+                403
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 108,
+              "length": 25
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "2 drums",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                877,
+                399,
+                1067,
+                406,
+                1067,
+                431,
+                876,
+                425
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "4. File, visible",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                301,
+                403,
+                876,
+                425,
+                876,
+                448,
+                300,
+                427
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 142,
+              "length": 16
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "2 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                876,
+                425,
+                1067,
+                431,
+                1066,
+                455,
+                876,
+                448
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 159,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "5. Jack, hydraulic, 4 wheels",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                300,
+                427,
+                876,
+                448,
+                875,
+                474,
+                298,
+                454
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 165,
+              "length": 28
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                876,
+                448,
+                1066,
+                455,
+                1066,
+                480,
+                875,
+                474
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 194,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "6. Truck, hand, two wheels",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                298,
+                454,
+                875,
+                474,
+                875,
+                498,
+                297,
+                477
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 200,
+              "length": 26
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                875,
+                474,
+                1066,
+                480,
+                1065,
+                504,
+                875,
+                498
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 227,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "7.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                297,
+                477,
+                347,
+                479,
+                346,
+                504,
+                295,
+                502
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 233,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "Truck, Willys jeep, 1953",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                347,
+                479,
+                875,
+                498,
+                874,
+                524,
+                346,
+                504
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 236,
+              "length": 24
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                875,
+                498,
+                1065,
+                504,
+                1064,
+                529,
+                874,
+                524
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 261,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "8. Truck, cargo, 4 ton, Dodge 1953",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                295,
+                502,
+                874,
+                524,
+                874,
+                550,
+                294,
+                528
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 267,
+              "length": 34
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                874,
+                524,
+                1064,
+                529,
+                1064,
+                555,
+                874,
+                550
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 302,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "9. Drill press",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                294,
+                528,
+                874,
+                550,
+                873,
+                572,
+                293,
+                553
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 308,
+              "length": 14
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                874,
+                550,
+                1064,
+                555,
+                1063,
+                579,
+                873,
+                572
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 323,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "10. Cleaning solution, carbon, \"Turco\"",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                293,
+                553,
+                873,
+                572,
+                873,
+                599,
+                291,
+                578
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 329,
+              "length": 38
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 2,
+          "content": "3 drums",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                873,
+                572,
+                1063,
+                579,
+                1063,
+                605,
+                873,
+                599
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 368,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "11. Trimmer, paper, 30\"",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                291,
+                578,
+                873,
+                599,
+                872,
+                624,
+                290,
+                603
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 376,
+              "length": 23
+            }
+          ],
+          "elements": [
+            "/paragraphs/23"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                873,
+                599,
+                1063,
+                605,
+                1062,
+                630,
+                872,
+                624
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 400,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/24"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "12. Stand, jack, screw type",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                290,
+                603,
+                872,
+                624,
+                872,
+                656,
+                288,
+                636
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 406,
+              "length": 27
+            }
+          ],
+          "elements": [
+            "/paragraphs/25"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 2,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                872,
+                624,
+                1062,
+                630,
+                1062,
+                663,
+                872,
+                656
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 434,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/26"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            300,
+            316,
+            1070,
+            331,
+            1066,
+            658,
+            296,
+            643
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 50,
+          "length": 389
+        }
+      ]
+    },
+    {
+      "rowCount": 6,
+      "columnCount": 4,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "1.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                293,
+                782,
+                338,
+                784,
+                337,
+                818,
+                292,
+                817
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 463,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/28"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "莊曜爾\nTruck, shop, van. 212 ton",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                338,
+                784,
+                870,
+                804,
+                870,
+                837,
+                337,
+                818
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 492,
+              "length": 3
+            },
+            {
+              "offset": 466,
+              "length": 25
+            }
+          ],
+          "elements": [
+            "/paragraphs/29"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                870,
+                804,
+                975,
+                808,
+                975,
+                841,
+                870,
+                837
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 496,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/30"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                975,
+                808,
+                1028,
+                810,
+                1027,
+                843,
+                975,
+                841
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 498,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/31"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "2.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                292,
+                817,
+                337,
+                818,
+                336,
+                843,
+                291,
+                841
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 502,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/32"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Trailer, bomb-warhead 2.213.82",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                337,
+                818,
+                870,
+                837,
+                870,
+                862,
+                336,
+                843
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 505,
+              "length": 30
+            }
+          ],
+          "elements": [
+            "/paragraphs/33"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                870,
+                837,
+                975,
+                841,
+                975,
+                866,
+                870,
+                862
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 536,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/34"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                975,
+                841,
+                1027,
+                843,
+                1027,
+                868,
+                975,
+                866
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 538,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/35"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "3. .",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                291,
+                841,
+                336,
+                843,
+                335,
+                869,
+                290,
+                867
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 542,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/36"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "Trailer, missile-transport",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                336,
+                843,
+                870,
+                862,
+                870,
+                888,
+                335,
+                869
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 547,
+              "length": 26
+            }
+          ],
+          "elements": [
+            "/paragraphs/37"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                870,
+                862,
+                975,
+                866,
+                975,
+                892,
+                870,
+                888
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 574,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/38"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                975,
+                866,
+                1027,
+                868,
+                1026,
+                894,
+                975,
+                892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 576,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/39"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "4.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                290,
+                867,
+                335,
+                869,
+                334,
+                894,
+                289,
+                892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 580,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/40"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "Transfer case ass'y",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                335,
+                869,
+                870,
+                888,
+                870,
+                912,
+                334,
+                894
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 583,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/41"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                870,
+                888,
+                975,
+                892,
+                975,
+                916,
+                870,
+                912
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 603,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/42"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                975,
+                892,
+                1026,
+                894,
+                1026,
+                918,
+                975,
+                916
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 605,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/43"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "5.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                289,
+                892,
+                334,
+                894,
+                333,
+                918,
+                288,
+                916
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 609,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/44"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "Axle ass'y, front",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                334,
+                894,
+                870,
+                912,
+                870,
+                937,
+                333,
+                918
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 612,
+              "length": 17
+            }
+          ],
+          "elements": [
+            "/paragraphs/45"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                870,
+                912,
+                975,
+                916,
+                975,
+                941,
+                870,
+                937
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 630,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/46"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 3,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                975,
+                916,
+                1026,
+                918,
+                1026,
+                943,
+                975,
+                941
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 632,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/47"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "6.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                288,
+                916,
+                333,
+                918,
+                332,
+                951,
+                286,
+                949
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 636,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/48"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "Axle ass'y, rear",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                333,
+                918,
+                870,
+                937,
+                870,
+                968,
+                332,
+                951
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 639,
+              "length": 16
+            }
+          ],
+          "elements": [
+            "/paragraphs/49"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                870,
+                937,
+                975,
+                941,
+                974,
+                972,
+                870,
+                968
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 656,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/50"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 3,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                975,
+                941,
+                1026,
+                943,
+                1025,
+                973,
+                974,
+                972
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 658,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/51"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            298,
+            792,
+            1028,
+            807,
+            1022,
+            965,
+            292,
+            950
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 463,
+          "length": 2
+        },
+        {
+          "offset": 492,
+          "length": 3
+        },
+        {
+          "offset": 466,
+          "length": 25
+        },
+        {
+          "offset": 496,
+          "length": 165
+        }
+      ],
+      "caption": {
+        "content": "GROUP III (From Tainan)",
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              559,
+              1052,
+              875,
+              1061,
+              874,
+              1085,
+              559,
+              1076
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 662,
+            "length": 23
+          }
+        ],
+        "elements": [
+          "/paragraphs/52"
+        ]
+      }
+    },
+    {
+      "rowCount": 4,
+      "columnCount": 2,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "1. Station wagon, Ford 1955",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                282,
+                1099,
+                796,
+                1115,
+                796,
+                1147,
+                281,
+                1130
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 686,
+              "length": 27
+            }
+          ],
+          "elements": [
+            "/paragraphs/53"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                796,
+                1115,
+                1019,
+                1122,
+                1019,
+                1155,
+                796,
+                1147
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 714,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/54"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "2. Differential case",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                281,
+                1130,
+                796,
+                1147,
+                796,
+                1171,
+                281,
+                1154
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 720,
+              "length": 20
+            }
+          ],
+          "elements": [
+            "/paragraphs/55"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "3 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                796,
+                1147,
+                1019,
+                1155,
+                1018,
+                1179,
+                796,
+                1171
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 741,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/56"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "3. Transfer case ass'y",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                281,
+                1154,
+                796,
+                1171,
+                796,
+                1197,
+                280,
+                1179
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 747,
+              "length": 22
+            }
+          ],
+          "elements": [
+            "/paragraphs/57"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                796,
+                1171,
+                1018,
+                1179,
+                1018,
+                1204,
+                796,
+                1197
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 770,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/58"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "4. Winch ass'y, truck",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                280,
+                1179,
+                796,
+                1197,
+                796,
+                1230,
+                279,
+                1214
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 776,
+              "length": 21
+            }
+          ],
+          "elements": [
+            "/paragraphs/59"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                796,
+                1197,
+                1018,
+                1204,
+                1018,
+                1237,
+                796,
+                1230
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 798,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/60"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            290,
+            1110,
+            1022,
+            1121,
+            1018,
+            1232,
+            285,
+            1221
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 686,
+          "length": 117
+        }
+      ]
+    },
+    {
+      "rowCount": 6,
+      "columnCount": 2,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "1. Truck, tractor, 5 ton, diamond T",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                276,
+                1348,
+                875,
+                1367,
+                875,
+                1400,
+                275,
+                1380
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 827,
+              "length": 35
+            }
+          ],
+          "elements": [
+            "/paragraphs/62"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "2 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                875,
+                1367,
+                1015,
+                1371,
+                1014,
+                1403,
+                875,
+                1400
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 863,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/63"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "2. Refueler, semi-trailer type, 2000 gal.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                275,
+                1380,
+                875,
+                1400,
+                875,
+                1426,
+                274,
+                1406
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 869,
+              "length": 41
+            }
+          ],
+          "elements": [
+            "/paragraphs/64"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                875,
+                1400,
+                1014,
+                1403,
+                1014,
+                1430,
+                875,
+                1426
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 911,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/65"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "3. Trailer, missile transport",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                274,
+                1406,
+                875,
+                1426,
+                874,
+                1451,
+                273,
+                1431
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 917,
+              "length": 29
+            }
+          ],
+          "elements": [
+            "/paragraphs/66"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                875,
+                1426,
+                1014,
+                1430,
+                1013,
+                1455,
+                874,
+                1451
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 947,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/67"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "4. Trailer, van",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                273,
+                1431,
+                874,
+                1451,
+                874,
+                1474,
+                272,
+                1456
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 953,
+              "length": 15
+            }
+          ],
+          "elements": [
+            "/paragraphs/68"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                874,
+                1451,
+                1013,
+                1455,
+                1013,
+                1478,
+                874,
+                1474
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 969,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/69"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "5. Truck, cargo, 4 ton, Dodge 1953",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                272,
+                1456,
+                874,
+                1474,
+                874,
+                1501,
+                271,
+                1482
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 975,
+              "length": 34
+            }
+          ],
+          "elements": [
+            "/paragraphs/70"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                874,
+                1474,
+                1013,
+                1478,
+                1013,
+                1504,
+                874,
+                1501
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1010,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/71"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "6. Trailer, semi, 16'",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                271,
+                1482,
+                874,
+                1501,
+                874,
+                1530,
+                270,
+                1513
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1016,
+              "length": 21
+            }
+          ],
+          "elements": [
+            "/paragraphs/72"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "1 ea.\n國史饭",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                874,
+                1501,
+                1013,
+                1504,
+                1012,
+                1534,
+                874,
+                1530
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1042,
+              "length": 5
+            },
+            {
+              "offset": 1038,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/73"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            285,
+            1362,
+            1023,
+            1370,
+            1020,
+            1524,
+            280,
+            1516
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 827,
+          "length": 210
+        },
+        {
+          "offset": 1042,
+          "length": 5
+        },
+        {
+          "offset": 1038,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            574,
+            190,
+            905,
+            200,
+            904,
+            223,
+            573,
+            213
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "TA IWAN HIGHWAY BUREAU LIST"
+    },
+    {
+      "spans": [
+        {
+          "offset": 28,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            584,
+            264,
+            887,
+            274,
+            886,
+            296,
+            583,
+            287
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "GROUP I (From Tainan)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 50,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            306,
+            315,
+            878,
+            336,
+            877,
+            374,
+            304,
+            353
+          ]
+        }
+      ],
+      "content": "1. Jack, hydraulic, 5 ton"
+    },
+    {
+      "spans": [
+        {
+          "offset": 76,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            878,
+            336,
+            1068,
+            343,
+            1068,
+            380,
+            877,
+            374
+          ]
+        }
+      ],
+      "content": "4 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 82,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            304,
+            353,
+            877,
+            374,
+            877,
+            399,
+            303,
+            378
+          ]
+        }
+      ],
+      "content": "2. Tamper, backfill"
+    },
+    {
+      "spans": [
+        {
+          "offset": 102,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            877,
+            374,
+            1068,
+            380,
+            1067,
+            406,
+            877,
+            399
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 108,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            303,
+            378,
+            877,
+            399,
+            876,
+            425,
+            301,
+            403
+          ]
+        }
+      ],
+      "content": "3. Steam cleaner compound"
+    },
+    {
+      "spans": [
+        {
+          "offset": 134,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            877,
+            399,
+            1067,
+            406,
+            1067,
+            431,
+            876,
+            425
+          ]
+        }
+      ],
+      "content": "2 drums"
+    },
+    {
+      "spans": [
+        {
+          "offset": 142,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            301,
+            403,
+            876,
+            425,
+            876,
+            448,
+            300,
+            427
+          ]
+        }
+      ],
+      "content": "4. File, visible"
+    },
+    {
+      "spans": [
+        {
+          "offset": 159,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            876,
+            425,
+            1067,
+            431,
+            1066,
+            455,
+            876,
+            448
+          ]
+        }
+      ],
+      "content": "2 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 165,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            300,
+            427,
+            876,
+            448,
+            875,
+            474,
+            298,
+            454
+          ]
+        }
+      ],
+      "content": "5. Jack, hydraulic, 4 wheels"
+    },
+    {
+      "spans": [
+        {
+          "offset": 194,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            876,
+            448,
+            1066,
+            455,
+            1066,
+            480,
+            875,
+            474
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 200,
+          "length": 26
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            298,
+            454,
+            875,
+            474,
+            875,
+            498,
+            297,
+            477
+          ]
+        }
+      ],
+      "content": "6. Truck, hand, two wheels"
+    },
+    {
+      "spans": [
+        {
+          "offset": 227,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            875,
+            474,
+            1066,
+            480,
+            1065,
+            504,
+            875,
+            498
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 233,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            297,
+            477,
+            347,
+            479,
+            346,
+            504,
+            295,
+            502
+          ]
+        }
+      ],
+      "content": "7."
+    },
+    {
+      "spans": [
+        {
+          "offset": 236,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            347,
+            479,
+            875,
+            498,
+            874,
+            524,
+            346,
+            504
+          ]
+        }
+      ],
+      "content": "Truck, Willys jeep, 1953"
+    },
+    {
+      "spans": [
+        {
+          "offset": 261,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            875,
+            498,
+            1065,
+            504,
+            1064,
+            529,
+            874,
+            524
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 267,
+          "length": 34
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            295,
+            502,
+            874,
+            524,
+            874,
+            550,
+            294,
+            528
+          ]
+        }
+      ],
+      "content": "8. Truck, cargo, 4 ton, Dodge 1953"
+    },
+    {
+      "spans": [
+        {
+          "offset": 302,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            874,
+            524,
+            1064,
+            529,
+            1064,
+            555,
+            874,
+            550
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 308,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            294,
+            528,
+            874,
+            550,
+            873,
+            572,
+            293,
+            553
+          ]
+        }
+      ],
+      "content": "9. Drill press"
+    },
+    {
+      "spans": [
+        {
+          "offset": 323,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            874,
+            550,
+            1064,
+            555,
+            1063,
+            579,
+            873,
+            572
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 329,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            293,
+            553,
+            873,
+            572,
+            873,
+            599,
+            291,
+            578
+          ]
+        }
+      ],
+      "content": "10. Cleaning solution, carbon, \"Turco\""
+    },
+    {
+      "spans": [
+        {
+          "offset": 368,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            873,
+            572,
+            1063,
+            579,
+            1063,
+            605,
+            873,
+            599
+          ]
+        }
+      ],
+      "content": "3 drums"
+    },
+    {
+      "spans": [
+        {
+          "offset": 376,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            291,
+            578,
+            873,
+            599,
+            872,
+            624,
+            290,
+            603
+          ]
+        }
+      ],
+      "content": "11. Trimmer, paper, 30\""
+    },
+    {
+      "spans": [
+        {
+          "offset": 400,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            873,
+            599,
+            1063,
+            605,
+            1062,
+            630,
+            872,
+            624
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 406,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            290,
+            603,
+            872,
+            624,
+            872,
+            656,
+            288,
+            636
+          ]
+        }
+      ],
+      "content": "12. Stand, jack, screw type"
+    },
+    {
+      "spans": [
+        {
+          "offset": 434,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            872,
+            624,
+            1062,
+            630,
+            1062,
+            663,
+            872,
+            656
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 440,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            569,
+            740,
+            884,
+            749,
+            883,
+            772,
+            569,
+            763
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "GROUP II (From Tainan)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 463,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            293,
+            782,
+            338,
+            784,
+            337,
+            818,
+            292,
+            817
+          ]
+        }
+      ],
+      "content": "1."
+    },
+    {
+      "spans": [
+        {
+          "offset": 492,
+          "length": 3
+        },
+        {
+          "offset": 466,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            338,
+            784,
+            870,
+            804,
+            870,
+            837,
+            337,
+            818
+          ]
+        }
+      ],
+      "content": "莊曜爾\nTruck, shop, van. 212 ton"
+    },
+    {
+      "spans": [
+        {
+          "offset": 496,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            870,
+            804,
+            975,
+            808,
+            975,
+            841,
+            870,
+            837
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 498,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            975,
+            808,
+            1028,
+            810,
+            1027,
+            843,
+            975,
+            841
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 502,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            292,
+            817,
+            337,
+            818,
+            336,
+            843,
+            291,
+            841
+          ]
+        }
+      ],
+      "content": "2."
+    },
+    {
+      "spans": [
+        {
+          "offset": 505,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            337,
+            818,
+            870,
+            837,
+            870,
+            862,
+            336,
+            843
+          ]
+        }
+      ],
+      "content": "Trailer, bomb-warhead 2.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 536,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            870,
+            837,
+            975,
+            841,
+            975,
+            866,
+            870,
+            862
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 538,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            975,
+            841,
+            1027,
+            843,
+            1027,
+            868,
+            975,
+            866
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 542,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            291,
+            841,
+            336,
+            843,
+            335,
+            869,
+            290,
+            867
+          ]
+        }
+      ],
+      "content": "3. ."
+    },
+    {
+      "spans": [
+        {
+          "offset": 547,
+          "length": 26
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            336,
+            843,
+            870,
+            862,
+            870,
+            888,
+            335,
+            869
+          ]
+        }
+      ],
+      "content": "Trailer, missile-transport"
+    },
+    {
+      "spans": [
+        {
+          "offset": 574,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            870,
+            862,
+            975,
+            866,
+            975,
+            892,
+            870,
+            888
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 576,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            975,
+            866,
+            1027,
+            868,
+            1026,
+            894,
+            975,
+            892
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 580,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            290,
+            867,
+            335,
+            869,
+            334,
+            894,
+            289,
+            892
+          ]
+        }
+      ],
+      "content": "4."
+    },
+    {
+      "spans": [
+        {
+          "offset": 583,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            335,
+            869,
+            870,
+            888,
+            870,
+            912,
+            334,
+            894
+          ]
+        }
+      ],
+      "content": "Transfer case ass'y"
+    },
+    {
+      "spans": [
+        {
+          "offset": 603,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            870,
+            888,
+            975,
+            892,
+            975,
+            916,
+            870,
+            912
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 605,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            975,
+            892,
+            1026,
+            894,
+            1026,
+            918,
+            975,
+            916
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 609,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            289,
+            892,
+            334,
+            894,
+            333,
+            918,
+            288,
+            916
+          ]
+        }
+      ],
+      "content": "5."
+    },
+    {
+      "spans": [
+        {
+          "offset": 612,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            334,
+            894,
+            870,
+            912,
+            870,
+            937,
+            333,
+            918
+          ]
+        }
+      ],
+      "content": "Axle ass'y, front"
+    },
+    {
+      "spans": [
+        {
+          "offset": 630,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            870,
+            912,
+            975,
+            916,
+            975,
+            941,
+            870,
+            937
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 632,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            975,
+            916,
+            1026,
+            918,
+            1026,
+            943,
+            975,
+            941
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 636,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            288,
+            916,
+            333,
+            918,
+            332,
+            951,
+            286,
+            949
+          ]
+        }
+      ],
+      "content": "6."
+    },
+    {
+      "spans": [
+        {
+          "offset": 639,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            333,
+            918,
+            870,
+            937,
+            870,
+            968,
+            332,
+            951
+          ]
+        }
+      ],
+      "content": "Axle ass'y, rear"
+    },
+    {
+      "spans": [
+        {
+          "offset": 656,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            870,
+            937,
+            975,
+            941,
+            974,
+            972,
+            870,
+            968
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 658,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            975,
+            941,
+            1026,
+            943,
+            1025,
+            973,
+            974,
+            972
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 662,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            559,
+            1052,
+            875,
+            1061,
+            874,
+            1085,
+            559,
+            1076
+          ]
+        }
+      ],
+      "content": "GROUP III (From Tainan)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 686,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            282,
+            1099,
+            796,
+            1115,
+            796,
+            1147,
+            281,
+            1130
+          ]
+        }
+      ],
+      "content": "1. Station wagon, Ford 1955"
+    },
+    {
+      "spans": [
+        {
+          "offset": 714,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            796,
+            1115,
+            1019,
+            1122,
+            1019,
+            1155,
+            796,
+            1147
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 720,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            281,
+            1130,
+            796,
+            1147,
+            796,
+            1171,
+            281,
+            1154
+          ]
+        }
+      ],
+      "content": "2. Differential case"
+    },
+    {
+      "spans": [
+        {
+          "offset": 741,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            796,
+            1147,
+            1019,
+            1155,
+            1018,
+            1179,
+            796,
+            1171
+          ]
+        }
+      ],
+      "content": "3 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 747,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            281,
+            1154,
+            796,
+            1171,
+            796,
+            1197,
+            280,
+            1179
+          ]
+        }
+      ],
+      "content": "3. Transfer case ass'y"
+    },
+    {
+      "spans": [
+        {
+          "offset": 770,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            796,
+            1171,
+            1018,
+            1179,
+            1018,
+            1204,
+            796,
+            1197
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 776,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            280,
+            1179,
+            796,
+            1197,
+            796,
+            1230,
+            279,
+            1214
+          ]
+        }
+      ],
+      "content": "4. Winch ass'y, truck"
+    },
+    {
+      "spans": [
+        {
+          "offset": 798,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            796,
+            1197,
+            1018,
+            1204,
+            1018,
+            1237,
+            796,
+            1230
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 804,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            552,
+            1302,
+            867,
+            1312,
+            866,
+            1334,
+            551,
+            1325
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "GROUP IV (From Tainan)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 827,
+          "length": 35
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            276,
+            1348,
+            875,
+            1367,
+            875,
+            1400,
+            275,
+            1380
+          ]
+        }
+      ],
+      "content": "1. Truck, tractor, 5 ton, diamond T"
+    },
+    {
+      "spans": [
+        {
+          "offset": 863,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            875,
+            1367,
+            1015,
+            1371,
+            1014,
+            1403,
+            875,
+            1400
+          ]
+        }
+      ],
+      "content": "2 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 869,
+          "length": 41
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            275,
+            1380,
+            875,
+            1400,
+            875,
+            1426,
+            274,
+            1406
+          ]
+        }
+      ],
+      "content": "2. Refueler, semi-trailer type, 2000 gal."
+    },
+    {
+      "spans": [
+        {
+          "offset": 911,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            875,
+            1400,
+            1014,
+            1403,
+            1014,
+            1430,
+            875,
+            1426
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 917,
+          "length": 29
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            274,
+            1406,
+            875,
+            1426,
+            874,
+            1451,
+            273,
+            1431
+          ]
+        }
+      ],
+      "content": "3. Trailer, missile transport"
+    },
+    {
+      "spans": [
+        {
+          "offset": 947,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            875,
+            1426,
+            1014,
+            1430,
+            1013,
+            1455,
+            874,
+            1451
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 953,
+          "length": 15
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            273,
+            1431,
+            874,
+            1451,
+            874,
+            1474,
+            272,
+            1456
+          ]
+        }
+      ],
+      "content": "4. Trailer, van"
+    },
+    {
+      "spans": [
+        {
+          "offset": 969,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            874,
+            1451,
+            1013,
+            1455,
+            1013,
+            1478,
+            874,
+            1474
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 975,
+          "length": 34
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            272,
+            1456,
+            874,
+            1474,
+            874,
+            1501,
+            271,
+            1482
+          ]
+        }
+      ],
+      "content": "5. Truck, cargo, 4 ton, Dodge 1953"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1010,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            874,
+            1474,
+            1013,
+            1478,
+            1013,
+            1504,
+            874,
+            1501
+          ]
+        }
+      ],
+      "content": "1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1016,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            271,
+            1482,
+            874,
+            1501,
+            874,
+            1530,
+            270,
+            1513
+          ]
+        }
+      ],
+      "content": "6. Trailer, semi, 16'"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1042,
+          "length": 5
+        },
+        {
+          "offset": 1038,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            874,
+            1501,
+            1013,
+            1504,
+            1012,
+            1534,
+            874,
+            1530
+          ]
+        }
+      ],
+      "content": "1 ea.\n國史饭"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1048,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            921,
+            1586,
+            1139,
+            1587,
+            1139,
+            1611,
+            921,
+            1610
+          ]
+        }
+      ],
+      "content": "Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1067,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            25,
+            1613,
+            89,
+            1611,
+            90,
+            1654,
+            26,
+            1656
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "507"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 1067,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 465
+        },
+        {
+          "offset": 492,
+          "length": 3
+        },
+        {
+          "offset": 466,
+          "length": 25
+        },
+        {
+          "offset": 496,
+          "length": 541
+        },
+        {
+          "offset": 1042,
+          "length": 5
+        },
+        {
+          "offset": 1038,
+          "length": 3
+        },
+        {
+          "offset": 1048,
+          "length": 18
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/sections/1",
+        "/sections/2",
+        "/sections/3"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 28,
+          "length": 411
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/tables/0"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 440,
+          "length": 25
+        },
+        {
+          "offset": 492,
+          "length": 3
+        },
+        {
+          "offset": 466,
+          "length": 25
+        },
+        {
+          "offset": 496,
+          "length": 307
+        }
+      ],
+      "elements": [
+        "/paragraphs/27",
+        "/tables/1",
+        "/paragraphs/52",
+        "/tables/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 804,
+          "length": 233
+        },
+        {
+          "offset": 1042,
+          "length": 5
+        },
+        {
+          "offset": 1038,
+          "length": 3
+        },
+        {
+          "offset": 1048,
+          "length": 18
+        }
+      ],
+      "elements": [
+        "/paragraphs/61",
+        "/tables/3",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            918,
+            1496,
+            1145,
+            1496,
+            1145,
+            1611,
+            918,
+            1611
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 1048,
+          "length": 18
+        }
+      ],
+      "elements": [
+        "/paragraphs/74"
+      ]
+    }
+  ]
+}

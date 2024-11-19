@@ -1,0 +1,1264 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "袋\nS\n期 A 欠 そ 完 平 i 12\n036",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.03835223987698555,
+      "width": 1117,
+      "height": 1530,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "袋",
+          "polygon": [
+            691,
+            1382,
+            663,
+            1383,
+            663,
+            1350,
+            689,
+            1349
+          ],
+          "confidence": 0.415,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "S",
+          "polygon": [
+            774,
+            998,
+            774,
+            1023,
+            742,
+            1019,
+            742,
+            994
+          ],
+          "confidence": 0.617,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "期",
+          "polygon": [
+            1022,
+            609,
+            1071,
+            609,
+            1071,
+            664,
+            1023,
+            661
+          ],
+          "confidence": 0.816,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "A",
+          "polygon": [
+            1038,
+            960,
+            1071,
+            967,
+            1071,
+            999,
+            1038,
+            995
+          ],
+          "confidence": 0.521,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "欠",
+          "polygon": [
+            1024,
+            1030,
+            1071,
+            1032,
+            1071,
+            1076,
+            1023,
+            1074
+          ],
+          "confidence": 0.425,
+          "span": {
+            "offset": 8,
+            "length": 1
+          }
+        },
+        {
+          "content": "そ",
+          "polygon": [
+            1016,
+            1099,
+            1069,
+            1098,
+            1069,
+            1140,
+            1016,
+            1137
+          ],
+          "confidence": 0.114,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "完",
+          "polygon": [
+            1023,
+            1149,
+            1074,
+            1156,
+            1074,
+            1209,
+            1024,
+            1200
+          ],
+          "confidence": 0.708,
+          "span": {
+            "offset": 12,
+            "length": 1
+          }
+        },
+        {
+          "content": "平",
+          "polygon": [
+            1025,
+            1218,
+            1065,
+            1222,
+            1065,
+            1267,
+            1025,
+            1260
+          ],
+          "confidence": 0.767,
+          "span": {
+            "offset": 14,
+            "length": 1
+          }
+        },
+        {
+          "content": "i",
+          "polygon": [
+            1022,
+            1282,
+            1067,
+            1282,
+            1067,
+            1324,
+            1023,
+            1325
+          ],
+          "confidence": 0.799,
+          "span": {
+            "offset": 16,
+            "length": 1
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            1022,
+            1340,
+            1066,
+            1341,
+            1066,
+            1375,
+            1022,
+            1374
+          ],
+          "confidence": 0.434,
+          "span": {
+            "offset": 18,
+            "length": 2
+          }
+        },
+        {
+          "content": "036",
+          "polygon": [
+            61,
+            1463,
+            120,
+            1462,
+            120,
+            1490,
+            62,
+            1490
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 21,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "袋",
+          "polygon": [
+            691,
+            1382,
+            665,
+            1383,
+            664,
+            1350,
+            690,
+            1349
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "S",
+          "polygon": [
+            775,
+            994,
+            774,
+            1023,
+            742,
+            1022,
+            743,
+            993
+          ],
+          "spans": [
+            {
+              "offset": 2,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "期",
+          "polygon": [
+            1022,
+            605,
+            1070,
+            605,
+            1070,
+            664,
+            1023,
+            664
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "A",
+          "polygon": [
+            1038,
+            960,
+            1071,
+            960,
+            1071,
+            999,
+            1038,
+            999
+          ],
+          "spans": [
+            {
+              "offset": 6,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "欠",
+          "polygon": [
+            1024,
+            1029,
+            1071,
+            1029,
+            1070,
+            1076,
+            1023,
+            1075
+          ],
+          "spans": [
+            {
+              "offset": 8,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "そ",
+          "polygon": [
+            1016,
+            1098,
+            1068,
+            1098,
+            1068,
+            1139,
+            1016,
+            1139
+          ],
+          "spans": [
+            {
+              "offset": 10,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "完",
+          "polygon": [
+            1023,
+            1149,
+            1073,
+            1149,
+            1073,
+            1209,
+            1023,
+            1209
+          ],
+          "spans": [
+            {
+              "offset": 12,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "平",
+          "polygon": [
+            1025,
+            1218,
+            1064,
+            1218,
+            1064,
+            1267,
+            1025,
+            1267
+          ],
+          "spans": [
+            {
+              "offset": 14,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "i",
+          "polygon": [
+            1022,
+            1282,
+            1066,
+            1281,
+            1067,
+            1324,
+            1023,
+            1325
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "12",
+          "polygon": [
+            1022,
+            1340,
+            1066,
+            1341,
+            1066,
+            1374,
+            1022,
+            1374
+          ],
+          "spans": [
+            {
+              "offset": 18,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "036",
+          "polygon": [
+            61,
+            1462,
+            120,
+            1462,
+            120,
+            1490,
+            62,
+            1490
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 3,
+      "columnCount": 10,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                172,
+                146,
+                263,
+                145,
+                263,
+                298,
+                172,
+                298
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                263,
+                145,
+                353,
+                143,
+                353,
+                300,
+                263,
+                298
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                353,
+                143,
+                444,
+                143,
+                444,
+                300,
+                353,
+                300
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                444,
+                143,
+                537,
+                142,
+                537,
+                301,
+                444,
+                300
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                142,
+                625,
+                140,
+                625,
+                300,
+                537,
+                301
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                625,
+                140,
+                714,
+                139,
+                714,
+                300,
+                625,
+                300
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 6,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                714,
+                139,
+                808,
+                139,
+                808,
+                300,
+                714,
+                300
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 7,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                808,
+                139,
+                898,
+                139,
+                896,
+                301,
+                808,
+                300
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 8,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                898,
+                139,
+                990,
+                138,
+                990,
+                301,
+                896,
+                301
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 9,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                990,
+                138,
+                1077,
+                138,
+                1077,
+                301,
+                990,
+                301
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                172,
+                298,
+                263,
+                298,
+                261,
+                1453,
+                168,
+                1454
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "rowSpan": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                263,
+                298,
+                353,
+                300,
+                350,
+                1453,
+                261,
+                1453
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                353,
+                300,
+                444,
+                300,
+                443,
+                493,
+                353,
+                493
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                444,
+                300,
+                537,
+                301,
+                537,
+                493,
+                443,
+                493
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                301,
+                625,
+                300,
+                625,
+                493,
+                537,
+                493
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                625,
+                300,
+                714,
+                300,
+                715,
+                492,
+                625,
+                493
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 6,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                714,
+                300,
+                808,
+                300,
+                808,
+                492,
+                715,
+                492
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 7,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                808,
+                300,
+                896,
+                301,
+                896,
+                490,
+                808,
+                492
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 8,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                896,
+                301,
+                990,
+                301,
+                990,
+                490,
+                896,
+                490
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 9,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                990,
+                301,
+                1077,
+                301,
+                1079,
+                490,
+                990,
+                490
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                353,
+                493,
+                443,
+                493,
+                440,
+                1453,
+                350,
+                1453
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                443,
+                493,
+                537,
+                493,
+                534,
+                1453,
+                440,
+                1453
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                537,
+                493,
+                625,
+                493,
+                623,
+                1453,
+                534,
+                1453
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 5,
+          "content": "袋",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                625,
+                493,
+                715,
+                492,
+                718,
+                1451,
+                623,
+                1453
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/0"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 6,
+          "content": "S",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                715,
+                492,
+                808,
+                492,
+                808,
+                1451,
+                718,
+                1451
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 2,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/1"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 7,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                808,
+                492,
+                896,
+                490,
+                896,
+                1450,
+                808,
+                1451
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 8,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                896,
+                490,
+                990,
+                490,
+                990,
+                1450,
+                896,
+                1450
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 9,
+          "content": "期 A 欠 そ 完 平 i 12",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                990,
+                490,
+                1079,
+                490,
+                1079,
+                1450,
+                990,
+                1450
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 16
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            165,
+            133,
+            1080,
+            130,
+            1085,
+            1453,
+            170,
+            1457
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 20
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            625,
+            493,
+            715,
+            492,
+            718,
+            1451,
+            623,
+            1453
+          ]
+        }
+      ],
+      "content": "袋"
+    },
+    {
+      "spans": [
+        {
+          "offset": 2,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            715,
+            492,
+            808,
+            492,
+            808,
+            1451,
+            718,
+            1451
+          ]
+        }
+      ],
+      "content": "S"
+    },
+    {
+      "spans": [
+        {
+          "offset": 4,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            990,
+            490,
+            1079,
+            490,
+            1079,
+            1450,
+            990,
+            1450
+          ]
+        }
+      ],
+      "content": "期 A 欠 そ 完 平 i 12"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            61,
+            1462,
+            120,
+            1462,
+            120,
+            1490,
+            62,
+            1490
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "036"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 8,
+          "length": 1
+        },
+        {
+          "offset": 14,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 10,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.9,
+      "spans": [
+        {
+          "offset": 12,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.6,
+      "spans": [
+        {
+          "offset": 16,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.3,
+      "spans": [
+        {
+          "offset": 18,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 21,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 20
+        }
+      ],
+      "elements": [
+        "/tables/0"
+      ]
+    }
+  ]
+}

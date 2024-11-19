@@ -1,0 +1,1543 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "19\nTDT. Solvent.\nGal\n15\n2 Apr. 162 C2-62-0968\n20 Apr. 162\n20\nTruck, Cargo, 22 Ton\nea.\n1\n11\n40 112.213.82\n2216 Academia Histórica\n510",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.23971229791641235,
+      "width": 1261,
+      "height": 1618,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "19",
+          "polygon": [
+            63,
+            206,
+            93,
+            206,
+            93,
+            226,
+            63,
+            226
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 0,
+            "length": 2
+          }
+        },
+        {
+          "content": "TDT.",
+          "polygon": [
+            228,
+            209,
+            279,
+            209,
+            279,
+            231,
+            228,
+            230
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 3,
+            "length": 4
+          }
+        },
+        {
+          "content": "Solvent.",
+          "polygon": [
+            291,
+            209,
+            391,
+            210,
+            391,
+            231,
+            291,
+            231
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 8,
+            "length": 8
+          }
+        },
+        {
+          "content": "Gal",
+          "polygon": [
+            556,
+            215,
+            594,
+            215,
+            594,
+            235,
+            556,
+            235
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 17,
+            "length": 3
+          }
+        },
+        {
+          "content": "15",
+          "polygon": [
+            631,
+            215,
+            658,
+            216,
+            658,
+            237,
+            631,
+            236
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 21,
+            "length": 2
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            694,
+            216,
+            708,
+            217,
+            708,
+            238,
+            694,
+            238
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 24,
+            "length": 1
+          }
+        },
+        {
+          "content": "Apr.",
+          "polygon": [
+            719,
+            216,
+            768,
+            217,
+            768,
+            239,
+            719,
+            239
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 26,
+            "length": 4
+          }
+        },
+        {
+          "content": "162",
+          "polygon": [
+            774,
+            217,
+            810,
+            217,
+            810,
+            239,
+            774,
+            239
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 31,
+            "length": 3
+          }
+        },
+        {
+          "content": "C2-62-0968",
+          "polygon": [
+            693,
+            241,
+            822,
+            241,
+            822,
+            263,
+            693,
+            262
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 35,
+            "length": 10
+          }
+        },
+        {
+          "content": "20",
+          "polygon": [
+            857,
+            220,
+            885,
+            220,
+            885,
+            243,
+            857,
+            243
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 46,
+            "length": 2
+          }
+        },
+        {
+          "content": "Apr.",
+          "polygon": [
+            894,
+            220,
+            942,
+            220,
+            941,
+            244,
+            894,
+            244
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 49,
+            "length": 4
+          }
+        },
+        {
+          "content": "162",
+          "polygon": [
+            946,
+            220,
+            985,
+            220,
+            985,
+            244,
+            946,
+            244
+          ],
+          "confidence": 0.686,
+          "span": {
+            "offset": 54,
+            "length": 3
+          }
+        },
+        {
+          "content": "20",
+          "polygon": [
+            65,
+            280,
+            91,
+            280,
+            91,
+            300,
+            65,
+            299
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 58,
+            "length": 2
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            227,
+            282,
+            297,
+            282,
+            297,
+            307,
+            227,
+            306
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 61,
+            "length": 6
+          }
+        },
+        {
+          "content": "Cargo,",
+          "polygon": [
+            302,
+            282,
+            377,
+            283,
+            377,
+            308,
+            302,
+            307
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 68,
+            "length": 6
+          }
+        },
+        {
+          "content": "22",
+          "polygon": [
+            382,
+            283,
+            406,
+            283,
+            406,
+            308,
+            381,
+            308
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 75,
+            "length": 2
+          }
+        },
+        {
+          "content": "Ton",
+          "polygon": [
+            417,
+            284,
+            457,
+            284,
+            457,
+            308,
+            417,
+            308
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 78,
+            "length": 3
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            555,
+            293,
+            592,
+            293,
+            591,
+            309,
+            555,
+            308
+          ],
+          "confidence": 0.928,
+          "span": {
+            "offset": 82,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            642,
+            289,
+            656,
+            290,
+            656,
+            308,
+            642,
+            308
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 86,
+            "length": 1
+          }
+        },
+        {
+          "content": "11",
+          "polygon": [
+            907,
+            294,
+            920,
+            294,
+            920,
+            308,
+            907,
+            307
+          ],
+          "confidence": 0.109,
+          "span": {
+            "offset": 88,
+            "length": 2
+          }
+        },
+        {
+          "content": "40",
+          "polygon": [
+            499,
+            805,
+            550,
+            804,
+            550,
+            847,
+            500,
+            848
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 91,
+            "length": 2
+          }
+        },
+        {
+          "content": "112.213.82",
+          "polygon": [
+            559,
+            804,
+            765,
+            802,
+            765,
+            843,
+            559,
+            847
+          ],
+          "confidence": 0.622,
+          "span": {
+            "offset": 94,
+            "length": 10
+          }
+        },
+        {
+          "content": "2216",
+          "polygon": [
+            896,
+            1461,
+            1090,
+            1463,
+            1090,
+            1535,
+            896,
+            1531
+          ],
+          "confidence": 0.083,
+          "span": {
+            "offset": 105,
+            "length": 4
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            878,
+            1536,
+            979,
+            1538,
+            979,
+            1562,
+            878,
+            1561
+          ],
+          "confidence": 0.612,
+          "span": {
+            "offset": 110,
+            "length": 8
+          }
+        },
+        {
+          "content": "Histórica",
+          "polygon": [
+            988,
+            1538,
+            1089,
+            1539,
+            1089,
+            1563,
+            988,
+            1562
+          ],
+          "confidence": 0.56,
+          "span": {
+            "offset": 119,
+            "length": 9
+          }
+        },
+        {
+          "content": "510",
+          "polygon": [
+            44,
+            1555,
+            103,
+            1555,
+            103,
+            1589,
+            44,
+            1590
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 129,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "19",
+          "polygon": [
+            63,
+            206,
+            93,
+            206,
+            93,
+            226,
+            63,
+            226
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "TDT. Solvent.",
+          "polygon": [
+            228,
+            209,
+            391,
+            210,
+            391,
+            231,
+            228,
+            230
+          ],
+          "spans": [
+            {
+              "offset": 3,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Gal",
+          "polygon": [
+            556,
+            215,
+            594,
+            215,
+            594,
+            234,
+            556,
+            234
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "15",
+          "polygon": [
+            631,
+            215,
+            658,
+            216,
+            658,
+            236,
+            630,
+            236
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2 Apr. 162",
+          "polygon": [
+            694,
+            216,
+            810,
+            217,
+            809,
+            239,
+            694,
+            238
+          ],
+          "spans": [
+            {
+              "offset": 24,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "C2-62-0968",
+          "polygon": [
+            693,
+            241,
+            821,
+            241,
+            821,
+            263,
+            693,
+            262
+          ],
+          "spans": [
+            {
+              "offset": 35,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "20 Apr. 162",
+          "polygon": [
+            857,
+            220,
+            985,
+            220,
+            985,
+            244,
+            857,
+            244
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "20",
+          "polygon": [
+            65,
+            280,
+            91,
+            280,
+            91,
+            299,
+            65,
+            299
+          ],
+          "spans": [
+            {
+              "offset": 58,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Truck, Cargo, 22 Ton",
+          "polygon": [
+            227,
+            282,
+            456,
+            284,
+            456,
+            308,
+            227,
+            306
+          ],
+          "spans": [
+            {
+              "offset": 61,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            555,
+            293,
+            592,
+            293,
+            591,
+            309,
+            555,
+            308
+          ],
+          "spans": [
+            {
+              "offset": 82,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            642,
+            289,
+            656,
+            289,
+            656,
+            308,
+            642,
+            308
+          ],
+          "spans": [
+            {
+              "offset": 86,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "11",
+          "polygon": [
+            907,
+            294,
+            920,
+            294,
+            920,
+            307,
+            907,
+            307
+          ],
+          "spans": [
+            {
+              "offset": 88,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "40 112.213.82",
+          "polygon": [
+            499,
+            805,
+            765,
+            802,
+            765,
+            845,
+            500,
+            848
+          ],
+          "spans": [
+            {
+              "offset": 91,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "2216",
+          "polygon": [
+            896,
+            1460,
+            1090,
+            1462,
+            1088,
+            1534,
+            896,
+            1530
+          ],
+          "spans": [
+            {
+              "offset": 105,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Academia Histórica",
+          "polygon": [
+            878,
+            1536,
+            1088,
+            1539,
+            1088,
+            1563,
+            878,
+            1561
+          ],
+          "spans": [
+            {
+              "offset": 110,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "510",
+          "polygon": [
+            44,
+            1555,
+            103,
+            1555,
+            103,
+            1589,
+            44,
+            1590
+          ],
+          "spans": [
+            {
+              "offset": 129,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 132
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 2,
+      "columnCount": 6,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "19",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                46,
+                193,
+                160,
+                194,
+                160,
+                265,
+                46,
+                264
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/0"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "TDT. Solvent.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                160,
+                194,
+                505,
+                198,
+                505,
+                269,
+                160,
+                265
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 3,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/1"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Gal",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                505,
+                198,
+                611,
+                199,
+                611,
+                271,
+                505,
+                269
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "15",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                611,
+                199,
+                673,
+                200,
+                673,
+                272,
+                611,
+                271
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "content": "2 Apr. 162 C2-62-0968",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                673,
+                200,
+                838,
+                202,
+                838,
+                273,
+                673,
+                272
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 24,
+              "length": 21
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 5,
+          "content": "20 Apr. 162",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                838,
+                202,
+                996,
+                204,
+                996,
+                275,
+                838,
+                273
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "20",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                46,
+                264,
+                160,
+                265,
+                161,
+                313,
+                46,
+                312
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 58,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Truck, Cargo, 22 Ton",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                160,
+                265,
+                505,
+                269,
+                505,
+                317,
+                161,
+                313
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 61,
+              "length": 20
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                505,
+                269,
+                611,
+                271,
+                610,
+                318,
+                505,
+                317
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 82,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                611,
+                271,
+                673,
+                272,
+                673,
+                319,
+                610,
+                318
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 86,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                673,
+                272,
+                838,
+                273,
+                838,
+                320,
+                673,
+                319
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 5,
+          "content": "11",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                838,
+                273,
+                996,
+                275,
+                996,
+                322,
+                838,
+                320
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 88,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            199,
+            995,
+            201,
+            993,
+            319,
+            52,
+            316
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 90
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            46,
+            193,
+            160,
+            194,
+            160,
+            265,
+            46,
+            264
+          ]
+        }
+      ],
+      "content": "19"
+    },
+    {
+      "spans": [
+        {
+          "offset": 3,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            160,
+            194,
+            505,
+            198,
+            505,
+            269,
+            160,
+            265
+          ]
+        }
+      ],
+      "content": "TDT. Solvent."
+    },
+    {
+      "spans": [
+        {
+          "offset": 17,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            505,
+            198,
+            611,
+            199,
+            611,
+            271,
+            505,
+            269
+          ]
+        }
+      ],
+      "content": "Gal"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            611,
+            199,
+            673,
+            200,
+            673,
+            272,
+            611,
+            271
+          ]
+        }
+      ],
+      "content": "15"
+    },
+    {
+      "spans": [
+        {
+          "offset": 24,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            673,
+            200,
+            838,
+            202,
+            838,
+            273,
+            673,
+            272
+          ]
+        }
+      ],
+      "content": "2 Apr. 162 C2-62-0968"
+    },
+    {
+      "spans": [
+        {
+          "offset": 46,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            838,
+            202,
+            996,
+            204,
+            996,
+            275,
+            838,
+            273
+          ]
+        }
+      ],
+      "content": "20 Apr. 162"
+    },
+    {
+      "spans": [
+        {
+          "offset": 58,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            46,
+            264,
+            160,
+            265,
+            161,
+            313,
+            46,
+            312
+          ]
+        }
+      ],
+      "content": "20"
+    },
+    {
+      "spans": [
+        {
+          "offset": 61,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            160,
+            265,
+            505,
+            269,
+            505,
+            317,
+            161,
+            313
+          ]
+        }
+      ],
+      "content": "Truck, Cargo, 22 Ton"
+    },
+    {
+      "spans": [
+        {
+          "offset": 82,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            505,
+            269,
+            611,
+            271,
+            610,
+            318,
+            505,
+            317
+          ]
+        }
+      ],
+      "content": "ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 86,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            611,
+            271,
+            673,
+            272,
+            673,
+            319,
+            610,
+            318
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 88,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            838,
+            273,
+            996,
+            275,
+            996,
+            322,
+            838,
+            320
+          ]
+        }
+      ],
+      "content": "11"
+    },
+    {
+      "spans": [
+        {
+          "offset": 91,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            499,
+            805,
+            765,
+            802,
+            765,
+            845,
+            500,
+            848
+          ]
+        }
+      ],
+      "content": "40 112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 105,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            879,
+            1460,
+            1090,
+            1462,
+            1089,
+            1563,
+            878,
+            1561
+          ]
+        }
+      ],
+      "content": "2216 Academia Histórica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 129,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            44,
+            1555,
+            103,
+            1555,
+            103,
+            1589,
+            44,
+            1590
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "510"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 105,
+          "length": 4
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 129,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 128
+        }
+      ],
+      "elements": [
+        "/tables/0",
+        "/paragraphs/11",
+        "/paragraphs/12"
+      ]
+    }
+  ]
+}

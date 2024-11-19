@@ -1,0 +1,4492 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Copy .\nOffice Memorandum . UNITED STATES GOVERNMENT\nDATE\nJuly 23,1962\nU.S. GBL: /A-0687768, States Marine Idnes, Inc., 8/L Nos. 7 and 22 Taipel BSAID A-7\nOur message Seoul USAID A-123 dated June 15, 1962, requested UB AID Kores to consign the three Toyota buses to CUSA, Taipei, Taiwan. It is noted that the Chevrolet Pick-Up vehicles and the busss have been consigned to US AID/China, c/o American Escassy, Chine. (The subject B/Ls Are self explanatory, two buses and two Pick-Up vehicles shipped on the SS \"Buckeye State\" w.d. one bus on the SS \"Steel Recorder\" ). In view of the fsot that all the vehicles have boor consignedate ME A ID/C 16 you think it is possible for the Mission to clear upon arrival and then transfer the buses to CUBA, or would you prefer that we udvise US AID Koren that the busen hever tenn Incorrectly consigned request them to amend the present documents to show the Street cona! men! It will Meer ind arrange transfer 5 5:19 \"[1] you kindly advise your renotion. 140.112.213.82\nTom, Buses were endorsed to JCRR who cleared them through customs.\nMF 7/27/62\nÀ\n2 216 Academia Historica\n35",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.4215295910835266,
+      "width": 1296,
+      "height": 1664,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Copy",
+          "polygon": [
+            741,
+            81,
+            834,
+            71,
+            838,
+            137,
+            744,
+            142
+          ],
+          "confidence": 0.675,
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": ".",
+          "polygon": [
+            889,
+            65,
+            931,
+            64,
+            933,
+            122,
+            891,
+            127
+          ],
+          "confidence": 0.317,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "Office",
+          "polygon": [
+            152,
+            137,
+            267,
+            138,
+            266,
+            182,
+            151,
+            182
+          ],
+          "confidence": 0.647,
+          "span": {
+            "offset": 7,
+            "length": 6
+          }
+        },
+        {
+          "content": "Memorandum",
+          "polygon": [
+            304,
+            138,
+            559,
+            141,
+            559,
+            182,
+            304,
+            182
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 14,
+            "length": 10
+          }
+        },
+        {
+          "content": ".",
+          "polygon": [
+            594,
+            142,
+            604,
+            142,
+            604,
+            182,
+            593,
+            182
+          ],
+          "confidence": 0.938,
+          "span": {
+            "offset": 25,
+            "length": 1
+          }
+        },
+        {
+          "content": "UNITED",
+          "polygon": [
+            642,
+            143,
+            753,
+            144,
+            753,
+            181,
+            642,
+            182
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 27,
+            "length": 6
+          }
+        },
+        {
+          "content": "STATES",
+          "polygon": [
+            781,
+            144,
+            892,
+            145,
+            892,
+            181,
+            781,
+            181
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 34,
+            "length": 6
+          }
+        },
+        {
+          "content": "GOVERNMENT",
+          "polygon": [
+            919,
+            145,
+            1132,
+            146,
+            1132,
+            180,
+            919,
+            182
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 41,
+            "length": 10
+          }
+        },
+        {
+          "content": "DATE",
+          "polygon": [
+            837,
+            226,
+            886,
+            226,
+            886,
+            242,
+            837,
+            241
+          ],
+          "confidence": 0.658,
+          "span": {
+            "offset": 52,
+            "length": 4
+          }
+        },
+        {
+          "content": "July",
+          "polygon": [
+            916,
+            222,
+            965,
+            222,
+            965,
+            246,
+            916,
+            245
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 57,
+            "length": 4
+          }
+        },
+        {
+          "content": "23,1962",
+          "polygon": [
+            978,
+            222,
+            1066,
+            222,
+            1066,
+            246,
+            978,
+            246
+          ],
+          "confidence": 0.887,
+          "span": {
+            "offset": 62,
+            "length": 7
+          }
+        },
+        {
+          "content": "U.S.",
+          "polygon": [
+            262,
+            322,
+            312,
+            321,
+            312,
+            346,
+            262,
+            346
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 70,
+            "length": 4
+          }
+        },
+        {
+          "content": "GBL:",
+          "polygon": [
+            327,
+            321,
+            373,
+            322,
+            373,
+            347,
+            327,
+            346
+          ],
+          "confidence": 0.65,
+          "span": {
+            "offset": 75,
+            "length": 4
+          }
+        },
+        {
+          "content": "/A-0687768,",
+          "polygon": [
+            392,
+            322,
+            524,
+            323,
+            524,
+            349,
+            392,
+            347
+          ],
+          "confidence": 0.6,
+          "span": {
+            "offset": 80,
+            "length": 11
+          }
+        },
+        {
+          "content": "States",
+          "polygon": [
+            541,
+            324,
+            613,
+            325,
+            613,
+            349,
+            540,
+            349
+          ],
+          "confidence": 0.869,
+          "span": {
+            "offset": 92,
+            "length": 6
+          }
+        },
+        {
+          "content": "Marine",
+          "polygon": [
+            627,
+            325,
+            700,
+            326,
+            700,
+            351,
+            627,
+            350
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 99,
+            "length": 6
+          }
+        },
+        {
+          "content": "Idnes,",
+          "polygon": [
+            718,
+            326,
+            786,
+            326,
+            786,
+            351,
+            717,
+            351
+          ],
+          "confidence": 0.613,
+          "span": {
+            "offset": 106,
+            "length": 6
+          }
+        },
+        {
+          "content": "Inc.,",
+          "polygon": [
+            806,
+            326,
+            862,
+            327,
+            862,
+            352,
+            806,
+            351
+          ],
+          "confidence": 0.692,
+          "span": {
+            "offset": 113,
+            "length": 5
+          }
+        },
+        {
+          "content": "8/L",
+          "polygon": [
+            880,
+            327,
+            916,
+            328,
+            916,
+            353,
+            880,
+            352
+          ],
+          "confidence": 0.877,
+          "span": {
+            "offset": 119,
+            "length": 3
+          }
+        },
+        {
+          "content": "Nos.",
+          "polygon": [
+            928,
+            328,
+            975,
+            329,
+            975,
+            353,
+            928,
+            353
+          ],
+          "confidence": 0.871,
+          "span": {
+            "offset": 123,
+            "length": 4
+          }
+        },
+        {
+          "content": "7",
+          "polygon": [
+            991,
+            329,
+            1001,
+            329,
+            1001,
+            353,
+            991,
+            353
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 128,
+            "length": 1
+          }
+        },
+        {
+          "content": "and",
+          "polygon": [
+            1015,
+            329,
+            1050,
+            330,
+            1050,
+            354,
+            1015,
+            353
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 130,
+            "length": 3
+          }
+        },
+        {
+          "content": "22",
+          "polygon": [
+            1066,
+            330,
+            1092,
+            331,
+            1092,
+            354,
+            1066,
+            354
+          ],
+          "confidence": 0.955,
+          "span": {
+            "offset": 134,
+            "length": 2
+          }
+        },
+        {
+          "content": "Taipel",
+          "polygon": [
+            262,
+            373,
+            335,
+            373,
+            335,
+            396,
+            262,
+            396
+          ],
+          "confidence": 0.641,
+          "span": {
+            "offset": 137,
+            "length": 6
+          }
+        },
+        {
+          "content": "BSAID",
+          "polygon": [
+            352,
+            373,
+            412,
+            373,
+            412,
+            396,
+            352,
+            396
+          ],
+          "confidence": 0.695,
+          "span": {
+            "offset": 144,
+            "length": 5
+          }
+        },
+        {
+          "content": "A-7",
+          "polygon": [
+            427,
+            373,
+            468,
+            373,
+            468,
+            396,
+            426,
+            396
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 150,
+            "length": 3
+          }
+        },
+        {
+          "content": "Our",
+          "polygon": [
+            262,
+            476,
+            298,
+            477,
+            298,
+            498,
+            262,
+            497
+          ],
+          "confidence": 0.906,
+          "span": {
+            "offset": 154,
+            "length": 3
+          }
+        },
+        {
+          "content": "message",
+          "polygon": [
+            314,
+            477,
+            400,
+            477,
+            400,
+            499,
+            314,
+            498
+          ],
+          "confidence": 0.559,
+          "span": {
+            "offset": 158,
+            "length": 7
+          }
+        },
+        {
+          "content": "Seoul",
+          "polygon": [
+            415,
+            477,
+            474,
+            477,
+            474,
+            500,
+            415,
+            499
+          ],
+          "confidence": 0.832,
+          "span": {
+            "offset": 166,
+            "length": 5
+          }
+        },
+        {
+          "content": "USAID",
+          "polygon": [
+            489,
+            478,
+            550,
+            478,
+            550,
+            501,
+            489,
+            500
+          ],
+          "confidence": 0.927,
+          "span": {
+            "offset": 172,
+            "length": 5
+          }
+        },
+        {
+          "content": "A-123",
+          "polygon": [
+            563,
+            478,
+            624,
+            478,
+            624,
+            501,
+            563,
+            501
+          ],
+          "confidence": 0.802,
+          "span": {
+            "offset": 178,
+            "length": 5
+          }
+        },
+        {
+          "content": "dated",
+          "polygon": [
+            640,
+            478,
+            699,
+            479,
+            698,
+            502,
+            640,
+            502
+          ],
+          "confidence": 0.59,
+          "span": {
+            "offset": 184,
+            "length": 5
+          }
+        },
+        {
+          "content": "June",
+          "polygon": [
+            715,
+            479,
+            761,
+            480,
+            761,
+            502,
+            715,
+            502
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 190,
+            "length": 4
+          }
+        },
+        {
+          "content": "15,",
+          "polygon": [
+            780,
+            480,
+            811,
+            480,
+            811,
+            503,
+            780,
+            503
+          ],
+          "confidence": 0.803,
+          "span": {
+            "offset": 195,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962,",
+          "polygon": [
+            829,
+            480,
+            885,
+            481,
+            885,
+            504,
+            829,
+            503
+          ],
+          "confidence": 0.856,
+          "span": {
+            "offset": 199,
+            "length": 5
+          }
+        },
+        {
+          "content": "requested",
+          "polygon": [
+            903,
+            482,
+            1017,
+            483,
+            1017,
+            504,
+            903,
+            504
+          ],
+          "confidence": 0.823,
+          "span": {
+            "offset": 205,
+            "length": 9
+          }
+        },
+        {
+          "content": "UB",
+          "polygon": [
+            261,
+            500,
+            286,
+            500,
+            286,
+            522,
+            261,
+            522
+          ],
+          "confidence": 0.685,
+          "span": {
+            "offset": 215,
+            "length": 2
+          }
+        },
+        {
+          "content": "AID",
+          "polygon": [
+            303,
+            500,
+            337,
+            501,
+            337,
+            523,
+            303,
+            522
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 218,
+            "length": 3
+          }
+        },
+        {
+          "content": "Kores",
+          "polygon": [
+            354,
+            501,
+            410,
+            502,
+            410,
+            523,
+            354,
+            523
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 222,
+            "length": 5
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            427,
+            502,
+            450,
+            502,
+            450,
+            524,
+            426,
+            524
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 228,
+            "length": 2
+          }
+        },
+        {
+          "content": "consign",
+          "polygon": [
+            467,
+            502,
+            550,
+            503,
+            550,
+            526,
+            467,
+            524
+          ],
+          "confidence": 0.642,
+          "span": {
+            "offset": 231,
+            "length": 7
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            564,
+            504,
+            600,
+            504,
+            600,
+            526,
+            564,
+            526
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 239,
+            "length": 3
+          }
+        },
+        {
+          "content": "three",
+          "polygon": [
+            616,
+            504,
+            675,
+            505,
+            675,
+            527,
+            616,
+            526
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 243,
+            "length": 5
+          }
+        },
+        {
+          "content": "Toyota",
+          "polygon": [
+            689,
+            505,
+            761,
+            506,
+            761,
+            528,
+            689,
+            527
+          ],
+          "confidence": 0.628,
+          "span": {
+            "offset": 249,
+            "length": 6
+          }
+        },
+        {
+          "content": "buses",
+          "polygon": [
+            777,
+            506,
+            837,
+            507,
+            837,
+            529,
+            777,
+            528
+          ],
+          "confidence": 0.682,
+          "span": {
+            "offset": 256,
+            "length": 5
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            852,
+            507,
+            875,
+            507,
+            875,
+            529,
+            852,
+            529
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 262,
+            "length": 2
+          }
+        },
+        {
+          "content": "CUSA,",
+          "polygon": [
+            893,
+            507,
+            948,
+            508,
+            948,
+            530,
+            893,
+            529
+          ],
+          "confidence": 0.911,
+          "span": {
+            "offset": 265,
+            "length": 5
+          }
+        },
+        {
+          "content": "Taipei,",
+          "polygon": [
+            964,
+            508,
+            1051,
+            510,
+            1051,
+            533,
+            964,
+            530
+          ],
+          "confidence": 0.833,
+          "span": {
+            "offset": 271,
+            "length": 7
+          }
+        },
+        {
+          "content": "Taiwan.",
+          "polygon": [
+            261,
+            527,
+            348,
+            528,
+            348,
+            549,
+            260,
+            548
+          ],
+          "confidence": 0.638,
+          "span": {
+            "offset": 279,
+            "length": 7
+          }
+        },
+        {
+          "content": "It",
+          "polygon": [
+            379,
+            528,
+            399,
+            528,
+            399,
+            549,
+            379,
+            549
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 287,
+            "length": 2
+          }
+        },
+        {
+          "content": "is",
+          "polygon": [
+            415,
+            528,
+            436,
+            528,
+            436,
+            550,
+            415,
+            549
+          ],
+          "confidence": 0.876,
+          "span": {
+            "offset": 290,
+            "length": 2
+          }
+        },
+        {
+          "content": "noted",
+          "polygon": [
+            452,
+            528,
+            513,
+            529,
+            513,
+            550,
+            452,
+            550
+          ],
+          "confidence": 0.861,
+          "span": {
+            "offset": 293,
+            "length": 5
+          }
+        },
+        {
+          "content": "that",
+          "polygon": [
+            526,
+            529,
+            574,
+            529,
+            574,
+            551,
+            526,
+            551
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 299,
+            "length": 4
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            592,
+            529,
+            624,
+            530,
+            624,
+            552,
+            592,
+            551
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 304,
+            "length": 3
+          }
+        },
+        {
+          "content": "Chevrolet",
+          "polygon": [
+            643,
+            530,
+            749,
+            531,
+            749,
+            553,
+            643,
+            552
+          ],
+          "confidence": 0.566,
+          "span": {
+            "offset": 308,
+            "length": 9
+          }
+        },
+        {
+          "content": "Pick-Up",
+          "polygon": [
+            775,
+            531,
+            850,
+            532,
+            850,
+            554,
+            775,
+            553
+          ],
+          "confidence": 0.407,
+          "span": {
+            "offset": 318,
+            "length": 7
+          }
+        },
+        {
+          "content": "vehicles",
+          "polygon": [
+            863,
+            532,
+            961,
+            534,
+            961,
+            555,
+            863,
+            554
+          ],
+          "confidence": 0.621,
+          "span": {
+            "offset": 326,
+            "length": 8
+          }
+        },
+        {
+          "content": "and",
+          "polygon": [
+            977,
+            534,
+            1017,
+            535,
+            1017,
+            555,
+            977,
+            555
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 335,
+            "length": 3
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            263,
+            552,
+            299,
+            552,
+            298,
+            574,
+            262,
+            573
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 339,
+            "length": 3
+          }
+        },
+        {
+          "content": "busss",
+          "polygon": [
+            315,
+            552,
+            374,
+            553,
+            374,
+            574,
+            314,
+            574
+          ],
+          "confidence": 0.632,
+          "span": {
+            "offset": 343,
+            "length": 5
+          }
+        },
+        {
+          "content": "have",
+          "polygon": [
+            389,
+            553,
+            436,
+            553,
+            436,
+            575,
+            389,
+            575
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 349,
+            "length": 4
+          }
+        },
+        {
+          "content": "been",
+          "polygon": [
+            451,
+            553,
+            500,
+            554,
+            500,
+            576,
+            451,
+            575
+          ],
+          "confidence": 0.655,
+          "span": {
+            "offset": 354,
+            "length": 4
+          }
+        },
+        {
+          "content": "consigned",
+          "polygon": [
+            515,
+            554,
+            624,
+            555,
+            624,
+            577,
+            515,
+            576
+          ],
+          "confidence": 0.643,
+          "span": {
+            "offset": 359,
+            "length": 9
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            641,
+            555,
+            662,
+            555,
+            662,
+            577,
+            641,
+            577
+          ],
+          "confidence": 0.65,
+          "span": {
+            "offset": 369,
+            "length": 2
+          }
+        },
+        {
+          "content": "US",
+          "polygon": [
+            678,
+            555,
+            698,
+            556,
+            698,
+            578,
+            678,
+            577
+          ],
+          "confidence": 0.555,
+          "span": {
+            "offset": 372,
+            "length": 2
+          }
+        },
+        {
+          "content": "AID/China,",
+          "polygon": [
+            714,
+            556,
+            834,
+            557,
+            834,
+            579,
+            714,
+            578
+          ],
+          "confidence": 0.633,
+          "span": {
+            "offset": 375,
+            "length": 10
+          }
+        },
+        {
+          "content": "c/o",
+          "polygon": [
+            853,
+            557,
+            888,
+            558,
+            888,
+            579,
+            853,
+            579
+          ],
+          "confidence": 0.561,
+          "span": {
+            "offset": 386,
+            "length": 3
+          }
+        },
+        {
+          "content": "American",
+          "polygon": [
+            904,
+            558,
+            1004,
+            559,
+            1005,
+            580,
+            904,
+            579
+          ],
+          "confidence": 0.304,
+          "span": {
+            "offset": 390,
+            "length": 8
+          }
+        },
+        {
+          "content": "Escassy,",
+          "polygon": [
+            264,
+            578,
+            360,
+            578,
+            360,
+            600,
+            264,
+            599
+          ],
+          "confidence": 0.399,
+          "span": {
+            "offset": 399,
+            "length": 8
+          }
+        },
+        {
+          "content": "Chine.",
+          "polygon": [
+            379,
+            578,
+            448,
+            579,
+            448,
+            600,
+            379,
+            600
+          ],
+          "confidence": 0.655,
+          "span": {
+            "offset": 408,
+            "length": 6
+          }
+        },
+        {
+          "content": "(The",
+          "polygon": [
+            478,
+            579,
+            525,
+            580,
+            525,
+            601,
+            479,
+            601
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 415,
+            "length": 4
+          }
+        },
+        {
+          "content": "subject",
+          "polygon": [
+            539,
+            580,
+            623,
+            580,
+            623,
+            602,
+            539,
+            601
+          ],
+          "confidence": 0.336,
+          "span": {
+            "offset": 420,
+            "length": 7
+          }
+        },
+        {
+          "content": "B/Ls",
+          "polygon": [
+            642,
+            580,
+            685,
+            581,
+            685,
+            603,
+            642,
+            603
+          ],
+          "confidence": 0.614,
+          "span": {
+            "offset": 428,
+            "length": 4
+          }
+        },
+        {
+          "content": "Are",
+          "polygon": [
+            704,
+            581,
+            736,
+            582,
+            736,
+            603,
+            704,
+            603
+          ],
+          "confidence": 0.495,
+          "span": {
+            "offset": 433,
+            "length": 3
+          }
+        },
+        {
+          "content": "self",
+          "polygon": [
+            754,
+            582,
+            799,
+            582,
+            799,
+            604,
+            754,
+            604
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 437,
+            "length": 4
+          }
+        },
+        {
+          "content": "explanatory,",
+          "polygon": [
+            815,
+            583,
+            960,
+            585,
+            960,
+            606,
+            815,
+            604
+          ],
+          "confidence": 0.646,
+          "span": {
+            "offset": 442,
+            "length": 12
+          }
+        },
+        {
+          "content": "two",
+          "polygon": [
+            976,
+            585,
+            1017,
+            585,
+            1017,
+            606,
+            976,
+            606
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 455,
+            "length": 3
+          }
+        },
+        {
+          "content": "buses",
+          "polygon": [
+            264,
+            603,
+            322,
+            603,
+            322,
+            625,
+            264,
+            624
+          ],
+          "confidence": 0.761,
+          "span": {
+            "offset": 459,
+            "length": 5
+          }
+        },
+        {
+          "content": "and",
+          "polygon": [
+            338,
+            603,
+            373,
+            604,
+            373,
+            625,
+            338,
+            625
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 465,
+            "length": 3
+          }
+        },
+        {
+          "content": "two",
+          "polygon": [
+            390,
+            604,
+            418,
+            604,
+            418,
+            626,
+            390,
+            625
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 469,
+            "length": 3
+          }
+        },
+        {
+          "content": "Pick-Up",
+          "polygon": [
+            441,
+            604,
+            525,
+            605,
+            525,
+            626,
+            441,
+            626
+          ],
+          "confidence": 0.632,
+          "span": {
+            "offset": 473,
+            "length": 7
+          }
+        },
+        {
+          "content": "vehicles",
+          "polygon": [
+            540,
+            605,
+            634,
+            606,
+            634,
+            628,
+            540,
+            627
+          ],
+          "confidence": 0.563,
+          "span": {
+            "offset": 481,
+            "length": 8
+          }
+        },
+        {
+          "content": "shipped",
+          "polygon": [
+            653,
+            606,
+            735,
+            607,
+            735,
+            628,
+            653,
+            628
+          ],
+          "confidence": 0.525,
+          "span": {
+            "offset": 490,
+            "length": 7
+          }
+        },
+        {
+          "content": "on",
+          "polygon": [
+            755,
+            607,
+            772,
+            607,
+            772,
+            628,
+            755,
+            628
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 498,
+            "length": 2
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            791,
+            607,
+            822,
+            607,
+            822,
+            629,
+            791,
+            628
+          ],
+          "confidence": 0.906,
+          "span": {
+            "offset": 501,
+            "length": 3
+          }
+        },
+        {
+          "content": "SS",
+          "polygon": [
+            840,
+            607,
+            860,
+            607,
+            860,
+            629,
+            840,
+            629
+          ],
+          "confidence": 0.544,
+          "span": {
+            "offset": 505,
+            "length": 2
+          }
+        },
+        {
+          "content": "\"Buckeye",
+          "polygon": [
+            879,
+            608,
+            974,
+            608,
+            974,
+            630,
+            879,
+            629
+          ],
+          "confidence": 0.442,
+          "span": {
+            "offset": 508,
+            "length": 8
+          }
+        },
+        {
+          "content": "State\"",
+          "polygon": [
+            990,
+            608,
+            1065,
+            609,
+            1065,
+            630,
+            990,
+            630
+          ],
+          "confidence": 0.826,
+          "span": {
+            "offset": 517,
+            "length": 6
+          }
+        },
+        {
+          "content": "w.d.",
+          "polygon": [
+            262,
+            629,
+            308,
+            629,
+            308,
+            650,
+            262,
+            650
+          ],
+          "confidence": 0.553,
+          "span": {
+            "offset": 524,
+            "length": 4
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            313,
+            629,
+            344,
+            629,
+            344,
+            651,
+            314,
+            650
+          ],
+          "confidence": 0.63,
+          "span": {
+            "offset": 529,
+            "length": 3
+          }
+        },
+        {
+          "content": "bus",
+          "polygon": [
+            366,
+            630,
+            396,
+            630,
+            396,
+            651,
+            366,
+            651
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 533,
+            "length": 3
+          }
+        },
+        {
+          "content": "on",
+          "polygon": [
+            416,
+            630,
+            435,
+            630,
+            435,
+            651,
+            416,
+            651
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 537,
+            "length": 2
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            455,
+            630,
+            486,
+            630,
+            486,
+            652,
+            455,
+            651
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 540,
+            "length": 3
+          }
+        },
+        {
+          "content": "SS",
+          "polygon": [
+            503,
+            630,
+            523,
+            630,
+            523,
+            652,
+            503,
+            652
+          ],
+          "confidence": 0.627,
+          "span": {
+            "offset": 544,
+            "length": 2
+          }
+        },
+        {
+          "content": "\"Steel",
+          "polygon": [
+            540,
+            630,
+            609,
+            631,
+            609,
+            653,
+            540,
+            652
+          ],
+          "confidence": 0.822,
+          "span": {
+            "offset": 547,
+            "length": 6
+          }
+        },
+        {
+          "content": "Recorder\"",
+          "polygon": [
+            626,
+            631,
+            734,
+            632,
+            734,
+            653,
+            626,
+            653
+          ],
+          "confidence": 0.924,
+          "span": {
+            "offset": 554,
+            "length": 9
+          }
+        },
+        {
+          "content": ").",
+          "polygon": [
+            744,
+            632,
+            760,
+            632,
+            760,
+            653,
+            744,
+            653
+          ],
+          "confidence": 0.278,
+          "span": {
+            "offset": 564,
+            "length": 2
+          }
+        },
+        {
+          "content": "In",
+          "polygon": [
+            795,
+            633,
+            806,
+            633,
+            806,
+            654,
+            795,
+            654
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 567,
+            "length": 2
+          }
+        },
+        {
+          "content": "view",
+          "polygon": [
+            828,
+            633,
+            874,
+            634,
+            874,
+            654,
+            828,
+            654
+          ],
+          "confidence": 0.667,
+          "span": {
+            "offset": 570,
+            "length": 4
+          }
+        },
+        {
+          "content": "of",
+          "polygon": [
+            892,
+            634,
+            911,
+            634,
+            911,
+            655,
+            892,
+            655
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 575,
+            "length": 2
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            928,
+            634,
+            961,
+            634,
+            961,
+            655,
+            928,
+            655
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 578,
+            "length": 3
+          }
+        },
+        {
+          "content": "fsot",
+          "polygon": [
+            978,
+            635,
+            1027,
+            635,
+            1028,
+            656,
+            978,
+            656
+          ],
+          "confidence": 0.807,
+          "span": {
+            "offset": 582,
+            "length": 4
+          }
+        },
+        {
+          "content": "that",
+          "polygon": [
+            262,
+            654,
+            308,
+            654,
+            309,
+            675,
+            262,
+            675
+          ],
+          "confidence": 0.195,
+          "span": {
+            "offset": 587,
+            "length": 4
+          }
+        },
+        {
+          "content": "all",
+          "polygon": [
+            325,
+            654,
+            359,
+            654,
+            359,
+            675,
+            325,
+            675
+          ],
+          "confidence": 0.55,
+          "span": {
+            "offset": 592,
+            "length": 3
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            377,
+            654,
+            411,
+            655,
+            411,
+            676,
+            377,
+            676
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 596,
+            "length": 3
+          }
+        },
+        {
+          "content": "vehicles",
+          "polygon": [
+            424,
+            655,
+            523,
+            656,
+            523,
+            677,
+            424,
+            676
+          ],
+          "confidence": 0.189,
+          "span": {
+            "offset": 600,
+            "length": 8
+          }
+        },
+        {
+          "content": "have",
+          "polygon": [
+            538,
+            656,
+            585,
+            656,
+            585,
+            677,
+            538,
+            677
+          ],
+          "confidence": 0.731,
+          "span": {
+            "offset": 609,
+            "length": 4
+          }
+        },
+        {
+          "content": "boor",
+          "polygon": [
+            604,
+            656,
+            641,
+            656,
+            641,
+            678,
+            604,
+            677
+          ],
+          "confidence": 0.638,
+          "span": {
+            "offset": 614,
+            "length": 4
+          }
+        },
+        {
+          "content": "consignedate",
+          "polygon": [
+            669,
+            657,
+            809,
+            657,
+            809,
+            678,
+            669,
+            678
+          ],
+          "confidence": 0.471,
+          "span": {
+            "offset": 619,
+            "length": 12
+          }
+        },
+        {
+          "content": "ME",
+          "polygon": [
+            827,
+            657,
+            847,
+            657,
+            848,
+            679,
+            827,
+            678
+          ],
+          "confidence": 0.102,
+          "span": {
+            "offset": 632,
+            "length": 2
+          }
+        },
+        {
+          "content": "A",
+          "polygon": [
+            863,
+            658,
+            870,
+            658,
+            870,
+            679,
+            863,
+            679
+          ],
+          "confidence": 0.795,
+          "span": {
+            "offset": 635,
+            "length": 1
+          }
+        },
+        {
+          "content": "ID/C",
+          "polygon": [
+            883,
+            658,
+            926,
+            658,
+            926,
+            679,
+            883,
+            679
+          ],
+          "confidence": 0.6,
+          "span": {
+            "offset": 637,
+            "length": 4
+          }
+        },
+        {
+          "content": "16",
+          "polygon": [
+            942,
+            659,
+            960,
+            659,
+            960,
+            679,
+            942,
+            679
+          ],
+          "confidence": 0.171,
+          "span": {
+            "offset": 642,
+            "length": 2
+          }
+        },
+        {
+          "content": "you",
+          "polygon": [
+            978,
+            659,
+            1017,
+            660,
+            1017,
+            681,
+            978,
+            680
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 645,
+            "length": 3
+          }
+        },
+        {
+          "content": "think",
+          "polygon": [
+            262,
+            679,
+            323,
+            678,
+            323,
+            700,
+            262,
+            700
+          ],
+          "confidence": 0.841,
+          "span": {
+            "offset": 649,
+            "length": 5
+          }
+        },
+        {
+          "content": "it",
+          "polygon": [
+            343,
+            679,
+            356,
+            679,
+            356,
+            701,
+            343,
+            700
+          ],
+          "confidence": 0.797,
+          "span": {
+            "offset": 655,
+            "length": 2
+          }
+        },
+        {
+          "content": "is",
+          "polygon": [
+            379,
+            679,
+            398,
+            680,
+            398,
+            701,
+            378,
+            701
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 658,
+            "length": 2
+          }
+        },
+        {
+          "content": "possible",
+          "polygon": [
+            415,
+            680,
+            510,
+            680,
+            510,
+            702,
+            415,
+            701
+          ],
+          "confidence": 0.288,
+          "span": {
+            "offset": 661,
+            "length": 8
+          }
+        },
+        {
+          "content": "for",
+          "polygon": [
+            527,
+            681,
+            559,
+            681,
+            559,
+            702,
+            527,
+            702
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 670,
+            "length": 3
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            578,
+            681,
+            610,
+            682,
+            610,
+            703,
+            578,
+            702
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 674,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mission",
+          "polygon": [
+            629,
+            682,
+            708,
+            682,
+            708,
+            704,
+            629,
+            703
+          ],
+          "confidence": 0.336,
+          "span": {
+            "offset": 678,
+            "length": 7
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            724,
+            682,
+            748,
+            682,
+            748,
+            704,
+            724,
+            704
+          ],
+          "confidence": 0.755,
+          "span": {
+            "offset": 686,
+            "length": 2
+          }
+        },
+        {
+          "content": "clear",
+          "polygon": [
+            764,
+            683,
+            819,
+            684,
+            819,
+            705,
+            764,
+            704
+          ],
+          "confidence": 0.547,
+          "span": {
+            "offset": 689,
+            "length": 5
+          }
+        },
+        {
+          "content": "upon",
+          "polygon": [
+            840,
+            684,
+            884,
+            684,
+            884,
+            705,
+            840,
+            705
+          ],
+          "confidence": 0.572,
+          "span": {
+            "offset": 695,
+            "length": 4
+          }
+        },
+        {
+          "content": "arrival",
+          "polygon": [
+            900,
+            685,
+            986,
+            685,
+            986,
+            705,
+            900,
+            705
+          ],
+          "confidence": 0.474,
+          "span": {
+            "offset": 700,
+            "length": 7
+          }
+        },
+        {
+          "content": "and",
+          "polygon": [
+            1000,
+            685,
+            1040,
+            686,
+            1041,
+            706,
+            1000,
+            705
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 708,
+            "length": 3
+          }
+        },
+        {
+          "content": "then",
+          "polygon": [
+            262,
+            706,
+            310,
+            705,
+            310,
+            726,
+            262,
+            726
+          ],
+          "confidence": 0.609,
+          "span": {
+            "offset": 712,
+            "length": 4
+          }
+        },
+        {
+          "content": "transfer",
+          "polygon": [
+            327,
+            705,
+            422,
+            706,
+            422,
+            726,
+            327,
+            726
+          ],
+          "confidence": 0.684,
+          "span": {
+            "offset": 717,
+            "length": 8
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            439,
+            706,
+            474,
+            707,
+            474,
+            727,
+            439,
+            727
+          ],
+          "confidence": 0.931,
+          "span": {
+            "offset": 726,
+            "length": 3
+          }
+        },
+        {
+          "content": "buses",
+          "polygon": [
+            489,
+            707,
+            547,
+            707,
+            547,
+            728,
+            489,
+            727
+          ],
+          "confidence": 0.966,
+          "span": {
+            "offset": 730,
+            "length": 5
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            565,
+            707,
+            581,
+            708,
+            582,
+            728,
+            565,
+            728
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 736,
+            "length": 2
+          }
+        },
+        {
+          "content": "CUBA,",
+          "polygon": [
+            605,
+            708,
+            657,
+            708,
+            657,
+            729,
+            605,
+            728
+          ],
+          "confidence": 0.585,
+          "span": {
+            "offset": 739,
+            "length": 5
+          }
+        },
+        {
+          "content": "or",
+          "polygon": [
+            676,
+            708,
+            695,
+            708,
+            695,
+            729,
+            676,
+            729
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 745,
+            "length": 2
+          }
+        },
+        {
+          "content": "would",
+          "polygon": [
+            715,
+            708,
+            772,
+            709,
+            772,
+            730,
+            715,
+            729
+          ],
+          "confidence": 0.585,
+          "span": {
+            "offset": 748,
+            "length": 5
+          }
+        },
+        {
+          "content": "you",
+          "polygon": [
+            790,
+            709,
+            824,
+            709,
+            824,
+            730,
+            790,
+            730
+          ],
+          "confidence": 0.677,
+          "span": {
+            "offset": 754,
+            "length": 3
+          }
+        },
+        {
+          "content": "prefer",
+          "polygon": [
+            839,
+            709,
+            910,
+            711,
+            910,
+            731,
+            839,
+            730
+          ],
+          "confidence": 0.684,
+          "span": {
+            "offset": 758,
+            "length": 6
+          }
+        },
+        {
+          "content": "that",
+          "polygon": [
+            926,
+            711,
+            973,
+            711,
+            973,
+            730,
+            926,
+            731
+          ],
+          "confidence": 0.595,
+          "span": {
+            "offset": 765,
+            "length": 4
+          }
+        },
+        {
+          "content": "we",
+          "polygon": [
+            989,
+            711,
+            1016,
+            712,
+            1016,
+            731,
+            989,
+            731
+          ],
+          "confidence": 0.883,
+          "span": {
+            "offset": 770,
+            "length": 2
+          }
+        },
+        {
+          "content": "udvise",
+          "polygon": [
+            260,
+            730,
+            335,
+            729,
+            335,
+            751,
+            260,
+            750
+          ],
+          "confidence": 0.564,
+          "span": {
+            "offset": 773,
+            "length": 6
+          }
+        },
+        {
+          "content": "US",
+          "polygon": [
+            350,
+            729,
+            372,
+            729,
+            372,
+            751,
+            350,
+            751
+          ],
+          "confidence": 0.846,
+          "span": {
+            "offset": 780,
+            "length": 2
+          }
+        },
+        {
+          "content": "AID",
+          "polygon": [
+            390,
+            730,
+            424,
+            730,
+            424,
+            752,
+            390,
+            751
+          ],
+          "confidence": 0.913,
+          "span": {
+            "offset": 783,
+            "length": 3
+          }
+        },
+        {
+          "content": "Koren",
+          "polygon": [
+            440,
+            730,
+            497,
+            731,
+            497,
+            752,
+            440,
+            752
+          ],
+          "confidence": 0.592,
+          "span": {
+            "offset": 787,
+            "length": 5
+          }
+        },
+        {
+          "content": "that",
+          "polygon": [
+            513,
+            731,
+            560,
+            731,
+            560,
+            752,
+            513,
+            752
+          ],
+          "confidence": 0.924,
+          "span": {
+            "offset": 793,
+            "length": 4
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            575,
+            732,
+            610,
+            732,
+            610,
+            753,
+            575,
+            753
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 798,
+            "length": 3
+          }
+        },
+        {
+          "content": "busen",
+          "polygon": [
+            630,
+            732,
+            682,
+            733,
+            682,
+            754,
+            630,
+            753
+          ],
+          "confidence": 0.358,
+          "span": {
+            "offset": 802,
+            "length": 5
+          }
+        },
+        {
+          "content": "hever",
+          "polygon": [
+            703,
+            733,
+            743,
+            733,
+            743,
+            754,
+            703,
+            754
+          ],
+          "confidence": 0.508,
+          "span": {
+            "offset": 808,
+            "length": 5
+          }
+        },
+        {
+          "content": "tenn",
+          "polygon": [
+            777,
+            734,
+            806,
+            734,
+            806,
+            754,
+            777,
+            754
+          ],
+          "confidence": 0.495,
+          "span": {
+            "offset": 814,
+            "length": 4
+          }
+        },
+        {
+          "content": "Incorrectly",
+          "polygon": [
+            830,
+            734,
+            958,
+            735,
+            959,
+            756,
+            830,
+            754
+          ],
+          "confidence": 0.34,
+          "span": {
+            "offset": 819,
+            "length": 11
+          }
+        },
+        {
+          "content": "consigned",
+          "polygon": [
+            976,
+            735,
+            1089,
+            735,
+            1089,
+            756,
+            976,
+            756
+          ],
+          "confidence": 0.818,
+          "span": {
+            "offset": 831,
+            "length": 9
+          }
+        },
+        {
+          "content": "request",
+          "polygon": [
+            312,
+            756,
+            397,
+            755,
+            398,
+            777,
+            312,
+            777
+          ],
+          "confidence": 0.682,
+          "span": {
+            "offset": 841,
+            "length": 7
+          }
+        },
+        {
+          "content": "them",
+          "polygon": [
+            413,
+            755,
+            459,
+            756,
+            460,
+            777,
+            413,
+            777
+          ],
+          "confidence": 0.917,
+          "span": {
+            "offset": 849,
+            "length": 4
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            478,
+            757,
+            497,
+            757,
+            498,
+            777,
+            479,
+            777
+          ],
+          "confidence": 0.873,
+          "span": {
+            "offset": 854,
+            "length": 2
+          }
+        },
+        {
+          "content": "amend",
+          "polygon": [
+            512,
+            757,
+            572,
+            757,
+            572,
+            777,
+            512,
+            777
+          ],
+          "confidence": 0.659,
+          "span": {
+            "offset": 857,
+            "length": 5
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            588,
+            757,
+            623,
+            757,
+            623,
+            778,
+            588,
+            778
+          ],
+          "confidence": 0.952,
+          "span": {
+            "offset": 863,
+            "length": 3
+          }
+        },
+        {
+          "content": "present",
+          "polygon": [
+            640,
+            758,
+            719,
+            758,
+            720,
+            778,
+            640,
+            778
+          ],
+          "confidence": 0.633,
+          "span": {
+            "offset": 867,
+            "length": 7
+          }
+        },
+        {
+          "content": "documents",
+          "polygon": [
+            742,
+            758,
+            846,
+            759,
+            846,
+            778,
+            742,
+            778
+          ],
+          "confidence": 0.551,
+          "span": {
+            "offset": 875,
+            "length": 9
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            864,
+            759,
+            882,
+            760,
+            882,
+            779,
+            864,
+            779
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 885,
+            "length": 2
+          }
+        },
+        {
+          "content": "show",
+          "polygon": [
+            904,
+            760,
+            948,
+            760,
+            949,
+            779,
+            904,
+            779
+          ],
+          "confidence": 0.454,
+          "span": {
+            "offset": 888,
+            "length": 4
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            966,
+            761,
+            1001,
+            761,
+            1002,
+            780,
+            966,
+            780
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 893,
+            "length": 3
+          }
+        },
+        {
+          "content": "Street",
+          "polygon": [
+            263,
+            780,
+            346,
+            780,
+            346,
+            804,
+            263,
+            804
+          ],
+          "confidence": 0.441,
+          "span": {
+            "offset": 897,
+            "length": 6
+          }
+        },
+        {
+          "content": "cona!",
+          "polygon": [
+            366,
+            780,
+            418,
+            780,
+            418,
+            805,
+            366,
+            804
+          ],
+          "confidence": 0.397,
+          "span": {
+            "offset": 904,
+            "length": 5
+          }
+        },
+        {
+          "content": "men!",
+          "polygon": [
+            428,
+            780,
+            484,
+            781,
+            485,
+            805,
+            428,
+            805
+          ],
+          "confidence": 0.179,
+          "span": {
+            "offset": 910,
+            "length": 4
+          }
+        },
+        {
+          "content": "It",
+          "polygon": [
+            516,
+            781,
+            536,
+            781,
+            536,
+            804,
+            517,
+            804
+          ],
+          "confidence": 0.902,
+          "span": {
+            "offset": 915,
+            "length": 2
+          }
+        },
+        {
+          "content": "will",
+          "polygon": [
+            549,
+            781,
+            601,
+            782,
+            601,
+            805,
+            549,
+            804
+          ],
+          "confidence": 0.225,
+          "span": {
+            "offset": 918,
+            "length": 4
+          }
+        },
+        {
+          "content": "Meer",
+          "polygon": [
+            260,
+            804,
+            318,
+            805,
+            318,
+            828,
+            260,
+            828
+          ],
+          "confidence": 0.191,
+          "span": {
+            "offset": 923,
+            "length": 4
+          }
+        },
+        {
+          "content": "ind",
+          "polygon": [
+            340,
+            805,
+            370,
+            805,
+            369,
+            829,
+            340,
+            828
+          ],
+          "confidence": 0.569,
+          "span": {
+            "offset": 928,
+            "length": 3
+          }
+        },
+        {
+          "content": "arrange",
+          "polygon": [
+            387,
+            805,
+            473,
+            807,
+            473,
+            830,
+            387,
+            829
+          ],
+          "confidence": 0.658,
+          "span": {
+            "offset": 932,
+            "length": 7
+          }
+        },
+        {
+          "content": "transfer",
+          "polygon": [
+            488,
+            807,
+            584,
+            805,
+            584,
+            828,
+            488,
+            830
+          ],
+          "confidence": 0.543,
+          "span": {
+            "offset": 940,
+            "length": 8
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            616,
+            803,
+            624,
+            803,
+            624,
+            827,
+            616,
+            827
+          ],
+          "confidence": 0.249,
+          "span": {
+            "offset": 949,
+            "length": 1
+          }
+        },
+        {
+          "content": "5:19",
+          "polygon": [
+            647,
+            803,
+            701,
+            804,
+            701,
+            827,
+            647,
+            827
+          ],
+          "confidence": 0.094,
+          "span": {
+            "offset": 951,
+            "length": 4
+          }
+        },
+        {
+          "content": "\"[1]",
+          "polygon": [
+            743,
+            804,
+            769,
+            805,
+            769,
+            828,
+            743,
+            827
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 956,
+            "length": 4
+          }
+        },
+        {
+          "content": "you",
+          "polygon": [
+            790,
+            806,
+            823,
+            806,
+            823,
+            829,
+            790,
+            829
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 961,
+            "length": 3
+          }
+        },
+        {
+          "content": "kindly",
+          "polygon": [
+            839,
+            806,
+            910,
+            807,
+            910,
+            830,
+            839,
+            829
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 965,
+            "length": 6
+          }
+        },
+        {
+          "content": "advise",
+          "polygon": [
+            927,
+            808,
+            1005,
+            809,
+            1005,
+            831,
+            927,
+            830
+          ],
+          "confidence": 0.624,
+          "span": {
+            "offset": 972,
+            "length": 6
+          }
+        },
+        {
+          "content": "your",
+          "polygon": [
+            260,
+            833,
+            305,
+            832,
+            305,
+            852,
+            260,
+            853
+          ],
+          "confidence": 0.197,
+          "span": {
+            "offset": 979,
+            "length": 4
+          }
+        },
+        {
+          "content": "renotion.",
+          "polygon": [
+            326,
+            832,
+            437,
+            833,
+            437,
+            852,
+            326,
+            852
+          ],
+          "confidence": 0.639,
+          "span": {
+            "offset": 984,
+            "length": 9
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            504,
+            830,
+            783,
+            830,
+            783,
+            865,
+            504,
+            864
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 994,
+            "length": 14
+          }
+        },
+        {
+          "content": "Tom,",
+          "polygon": [
+            269,
+            1081,
+            321,
+            1084,
+            321,
+            1105,
+            269,
+            1103
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 1009,
+            "length": 4
+          }
+        },
+        {
+          "content": "Buses",
+          "polygon": [
+            319,
+            1133,
+            381,
+            1134,
+            381,
+            1157,
+            318,
+            1155
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1014,
+            "length": 5
+          }
+        },
+        {
+          "content": "were",
+          "polygon": [
+            392,
+            1134,
+            446,
+            1134,
+            446,
+            1158,
+            392,
+            1157
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1020,
+            "length": 4
+          }
+        },
+        {
+          "content": "endorsed",
+          "polygon": [
+            458,
+            1134,
+            558,
+            1136,
+            557,
+            1159,
+            458,
+            1158
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1025,
+            "length": 8
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            571,
+            1136,
+            594,
+            1137,
+            594,
+            1160,
+            571,
+            1160
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 1034,
+            "length": 2
+          }
+        },
+        {
+          "content": "JCRR",
+          "polygon": [
+            609,
+            1137,
+            656,
+            1137,
+            656,
+            1161,
+            609,
+            1160
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 1037,
+            "length": 4
+          }
+        },
+        {
+          "content": "who",
+          "polygon": [
+            669,
+            1138,
+            707,
+            1138,
+            707,
+            1161,
+            668,
+            1161
+          ],
+          "confidence": 0.922,
+          "span": {
+            "offset": 1042,
+            "length": 3
+          }
+        },
+        {
+          "content": "cleared",
+          "polygon": [
+            723,
+            1138,
+            808,
+            1140,
+            807,
+            1163,
+            723,
+            1162
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1046,
+            "length": 7
+          }
+        },
+        {
+          "content": "them",
+          "polygon": [
+            820,
+            1140,
+            871,
+            1140,
+            871,
+            1164,
+            820,
+            1163
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 1054,
+            "length": 4
+          }
+        },
+        {
+          "content": "through",
+          "polygon": [
+            884,
+            1141,
+            971,
+            1142,
+            971,
+            1165,
+            883,
+            1164
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1059,
+            "length": 7
+          }
+        },
+        {
+          "content": "customs.",
+          "polygon": [
+            984,
+            1142,
+            1083,
+            1144,
+            1083,
+            1167,
+            984,
+            1165
+          ],
+          "confidence": 0.952,
+          "span": {
+            "offset": 1067,
+            "length": 8
+          }
+        },
+        {
+          "content": "MF",
+          "polygon": [
+            829,
+            1191,
+            858,
+            1191,
+            858,
+            1210,
+            829,
+            1210
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 1076,
+            "length": 2
+          }
+        },
+        {
+          "content": "7/27/62",
+          "polygon": [
+            869,
+            1213,
+            958,
+            1213,
+            958,
+            1239,
+            869,
+            1239
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1079,
+            "length": 7
+          }
+        },
+        {
+          "content": "À",
+          "polygon": [
+            1133,
+            1453,
+            1246,
+            1443,
+            1246,
+            1614,
+            1135,
+            1614
+          ],
+          "confidence": 0.093,
+          "span": {
+            "offset": 1087,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            922,
+            1503,
+            964,
+            1503,
+            964,
+            1575,
+            922,
+            1576
+          ],
+          "confidence": 0.141,
+          "span": {
+            "offset": 1089,
+            "length": 1
+          }
+        },
+        {
+          "content": "216",
+          "polygon": [
+            991,
+            1503,
+            1121,
+            1502,
+            1121,
+            1578,
+            991,
+            1576
+          ],
+          "confidence": 0.119,
+          "span": {
+            "offset": 1091,
+            "length": 3
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            899,
+            1581,
+            1008,
+            1582,
+            1008,
+            1607,
+            899,
+            1607
+          ],
+          "confidence": 0.968,
+          "span": {
+            "offset": 1095,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1019,
+            1582,
+            1118,
+            1583,
+            1118,
+            1607,
+            1019,
+            1606
+          ],
+          "confidence": 0.69,
+          "span": {
+            "offset": 1104,
+            "length": 9
+          }
+        },
+        {
+          "content": "35",
+          "polygon": [
+            30,
+            1599,
+            86,
+            1600,
+            86,
+            1640,
+            30,
+            1640
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 1114,
+            "length": 2
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Copy .",
+          "polygon": [
+            741,
+            82,
+            928,
+            64,
+            933,
+            124,
+            745,
+            142
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Office Memorandum . UNITED STATES GOVERNMENT",
+          "polygon": [
+            152,
+            137,
+            1132,
+            145,
+            1132,
+            183,
+            151,
+            182
+          ],
+          "spans": [
+            {
+              "offset": 7,
+              "length": 44
+            }
+          ]
+        },
+        {
+          "content": "DATE",
+          "polygon": [
+            837,
+            225,
+            885,
+            226,
+            885,
+            241,
+            837,
+            241
+          ],
+          "spans": [
+            {
+              "offset": 52,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "July 23,1962",
+          "polygon": [
+            916,
+            222,
+            1066,
+            222,
+            1066,
+            246,
+            916,
+            246
+          ],
+          "spans": [
+            {
+              "offset": 57,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "U.S. GBL: /A-0687768, States Marine Idnes, Inc., 8/L Nos. 7 and 22",
+          "polygon": [
+            261,
+            321,
+            1092,
+            330,
+            1092,
+            354,
+            260,
+            345
+          ],
+          "spans": [
+            {
+              "offset": 70,
+              "length": 66
+            }
+          ]
+        },
+        {
+          "content": "Taipel BSAID A-7",
+          "polygon": [
+            232,
+            373,
+            467,
+            373,
+            467,
+            396,
+            232,
+            396
+          ],
+          "spans": [
+            {
+              "offset": 137,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Our message Seoul USAID A-123 dated June 15, 1962, requested",
+          "polygon": [
+            262,
+            476,
+            1016,
+            482,
+            1016,
+            505,
+            262,
+            498
+          ],
+          "spans": [
+            {
+              "offset": 154,
+              "length": 60
+            }
+          ]
+        },
+        {
+          "content": "UB AID Kores to consign the three Toyota buses to CUSA, Taipei,",
+          "polygon": [
+            261,
+            500,
+            1051,
+            509,
+            1051,
+            532,
+            261,
+            522
+          ],
+          "spans": [
+            {
+              "offset": 215,
+              "length": 63
+            }
+          ]
+        },
+        {
+          "content": "Taiwan. It is noted that the Chevrolet Pick-Up vehicles and",
+          "polygon": [
+            261,
+            526,
+            1017,
+            534,
+            1017,
+            555,
+            260,
+            548
+          ],
+          "spans": [
+            {
+              "offset": 279,
+              "length": 59
+            }
+          ]
+        },
+        {
+          "content": "the busss have been consigned to US AID/China, c/o American",
+          "polygon": [
+            263,
+            551,
+            1004,
+            558,
+            1004,
+            580,
+            262,
+            573
+          ],
+          "spans": [
+            {
+              "offset": 339,
+              "length": 59
+            }
+          ]
+        },
+        {
+          "content": "Escassy, Chine. (The subject B/Ls Are self explanatory, two",
+          "polygon": [
+            264,
+            577,
+            1016,
+            584,
+            1016,
+            607,
+            264,
+            598
+          ],
+          "spans": [
+            {
+              "offset": 399,
+              "length": 59
+            }
+          ]
+        },
+        {
+          "content": "buses and two Pick-Up vehicles shipped on the SS \"Buckeye State\"",
+          "polygon": [
+            264,
+            603,
+            1064,
+            609,
+            1064,
+            631,
+            264,
+            625
+          ],
+          "spans": [
+            {
+              "offset": 459,
+              "length": 64
+            }
+          ]
+        },
+        {
+          "content": "w.d. one bus on the SS \"Steel Recorder\" ). In view of the fsot",
+          "polygon": [
+            262,
+            629,
+            1028,
+            634,
+            1027,
+            656,
+            262,
+            650
+          ],
+          "spans": [
+            {
+              "offset": 524,
+              "length": 62
+            }
+          ]
+        },
+        {
+          "content": "that all the vehicles have boor consignedate ME A ID/C 16 you",
+          "polygon": [
+            262,
+            653,
+            1016,
+            659,
+            1016,
+            680,
+            262,
+            675
+          ],
+          "spans": [
+            {
+              "offset": 587,
+              "length": 61
+            }
+          ]
+        },
+        {
+          "content": "think it is possible for the Mission to clear upon arrival and",
+          "polygon": [
+            262,
+            678,
+            1040,
+            684,
+            1040,
+            706,
+            262,
+            700
+          ],
+          "spans": [
+            {
+              "offset": 649,
+              "length": 62
+            }
+          ]
+        },
+        {
+          "content": "then transfer the buses to CUBA, or would you prefer that we",
+          "polygon": [
+            262,
+            705,
+            1015,
+            710,
+            1015,
+            731,
+            262,
+            726
+          ],
+          "spans": [
+            {
+              "offset": 712,
+              "length": 60
+            }
+          ]
+        },
+        {
+          "content": "udvise US AID Koren that the busen hever tenn Incorrectly consigned",
+          "polygon": [
+            260,
+            728,
+            1089,
+            735,
+            1089,
+            756,
+            260,
+            750
+          ],
+          "spans": [
+            {
+              "offset": 773,
+              "length": 67
+            }
+          ]
+        },
+        {
+          "content": "request them to amend the present documents to show the",
+          "polygon": [
+            312,
+            755,
+            1001,
+            758,
+            1001,
+            780,
+            312,
+            777
+          ],
+          "spans": [
+            {
+              "offset": 841,
+              "length": 55
+            }
+          ]
+        },
+        {
+          "content": "Street cona! men! It will",
+          "polygon": [
+            263,
+            779,
+            707,
+            782,
+            707,
+            808,
+            262,
+            803
+          ],
+          "spans": [
+            {
+              "offset": 897,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "Meer ind arrange transfer 5 5:19 \"[1] you kindly advise",
+          "polygon": [
+            260,
+            802,
+            1005,
+            803,
+            1005,
+            831,
+            260,
+            829
+          ],
+          "spans": [
+            {
+              "offset": 923,
+              "length": 55
+            }
+          ]
+        },
+        {
+          "content": "your renotion.",
+          "polygon": [
+            257,
+            833,
+            437,
+            832,
+            437,
+            852,
+            257,
+            853
+          ],
+          "spans": [
+            {
+              "offset": 979,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            504,
+            829,
+            782,
+            830,
+            782,
+            864,
+            504,
+            864
+          ],
+          "spans": [
+            {
+              "offset": 994,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Tom,",
+          "polygon": [
+            269,
+            1081,
+            321,
+            1084,
+            320,
+            1105,
+            269,
+            1103
+          ],
+          "spans": [
+            {
+              "offset": 1009,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Buses were endorsed to JCRR who cleared them through customs.",
+          "polygon": [
+            319,
+            1133,
+            1083,
+            1143,
+            1082,
+            1167,
+            318,
+            1156
+          ],
+          "spans": [
+            {
+              "offset": 1014,
+              "length": 61
+            }
+          ]
+        },
+        {
+          "content": "MF",
+          "polygon": [
+            829,
+            1191,
+            858,
+            1191,
+            858,
+            1210,
+            829,
+            1210
+          ],
+          "spans": [
+            {
+              "offset": 1076,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "7/27/62",
+          "polygon": [
+            869,
+            1213,
+            957,
+            1213,
+            957,
+            1239,
+            869,
+            1238
+          ],
+          "spans": [
+            {
+              "offset": 1079,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "À",
+          "polygon": [
+            1133,
+            1443,
+            1242,
+            1441,
+            1245,
+            1614,
+            1135,
+            1614
+          ],
+          "spans": [
+            {
+              "offset": 1087,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2 216",
+          "polygon": [
+            922,
+            1501,
+            1121,
+            1502,
+            1120,
+            1578,
+            922,
+            1575
+          ],
+          "spans": [
+            {
+              "offset": 1089,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            899,
+            1581,
+            1117,
+            1582,
+            1117,
+            1607,
+            899,
+            1606
+          ],
+          "spans": [
+            {
+              "offset": 1095,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "35",
+          "polygon": [
+            30,
+            1599,
+            86,
+            1600,
+            86,
+            1639,
+            30,
+            1639
+          ],
+          "spans": [
+            {
+              "offset": 1114,
+              "length": 2
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1116
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            739,
+            82,
+            928,
+            64,
+            934,
+            124,
+            745,
+            142
+          ]
+        }
+      ],
+      "content": "Copy ."
+    },
+    {
+      "spans": [
+        {
+          "offset": 7,
+          "length": 44
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            152,
+            137,
+            1132,
+            145,
+            1132,
+            191,
+            151,
+            182
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "Office Memorandum . UNITED STATES GOVERNMENT"
+    },
+    {
+      "spans": [
+        {
+          "offset": 52,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            837,
+            225,
+            885,
+            226,
+            885,
+            241,
+            837,
+            241
+          ]
+        }
+      ],
+      "content": "DATE"
+    },
+    {
+      "spans": [
+        {
+          "offset": 57,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            916,
+            222,
+            1066,
+            222,
+            1066,
+            246,
+            916,
+            246
+          ]
+        }
+      ],
+      "content": "July 23,1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 70,
+          "length": 83
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            232,
+            321,
+            1092,
+            322,
+            1092,
+            397,
+            232,
+            396
+          ]
+        }
+      ],
+      "content": "U.S. GBL: /A-0687768, States Marine Idnes, Inc., 8/L Nos. 7 and 22 Taipel BSAID A-7"
+    },
+    {
+      "spans": [
+        {
+          "offset": 154,
+          "length": 854
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            260,
+            476,
+            1091,
+            482,
+            1088,
+            869,
+            257,
+            862
+          ]
+        }
+      ],
+      "content": "Our message Seoul USAID A-123 dated June 15, 1962, requested UB AID Kores to consign the three Toyota buses to CUSA, Taipei, Taiwan. It is noted that the Chevrolet Pick-Up vehicles and the busss have been consigned to US AID/China, c/o American Escassy, Chine. (The subject B/Ls Are self explanatory, two buses and two Pick-Up vehicles shipped on the SS \"Buckeye State\" w.d. one bus on the SS \"Steel Recorder\" ). In view of the fsot that all the vehicles have boor consignedate ME A ID/C 16 you think it is possible for the Mission to clear upon arrival and then transfer the buses to CUBA, or would you prefer that we udvise US AID Koren that the busen hever tenn Incorrectly consigned request them to amend the present documents to show the Street cona! men! It will Meer ind arrange transfer 5 5:19 \"[1] you kindly advise your renotion. 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1009,
+          "length": 66
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            269,
+            1081,
+            1085,
+            1119,
+            1081,
+            1191,
+            266,
+            1154
+          ]
+        }
+      ],
+      "content": "Tom, Buses were endorsed to JCRR who cleared them through customs."
+    },
+    {
+      "spans": [
+        {
+          "offset": 1076,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            831,
+            1185,
+            963,
+            1214,
+            953,
+            1257,
+            821,
+            1228
+          ]
+        }
+      ],
+      "content": "MF 7/27/62"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1087,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1132,
+            1443,
+            1242,
+            1441,
+            1245,
+            1614,
+            1135,
+            1616
+          ]
+        }
+      ],
+      "content": "À"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1089,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            900,
+            1501,
+            1121,
+            1502,
+            1120,
+            1607,
+            899,
+            1606
+          ]
+        }
+      ],
+      "content": "2 216 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1114,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            30,
+            1599,
+            86,
+            1600,
+            86,
+            1639,
+            30,
+            1639
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "35"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 6
+        },
+        {
+          "offset": 1114,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.3,
+      "spans": [
+        {
+          "offset": 1089,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1113
+        }
+      ],
+      "elements": [
+        "/sections/1",
+        "/sections/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 6
+        }
+      ],
+      "elements": [
+        "/paragraphs/0"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 7,
+          "length": 1106
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/paragraphs/6",
+        "/paragraphs/7",
+        "/figures/0",
+        "/paragraphs/9"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1123,
+            1444,
+            1253,
+            1444,
+            1253,
+            1619,
+            1123,
+            1620
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 1087,
+          "length": 1
+        }
+      ],
+      "elements": [
+        "/paragraphs/8"
+      ]
+    }
+  ]
+}

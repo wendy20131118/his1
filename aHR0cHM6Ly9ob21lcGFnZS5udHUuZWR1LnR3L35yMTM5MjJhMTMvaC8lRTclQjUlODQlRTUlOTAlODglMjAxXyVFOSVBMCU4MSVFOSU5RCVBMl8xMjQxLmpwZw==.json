@@ -1,0 +1,682 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "E-16. 13. 2. (11)\n許躍爾 140.112.213.82\n國史馆 Academia Historica\n3 :unselected: :selected: :unselected: :selected: :selected:",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -89.02320098876953,
+      "width": 1439,
+      "height": 2131,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "E-16.",
+          "polygon": [
+            31,
+            788,
+            35,
+            694,
+            72,
+            694,
+            69,
+            789
+          ],
+          "confidence": 0.896,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "13.",
+          "polygon": [
+            35,
+            682,
+            36,
+            640,
+            74,
+            641,
+            72,
+            683
+          ],
+          "confidence": 0.705,
+          "span": {
+            "offset": 6,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            36,
+            632,
+            38,
+            611,
+            76,
+            611,
+            75,
+            633
+          ],
+          "confidence": 0.334,
+          "span": {
+            "offset": 10,
+            "length": 2
+          }
+        },
+        {
+          "content": "(11)",
+          "polygon": [
+            38,
+            603,
+            42,
+            548,
+            78,
+            548,
+            76,
+            603
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 13,
+            "length": 4
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            666,
+            1124,
+            666,
+            1099,
+            704,
+            1099,
+            704,
+            1123
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 18,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            666,
+            1083,
+            667,
+            1059,
+            705,
+            1059,
+            704,
+            1083
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 19,
+            "length": 1
+          }
+        },
+        {
+          "content": "爾",
+          "polygon": [
+            668,
+            1043,
+            668,
+            1009,
+            706,
+            1009,
+            705,
+            1043
+          ],
+          "confidence": 0.29,
+          "span": {
+            "offset": 20,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            716,
+            1209,
+            716,
+            930,
+            752,
+            930,
+            751,
+            1209
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 22,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            1221,
+            544,
+            1221,
+            465,
+            1327,
+            464,
+            1326,
+            543
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 37,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            1221,
+            462,
+            1221,
+            386,
+            1328,
+            387,
+            1327,
+            461
+          ],
+          "confidence": 0.964,
+          "span": {
+            "offset": 38,
+            "length": 1
+          }
+        },
+        {
+          "content": "馆",
+          "polygon": [
+            1221,
+            373,
+            1221,
+            241,
+            1335,
+            241,
+            1328,
+            374
+          ],
+          "confidence": 0.82,
+          "span": {
+            "offset": 39,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            1339,
+            582,
+            1341,
+            413,
+            1377,
+            413,
+            1376,
+            582
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 41,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1341,
+            398,
+            1345,
+            246,
+            1379,
+            246,
+            1377,
+            399
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 50,
+            "length": 9
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            1375,
+            2084,
+            1377,
+            2052,
+            1422,
+            2052,
+            1422,
+            2083
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 60,
+            "length": 1
+          }
+        }
+      ],
+      "selectionMarks": [
+        {
+          "state": "unselected",
+          "polygon": [
+            720,
+            1143,
+            749,
+            1143,
+            749,
+            1163,
+            720,
+            1163
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 62,
+            "length": 12
+          }
+        },
+        {
+          "state": "selected",
+          "polygon": [
+            718,
+            1065,
+            749,
+            1065,
+            749,
+            1086,
+            718,
+            1086
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 75,
+            "length": 10
+          }
+        },
+        {
+          "state": "unselected",
+          "polygon": [
+            720,
+            1094,
+            749,
+            1094,
+            749,
+            1124,
+            720,
+            1124
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 86,
+            "length": 12
+          }
+        },
+        {
+          "state": "selected",
+          "polygon": [
+            718,
+            1033,
+            750,
+            1033,
+            750,
+            1053,
+            718,
+            1053
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 99,
+            "length": 10
+          }
+        },
+        {
+          "state": "selected",
+          "polygon": [
+            718,
+            1179,
+            750,
+            1179,
+            750,
+            1206,
+            718,
+            1206
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 110,
+            "length": 10
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "E-16. 13. 2. (11)",
+          "polygon": [
+            31,
+            788,
+            40,
+            548,
+            78,
+            549,
+            69,
+            789
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "許躍爾",
+          "polygon": [
+            666,
+            1124,
+            668,
+            1009,
+            706,
+            1009,
+            704,
+            1125
+          ],
+          "spans": [
+            {
+              "offset": 18,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            715,
+            1209,
+            716,
+            930,
+            752,
+            931,
+            751,
+            1209
+          ],
+          "spans": [
+            {
+              "offset": 22,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史馆",
+          "polygon": [
+            1219,
+            546,
+            1222,
+            241,
+            1336,
+            243,
+            1326,
+            546
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            1340,
+            582,
+            1343,
+            246,
+            1379,
+            247,
+            1376,
+            582
+          ],
+          "spans": [
+            {
+              "offset": 41,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            1375,
+            2084,
+            1375,
+            2052,
+            1422,
+            2052,
+            1422,
+            2084
+          ],
+          "spans": [
+            {
+              "offset": 60,
+              "length": 1
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 120
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            31,
+            788,
+            40,
+            548,
+            78,
+            549,
+            69,
+            790
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "E-16. 13. 2. (11)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 18,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            666,
+            1209,
+            667,
+            930,
+            752,
+            931,
+            751,
+            1209
+          ]
+        }
+      ],
+      "content": "許躍爾 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 37,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1219,
+            581,
+            1222,
+            241,
+            1379,
+            242,
+            1376,
+            582
+          ]
+        }
+      ],
+      "content": "國史馆 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 60,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1375,
+            2084,
+            1375,
+            2052,
+            1422,
+            2052,
+            1422,
+            2084
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "3"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 17
+        },
+        {
+          "offset": 60,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.3,
+      "spans": [
+        {
+          "offset": 37,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 59
+        }
+      ],
+      "elements": [
+        "/figures/0",
+        "/paragraphs/1",
+        "/figures/1"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0,
+            836,
+            6,
+            409,
+            101,
+            410,
+            94,
+            837
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 17
+        }
+      ],
+      "elements": [
+        "/paragraphs/0"
+      ]
+    },
+    {
+      "id": "1.2",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1211,
+            583,
+            1217,
+            229,
+            1388,
+            232,
+            1382,
+            586
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 37,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/2"
+      ]
+    }
+  ]
+}

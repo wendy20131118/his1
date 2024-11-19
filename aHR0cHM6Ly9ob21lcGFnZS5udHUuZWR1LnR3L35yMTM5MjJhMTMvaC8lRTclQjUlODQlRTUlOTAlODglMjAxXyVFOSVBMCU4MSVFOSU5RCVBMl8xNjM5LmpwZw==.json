@@ -1,0 +1,3919 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "- 2 -\nItem 13\n41-T-1600 (8560)\nTESTER\nCondition - N-2\n(Report A-118-62-7275, Page 1)\nEach - 2\nAllocation - KIHB\nItem 3\n(Report A-123-62-7275, Page 1) 3413-222-2198 (0000) DRILLING\nCondition - N-2 Each - 1\nCommodity Group - 34 Allocation - KIHB\nItem 19\n許躍薾 (Report A-123-62-7275, Page 2)\n3432-357-8116 (8560) TORCH 140.112.213.82\nCondition - R-2 Each - 1\nCommodity Group - 34 Allocation - KIHB\nItem 20 (Report A-123-62-7275, Page 2)\n3432-449-6787 (8560) GUN\nCondition - N-2 Each - 1\nCommodity Group - 34 Allocation - KIHB\nItem 23 (Report A-123-62-7275, Page 2) 3433-243-2727 (8560) SPRAY GUN Condition - N-2 Each - 2\nCommodity Group - 34 Allocation - KIHB\n國史馆 Academia Historica\n401",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 1.136307954788208,
+      "width": 1316,
+      "height": 1677,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "-",
+          "polygon": [
+            656,
+            164,
+            669,
+            164,
+            669,
+            185,
+            656,
+            185
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            681,
+            164,
+            697,
+            164,
+            697,
+            185,
+            681,
+            185
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            707,
+            164,
+            721,
+            164,
+            721,
+            186,
+            706,
+            185
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            364,
+            258,
+            416,
+            260,
+            415,
+            282,
+            363,
+            281
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 6,
+            "length": 4
+          }
+        },
+        {
+          "content": "13",
+          "polygon": [
+            430,
+            260,
+            455,
+            260,
+            455,
+            283,
+            429,
+            283
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 11,
+            "length": 2
+          }
+        },
+        {
+          "content": "41-T-1600",
+          "polygon": [
+            413,
+            311,
+            528,
+            313,
+            528,
+            336,
+            413,
+            333
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 14,
+            "length": 9
+          }
+        },
+        {
+          "content": "(8560)",
+          "polygon": [
+            555,
+            313,
+            629,
+            315,
+            629,
+            338,
+            555,
+            336
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 24,
+            "length": 6
+          }
+        },
+        {
+          "content": "TESTER",
+          "polygon": [
+            664,
+            317,
+            745,
+            319,
+            745,
+            339,
+            663,
+            338
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 31,
+            "length": 6
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            410,
+            360,
+            526,
+            363,
+            526,
+            386,
+            410,
+            383
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 38,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            552,
+            365,
+            564,
+            365,
+            564,
+            387,
+            552,
+            387
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 48,
+            "length": 1
+          }
+        },
+        {
+          "content": "N-2",
+          "polygon": [
+            589,
+            365,
+            629,
+            365,
+            629,
+            388,
+            588,
+            387
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 50,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Report",
+          "polygon": [
+            832,
+            270,
+            918,
+            271,
+            917,
+            299,
+            832,
+            297
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 54,
+            "length": 7
+          }
+        },
+        {
+          "content": "A-118-62-7275,",
+          "polygon": [
+            929,
+            271,
+            1104,
+            274,
+            1104,
+            302,
+            929,
+            299
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 62,
+            "length": 14
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            1121,
+            275,
+            1168,
+            276,
+            1168,
+            304,
+            1120,
+            303
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 77,
+            "length": 4
+          }
+        },
+        {
+          "content": "1)",
+          "polygon": [
+            1184,
+            276,
+            1206,
+            277,
+            1205,
+            304,
+            1184,
+            304
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 82,
+            "length": 2
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            839,
+            371,
+            891,
+            373,
+            890,
+            395,
+            839,
+            394
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 85,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            917,
+            373,
+            930,
+            373,
+            929,
+            395,
+            916,
+            395
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 90,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            954,
+            374,
+            968,
+            374,
+            968,
+            395,
+            954,
+            395
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 92,
+            "length": 1
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            837,
+            423,
+            966,
+            425,
+            965,
+            447,
+            837,
+            445
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 94,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            991,
+            426,
+            1004,
+            426,
+            1004,
+            448,
+            991,
+            448
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 105,
+            "length": 1
+          }
+        },
+        {
+          "content": "KIHB",
+          "polygon": [
+            1029,
+            427,
+            1081,
+            427,
+            1081,
+            449,
+            1029,
+            449
+          ],
+          "confidence": 0.814,
+          "span": {
+            "offset": 107,
+            "length": 4
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            359,
+            510,
+            410,
+            511,
+            409,
+            533,
+            358,
+            533
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 112,
+            "length": 4
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            423,
+            511,
+            437,
+            511,
+            437,
+            534,
+            422,
+            534
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 117,
+            "length": 1
+          }
+        },
+        {
+          "content": "(Report",
+          "polygon": [
+            827,
+            521,
+            913,
+            523,
+            912,
+            550,
+            827,
+            549
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 119,
+            "length": 7
+          }
+        },
+        {
+          "content": "A-123-62-7275,",
+          "polygon": [
+            925,
+            523,
+            1099,
+            526,
+            1099,
+            554,
+            924,
+            550
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 127,
+            "length": 14
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            1116,
+            527,
+            1165,
+            528,
+            1164,
+            555,
+            1115,
+            554
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 142,
+            "length": 4
+          }
+        },
+        {
+          "content": "1)",
+          "polygon": [
+            1180,
+            528,
+            1202,
+            529,
+            1202,
+            556,
+            1179,
+            556
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 147,
+            "length": 2
+          }
+        },
+        {
+          "content": "3413-222-2198",
+          "polygon": [
+            407,
+            560,
+            573,
+            564,
+            572,
+            588,
+            407,
+            584
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 150,
+            "length": 13
+          }
+        },
+        {
+          "content": "(0000)",
+          "polygon": [
+            600,
+            564,
+            670,
+            566,
+            670,
+            590,
+            599,
+            588
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 164,
+            "length": 6
+          }
+        },
+        {
+          "content": "DRILLING",
+          "polygon": [
+            712,
+            568,
+            815,
+            571,
+            815,
+            594,
+            712,
+            591
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 171,
+            "length": 8
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            404,
+            611,
+            520,
+            615,
+            520,
+            638,
+            404,
+            634
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 180,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            546,
+            616,
+            558,
+            616,
+            558,
+            638,
+            545,
+            638
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 190,
+            "length": 1
+          }
+        },
+        {
+          "content": "N-2",
+          "polygon": [
+            583,
+            617,
+            623,
+            617,
+            623,
+            640,
+            583,
+            639
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 192,
+            "length": 3
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            835,
+            623,
+            885,
+            625,
+            885,
+            647,
+            835,
+            646
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 196,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            912,
+            625,
+            924,
+            625,
+            924,
+            647,
+            912,
+            647
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 201,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            952,
+            626,
+            963,
+            626,
+            963,
+            647,
+            952,
+            647
+          ],
+          "confidence": 0.84,
+          "span": {
+            "offset": 203,
+            "length": 1
+          }
+        },
+        {
+          "content": "Commodity",
+          "polygon": [
+            404,
+            662,
+            520,
+            666,
+            519,
+            691,
+            403,
+            686
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 205,
+            "length": 9
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            532,
+            666,
+            596,
+            668,
+            595,
+            693,
+            531,
+            691
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 215,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            621,
+            669,
+            634,
+            669,
+            634,
+            693,
+            620,
+            693
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 221,
+            "length": 1
+          }
+        },
+        {
+          "content": "34",
+          "polygon": [
+            660,
+            670,
+            685,
+            670,
+            685,
+            694,
+            659,
+            694
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 223,
+            "length": 2
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            832,
+            674,
+            960,
+            676,
+            960,
+            698,
+            832,
+            697
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 226,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            987,
+            677,
+            999,
+            677,
+            998,
+            699,
+            986,
+            699
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 237,
+            "length": 1
+          }
+        },
+        {
+          "content": "KIHB",
+          "polygon": [
+            1025,
+            678,
+            1076,
+            678,
+            1076,
+            700,
+            1024,
+            699
+          ],
+          "confidence": 0.819,
+          "span": {
+            "offset": 239,
+            "length": 4
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            353,
+            761,
+            403,
+            763,
+            403,
+            786,
+            352,
+            784
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 244,
+            "length": 4
+          }
+        },
+        {
+          "content": "19",
+          "polygon": [
+            418,
+            763,
+            443,
+            763,
+            443,
+            787,
+            417,
+            786
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 249,
+            "length": 2
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            600,
+            785,
+            636,
+            786,
+            636,
+            821,
+            600,
+            820
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 252,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            643,
+            786,
+            664,
+            787,
+            664,
+            822,
+            643,
+            821
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 253,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            683,
+            787,
+            718,
+            787,
+            718,
+            822,
+            683,
+            822
+          ],
+          "confidence": 0.682,
+          "span": {
+            "offset": 254,
+            "length": 1
+          }
+        },
+        {
+          "content": "(Report",
+          "polygon": [
+            821,
+            773,
+            908,
+            774,
+            907,
+            801,
+            821,
+            800
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 256,
+            "length": 7
+          }
+        },
+        {
+          "content": "A-123-62-7275,",
+          "polygon": [
+            919,
+            774,
+            1094,
+            777,
+            1094,
+            805,
+            918,
+            801
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 264,
+            "length": 14
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            1111,
+            778,
+            1159,
+            779,
+            1159,
+            807,
+            1111,
+            806
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 279,
+            "length": 4
+          }
+        },
+        {
+          "content": "2)",
+          "polygon": [
+            1172,
+            779,
+            1198,
+            780,
+            1198,
+            807,
+            1171,
+            807
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 284,
+            "length": 2
+          }
+        },
+        {
+          "content": "3432-357-8116",
+          "polygon": [
+            401,
+            812,
+            567,
+            816,
+            567,
+            839,
+            401,
+            835
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 287,
+            "length": 13
+          }
+        },
+        {
+          "content": "(8560)",
+          "polygon": [
+            595,
+            818,
+            666,
+            820,
+            666,
+            841,
+            594,
+            840
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 301,
+            "length": 6
+          }
+        },
+        {
+          "content": "TORCH",
+          "polygon": [
+            705,
+            821,
+            771,
+            821,
+            771,
+            843,
+            705,
+            842
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 308,
+            "length": 5
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            515,
+            837,
+            794,
+            840,
+            794,
+            872,
+            515,
+            869
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 314,
+            "length": 14
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            399,
+            863,
+            514,
+            867,
+            514,
+            889,
+            399,
+            886
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 329,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            541,
+            868,
+            554,
+            868,
+            554,
+            890,
+            540,
+            889
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 339,
+            "length": 1
+          }
+        },
+        {
+          "content": "R-2",
+          "polygon": [
+            579,
+            869,
+            617,
+            869,
+            617,
+            891,
+            578,
+            890
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 341,
+            "length": 3
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            829,
+            875,
+            880,
+            876,
+            879,
+            897,
+            829,
+            897
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 345,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            906,
+            876,
+            919,
+            876,
+            919,
+            898,
+            906,
+            898
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 350,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            947,
+            877,
+            958,
+            877,
+            958,
+            898,
+            946,
+            898
+          ],
+          "confidence": 0.845,
+          "span": {
+            "offset": 352,
+            "length": 1
+          }
+        },
+        {
+          "content": "Commodity",
+          "polygon": [
+            398,
+            913,
+            515,
+            917,
+            514,
+            941,
+            397,
+            938
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 354,
+            "length": 9
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            526,
+            917,
+            590,
+            919,
+            590,
+            943,
+            526,
+            942
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 364,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            615,
+            919,
+            627,
+            919,
+            627,
+            944,
+            615,
+            944
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 370,
+            "length": 1
+          }
+        },
+        {
+          "content": "34",
+          "polygon": [
+            654,
+            920,
+            680,
+            920,
+            680,
+            944,
+            654,
+            944
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 372,
+            "length": 2
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            826,
+            926,
+            955,
+            928,
+            955,
+            950,
+            825,
+            948
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 375,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            981,
+            928,
+            993,
+            928,
+            993,
+            950,
+            981,
+            950
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 386,
+            "length": 1
+          }
+        },
+        {
+          "content": "KIHB",
+          "polygon": [
+            1019,
+            929,
+            1071,
+            929,
+            1071,
+            951,
+            1019,
+            950
+          ],
+          "confidence": 0.617,
+          "span": {
+            "offset": 388,
+            "length": 4
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            347,
+            1012,
+            398,
+            1014,
+            398,
+            1037,
+            347,
+            1036
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 393,
+            "length": 4
+          }
+        },
+        {
+          "content": "20",
+          "polygon": [
+            410,
+            1014,
+            439,
+            1014,
+            439,
+            1038,
+            409,
+            1037
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 398,
+            "length": 2
+          }
+        },
+        {
+          "content": "(Report",
+          "polygon": [
+            804,
+            1024,
+            890,
+            1025,
+            889,
+            1052,
+            804,
+            1050
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 401,
+            "length": 7
+          }
+        },
+        {
+          "content": "A-123-62-7275,",
+          "polygon": [
+            901,
+            1025,
+            1076,
+            1029,
+            1076,
+            1056,
+            900,
+            1052
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 409,
+            "length": 14
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            1093,
+            1029,
+            1141,
+            1030,
+            1141,
+            1057,
+            1093,
+            1056
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 424,
+            "length": 4
+          }
+        },
+        {
+          "content": "2)",
+          "polygon": [
+            1154,
+            1031,
+            1180,
+            1031,
+            1180,
+            1058,
+            1154,
+            1058
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 429,
+            "length": 2
+          }
+        },
+        {
+          "content": "3432-449-6787",
+          "polygon": [
+            396,
+            1063,
+            562,
+            1068,
+            561,
+            1091,
+            396,
+            1087
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 432,
+            "length": 13
+          }
+        },
+        {
+          "content": "(8560)",
+          "polygon": [
+            589,
+            1068,
+            663,
+            1070,
+            662,
+            1093,
+            589,
+            1092
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 446,
+            "length": 6
+          }
+        },
+        {
+          "content": "GUN",
+          "polygon": [
+            698,
+            1073,
+            739,
+            1074,
+            739,
+            1094,
+            698,
+            1093
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 453,
+            "length": 3
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            394,
+            1114,
+            509,
+            1117,
+            509,
+            1140,
+            393,
+            1137
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 457,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            536,
+            1118,
+            547,
+            1118,
+            547,
+            1140,
+            535,
+            1140
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 467,
+            "length": 1
+          }
+        },
+        {
+          "content": "N-2",
+          "polygon": [
+            572,
+            1119,
+            611,
+            1120,
+            611,
+            1143,
+            571,
+            1141
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 469,
+            "length": 3
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            823,
+            1126,
+            874,
+            1127,
+            874,
+            1149,
+            823,
+            1148
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 473,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            901,
+            1128,
+            913,
+            1128,
+            913,
+            1150,
+            900,
+            1150
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 478,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            941,
+            1128,
+            952,
+            1129,
+            952,
+            1150,
+            940,
+            1150
+          ],
+          "confidence": 0.88,
+          "span": {
+            "offset": 480,
+            "length": 1
+          }
+        },
+        {
+          "content": "Commodity",
+          "polygon": [
+            392,
+            1164,
+            510,
+            1168,
+            509,
+            1192,
+            391,
+            1188
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 482,
+            "length": 9
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            521,
+            1168,
+            584,
+            1170,
+            584,
+            1194,
+            520,
+            1193
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 492,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            609,
+            1170,
+            622,
+            1171,
+            621,
+            1195,
+            609,
+            1195
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 498,
+            "length": 1
+          }
+        },
+        {
+          "content": "34",
+          "polygon": [
+            648,
+            1171,
+            673,
+            1172,
+            673,
+            1195,
+            648,
+            1195
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 500,
+            "length": 2
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            820,
+            1176,
+            949,
+            1179,
+            949,
+            1201,
+            819,
+            1199
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 503,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            976,
+            1179,
+            987,
+            1179,
+            987,
+            1201,
+            975,
+            1201
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 514,
+            "length": 1
+          }
+        },
+        {
+          "content": "KIHB",
+          "polygon": [
+            1013,
+            1180,
+            1065,
+            1181,
+            1065,
+            1203,
+            1013,
+            1202
+          ],
+          "confidence": 0.881,
+          "span": {
+            "offset": 516,
+            "length": 4
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            342,
+            1263,
+            392,
+            1264,
+            392,
+            1287,
+            341,
+            1286
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 521,
+            "length": 4
+          }
+        },
+        {
+          "content": "23",
+          "polygon": [
+            404,
+            1265,
+            432,
+            1265,
+            432,
+            1288,
+            403,
+            1287
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 526,
+            "length": 2
+          }
+        },
+        {
+          "content": "(Report",
+          "polygon": [
+            798,
+            1275,
+            883,
+            1277,
+            883,
+            1302,
+            797,
+            1301
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 529,
+            "length": 7
+          }
+        },
+        {
+          "content": "A-123-62-7275,",
+          "polygon": [
+            894,
+            1277,
+            1070,
+            1280,
+            1069,
+            1306,
+            893,
+            1303
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 537,
+            "length": 14
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            1087,
+            1280,
+            1135,
+            1281,
+            1135,
+            1308,
+            1086,
+            1307
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 552,
+            "length": 4
+          }
+        },
+        {
+          "content": "2)",
+          "polygon": [
+            1148,
+            1282,
+            1173,
+            1282,
+            1173,
+            1309,
+            1147,
+            1308
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 557,
+            "length": 2
+          }
+        },
+        {
+          "content": "3433-243-2727",
+          "polygon": [
+            390,
+            1314,
+            556,
+            1319,
+            555,
+            1342,
+            389,
+            1338
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 560,
+            "length": 13
+          }
+        },
+        {
+          "content": "(8560)",
+          "polygon": [
+            583,
+            1319,
+            654,
+            1321,
+            654,
+            1345,
+            583,
+            1343
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 574,
+            "length": 6
+          }
+        },
+        {
+          "content": "SPRAY",
+          "polygon": [
+            693,
+            1322,
+            758,
+            1324,
+            757,
+            1347,
+            692,
+            1345
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 581,
+            "length": 5
+          }
+        },
+        {
+          "content": "GUN",
+          "polygon": [
+            769,
+            1324,
+            809,
+            1325,
+            809,
+            1348,
+            768,
+            1347
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 587,
+            "length": 3
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            387,
+            1365,
+            503,
+            1369,
+            503,
+            1391,
+            387,
+            1387
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 591,
+            "length": 9
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            529,
+            1369,
+            545,
+            1370,
+            544,
+            1392,
+            529,
+            1392
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 601,
+            "length": 1
+          }
+        },
+        {
+          "content": "N-2",
+          "polygon": [
+            565,
+            1370,
+            605,
+            1371,
+            605,
+            1394,
+            565,
+            1393
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 603,
+            "length": 3
+          }
+        },
+        {
+          "content": "Each",
+          "polygon": [
+            816,
+            1377,
+            868,
+            1378,
+            867,
+            1399,
+            816,
+            1399
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 607,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            894,
+            1378,
+            907,
+            1378,
+            907,
+            1400,
+            894,
+            1400
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 612,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            932,
+            1379,
+            946,
+            1379,
+            946,
+            1400,
+            931,
+            1400
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 614,
+            "length": 1
+          }
+        },
+        {
+          "content": "Commodity",
+          "polygon": [
+            386,
+            1415,
+            503,
+            1419,
+            502,
+            1443,
+            385,
+            1439
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 616,
+            "length": 9
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            515,
+            1419,
+            579,
+            1421,
+            578,
+            1446,
+            514,
+            1444
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 626,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            603,
+            1421,
+            616,
+            1422,
+            616,
+            1446,
+            602,
+            1446
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 632,
+            "length": 1
+          }
+        },
+        {
+          "content": "34",
+          "polygon": [
+            642,
+            1423,
+            668,
+            1423,
+            668,
+            1447,
+            642,
+            1446
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 634,
+            "length": 2
+          }
+        },
+        {
+          "content": "Allocation",
+          "polygon": [
+            814,
+            1428,
+            943,
+            1430,
+            943,
+            1451,
+            813,
+            1449
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 637,
+            "length": 10
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            969,
+            1431,
+            981,
+            1431,
+            981,
+            1452,
+            969,
+            1452
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 648,
+            "length": 1
+          }
+        },
+        {
+          "content": "KIHB",
+          "polygon": [
+            1007,
+            1431,
+            1058,
+            1432,
+            1058,
+            1453,
+            1007,
+            1452
+          ],
+          "confidence": 0.708,
+          "span": {
+            "offset": 650,
+            "length": 4
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            940,
+            1512,
+            992,
+            1513,
+            992,
+            1591,
+            940,
+            1590
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 655,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            1000,
+            1513,
+            1050,
+            1513,
+            1050,
+            1592,
+            1000,
+            1591
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 656,
+            "length": 1
+          }
+        },
+        {
+          "content": "馆",
+          "polygon": [
+            1052,
+            1513,
+            1141,
+            1514,
+            1141,
+            1594,
+            1051,
+            1592
+          ],
+          "confidence": 0.729,
+          "span": {
+            "offset": 657,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            917,
+            1593,
+            1029,
+            1594,
+            1029,
+            1619,
+            917,
+            1619
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 659,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1036,
+            1594,
+            1138,
+            1596,
+            1138,
+            1620,
+            1036,
+            1619
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 668,
+            "length": 9
+          }
+        },
+        {
+          "content": "401",
+          "polygon": [
+            24,
+            1610,
+            81,
+            1610,
+            81,
+            1649,
+            24,
+            1649
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 678,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "- 2 -",
+          "polygon": [
+            656,
+            164,
+            720,
+            164,
+            720,
+            185,
+            656,
+            185
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Item 13",
+          "polygon": [
+            364,
+            258,
+            455,
+            260,
+            454,
+            283,
+            363,
+            281
+          ],
+          "spans": [
+            {
+              "offset": 6,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "41-T-1600 (8560)",
+          "polygon": [
+            413,
+            310,
+            629,
+            314,
+            628,
+            338,
+            413,
+            334
+          ],
+          "spans": [
+            {
+              "offset": 14,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "TESTER",
+          "polygon": [
+            664,
+            317,
+            745,
+            319,
+            744,
+            339,
+            663,
+            338
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Condition - N-2",
+          "polygon": [
+            410,
+            360,
+            629,
+            365,
+            628,
+            388,
+            410,
+            383
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "(Report A-118-62-7275, Page 1)",
+          "polygon": [
+            832,
+            269,
+            1205,
+            276,
+            1205,
+            304,
+            831,
+            297
+          ],
+          "spans": [
+            {
+              "offset": 54,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "Each - 2",
+          "polygon": [
+            839,
+            371,
+            968,
+            374,
+            967,
+            396,
+            839,
+            394
+          ],
+          "spans": [
+            {
+              "offset": 85,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Allocation - KIHB",
+          "polygon": [
+            837,
+            423,
+            1081,
+            427,
+            1081,
+            449,
+            837,
+            445
+          ],
+          "spans": [
+            {
+              "offset": 94,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "Item 3",
+          "polygon": [
+            359,
+            510,
+            437,
+            511,
+            436,
+            534,
+            358,
+            532
+          ],
+          "spans": [
+            {
+              "offset": 112,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "(Report A-123-62-7275, Page 1)",
+          "polygon": [
+            827,
+            521,
+            1202,
+            528,
+            1201,
+            556,
+            827,
+            548
+          ],
+          "spans": [
+            {
+              "offset": 119,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "3413-222-2198 (0000) DRILLING",
+          "polygon": [
+            407,
+            560,
+            815,
+            569,
+            814,
+            594,
+            406,
+            584
+          ],
+          "spans": [
+            {
+              "offset": 150,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "Condition - N-2",
+          "polygon": [
+            404,
+            611,
+            622,
+            617,
+            622,
+            640,
+            404,
+            634
+          ],
+          "spans": [
+            {
+              "offset": 180,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Each - 1",
+          "polygon": [
+            835,
+            623,
+            963,
+            625,
+            962,
+            648,
+            834,
+            646
+          ],
+          "spans": [
+            {
+              "offset": 196,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Commodity Group - 34",
+          "polygon": [
+            403,
+            662,
+            685,
+            670,
+            684,
+            694,
+            403,
+            687
+          ],
+          "spans": [
+            {
+              "offset": 205,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Allocation - KIHB",
+          "polygon": [
+            832,
+            674,
+            1076,
+            678,
+            1075,
+            700,
+            832,
+            696
+          ],
+          "spans": [
+            {
+              "offset": 226,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "Item 19",
+          "polygon": [
+            353,
+            761,
+            443,
+            763,
+            442,
+            786,
+            352,
+            784
+          ],
+          "spans": [
+            {
+              "offset": 244,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "許躍薾",
+          "polygon": [
+            600,
+            785,
+            718,
+            787,
+            718,
+            822,
+            599,
+            820
+          ],
+          "spans": [
+            {
+              "offset": 252,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "(Report A-123-62-7275, Page 2)",
+          "polygon": [
+            821,
+            772,
+            1198,
+            779,
+            1197,
+            807,
+            821,
+            799
+          ],
+          "spans": [
+            {
+              "offset": 256,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "3432-357-8116 (8560) TORCH",
+          "polygon": [
+            401,
+            812,
+            771,
+            820,
+            771,
+            843,
+            401,
+            835
+          ],
+          "spans": [
+            {
+              "offset": 287,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            515,
+            837,
+            793,
+            840,
+            793,
+            871,
+            515,
+            868
+          ],
+          "spans": [
+            {
+              "offset": 314,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Condition - R-2",
+          "polygon": [
+            399,
+            863,
+            617,
+            869,
+            616,
+            891,
+            399,
+            886
+          ],
+          "spans": [
+            {
+              "offset": 329,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Each - 1",
+          "polygon": [
+            829,
+            875,
+            958,
+            877,
+            957,
+            898,
+            829,
+            897
+          ],
+          "spans": [
+            {
+              "offset": 345,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Commodity Group - 34",
+          "polygon": [
+            398,
+            913,
+            680,
+            920,
+            679,
+            944,
+            397,
+            938
+          ],
+          "spans": [
+            {
+              "offset": 354,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Allocation - KIHB",
+          "polygon": [
+            826,
+            926,
+            1070,
+            929,
+            1070,
+            951,
+            825,
+            948
+          ],
+          "spans": [
+            {
+              "offset": 375,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "Item 20",
+          "polygon": [
+            347,
+            1012,
+            438,
+            1014,
+            438,
+            1037,
+            347,
+            1035
+          ],
+          "spans": [
+            {
+              "offset": 393,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "(Report A-123-62-7275, Page 2)",
+          "polygon": [
+            804,
+            1023,
+            1179,
+            1031,
+            1179,
+            1058,
+            803,
+            1050
+          ],
+          "spans": [
+            {
+              "offset": 401,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "3432-449-6787 (8560)",
+          "polygon": [
+            396,
+            1063,
+            662,
+            1069,
+            662,
+            1093,
+            396,
+            1087
+          ],
+          "spans": [
+            {
+              "offset": 432,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "GUN",
+          "polygon": [
+            698,
+            1073,
+            739,
+            1074,
+            739,
+            1093,
+            698,
+            1093
+          ],
+          "spans": [
+            {
+              "offset": 453,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Condition - N-2",
+          "polygon": [
+            393,
+            1114,
+            611,
+            1120,
+            610,
+            1142,
+            393,
+            1136
+          ],
+          "spans": [
+            {
+              "offset": 457,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Each - 1",
+          "polygon": [
+            823,
+            1126,
+            952,
+            1129,
+            951,
+            1150,
+            823,
+            1148
+          ],
+          "spans": [
+            {
+              "offset": 473,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Commodity Group - 34",
+          "polygon": [
+            392,
+            1164,
+            673,
+            1172,
+            672,
+            1196,
+            391,
+            1189
+          ],
+          "spans": [
+            {
+              "offset": 482,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Allocation - KIHB",
+          "polygon": [
+            820,
+            1176,
+            1064,
+            1181,
+            1064,
+            1203,
+            819,
+            1198
+          ],
+          "spans": [
+            {
+              "offset": 503,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "Item 23",
+          "polygon": [
+            341,
+            1263,
+            431,
+            1265,
+            431,
+            1288,
+            341,
+            1286
+          ],
+          "spans": [
+            {
+              "offset": 521,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "(Report A-123-62-7275, Page 2)",
+          "polygon": [
+            798,
+            1274,
+            1173,
+            1282,
+            1172,
+            1308,
+            797,
+            1301
+          ],
+          "spans": [
+            {
+              "offset": 529,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "3433-243-2727 (8560) SPRAY GUN",
+          "polygon": [
+            390,
+            1314,
+            808,
+            1325,
+            808,
+            1348,
+            389,
+            1338
+          ],
+          "spans": [
+            {
+              "offset": 560,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "Condition - N-2",
+          "polygon": [
+            387,
+            1365,
+            605,
+            1371,
+            604,
+            1394,
+            387,
+            1388
+          ],
+          "spans": [
+            {
+              "offset": 591,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Each - 2",
+          "polygon": [
+            816,
+            1377,
+            945,
+            1379,
+            945,
+            1400,
+            816,
+            1399
+          ],
+          "spans": [
+            {
+              "offset": 607,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Commodity Group - 34",
+          "polygon": [
+            386,
+            1415,
+            668,
+            1423,
+            667,
+            1447,
+            385,
+            1440
+          ],
+          "spans": [
+            {
+              "offset": 616,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "Allocation - KIHB",
+          "polygon": [
+            814,
+            1428,
+            1058,
+            1432,
+            1057,
+            1453,
+            813,
+            1449
+          ],
+          "spans": [
+            {
+              "offset": 637,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "國史馆",
+          "polygon": [
+            940,
+            1511,
+            1141,
+            1514,
+            1140,
+            1594,
+            939,
+            1590
+          ],
+          "spans": [
+            {
+              "offset": 655,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            917,
+            1593,
+            1138,
+            1595,
+            1138,
+            1620,
+            917,
+            1618
+          ],
+          "spans": [
+            {
+              "offset": 659,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "401",
+          "polygon": [
+            24,
+            1609,
+            81,
+            1610,
+            80,
+            1649,
+            24,
+            1649
+          ],
+          "spans": [
+            {
+              "offset": 678,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 681
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 2,
+      "columnCount": 3,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "41-T-1600",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                367,
+                298,
+                540,
+                303,
+                540,
+                350,
+                367,
+                344
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 14,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "(8560)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                540,
+                303,
+                646,
+                306,
+                646,
+                354,
+                540,
+                350
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 24,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "TESTER",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                646,
+                306,
+                754,
+                309,
+                754,
+                357,
+                646,
+                354
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "Condition",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                367,
+                344,
+                540,
+                350,
+                540,
+                397,
+                366,
+                392
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "- N-2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                540,
+                350,
+                646,
+                354,
+                646,
+                400,
+                540,
+                397
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 48,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                646,
+                354,
+                754,
+                357,
+                755,
+                403,
+                646,
+                400
+              ]
+            }
+          ],
+          "spans": []
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            398,
+            308,
+            750,
+            308,
+            750,
+            393,
+            398,
+            392
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 14,
+          "length": 39
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            656,
+            164,
+            720,
+            164,
+            720,
+            185,
+            656,
+            185
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "- 2 -"
+    },
+    {
+      "spans": [
+        {
+          "offset": 6,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            364,
+            258,
+            455,
+            260,
+            454,
+            283,
+            363,
+            281
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "Item 13"
+    },
+    {
+      "spans": [
+        {
+          "offset": 14,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            367,
+            298,
+            540,
+            303,
+            540,
+            350,
+            367,
+            344
+          ]
+        }
+      ],
+      "content": "41-T-1600"
+    },
+    {
+      "spans": [
+        {
+          "offset": 24,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            540,
+            303,
+            646,
+            306,
+            646,
+            354,
+            540,
+            350
+          ]
+        }
+      ],
+      "content": "(8560)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 31,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            646,
+            306,
+            754,
+            309,
+            754,
+            357,
+            646,
+            354
+          ]
+        }
+      ],
+      "content": "TESTER"
+    },
+    {
+      "spans": [
+        {
+          "offset": 38,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            367,
+            344,
+            540,
+            350,
+            540,
+            397,
+            366,
+            392
+          ]
+        }
+      ],
+      "content": "Condition"
+    },
+    {
+      "spans": [
+        {
+          "offset": 48,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            540,
+            350,
+            646,
+            354,
+            646,
+            400,
+            540,
+            397
+          ]
+        }
+      ],
+      "content": "- N-2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 54,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            832,
+            269,
+            1205,
+            276,
+            1205,
+            304,
+            831,
+            297
+          ]
+        }
+      ],
+      "content": "(Report A-118-62-7275, Page 1)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 85,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            839,
+            371,
+            968,
+            374,
+            967,
+            396,
+            839,
+            394
+          ]
+        }
+      ],
+      "content": "Each - 2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 94,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            837,
+            423,
+            1081,
+            427,
+            1081,
+            449,
+            837,
+            445
+          ]
+        }
+      ],
+      "content": "Allocation - KIHB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 112,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            359,
+            510,
+            437,
+            511,
+            436,
+            534,
+            358,
+            532
+          ]
+        }
+      ],
+      "content": "Item 3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 119,
+          "length": 60
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1198,
+            487,
+            1205,
+            557,
+            411,
+            631,
+            404,
+            560
+          ]
+        }
+      ],
+      "content": "(Report A-123-62-7275, Page 1) 3413-222-2198 (0000) DRILLING"
+    },
+    {
+      "spans": [
+        {
+          "offset": 180,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            611,
+            963,
+            625,
+            962,
+            649,
+            404,
+            635
+          ]
+        }
+      ],
+      "content": "Condition - N-2 Each - 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 205,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            403,
+            662,
+            1076,
+            678,
+            1075,
+            703,
+            403,
+            687
+          ]
+        }
+      ],
+      "content": "Commodity Group - 34 Allocation - KIHB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 244,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            353,
+            761,
+            443,
+            763,
+            442,
+            786,
+            352,
+            784
+          ]
+        }
+      ],
+      "content": "Item 19"
+    },
+    {
+      "spans": [
+        {
+          "offset": 252,
+          "length": 34
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            598,
+            779,
+            1197,
+            760,
+            1199,
+            807,
+            599,
+            825
+          ]
+        }
+      ],
+      "content": "許躍薾 (Report A-123-62-7275, Page 2)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 287,
+          "length": 41
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            401,
+            812,
+            794,
+            821,
+            793,
+            875,
+            400,
+            866
+          ]
+        }
+      ],
+      "content": "3432-357-8116 (8560) TORCH 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 329,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            399,
+            863,
+            958,
+            877,
+            957,
+            900,
+            399,
+            886
+          ]
+        }
+      ],
+      "content": "Condition - R-2 Each - 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 354,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            398,
+            913,
+            1071,
+            929,
+            1070,
+            954,
+            397,
+            938
+          ]
+        }
+      ],
+      "content": "Commodity Group - 34 Allocation - KIHB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 393,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            347,
+            1012,
+            1179,
+            1031,
+            1179,
+            1058,
+            347,
+            1040
+          ]
+        }
+      ],
+      "content": "Item 20 (Report A-123-62-7275, Page 2)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 432,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            396,
+            1063,
+            739,
+            1071,
+            739,
+            1095,
+            396,
+            1087
+          ]
+        }
+      ],
+      "content": "3432-449-6787 (8560) GUN"
+    },
+    {
+      "spans": [
+        {
+          "offset": 457,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            393,
+            1114,
+            952,
+            1129,
+            951,
+            1151,
+            393,
+            1137
+          ]
+        }
+      ],
+      "content": "Condition - N-2 Each - 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 482,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            392,
+            1164,
+            1064,
+            1181,
+            1064,
+            1206,
+            391,
+            1189
+          ]
+        }
+      ],
+      "content": "Commodity Group - 34 Allocation - KIHB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 521,
+          "length": 94
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            341,
+            1263,
+            1173,
+            1282,
+            1170,
+            1407,
+            339,
+            1388
+          ]
+        }
+      ],
+      "content": "Item 23 (Report A-123-62-7275, Page 2) 3433-243-2727 (8560) SPRAY GUN Condition - N-2 Each - 2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 616,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            386,
+            1415,
+            1058,
+            1432,
+            1057,
+            1457,
+            385,
+            1440
+          ]
+        }
+      ],
+      "content": "Commodity Group - 34 Allocation - KIHB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 655,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            918,
+            1511,
+            1141,
+            1513,
+            1140,
+            1621,
+            917,
+            1618
+          ]
+        }
+      ],
+      "content": "國史馆 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 678,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            24,
+            1609,
+            81,
+            1610,
+            80,
+            1649,
+            24,
+            1649
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "401"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 655,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 678,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 6,
+          "length": 671
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/7",
+        "/paragraphs/8",
+        "/paragraphs/9",
+        "/paragraphs/10",
+        "/paragraphs/11",
+        "/paragraphs/12",
+        "/paragraphs/13",
+        "/paragraphs/14",
+        "/paragraphs/15",
+        "/paragraphs/16",
+        "/paragraphs/17",
+        "/paragraphs/18",
+        "/paragraphs/19",
+        "/paragraphs/20",
+        "/paragraphs/21",
+        "/paragraphs/22",
+        "/paragraphs/23",
+        "/paragraphs/24",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            916,
+            1501,
+            1269,
+            1501,
+            1269,
+            1628,
+            916,
+            1628
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 655,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/25"
+      ]
+    }
+  ]
+}

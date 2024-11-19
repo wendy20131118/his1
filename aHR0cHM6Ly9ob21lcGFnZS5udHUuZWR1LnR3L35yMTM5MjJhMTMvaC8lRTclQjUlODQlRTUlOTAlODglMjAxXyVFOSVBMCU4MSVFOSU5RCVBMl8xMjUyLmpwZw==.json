@@ -1,0 +1,3487 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Date: August 3, 1962\nshipment NO. 248-2 Ex. Howell Lykes Arr. July 20, 1962 Keelung F10/0-10218 P.O. #61-1.00\ntly & Unit\nDescription\nt. (Lb. ) cu. ft.\none unit\nTruck, Dump, 5 ton, 4x2, white Co. fr., plidl. c 22 PL, serial NO. 401578, Gas. engine driven, with hydraulic hoist steel body, body made by The Perfection Body Co. Mdl. 254, serial NO. 135394,\n12200 1950\nOne Unit\nTruck, Dump, 5 ton, 4x2, Mr. white Co. Ndl. \"C 22 FL, serial NO. 402556, Gas. engine driven, with hydraulic hoist steel body, Body made by The Perfection Body Co. Mdl. 254, serial NO. 135894.\n12200\n1950\n/// Say two unit only / / /\n14\n國史饭 Academia Historica",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.12140440195798874,
+      "width": 1235,
+      "height": 1780,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Date:",
+          "polygon": [
+            767,
+            440,
+            831,
+            440,
+            831,
+            464,
+            767,
+            464
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "August",
+          "polygon": [
+            845,
+            441,
+            921,
+            440,
+            921,
+            464,
+            845,
+            464
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 6,
+            "length": 6
+          }
+        },
+        {
+          "content": "3,",
+          "polygon": [
+            932,
+            440,
+            957,
+            440,
+            958,
+            464,
+            932,
+            464
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 13,
+            "length": 2
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            969,
+            440,
+            1022,
+            439,
+            1023,
+            464,
+            969,
+            464
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "shipment",
+          "polygon": [
+            140,
+            514,
+            242,
+            514,
+            242,
+            539,
+            140,
+            539
+          ],
+          "confidence": 0.846,
+          "span": {
+            "offset": 21,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            253,
+            514,
+            295,
+            514,
+            295,
+            538,
+            253,
+            538
+          ],
+          "confidence": 0.887,
+          "span": {
+            "offset": 30,
+            "length": 3
+          }
+        },
+        {
+          "content": "248-2",
+          "polygon": [
+            304,
+            514,
+            370,
+            513,
+            370,
+            538,
+            304,
+            538
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 34,
+            "length": 5
+          }
+        },
+        {
+          "content": "Ex.",
+          "polygon": [
+            142,
+            541,
+            178,
+            541,
+            178,
+            563,
+            142,
+            563
+          ],
+          "confidence": 0.574,
+          "span": {
+            "offset": 40,
+            "length": 3
+          }
+        },
+        {
+          "content": "Howell",
+          "polygon": [
+            191,
+            541,
+            268,
+            541,
+            268,
+            564,
+            191,
+            563
+          ],
+          "confidence": 0.91,
+          "span": {
+            "offset": 44,
+            "length": 6
+          }
+        },
+        {
+          "content": "Lykes",
+          "polygon": [
+            279,
+            541,
+            346,
+            541,
+            346,
+            563,
+            279,
+            564
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 51,
+            "length": 5
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            144,
+            567,
+            195,
+            566,
+            195,
+            589,
+            144,
+            589
+          ],
+          "confidence": 0.727,
+          "span": {
+            "offset": 57,
+            "length": 4
+          }
+        },
+        {
+          "content": "July",
+          "polygon": [
+            205,
+            566,
+            256,
+            566,
+            256,
+            589,
+            205,
+            589
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 62,
+            "length": 4
+          }
+        },
+        {
+          "content": "20,",
+          "polygon": [
+            267,
+            566,
+            306,
+            565,
+            306,
+            589,
+            267,
+            589
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 67,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            318,
+            566,
+            370,
+            566,
+            369,
+            589,
+            318,
+            589
+          ],
+          "confidence": 0.944,
+          "span": {
+            "offset": 71,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            378,
+            566,
+            484,
+            566,
+            484,
+            591,
+            378,
+            589
+          ],
+          "confidence": 0.685,
+          "span": {
+            "offset": 76,
+            "length": 7
+          }
+        },
+        {
+          "content": "F10/0-10218",
+          "polygon": [
+            143,
+            590,
+            284,
+            589,
+            284,
+            613,
+            143,
+            614
+          ],
+          "confidence": 0.816,
+          "span": {
+            "offset": 84,
+            "length": 11
+          }
+        },
+        {
+          "content": "P.O.",
+          "polygon": [
+            142,
+            615,
+            193,
+            615,
+            193,
+            639,
+            142,
+            639
+          ],
+          "confidence": 0.758,
+          "span": {
+            "offset": 96,
+            "length": 4
+          }
+        },
+        {
+          "content": "#61-1.00",
+          "polygon": [
+            205,
+            615,
+            295,
+            614,
+            295,
+            639,
+            205,
+            639
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 101,
+            "length": 8
+          }
+        },
+        {
+          "content": "tly",
+          "polygon": [
+            154,
+            718,
+            194,
+            718,
+            194,
+            740,
+            154,
+            739
+          ],
+          "confidence": 0.829,
+          "span": {
+            "offset": 110,
+            "length": 3
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            205,
+            718,
+            218,
+            718,
+            218,
+            740,
+            205,
+            740
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 114,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            231,
+            718,
+            281,
+            717,
+            281,
+            739,
+            231,
+            739
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 116,
+            "length": 4
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            392,
+            719,
+            535,
+            719,
+            535,
+            740,
+            392,
+            739
+          ],
+          "confidence": 0.939,
+          "span": {
+            "offset": 121,
+            "length": 11
+          }
+        },
+        {
+          "content": "t.",
+          "polygon": [
+            948,
+            719,
+            977,
+            718,
+            977,
+            742,
+            948,
+            742
+          ],
+          "confidence": 0.821,
+          "span": {
+            "offset": 133,
+            "length": 2
+          }
+        },
+        {
+          "content": "(Lb.",
+          "polygon": [
+            982,
+            718,
+            1026,
+            719,
+            1026,
+            742,
+            982,
+            742
+          ],
+          "confidence": 0.826,
+          "span": {
+            "offset": 136,
+            "length": 4
+          }
+        },
+        {
+          "content": ")",
+          "polygon": [
+            1031,
+            719,
+            1046,
+            719,
+            1045,
+            742,
+            1031,
+            742
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 141,
+            "length": 1
+          }
+        },
+        {
+          "content": "cu.",
+          "polygon": [
+            1060,
+            719,
+            1094,
+            720,
+            1093,
+            743,
+            1060,
+            742
+          ],
+          "confidence": 0.405,
+          "span": {
+            "offset": 143,
+            "length": 3
+          }
+        },
+        {
+          "content": "ft.",
+          "polygon": [
+            1099,
+            720,
+            1137,
+            720,
+            1137,
+            744,
+            1099,
+            743
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 147,
+            "length": 3
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            142,
+            746,
+            183,
+            746,
+            183,
+            763,
+            142,
+            763
+          ],
+          "confidence": 0.591,
+          "span": {
+            "offset": 151,
+            "length": 3
+          }
+        },
+        {
+          "content": "unit",
+          "polygon": [
+            216,
+            743,
+            269,
+            743,
+            269,
+            763,
+            216,
+            763
+          ],
+          "confidence": 0.879,
+          "span": {
+            "offset": 155,
+            "length": 4
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            393,
+            743,
+            468,
+            743,
+            468,
+            766,
+            392,
+            766
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 160,
+            "length": 6
+          }
+        },
+        {
+          "content": "Dump,",
+          "polygon": [
+            481,
+            743,
+            544,
+            743,
+            544,
+            767,
+            481,
+            766
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 167,
+            "length": 5
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            552,
+            743,
+            570,
+            743,
+            570,
+            767,
+            553,
+            767
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 173,
+            "length": 1
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            582,
+            743,
+            631,
+            743,
+            631,
+            767,
+            582,
+            767
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 175,
+            "length": 4
+          }
+        },
+        {
+          "content": "4x2,",
+          "polygon": [
+            645,
+            743,
+            695,
+            743,
+            695,
+            768,
+            645,
+            767
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 180,
+            "length": 4
+          }
+        },
+        {
+          "content": "white",
+          "polygon": [
+            706,
+            743,
+            773,
+            744,
+            773,
+            767,
+            706,
+            768
+          ],
+          "confidence": 0.174,
+          "span": {
+            "offset": 185,
+            "length": 5
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            783,
+            744,
+            820,
+            744,
+            820,
+            768,
+            783,
+            767
+          ],
+          "confidence": 0.833,
+          "span": {
+            "offset": 191,
+            "length": 3
+          }
+        },
+        {
+          "content": "fr.,",
+          "polygon": [
+            847,
+            744,
+            898,
+            745,
+            897,
+            769,
+            847,
+            768
+          ],
+          "confidence": 0.616,
+          "span": {
+            "offset": 195,
+            "length": 4
+          }
+        },
+        {
+          "content": "plidl.",
+          "polygon": [
+            382,
+            768,
+            442,
+            768,
+            442,
+            792,
+            382,
+            792
+          ],
+          "confidence": 0.351,
+          "span": {
+            "offset": 200,
+            "length": 6
+          }
+        },
+        {
+          "content": "c",
+          "polygon": [
+            456,
+            768,
+            479,
+            768,
+            479,
+            792,
+            456,
+            792
+          ],
+          "confidence": 0.123,
+          "span": {
+            "offset": 207,
+            "length": 1
+          }
+        },
+        {
+          "content": "22",
+          "polygon": [
+            495,
+            768,
+            520,
+            768,
+            520,
+            792,
+            495,
+            792
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 209,
+            "length": 2
+          }
+        },
+        {
+          "content": "PL,",
+          "polygon": [
+            533,
+            768,
+            569,
+            768,
+            569,
+            792,
+            533,
+            792
+          ],
+          "confidence": 0.695,
+          "span": {
+            "offset": 212,
+            "length": 3
+          }
+        },
+        {
+          "content": "serial",
+          "polygon": [
+            583,
+            768,
+            659,
+            768,
+            659,
+            793,
+            582,
+            793
+          ],
+          "confidence": 0.565,
+          "span": {
+            "offset": 216,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            669,
+            768,
+            708,
+            769,
+            708,
+            793,
+            669,
+            793
+          ],
+          "confidence": 0.494,
+          "span": {
+            "offset": 223,
+            "length": 3
+          }
+        },
+        {
+          "content": "401578,",
+          "polygon": [
+            719,
+            769,
+            809,
+            769,
+            809,
+            793,
+            719,
+            793
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 227,
+            "length": 7
+          }
+        },
+        {
+          "content": "Gas.",
+          "polygon": [
+            822,
+            770,
+            872,
+            770,
+            872,
+            794,
+            821,
+            793
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 235,
+            "length": 4
+          }
+        },
+        {
+          "content": "engine",
+          "polygon": [
+            393,
+            794,
+            469,
+            794,
+            469,
+            817,
+            393,
+            817
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 240,
+            "length": 6
+          }
+        },
+        {
+          "content": "driven,",
+          "polygon": [
+            475,
+            794,
+            569,
+            794,
+            569,
+            817,
+            475,
+            817
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 247,
+            "length": 7
+          }
+        },
+        {
+          "content": "with",
+          "polygon": [
+            582,
+            794,
+            633,
+            793,
+            633,
+            817,
+            582,
+            817
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 255,
+            "length": 4
+          }
+        },
+        {
+          "content": "hydraulic",
+          "polygon": [
+            644,
+            793,
+            759,
+            794,
+            759,
+            817,
+            644,
+            817
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 260,
+            "length": 9
+          }
+        },
+        {
+          "content": "hoist",
+          "polygon": [
+            765,
+            794,
+            835,
+            794,
+            835,
+            817,
+            765,
+            817
+          ],
+          "confidence": 0.646,
+          "span": {
+            "offset": 270,
+            "length": 5
+          }
+        },
+        {
+          "content": "steel",
+          "polygon": [
+            395,
+            819,
+            457,
+            819,
+            457,
+            842,
+            395,
+            842
+          ],
+          "confidence": 0.852,
+          "span": {
+            "offset": 276,
+            "length": 5
+          }
+        },
+        {
+          "content": "body,",
+          "polygon": [
+            468,
+            819,
+            531,
+            819,
+            531,
+            843,
+            468,
+            842
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 282,
+            "length": 5
+          }
+        },
+        {
+          "content": "body",
+          "polygon": [
+            542,
+            819,
+            598,
+            819,
+            598,
+            842,
+            542,
+            843
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 288,
+            "length": 4
+          }
+        },
+        {
+          "content": "made",
+          "polygon": [
+            607,
+            819,
+            658,
+            819,
+            658,
+            843,
+            607,
+            842
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 293,
+            "length": 4
+          }
+        },
+        {
+          "content": "by",
+          "polygon": [
+            670,
+            819,
+            697,
+            819,
+            697,
+            843,
+            670,
+            843
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 298,
+            "length": 2
+          }
+        },
+        {
+          "content": "The",
+          "polygon": [
+            708,
+            819,
+            748,
+            819,
+            748,
+            843,
+            708,
+            843
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 301,
+            "length": 3
+          }
+        },
+        {
+          "content": "Perfection",
+          "polygon": [
+            757,
+            819,
+            885,
+            820,
+            885,
+            842,
+            757,
+            843
+          ],
+          "confidence": 0.843,
+          "span": {
+            "offset": 305,
+            "length": 10
+          }
+        },
+        {
+          "content": "Body",
+          "polygon": [
+            392,
+            844,
+            443,
+            844,
+            443,
+            869,
+            392,
+            868
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 316,
+            "length": 4
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            455,
+            844,
+            492,
+            844,
+            492,
+            869,
+            455,
+            869
+          ],
+          "confidence": 0.944,
+          "span": {
+            "offset": 321,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mdl.",
+          "polygon": [
+            504,
+            844,
+            558,
+            844,
+            557,
+            869,
+            504,
+            869
+          ],
+          "confidence": 0.824,
+          "span": {
+            "offset": 325,
+            "length": 4
+          }
+        },
+        {
+          "content": "254,",
+          "polygon": [
+            563,
+            844,
+            620,
+            844,
+            620,
+            869,
+            563,
+            869
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 330,
+            "length": 4
+          }
+        },
+        {
+          "content": "serial",
+          "polygon": [
+            629,
+            844,
+            713,
+            844,
+            713,
+            870,
+            628,
+            870
+          ],
+          "confidence": 0.531,
+          "span": {
+            "offset": 335,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            718,
+            844,
+            757,
+            845,
+            757,
+            869,
+            718,
+            870
+          ],
+          "confidence": 0.613,
+          "span": {
+            "offset": 342,
+            "length": 3
+          }
+        },
+        {
+          "content": "135394,",
+          "polygon": [
+            769,
+            845,
+            859,
+            845,
+            859,
+            870,
+            769,
+            870
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 346,
+            "length": 7
+          }
+        },
+        {
+          "content": "12200",
+          "polygon": [
+            946,
+            743,
+            1013,
+            744,
+            1013,
+            765,
+            946,
+            764
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 354,
+            "length": 5
+          }
+        },
+        {
+          "content": "1950",
+          "polygon": [
+            1059,
+            744,
+            1113,
+            745,
+            1113,
+            767,
+            1059,
+            766
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 360,
+            "length": 4
+          }
+        },
+        {
+          "content": "One",
+          "polygon": [
+            139,
+            897,
+            182,
+            898,
+            182,
+            915,
+            139,
+            915
+          ],
+          "confidence": 0.67,
+          "span": {
+            "offset": 365,
+            "length": 3
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            217,
+            895,
+            271,
+            895,
+            271,
+            915,
+            217,
+            915
+          ],
+          "confidence": 0.899,
+          "span": {
+            "offset": 369,
+            "length": 4
+          }
+        },
+        {
+          "content": "Truck,",
+          "polygon": [
+            390,
+            893,
+            466,
+            893,
+            466,
+            919,
+            390,
+            918
+          ],
+          "confidence": 0.954,
+          "span": {
+            "offset": 374,
+            "length": 6
+          }
+        },
+        {
+          "content": "Dump,",
+          "polygon": [
+            482,
+            893,
+            548,
+            893,
+            548,
+            919,
+            482,
+            919
+          ],
+          "confidence": 0.65,
+          "span": {
+            "offset": 381,
+            "length": 5
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            558,
+            893,
+            569,
+            893,
+            569,
+            919,
+            558,
+            919
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 387,
+            "length": 1
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            582,
+            893,
+            633,
+            893,
+            633,
+            919,
+            582,
+            919
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 389,
+            "length": 4
+          }
+        },
+        {
+          "content": "4x2,",
+          "polygon": [
+            640,
+            893,
+            694,
+            893,
+            694,
+            919,
+            640,
+            919
+          ],
+          "confidence": 0.867,
+          "span": {
+            "offset": 394,
+            "length": 4
+          }
+        },
+        {
+          "content": "Mr.",
+          "polygon": [
+            702,
+            893,
+            759,
+            893,
+            759,
+            919,
+            702,
+            919
+          ],
+          "confidence": 0.193,
+          "span": {
+            "offset": 399,
+            "length": 3
+          }
+        },
+        {
+          "content": "white",
+          "polygon": [
+            772,
+            894,
+            834,
+            894,
+            834,
+            919,
+            772,
+            919
+          ],
+          "confidence": 0.512,
+          "span": {
+            "offset": 403,
+            "length": 5
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            846,
+            894,
+            883,
+            895,
+            883,
+            920,
+            846,
+            919
+          ],
+          "confidence": 0.729,
+          "span": {
+            "offset": 409,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ndl.",
+          "polygon": [
+            391,
+            919,
+            447,
+            920,
+            447,
+            943,
+            391,
+            943
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 413,
+            "length": 4
+          }
+        },
+        {
+          "content": "\"C",
+          "polygon": [
+            457,
+            919,
+            481,
+            919,
+            481,
+            944,
+            457,
+            943
+          ],
+          "confidence": 0.099,
+          "span": {
+            "offset": 418,
+            "length": 2
+          }
+        },
+        {
+          "content": "22",
+          "polygon": [
+            494,
+            919,
+            519,
+            920,
+            519,
+            944,
+            494,
+            944
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 421,
+            "length": 2
+          }
+        },
+        {
+          "content": "FL,",
+          "polygon": [
+            529,
+            920,
+            569,
+            920,
+            569,
+            944,
+            529,
+            944
+          ],
+          "confidence": 0.657,
+          "span": {
+            "offset": 424,
+            "length": 3
+          }
+        },
+        {
+          "content": "serial",
+          "polygon": [
+            583,
+            920,
+            658,
+            920,
+            658,
+            944,
+            583,
+            944
+          ],
+          "confidence": 0.803,
+          "span": {
+            "offset": 428,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            668,
+            920,
+            706,
+            920,
+            706,
+            945,
+            668,
+            944
+          ],
+          "confidence": 0.713,
+          "span": {
+            "offset": 435,
+            "length": 3
+          }
+        },
+        {
+          "content": "402556,",
+          "polygon": [
+            720,
+            920,
+            809,
+            921,
+            809,
+            945,
+            720,
+            945
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 439,
+            "length": 7
+          }
+        },
+        {
+          "content": "Gas.",
+          "polygon": [
+            816,
+            921,
+            872,
+            922,
+            872,
+            945,
+            816,
+            945
+          ],
+          "confidence": 0.668,
+          "span": {
+            "offset": 447,
+            "length": 4
+          }
+        },
+        {
+          "content": "engine",
+          "polygon": [
+            392,
+            945,
+            470,
+            945,
+            470,
+            968,
+            393,
+            968
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 452,
+            "length": 6
+          }
+        },
+        {
+          "content": "driven,",
+          "polygon": [
+            482,
+            945,
+            568,
+            945,
+            568,
+            969,
+            482,
+            968
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 459,
+            "length": 7
+          }
+        },
+        {
+          "content": "with",
+          "polygon": [
+            582,
+            945,
+            633,
+            945,
+            633,
+            969,
+            582,
+            969
+          ],
+          "confidence": 0.85,
+          "span": {
+            "offset": 467,
+            "length": 4
+          }
+        },
+        {
+          "content": "hydraulic",
+          "polygon": [
+            645,
+            945,
+            759,
+            946,
+            759,
+            969,
+            645,
+            969
+          ],
+          "confidence": 0.269,
+          "span": {
+            "offset": 472,
+            "length": 9
+          }
+        },
+        {
+          "content": "hoist",
+          "polygon": [
+            768,
+            946,
+            836,
+            946,
+            836,
+            969,
+            768,
+            969
+          ],
+          "confidence": 0.828,
+          "span": {
+            "offset": 482,
+            "length": 5
+          }
+        },
+        {
+          "content": "steel",
+          "polygon": [
+            395,
+            970,
+            460,
+            970,
+            460,
+            994,
+            395,
+            994
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 488,
+            "length": 5
+          }
+        },
+        {
+          "content": "body,",
+          "polygon": [
+            469,
+            970,
+            531,
+            970,
+            531,
+            994,
+            469,
+            994
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 494,
+            "length": 5
+          }
+        },
+        {
+          "content": "Body",
+          "polygon": [
+            545,
+            970,
+            597,
+            970,
+            597,
+            994,
+            545,
+            994
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 500,
+            "length": 4
+          }
+        },
+        {
+          "content": "made",
+          "polygon": [
+            607,
+            970,
+            658,
+            970,
+            658,
+            994,
+            607,
+            994
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 505,
+            "length": 4
+          }
+        },
+        {
+          "content": "by",
+          "polygon": [
+            667,
+            970,
+            701,
+            970,
+            701,
+            994,
+            667,
+            994
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 510,
+            "length": 2
+          }
+        },
+        {
+          "content": "The",
+          "polygon": [
+            707,
+            971,
+            747,
+            971,
+            747,
+            994,
+            707,
+            994
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 513,
+            "length": 3
+          }
+        },
+        {
+          "content": "Perfection",
+          "polygon": [
+            759,
+            971,
+            886,
+            971,
+            886,
+            994,
+            759,
+            994
+          ],
+          "confidence": 0.823,
+          "span": {
+            "offset": 517,
+            "length": 10
+          }
+        },
+        {
+          "content": "Body",
+          "polygon": [
+            393,
+            995,
+            446,
+            995,
+            446,
+            1019,
+            393,
+            1019
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 528,
+            "length": 4
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            454,
+            995,
+            497,
+            995,
+            497,
+            1019,
+            454,
+            1019
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 533,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mdl.",
+          "polygon": [
+            506,
+            995,
+            554,
+            995,
+            554,
+            1020,
+            506,
+            1019
+          ],
+          "confidence": 0.848,
+          "span": {
+            "offset": 537,
+            "length": 4
+          }
+        },
+        {
+          "content": "254,",
+          "polygon": [
+            562,
+            995,
+            620,
+            995,
+            620,
+            1020,
+            562,
+            1020
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 542,
+            "length": 4
+          }
+        },
+        {
+          "content": "serial",
+          "polygon": [
+            631,
+            995,
+            712,
+            996,
+            712,
+            1020,
+            631,
+            1020
+          ],
+          "confidence": 0.635,
+          "span": {
+            "offset": 547,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            719,
+            996,
+            759,
+            996,
+            759,
+            1020,
+            719,
+            1020
+          ],
+          "confidence": 0.921,
+          "span": {
+            "offset": 554,
+            "length": 3
+          }
+        },
+        {
+          "content": "135894.",
+          "polygon": [
+            769,
+            996,
+            859,
+            996,
+            859,
+            1020,
+            769,
+            1020
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 558,
+            "length": 7
+          }
+        },
+        {
+          "content": "12200",
+          "polygon": [
+            944,
+            896,
+            1010,
+            896,
+            1010,
+            918,
+            944,
+            918
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 566,
+            "length": 5
+          }
+        },
+        {
+          "content": "1950",
+          "polygon": [
+            1059,
+            897,
+            1113,
+            897,
+            1113,
+            920,
+            1059,
+            919
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 572,
+            "length": 4
+          }
+        },
+        {
+          "content": "///",
+          "polygon": [
+            418,
+            1092,
+            485,
+            1092,
+            485,
+            1122,
+            418,
+            1123
+          ],
+          "confidence": 0.569,
+          "span": {
+            "offset": 577,
+            "length": 3
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            492,
+            1092,
+            536,
+            1093,
+            536,
+            1122,
+            491,
+            1122
+          ],
+          "confidence": 0.901,
+          "span": {
+            "offset": 581,
+            "length": 3
+          }
+        },
+        {
+          "content": "two",
+          "polygon": [
+            543,
+            1093,
+            584,
+            1093,
+            584,
+            1121,
+            543,
+            1122
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 585,
+            "length": 3
+          }
+        },
+        {
+          "content": "unit",
+          "polygon": [
+            594,
+            1093,
+            651,
+            1093,
+            650,
+            1122,
+            594,
+            1121
+          ],
+          "confidence": 0.943,
+          "span": {
+            "offset": 589,
+            "length": 4
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            657,
+            1093,
+            710,
+            1093,
+            710,
+            1122,
+            657,
+            1121
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 594,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            720,
+            1092,
+            736,
+            1092,
+            736,
+            1122,
+            720,
+            1122
+          ],
+          "confidence": 0.877,
+          "span": {
+            "offset": 599,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            746,
+            1092,
+            762,
+            1092,
+            761,
+            1122,
+            745,
+            1122
+          ],
+          "confidence": 0.937,
+          "span": {
+            "offset": 601,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            770,
+            1092,
+            788,
+            1092,
+            788,
+            1122,
+            770,
+            1122
+          ],
+          "confidence": 0.971,
+          "span": {
+            "offset": 603,
+            "length": 1
+          }
+        },
+        {
+          "content": "14",
+          "polygon": [
+            37,
+            1684,
+            72,
+            1681,
+            72,
+            1714,
+            37,
+            1715
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 605,
+            "length": 2
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            839,
+            1610,
+            899,
+            1611,
+            899,
+            1691,
+            839,
+            1690
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 608,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            900,
+            1611,
+            952,
+            1611,
+            952,
+            1692,
+            900,
+            1691
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 609,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            953,
+            1611,
+            1051,
+            1612,
+            1051,
+            1694,
+            953,
+            1692
+          ],
+          "confidence": 0.929,
+          "span": {
+            "offset": 610,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            816,
+            1696,
+            932,
+            1696,
+            932,
+            1723,
+            816,
+            1723
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 612,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            938,
+            1696,
+            1049,
+            1697,
+            1049,
+            1723,
+            938,
+            1723
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 621,
+            "length": 9
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Date: August 3, 1962",
+          "polygon": [
+            767,
+            440,
+            1022,
+            439,
+            1022,
+            464,
+            767,
+            465
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "shipment NO. 248-2",
+          "polygon": [
+            140,
+            514,
+            370,
+            513,
+            370,
+            538,
+            140,
+            539
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "Ex. Howell Lykes",
+          "polygon": [
+            142,
+            540,
+            346,
+            541,
+            346,
+            564,
+            142,
+            563
+          ],
+          "spans": [
+            {
+              "offset": 40,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Arr. July 20, 1962 Keelung",
+          "polygon": [
+            144,
+            565,
+            484,
+            566,
+            483,
+            590,
+            144,
+            589
+          ],
+          "spans": [
+            {
+              "offset": 57,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "F10/0-10218",
+          "polygon": [
+            143,
+            590,
+            284,
+            589,
+            284,
+            613,
+            143,
+            614
+          ],
+          "spans": [
+            {
+              "offset": 84,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "P.O. #61-1.00",
+          "polygon": [
+            142,
+            615,
+            295,
+            614,
+            295,
+            639,
+            142,
+            639
+          ],
+          "spans": [
+            {
+              "offset": 96,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "tly & Unit",
+          "polygon": [
+            154,
+            718,
+            281,
+            717,
+            281,
+            739,
+            154,
+            740
+          ],
+          "spans": [
+            {
+              "offset": 110,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            392,
+            718,
+            535,
+            719,
+            535,
+            740,
+            392,
+            740
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "t. (Lb. ) cu. ft.",
+          "polygon": [
+            948,
+            718,
+            1137,
+            720,
+            1136,
+            744,
+            947,
+            741
+          ],
+          "spans": [
+            {
+              "offset": 133,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "one",
+          "polygon": [
+            142,
+            746,
+            183,
+            746,
+            183,
+            763,
+            142,
+            763
+          ],
+          "spans": [
+            {
+              "offset": 151,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "unit",
+          "polygon": [
+            216,
+            743,
+            269,
+            743,
+            269,
+            763,
+            216,
+            763
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Truck, Dump, 5 ton, 4x2, white Co. fr.,",
+          "polygon": [
+            393,
+            742,
+            897,
+            744,
+            897,
+            768,
+            392,
+            765
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "plidl. c 22 PL, serial NO. 401578, Gas.",
+          "polygon": [
+            382,
+            767,
+            871,
+            769,
+            871,
+            794,
+            382,
+            792
+          ],
+          "spans": [
+            {
+              "offset": 200,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "engine driven, with hydraulic hoist",
+          "polygon": [
+            393,
+            793,
+            834,
+            794,
+            834,
+            817,
+            393,
+            817
+          ],
+          "spans": [
+            {
+              "offset": 240,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "steel body, body made by The Perfection",
+          "polygon": [
+            395,
+            818,
+            885,
+            819,
+            885,
+            843,
+            395,
+            842
+          ],
+          "spans": [
+            {
+              "offset": 276,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "Body Co. Mdl. 254, serial NO. 135394,",
+          "polygon": [
+            392,
+            843,
+            859,
+            845,
+            859,
+            870,
+            392,
+            868
+          ],
+          "spans": [
+            {
+              "offset": 316,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "12200",
+          "polygon": [
+            946,
+            743,
+            1013,
+            744,
+            1012,
+            765,
+            946,
+            764
+          ],
+          "spans": [
+            {
+              "offset": 354,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "1950",
+          "polygon": [
+            1059,
+            744,
+            1113,
+            745,
+            1112,
+            767,
+            1059,
+            766
+          ],
+          "spans": [
+            {
+              "offset": 360,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "One",
+          "polygon": [
+            139,
+            897,
+            182,
+            898,
+            181,
+            916,
+            139,
+            915
+          ],
+          "spans": [
+            {
+              "offset": 365,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            217,
+            895,
+            270,
+            895,
+            270,
+            915,
+            217,
+            915
+          ],
+          "spans": [
+            {
+              "offset": 369,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Truck, Dump, 5 ton, 4x2, Mr. white Co.",
+          "polygon": [
+            390,
+            892,
+            883,
+            893,
+            883,
+            919,
+            390,
+            919
+          ],
+          "spans": [
+            {
+              "offset": 374,
+              "length": 38
+            }
+          ]
+        },
+        {
+          "content": "Ndl. \"C 22 FL, serial NO. 402556, Gas.",
+          "polygon": [
+            391,
+            919,
+            871,
+            921,
+            871,
+            945,
+            391,
+            943
+          ],
+          "spans": [
+            {
+              "offset": 413,
+              "length": 38
+            }
+          ]
+        },
+        {
+          "content": "engine driven, with hydraulic hoist",
+          "polygon": [
+            392,
+            945,
+            836,
+            945,
+            836,
+            969,
+            392,
+            968
+          ],
+          "spans": [
+            {
+              "offset": 452,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "steel body, Body made by The Perfection",
+          "polygon": [
+            395,
+            970,
+            886,
+            971,
+            885,
+            995,
+            395,
+            994
+          ],
+          "spans": [
+            {
+              "offset": 488,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "Body Co. Mdl. 254, serial NO. 135894.",
+          "polygon": [
+            393,
+            995,
+            858,
+            996,
+            858,
+            1020,
+            393,
+            1019
+          ],
+          "spans": [
+            {
+              "offset": 528,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "12200",
+          "polygon": [
+            944,
+            896,
+            1010,
+            896,
+            1010,
+            918,
+            944,
+            918
+          ],
+          "spans": [
+            {
+              "offset": 566,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "1950",
+          "polygon": [
+            1059,
+            897,
+            1112,
+            897,
+            1112,
+            919,
+            1059,
+            919
+          ],
+          "spans": [
+            {
+              "offset": 572,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "/// Say two unit only / / /",
+          "polygon": [
+            418,
+            1092,
+            788,
+            1092,
+            787,
+            1123,
+            418,
+            1123
+          ],
+          "spans": [
+            {
+              "offset": 577,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "14",
+          "polygon": [
+            36,
+            1682,
+            71,
+            1681,
+            72,
+            1713,
+            37,
+            1715
+          ],
+          "spans": [
+            {
+              "offset": 605,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            839,
+            1610,
+            1051,
+            1612,
+            1050,
+            1694,
+            838,
+            1689
+          ],
+          "spans": [
+            {
+              "offset": 608,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            816,
+            1696,
+            1049,
+            1696,
+            1049,
+            1723,
+            816,
+            1723
+          ],
+          "spans": [
+            {
+              "offset": 612,
+              "length": 18
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 630
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 3,
+      "columnCount": 4,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "tly & Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                131,
+                710,
+                332,
+                710,
+                332,
+                741,
+                131,
+                741
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 110,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                332,
+                710,
+                921,
+                710,
+                921,
+                742,
+                332,
+                741
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "t. (Lb. ) cu. ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                921,
+                710,
+                1145,
+                710,
+                1145,
+                742,
+                921,
+                742
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 133,
+              "length": 17
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "one unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                131,
+                741,
+                332,
+                741,
+                332,
+                880,
+                130,
+                880
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 151,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Truck, Dump, 5 ton, 4x2, white Co. fr., plidl. c 22 PL, serial NO. 401578, Gas. engine driven, with hydraulic hoist steel body, body made by The Perfection Body Co. Mdl. 254, serial NO. 135394,",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                332,
+                741,
+                921,
+                742,
+                921,
+                881,
+                332,
+                880
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 193
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "12200 1950",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                921,
+                742,
+                1145,
+                742,
+                1146,
+                882,
+                921,
+                881
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 354,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "One Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                130,
+                880,
+                332,
+                880,
+                332,
+                1029,
+                130,
+                1029
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 365,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "Truck, Dump, 5 ton, 4x2, Mr. white Co. Ndl. \"C 22 FL, serial NO. 402556, Gas. engine driven, with hydraulic hoist steel body, Body made by The Perfection Body Co. Mdl. 254, serial NO. 135894.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                332,
+                880,
+                921,
+                881,
+                921,
+                1033,
+                332,
+                1029
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 374,
+              "length": 191
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "12200",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                921,
+                881,
+                1035,
+                881,
+                1035,
+                1033,
+                921,
+                1033
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 566,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "1950",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1035,
+                881,
+                1146,
+                882,
+                1146,
+                1034,
+                1035,
+                1033
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 572,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            134,
+            716,
+            1145,
+            716,
+            1145,
+            1031,
+            135,
+            1031
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 110,
+          "length": 466
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            767,
+            440,
+            1022,
+            439,
+            1022,
+            464,
+            767,
+            465
+          ]
+        }
+      ],
+      "content": "Date: August 3, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 88
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            140,
+            514,
+            483,
+            513,
+            484,
+            638,
+            140,
+            639
+          ]
+        }
+      ],
+      "content": "shipment NO. 248-2 Ex. Howell Lykes Arr. July 20, 1962 Keelung F10/0-10218 P.O. #61-1.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 110,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            131,
+            710,
+            332,
+            710,
+            332,
+            741,
+            131,
+            741
+          ]
+        }
+      ],
+      "content": "tly & Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 121,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            332,
+            710,
+            921,
+            710,
+            921,
+            742,
+            332,
+            741
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 133,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            921,
+            710,
+            1145,
+            710,
+            1145,
+            742,
+            921,
+            742
+          ]
+        }
+      ],
+      "content": "t. (Lb. ) cu. ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 151,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            131,
+            741,
+            332,
+            741,
+            332,
+            880,
+            130,
+            880
+          ]
+        }
+      ],
+      "content": "one unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 160,
+          "length": 193
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            332,
+            741,
+            921,
+            742,
+            921,
+            881,
+            332,
+            880
+          ]
+        }
+      ],
+      "content": "Truck, Dump, 5 ton, 4x2, white Co. fr., plidl. c 22 PL, serial NO. 401578, Gas. engine driven, with hydraulic hoist steel body, body made by The Perfection Body Co. Mdl. 254, serial NO. 135394,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 354,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            921,
+            742,
+            1145,
+            742,
+            1146,
+            882,
+            921,
+            881
+          ]
+        }
+      ],
+      "content": "12200 1950"
+    },
+    {
+      "spans": [
+        {
+          "offset": 365,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            130,
+            880,
+            332,
+            880,
+            332,
+            1029,
+            130,
+            1029
+          ]
+        }
+      ],
+      "content": "One Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 374,
+          "length": 191
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            332,
+            880,
+            921,
+            881,
+            921,
+            1033,
+            332,
+            1029
+          ]
+        }
+      ],
+      "content": "Truck, Dump, 5 ton, 4x2, Mr. white Co. Ndl. \"C 22 FL, serial NO. 402556, Gas. engine driven, with hydraulic hoist steel body, Body made by The Perfection Body Co. Mdl. 254, serial NO. 135894."
+    },
+    {
+      "spans": [
+        {
+          "offset": 566,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            921,
+            881,
+            1035,
+            881,
+            1035,
+            1033,
+            921,
+            1033
+          ]
+        }
+      ],
+      "content": "12200"
+    },
+    {
+      "spans": [
+        {
+          "offset": 572,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1035,
+            881,
+            1146,
+            882,
+            1146,
+            1034,
+            1035,
+            1033
+          ]
+        }
+      ],
+      "content": "1950"
+    },
+    {
+      "spans": [
+        {
+          "offset": 577,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            418,
+            1092,
+            788,
+            1092,
+            787,
+            1123,
+            418,
+            1123
+          ]
+        }
+      ],
+      "content": "/// Say two unit only / / /"
+    },
+    {
+      "spans": [
+        {
+          "offset": 605,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            36,
+            1682,
+            71,
+            1681,
+            73,
+            1713,
+            37,
+            1715
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "14"
+    },
+    {
+      "spans": [
+        {
+          "offset": 608,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            816,
+            1610,
+            1051,
+            1612,
+            1050,
+            1725,
+            815,
+            1723
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 605,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 608,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 604
+        },
+        {
+          "offset": 608,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/12",
+        "/paragraphs/14"
+      ]
+    }
+  ]
+}

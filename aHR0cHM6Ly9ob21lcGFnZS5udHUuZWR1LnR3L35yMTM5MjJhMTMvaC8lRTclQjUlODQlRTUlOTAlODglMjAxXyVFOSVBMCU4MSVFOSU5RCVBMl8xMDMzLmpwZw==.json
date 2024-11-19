@@ -1,0 +1,855 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "四國太抄護台灣省衛生處\n034",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.9333090782165527,
+      "width": 1134,
+      "height": 1549,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "四",
+          "polygon": [
+            1029,
+            177,
+            1059,
+            178,
+            1059,
+            199,
+            1028,
+            198
+          ],
+          "confidence": 0.754,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            1028,
+            202,
+            1059,
+            203,
+            1059,
+            223,
+            1029,
+            222
+          ],
+          "confidence": 0.658,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "太",
+          "polygon": [
+            1029,
+            235,
+            1059,
+            236,
+            1059,
+            256,
+            1028,
+            255
+          ],
+          "confidence": 0.636,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "抄",
+          "polygon": [
+            1028,
+            263,
+            1059,
+            265,
+            1059,
+            284,
+            1028,
+            284
+          ],
+          "confidence": 0.954,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "護",
+          "polygon": [
+            1028,
+            292,
+            1059,
+            293,
+            1059,
+            313,
+            1027,
+            312
+          ],
+          "confidence": 0.741,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "台",
+          "polygon": [
+            1027,
+            321,
+            1059,
+            321,
+            1059,
+            341,
+            1027,
+            341
+          ],
+          "confidence": 0.755,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "灣",
+          "polygon": [
+            1027,
+            350,
+            1059,
+            350,
+            1058,
+            375,
+            1027,
+            375
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "省",
+          "polygon": [
+            1027,
+            381,
+            1058,
+            382,
+            1057,
+            402,
+            1027,
+            402
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "衛",
+          "polygon": [
+            1027,
+            410,
+            1057,
+            411,
+            1057,
+            431,
+            1026,
+            430
+          ],
+          "confidence": 0.755,
+          "span": {
+            "offset": 8,
+            "length": 1
+          }
+        },
+        {
+          "content": "生",
+          "polygon": [
+            1026,
+            439,
+            1057,
+            440,
+            1056,
+            459,
+            1025,
+            459
+          ],
+          "confidence": 0.881,
+          "span": {
+            "offset": 9,
+            "length": 1
+          }
+        },
+        {
+          "content": "處",
+          "polygon": [
+            1024,
+            472,
+            1056,
+            472,
+            1054,
+            505,
+            1023,
+            505
+          ],
+          "confidence": 0.771,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "034",
+          "polygon": [
+            65,
+            1477,
+            127,
+            1476,
+            127,
+            1502,
+            65,
+            1502
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 12,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "四國太抄護台灣省衛生處",
+          "polygon": [
+            1029,
+            177,
+            1060,
+            178,
+            1056,
+            505,
+            1024,
+            504
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "034",
+          "polygon": [
+            65,
+            1476,
+            126,
+            1476,
+            126,
+            1502,
+            65,
+            1502
+          ],
+          "spans": [
+            {
+              "offset": 12,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 2,
+      "columnCount": 10,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                181,
+                159,
+                274,
+                159,
+                274,
+                276,
+                180,
+                276
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                274,
+                159,
+                363,
+                159,
+                363,
+                278,
+                274,
+                276
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                363,
+                159,
+                454,
+                158,
+                454,
+                278,
+                363,
+                278
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                454,
+                158,
+                546,
+                158,
+                546,
+                276,
+                454,
+                278
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                546,
+                158,
+                636,
+                158,
+                636,
+                275,
+                546,
+                276
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                636,
+                158,
+                727,
+                157,
+                727,
+                275,
+                636,
+                275
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 6,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                727,
+                157,
+                817,
+                157,
+                817,
+                275,
+                727,
+                275
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 7,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                817,
+                157,
+                908,
+                157,
+                908,
+                275,
+                817,
+                275
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 8,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                908,
+                157,
+                998,
+                157,
+                998,
+                275,
+                908,
+                275
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 9,
+          "content": "四國太抄",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                998,
+                157,
+                1090,
+                155,
+                1090,
+                275,
+                998,
+                275
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/0"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                180,
+                276,
+                274,
+                276,
+                269,
+                1468,
+                176,
+                1467
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                274,
+                276,
+                363,
+                278,
+                357,
+                1469,
+                269,
+                1468
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                363,
+                278,
+                454,
+                278,
+                449,
+                1469,
+                357,
+                1469
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                454,
+                278,
+                546,
+                276,
+                540,
+                1468,
+                449,
+                1469
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                546,
+                276,
+                636,
+                275,
+                630,
+                1468,
+                540,
+                1468
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                636,
+                275,
+                727,
+                275,
+                722,
+                1467,
+                630,
+                1468
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 6,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                727,
+                275,
+                817,
+                275,
+                812,
+                1467,
+                722,
+                1467
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 7,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                817,
+                275,
+                908,
+                275,
+                903,
+                1467,
+                812,
+                1467
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 8,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                908,
+                275,
+                998,
+                275,
+                993,
+                1467,
+                903,
+                1467
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 9,
+          "content": "護台灣省衛生處",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                998,
+                275,
+                1090,
+                275,
+                1086,
+                1467,
+                993,
+                1467
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/1"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            174,
+            148,
+            1090,
+            146,
+            1096,
+            1472,
+            179,
+            1475
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            998,
+            157,
+            1090,
+            155,
+            1090,
+            275,
+            998,
+            275
+          ]
+        }
+      ],
+      "content": "四國太抄"
+    },
+    {
+      "spans": [
+        {
+          "offset": 4,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            998,
+            275,
+            1090,
+            275,
+            1086,
+            1467,
+            993,
+            1467
+          ]
+        }
+      ],
+      "content": "護台灣省衛生處"
+    },
+    {
+      "spans": [
+        {
+          "offset": 12,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            65,
+            1476,
+            126,
+            1476,
+            126,
+            1502,
+            65,
+            1502
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "034"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 12,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 11
+        }
+      ],
+      "elements": [
+        "/tables/0"
+      ]
+    }
+  ]
+}

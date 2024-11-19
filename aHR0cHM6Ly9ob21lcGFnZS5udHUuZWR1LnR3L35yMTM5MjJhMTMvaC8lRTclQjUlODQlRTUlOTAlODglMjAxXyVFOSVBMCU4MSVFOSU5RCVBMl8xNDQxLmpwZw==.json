@@ -1,0 +1,6914 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Shipment NO. 234 Ex. Alaska Mail Arr. June 11, 1962 Keelung PIO/G-00464 GSA Order 10UP-64/AID\nDate: June 20, 1962\nQtly & Unit\nDescription\nwt. (Lb.) Cu.ft.\none Unit\nCrane Shovel, Basic Unit, Crawler Mtd,, rated w/50 ft. boom at 12 ft. radius, 1-1/2 cu. yd. 25 ton, mtd. generator set, Mfg. Link Belt Spe- eder Co. Mdl K 360, serial NO.2421, Caterpillar Engine, Diesel, Model D 13000, ser. NO. 4S 1261 SP,\n82000\n2308.1\nWith the following attachments:\nBoom 50 ft. 1g. 2 section 1 ea.\n4975\n783.2\nBoom Extension 10 ft, Middle 1 ea.\n720\n133.8\nCable 1 box\n595\n29.2\nCable 1 box\n433\n26.3\none Unit\nCrane Shovel, Basic Unit, Crawler ltd., 25 ton, 1-1/2 cu.yd. Mfg. Link Belt Speeder Co. Mdl. K 360 Serial NO. 2407, Engine Make; Cater pillar Diesel, Mdl. D 13000, Serial NO. 257351, w/O Generator.\n87,580\n2567\nAttachments:\nBoom 50 ft. 2 section 1 ea.\n5815\n783.2\nBoom Extension, Middle, 10 ft.\n720\n133.8\nCable 1 box\n610\n29.2\nCable 1 box\n435\n26.3\n/ / / Say two items only / / /\n國史饭 Academia Historica\n203",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.005200000014156103,
+      "width": 1292,
+      "height": 1730,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Shipment",
+          "polygon": [
+            206,
+            415,
+            308,
+            415,
+            308,
+            439,
+            206,
+            439
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            319,
+            415,
+            362,
+            414,
+            362,
+            438,
+            320,
+            438
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 9,
+            "length": 3
+          }
+        },
+        {
+          "content": "234",
+          "polygon": [
+            370,
+            414,
+            411,
+            414,
+            411,
+            438,
+            371,
+            438
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 13,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ex.",
+          "polygon": [
+            207,
+            441,
+            248,
+            440,
+            249,
+            463,
+            207,
+            463
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 17,
+            "length": 3
+          }
+        },
+        {
+          "content": "Alaska",
+          "polygon": [
+            256,
+            440,
+            334,
+            440,
+            334,
+            462,
+            256,
+            462
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 21,
+            "length": 6
+          }
+        },
+        {
+          "content": "Mail",
+          "polygon": [
+            345,
+            439,
+            398,
+            439,
+            398,
+            461,
+            345,
+            461
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 28,
+            "length": 4
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            208,
+            466,
+            257,
+            465,
+            257,
+            488,
+            209,
+            488
+          ],
+          "confidence": 0.952,
+          "span": {
+            "offset": 33,
+            "length": 4
+          }
+        },
+        {
+          "content": "June",
+          "polygon": [
+            264,
+            465,
+            321,
+            464,
+            321,
+            488,
+            264,
+            488
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 38,
+            "length": 4
+          }
+        },
+        {
+          "content": "11,",
+          "polygon": [
+            333,
+            464,
+            377,
+            464,
+            377,
+            488,
+            333,
+            488
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 43,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            383,
+            464,
+            434,
+            464,
+            434,
+            488,
+            383,
+            488
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 47,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            459,
+            464,
+            550,
+            465,
+            550,
+            489,
+            459,
+            488
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 52,
+            "length": 7
+          }
+        },
+        {
+          "content": "PIO/G-00464",
+          "polygon": [
+            207,
+            490,
+            349,
+            489,
+            349,
+            513,
+            207,
+            513
+          ],
+          "confidence": 0.881,
+          "span": {
+            "offset": 60,
+            "length": 11
+          }
+        },
+        {
+          "content": "GSA",
+          "polygon": [
+            207,
+            516,
+            248,
+            515,
+            248,
+            538,
+            207,
+            538
+          ],
+          "confidence": 0.913,
+          "span": {
+            "offset": 72,
+            "length": 3
+          }
+        },
+        {
+          "content": "Order",
+          "polygon": [
+            256,
+            515,
+            321,
+            514,
+            321,
+            537,
+            256,
+            538
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 76,
+            "length": 5
+          }
+        },
+        {
+          "content": "10UP-64/AID",
+          "polygon": [
+            332,
+            514,
+            472,
+            513,
+            472,
+            537,
+            333,
+            537
+          ],
+          "confidence": 0.677,
+          "span": {
+            "offset": 82,
+            "length": 11
+          }
+        },
+        {
+          "content": "Date:",
+          "polygon": [
+            807,
+            389,
+            874,
+            389,
+            875,
+            414,
+            808,
+            413
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 94,
+            "length": 5
+          }
+        },
+        {
+          "content": "June",
+          "polygon": [
+            885,
+            389,
+            936,
+            388,
+            936,
+            413,
+            886,
+            414
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 100,
+            "length": 4
+          }
+        },
+        {
+          "content": "20,",
+          "polygon": [
+            948,
+            388,
+            985,
+            388,
+            986,
+            413,
+            948,
+            413
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 105,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            997,
+            388,
+            1050,
+            387,
+            1050,
+            412,
+            997,
+            413
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 109,
+            "length": 4
+          }
+        },
+        {
+          "content": "Qtly",
+          "polygon": [
+            207,
+            640,
+            262,
+            640,
+            262,
+            661,
+            207,
+            662
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 114,
+            "length": 4
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            270,
+            640,
+            284,
+            640,
+            284,
+            661,
+            270,
+            661
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 119,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            295,
+            640,
+            347,
+            639,
+            347,
+            661,
+            295,
+            661
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 121,
+            "length": 4
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            470,
+            640,
+            612,
+            640,
+            612,
+            660,
+            470,
+            660
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 126,
+            "length": 11
+          }
+        },
+        {
+          "content": "wt.",
+          "polygon": [
+            935,
+            639,
+            971,
+            639,
+            971,
+            661,
+            935,
+            661
+          ],
+          "confidence": 0.898,
+          "span": {
+            "offset": 138,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Lb.)",
+          "polygon": [
+            976,
+            639,
+            1034,
+            639,
+            1035,
+            661,
+            976,
+            661
+          ],
+          "confidence": 0.843,
+          "span": {
+            "offset": 142,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cu.ft.",
+          "polygon": [
+            1045,
+            639,
+            1124,
+            640,
+            1124,
+            661,
+            1045,
+            661
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 148,
+            "length": 6
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            207,
+            666,
+            247,
+            666,
+            247,
+            686,
+            208,
+            686
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 155,
+            "length": 3
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            271,
+            666,
+            324,
+            665,
+            324,
+            686,
+            271,
+            685
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 159,
+            "length": 4
+          }
+        },
+        {
+          "content": "Crane",
+          "polygon": [
+            470,
+            664,
+            538,
+            664,
+            538,
+            686,
+            470,
+            686
+          ],
+          "confidence": 0.936,
+          "span": {
+            "offset": 164,
+            "length": 5
+          }
+        },
+        {
+          "content": "Shovel,",
+          "polygon": [
+            546,
+            664,
+            633,
+            663,
+            633,
+            687,
+            547,
+            686
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 170,
+            "length": 7
+          }
+        },
+        {
+          "content": "Basic",
+          "polygon": [
+            647,
+            663,
+            712,
+            663,
+            712,
+            687,
+            648,
+            687
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 178,
+            "length": 5
+          }
+        },
+        {
+          "content": "Unit,",
+          "polygon": [
+            723,
+            663,
+            787,
+            663,
+            787,
+            687,
+            723,
+            687
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 184,
+            "length": 5
+          }
+        },
+        {
+          "content": "Crawler",
+          "polygon": [
+            797,
+            663,
+            889,
+            664,
+            889,
+            687,
+            797,
+            687
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 190,
+            "length": 7
+          }
+        },
+        {
+          "content": "Mtd,,",
+          "polygon": [
+            469,
+            688,
+            533,
+            688,
+            533,
+            712,
+            469,
+            712
+          ],
+          "confidence": 0.942,
+          "span": {
+            "offset": 198,
+            "length": 5
+          }
+        },
+        {
+          "content": "rated",
+          "polygon": [
+            548,
+            688,
+            611,
+            688,
+            611,
+            712,
+            548,
+            712
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 204,
+            "length": 5
+          }
+        },
+        {
+          "content": "w/50",
+          "polygon": [
+            622,
+            688,
+            678,
+            688,
+            678,
+            712,
+            622,
+            712
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 210,
+            "length": 4
+          }
+        },
+        {
+          "content": "ft.",
+          "polygon": [
+            685,
+            688,
+            722,
+            688,
+            722,
+            712,
+            685,
+            712
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 215,
+            "length": 3
+          }
+        },
+        {
+          "content": "boom",
+          "polygon": [
+            734,
+            688,
+            793,
+            688,
+            793,
+            711,
+            735,
+            712
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 219,
+            "length": 4
+          }
+        },
+        {
+          "content": "at",
+          "polygon": [
+            799,
+            688,
+            823,
+            688,
+            823,
+            711,
+            800,
+            711
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 224,
+            "length": 2
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            836,
+            688,
+            861,
+            688,
+            861,
+            711,
+            836,
+            711
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 227,
+            "length": 2
+          }
+        },
+        {
+          "content": "ft.",
+          "polygon": [
+            873,
+            688,
+            910,
+            688,
+            910,
+            711,
+            874,
+            711
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 230,
+            "length": 3
+          }
+        },
+        {
+          "content": "radius,",
+          "polygon": [
+            470,
+            713,
+            563,
+            713,
+            563,
+            737,
+            471,
+            736
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 234,
+            "length": 7
+          }
+        },
+        {
+          "content": "1-1/2",
+          "polygon": [
+            572,
+            713,
+            636,
+            713,
+            636,
+            737,
+            572,
+            737
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 242,
+            "length": 5
+          }
+        },
+        {
+          "content": "cu.",
+          "polygon": [
+            649,
+            713,
+            684,
+            713,
+            685,
+            737,
+            650,
+            737
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 248,
+            "length": 3
+          }
+        },
+        {
+          "content": "yd.",
+          "polygon": [
+            691,
+            713,
+            734,
+            713,
+            734,
+            737,
+            691,
+            737
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 252,
+            "length": 3
+          }
+        },
+        {
+          "content": "25",
+          "polygon": [
+            748,
+            713,
+            774,
+            713,
+            774,
+            737,
+            748,
+            737
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 256,
+            "length": 2
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            786,
+            713,
+            835,
+            713,
+            835,
+            737,
+            786,
+            737
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 259,
+            "length": 4
+          }
+        },
+        {
+          "content": "mtd.",
+          "polygon": [
+            847,
+            713,
+            897,
+            713,
+            897,
+            736,
+            847,
+            736
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 264,
+            "length": 4
+          }
+        },
+        {
+          "content": "generator",
+          "polygon": [
+            471,
+            739,
+            584,
+            738,
+            585,
+            762,
+            471,
+            762
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 269,
+            "length": 9
+          }
+        },
+        {
+          "content": "set,",
+          "polygon": [
+            599,
+            738,
+            649,
+            738,
+            649,
+            762,
+            599,
+            762
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 279,
+            "length": 4
+          }
+        },
+        {
+          "content": "Mfg.",
+          "polygon": [
+            659,
+            738,
+            710,
+            737,
+            710,
+            761,
+            659,
+            761
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 284,
+            "length": 4
+          }
+        },
+        {
+          "content": "Link",
+          "polygon": [
+            722,
+            737,
+            781,
+            737,
+            782,
+            761,
+            722,
+            761
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 289,
+            "length": 4
+          }
+        },
+        {
+          "content": "Belt",
+          "polygon": [
+            786,
+            737,
+            837,
+            737,
+            837,
+            761,
+            786,
+            761
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 294,
+            "length": 4
+          }
+        },
+        {
+          "content": "Spe-",
+          "polygon": [
+            849,
+            738,
+            902,
+            737,
+            902,
+            760,
+            849,
+            761
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 299,
+            "length": 4
+          }
+        },
+        {
+          "content": "eder",
+          "polygon": [
+            472,
+            763,
+            524,
+            762,
+            524,
+            786,
+            473,
+            786
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 304,
+            "length": 4
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            536,
+            762,
+            571,
+            762,
+            571,
+            786,
+            536,
+            786
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 309,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mdl",
+          "polygon": [
+            584,
+            762,
+            625,
+            762,
+            625,
+            786,
+            584,
+            786
+          ],
+          "confidence": 0.883,
+          "span": {
+            "offset": 313,
+            "length": 3
+          }
+        },
+        {
+          "content": "K",
+          "polygon": [
+            632,
+            762,
+            651,
+            762,
+            652,
+            786,
+            632,
+            786
+          ],
+          "confidence": 0.724,
+          "span": {
+            "offset": 317,
+            "length": 1
+          }
+        },
+        {
+          "content": "360,",
+          "polygon": [
+            659,
+            762,
+            713,
+            762,
+            713,
+            786,
+            660,
+            786
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 319,
+            "length": 4
+          }
+        },
+        {
+          "content": "serial",
+          "polygon": [
+            725,
+            762,
+            799,
+            762,
+            799,
+            786,
+            726,
+            786
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 324,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.2421,",
+          "polygon": [
+            809,
+            762,
+            911,
+            762,
+            911,
+            786,
+            810,
+            786
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 331,
+            "length": 8
+          }
+        },
+        {
+          "content": "Caterpillar",
+          "polygon": [
+            471,
+            788,
+            615,
+            787,
+            615,
+            811,
+            471,
+            811
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 340,
+            "length": 11
+          }
+        },
+        {
+          "content": "Engine,",
+          "polygon": [
+            623,
+            787,
+            708,
+            788,
+            709,
+            811,
+            624,
+            811
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 352,
+            "length": 7
+          }
+        },
+        {
+          "content": "Diesel,",
+          "polygon": [
+            723,
+            787,
+            810,
+            787,
+            811,
+            811,
+            723,
+            811
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 360,
+            "length": 7
+          }
+        },
+        {
+          "content": "Model",
+          "polygon": [
+            816,
+            787,
+            888,
+            788,
+            888,
+            810,
+            816,
+            811
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 368,
+            "length": 5
+          }
+        },
+        {
+          "content": "D",
+          "polygon": [
+            470,
+            812,
+            486,
+            812,
+            486,
+            836,
+            470,
+            835
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 374,
+            "length": 1
+          }
+        },
+        {
+          "content": "13000,",
+          "polygon": [
+            496,
+            812,
+            570,
+            812,
+            571,
+            836,
+            496,
+            836
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 376,
+            "length": 6
+          }
+        },
+        {
+          "content": "ser.",
+          "polygon": [
+            588,
+            812,
+            639,
+            812,
+            639,
+            836,
+            588,
+            836
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 383,
+            "length": 4
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            646,
+            812,
+            692,
+            812,
+            692,
+            836,
+            646,
+            836
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 388,
+            "length": 3
+          }
+        },
+        {
+          "content": "4S",
+          "polygon": [
+            698,
+            812,
+            722,
+            812,
+            722,
+            836,
+            698,
+            836
+          ],
+          "confidence": 0.273,
+          "span": {
+            "offset": 392,
+            "length": 2
+          }
+        },
+        {
+          "content": "1261",
+          "polygon": [
+            735,
+            812,
+            787,
+            812,
+            787,
+            836,
+            736,
+            836
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 395,
+            "length": 4
+          }
+        },
+        {
+          "content": "SP,",
+          "polygon": [
+            799,
+            812,
+            836,
+            812,
+            836,
+            836,
+            799,
+            836
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 400,
+            "length": 3
+          }
+        },
+        {
+          "content": "82000",
+          "polygon": [
+            937,
+            665,
+            1002,
+            665,
+            1002,
+            685,
+            937,
+            685
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 404,
+            "length": 5
+          }
+        },
+        {
+          "content": "2308.1",
+          "polygon": [
+            1048,
+            665,
+            1127,
+            665,
+            1127,
+            686,
+            1048,
+            687
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 410,
+            "length": 6
+          }
+        },
+        {
+          "content": "With",
+          "polygon": [
+            473,
+            837,
+            524,
+            837,
+            524,
+            860,
+            473,
+            860
+          ],
+          "confidence": 0.352,
+          "span": {
+            "offset": 417,
+            "length": 4
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            535,
+            837,
+            575,
+            837,
+            576,
+            860,
+            536,
+            860
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 422,
+            "length": 3
+          }
+        },
+        {
+          "content": "following",
+          "polygon": [
+            585,
+            837,
+            700,
+            837,
+            700,
+            861,
+            585,
+            860
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 426,
+            "length": 9
+          }
+        },
+        {
+          "content": "attachments:",
+          "polygon": [
+            711,
+            837,
+            860,
+            838,
+            860,
+            860,
+            712,
+            861
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 436,
+            "length": 12
+          }
+        },
+        {
+          "content": "Boom",
+          "polygon": [
+            471,
+            862,
+            525,
+            861,
+            525,
+            884,
+            471,
+            884
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 449,
+            "length": 4
+          }
+        },
+        {
+          "content": "50",
+          "polygon": [
+            537,
+            861,
+            566,
+            861,
+            566,
+            884,
+            537,
+            884
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 454,
+            "length": 2
+          }
+        },
+        {
+          "content": "ft.",
+          "polygon": [
+            573,
+            861,
+            616,
+            861,
+            616,
+            885,
+            573,
+            884
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 457,
+            "length": 3
+          }
+        },
+        {
+          "content": "1g.",
+          "polygon": [
+            623,
+            861,
+            657,
+            862,
+            658,
+            885,
+            623,
+            885
+          ],
+          "confidence": 0.721,
+          "span": {
+            "offset": 461,
+            "length": 3
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            664,
+            862,
+            692,
+            862,
+            692,
+            885,
+            664,
+            885
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 465,
+            "length": 1
+          }
+        },
+        {
+          "content": "section",
+          "polygon": [
+            701,
+            862,
+            787,
+            862,
+            787,
+            885,
+            701,
+            885
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 467,
+            "length": 7
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            798,
+            862,
+            812,
+            862,
+            812,
+            885,
+            798,
+            885
+          ],
+          "confidence": 0.475,
+          "span": {
+            "offset": 475,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            825,
+            862,
+            860,
+            863,
+            860,
+            885,
+            825,
+            885
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 477,
+            "length": 3
+          }
+        },
+        {
+          "content": "4975",
+          "polygon": [
+            937,
+            862,
+            988,
+            861,
+            988,
+            885,
+            937,
+            885
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 481,
+            "length": 4
+          }
+        },
+        {
+          "content": "783.2",
+          "polygon": [
+            1050,
+            862,
+            1114,
+            862,
+            1114,
+            884,
+            1050,
+            884
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 486,
+            "length": 5
+          }
+        },
+        {
+          "content": "Boom",
+          "polygon": [
+            471,
+            887,
+            524,
+            887,
+            524,
+            909,
+            471,
+            909
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 492,
+            "length": 4
+          }
+        },
+        {
+          "content": "Extension",
+          "polygon": [
+            537,
+            886,
+            645,
+            886,
+            645,
+            910,
+            537,
+            909
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 497,
+            "length": 9
+          }
+        },
+        {
+          "content": "10",
+          "polygon": [
+            661,
+            886,
+            686,
+            886,
+            686,
+            910,
+            662,
+            910
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 507,
+            "length": 2
+          }
+        },
+        {
+          "content": "ft,",
+          "polygon": [
+            698,
+            886,
+            734,
+            886,
+            734,
+            910,
+            698,
+            910
+          ],
+          "confidence": 0.877,
+          "span": {
+            "offset": 510,
+            "length": 3
+          }
+        },
+        {
+          "content": "Middle",
+          "polygon": [
+            739,
+            886,
+            825,
+            886,
+            825,
+            910,
+            739,
+            910
+          ],
+          "confidence": 0.615,
+          "span": {
+            "offset": 514,
+            "length": 6
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            836,
+            886,
+            851,
+            887,
+            851,
+            909,
+            836,
+            910
+          ],
+          "confidence": 0.208,
+          "span": {
+            "offset": 521,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            860,
+            887,
+            898,
+            887,
+            898,
+            909,
+            860,
+            909
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 523,
+            "length": 3
+          }
+        },
+        {
+          "content": "720",
+          "polygon": [
+            938,
+            887,
+            977,
+            887,
+            977,
+            908,
+            938,
+            908
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 527,
+            "length": 3
+          }
+        },
+        {
+          "content": "133.8",
+          "polygon": [
+            1048,
+            887,
+            1115,
+            887,
+            1115,
+            909,
+            1048,
+            909
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 531,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cable",
+          "polygon": [
+            472,
+            912,
+            538,
+            912,
+            538,
+            934,
+            472,
+            934
+          ],
+          "confidence": 0.905,
+          "span": {
+            "offset": 537,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            548,
+            912,
+            562,
+            912,
+            562,
+            934,
+            548,
+            934
+          ],
+          "confidence": 0.646,
+          "span": {
+            "offset": 543,
+            "length": 1
+          }
+        },
+        {
+          "content": "box",
+          "polygon": [
+            572,
+            912,
+            614,
+            912,
+            614,
+            934,
+            572,
+            934
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 545,
+            "length": 3
+          }
+        },
+        {
+          "content": "595",
+          "polygon": [
+            937,
+            912,
+            976,
+            912,
+            976,
+            934,
+            937,
+            934
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 549,
+            "length": 3
+          }
+        },
+        {
+          "content": "29.2",
+          "polygon": [
+            1049,
+            912,
+            1102,
+            912,
+            1102,
+            933,
+            1049,
+            934
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 553,
+            "length": 4
+          }
+        },
+        {
+          "content": "Cable",
+          "polygon": [
+            472,
+            936,
+            536,
+            936,
+            536,
+            958,
+            472,
+            958
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 558,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            547,
+            936,
+            560,
+            936,
+            560,
+            958,
+            547,
+            958
+          ],
+          "confidence": 0.676,
+          "span": {
+            "offset": 564,
+            "length": 1
+          }
+        },
+        {
+          "content": "box",
+          "polygon": [
+            572,
+            936,
+            614,
+            936,
+            614,
+            958,
+            572,
+            958
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 566,
+            "length": 3
+          }
+        },
+        {
+          "content": "433",
+          "polygon": [
+            936,
+            937,
+            975,
+            937,
+            975,
+            958,
+            936,
+            958
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 570,
+            "length": 3
+          }
+        },
+        {
+          "content": "26.3",
+          "polygon": [
+            1049,
+            935,
+            1102,
+            936,
+            1102,
+            959,
+            1049,
+            958
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 574,
+            "length": 4
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            208,
+            988,
+            248,
+            988,
+            248,
+            1006,
+            208,
+            1006
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 579,
+            "length": 3
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            283,
+            986,
+            336,
+            986,
+            336,
+            1006,
+            284,
+            1006
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 583,
+            "length": 4
+          }
+        },
+        {
+          "content": "Crane",
+          "polygon": [
+            471,
+            986,
+            536,
+            986,
+            536,
+            1008,
+            471,
+            1008
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 588,
+            "length": 5
+          }
+        },
+        {
+          "content": "Shovel,",
+          "polygon": [
+            549,
+            986,
+            634,
+            985,
+            634,
+            1009,
+            549,
+            1009
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 594,
+            "length": 7
+          }
+        },
+        {
+          "content": "Basic",
+          "polygon": [
+            648,
+            985,
+            712,
+            986,
+            712,
+            1009,
+            648,
+            1009
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 602,
+            "length": 5
+          }
+        },
+        {
+          "content": "Unit,",
+          "polygon": [
+            720,
+            986,
+            785,
+            985,
+            785,
+            1009,
+            720,
+            1009
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 608,
+            "length": 5
+          }
+        },
+        {
+          "content": "Crawler",
+          "polygon": [
+            798,
+            985,
+            890,
+            986,
+            890,
+            1009,
+            798,
+            1009
+          ],
+          "confidence": 0.825,
+          "span": {
+            "offset": 614,
+            "length": 7
+          }
+        },
+        {
+          "content": "ltd.,",
+          "polygon": [
+            471,
+            1010,
+            534,
+            1009,
+            534,
+            1033,
+            471,
+            1033
+          ],
+          "confidence": 0.634,
+          "span": {
+            "offset": 622,
+            "length": 5
+          }
+        },
+        {
+          "content": "25",
+          "polygon": [
+            548,
+            1009,
+            573,
+            1009,
+            573,
+            1033,
+            548,
+            1033
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 628,
+            "length": 2
+          }
+        },
+        {
+          "content": "ton,",
+          "polygon": [
+            585,
+            1010,
+            633,
+            1010,
+            633,
+            1033,
+            585,
+            1034
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 631,
+            "length": 4
+          }
+        },
+        {
+          "content": "1-1/2",
+          "polygon": [
+            648,
+            1010,
+            712,
+            1010,
+            712,
+            1034,
+            648,
+            1034
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 636,
+            "length": 5
+          }
+        },
+        {
+          "content": "cu.yd.",
+          "polygon": [
+            725,
+            1010,
+            797,
+            1010,
+            797,
+            1034,
+            725,
+            1034
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 642,
+            "length": 6
+          }
+        },
+        {
+          "content": "Mfg.",
+          "polygon": [
+            810,
+            1011,
+            861,
+            1011,
+            861,
+            1034,
+            810,
+            1034
+          ],
+          "confidence": 0.879,
+          "span": {
+            "offset": 649,
+            "length": 4
+          }
+        },
+        {
+          "content": "Link",
+          "polygon": [
+            471,
+            1035,
+            524,
+            1034,
+            524,
+            1058,
+            472,
+            1058
+          ],
+          "confidence": 0.919,
+          "span": {
+            "offset": 654,
+            "length": 4
+          }
+        },
+        {
+          "content": "Belt",
+          "polygon": [
+            535,
+            1034,
+            585,
+            1034,
+            585,
+            1058,
+            535,
+            1058
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 659,
+            "length": 4
+          }
+        },
+        {
+          "content": "Speeder",
+          "polygon": [
+            598,
+            1035,
+            687,
+            1035,
+            688,
+            1058,
+            598,
+            1058
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 664,
+            "length": 7
+          }
+        },
+        {
+          "content": "Co.",
+          "polygon": [
+            698,
+            1035,
+            733,
+            1035,
+            733,
+            1058,
+            698,
+            1058
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 672,
+            "length": 3
+          }
+        },
+        {
+          "content": "Mdl.",
+          "polygon": [
+            748,
+            1035,
+            802,
+            1035,
+            802,
+            1058,
+            748,
+            1058
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 676,
+            "length": 4
+          }
+        },
+        {
+          "content": "K",
+          "polygon": [
+            811,
+            1035,
+            825,
+            1035,
+            825,
+            1058,
+            811,
+            1058
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 681,
+            "length": 1
+          }
+        },
+        {
+          "content": "360",
+          "polygon": [
+            834,
+            1035,
+            877,
+            1035,
+            877,
+            1058,
+            834,
+            1058
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 683,
+            "length": 3
+          }
+        },
+        {
+          "content": "Serial",
+          "polygon": [
+            472,
+            1060,
+            549,
+            1060,
+            549,
+            1083,
+            472,
+            1083
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 687,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            559,
+            1060,
+            595,
+            1060,
+            595,
+            1083,
+            559,
+            1083
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 694,
+            "length": 3
+          }
+        },
+        {
+          "content": "2407,",
+          "polygon": [
+            611,
+            1059,
+            675,
+            1060,
+            675,
+            1084,
+            611,
+            1083
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 698,
+            "length": 5
+          }
+        },
+        {
+          "content": "Engine",
+          "polygon": [
+            687,
+            1060,
+            763,
+            1060,
+            763,
+            1084,
+            687,
+            1084
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 704,
+            "length": 6
+          }
+        },
+        {
+          "content": "Make;",
+          "polygon": [
+            773,
+            1060,
+            835,
+            1061,
+            835,
+            1084,
+            773,
+            1084
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 711,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cater",
+          "polygon": [
+            848,
+            1061,
+            915,
+            1061,
+            915,
+            1084,
+            848,
+            1084
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 717,
+            "length": 5
+          }
+        },
+        {
+          "content": "pillar",
+          "polygon": [
+            471,
+            1085,
+            550,
+            1084,
+            550,
+            1108,
+            471,
+            1108
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 723,
+            "length": 6
+          }
+        },
+        {
+          "content": "Diesel,",
+          "polygon": [
+            562,
+            1084,
+            646,
+            1084,
+            646,
+            1108,
+            562,
+            1108
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 730,
+            "length": 7
+          }
+        },
+        {
+          "content": "Mdl.",
+          "polygon": [
+            660,
+            1084,
+            716,
+            1084,
+            716,
+            1108,
+            660,
+            1108
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 738,
+            "length": 4
+          }
+        },
+        {
+          "content": "D",
+          "polygon": [
+            724,
+            1084,
+            737,
+            1084,
+            737,
+            1109,
+            724,
+            1108
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 743,
+            "length": 1
+          }
+        },
+        {
+          "content": "13000,",
+          "polygon": [
+            748,
+            1084,
+            830,
+            1085,
+            830,
+            1108,
+            748,
+            1109
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 745,
+            "length": 6
+          }
+        },
+        {
+          "content": "Serial",
+          "polygon": [
+            836,
+            1085,
+            914,
+            1085,
+            914,
+            1108,
+            836,
+            1108
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 752,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            471,
+            1109,
+            512,
+            1109,
+            512,
+            1133,
+            471,
+            1133
+          ],
+          "confidence": 0.909,
+          "span": {
+            "offset": 759,
+            "length": 3
+          }
+        },
+        {
+          "content": "257351,",
+          "polygon": [
+            523,
+            1109,
+            609,
+            1109,
+            609,
+            1133,
+            523,
+            1133
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 763,
+            "length": 7
+          }
+        },
+        {
+          "content": "w/O",
+          "polygon": [
+            621,
+            1110,
+            661,
+            1110,
+            661,
+            1133,
+            621,
+            1133
+          ],
+          "confidence": 0.653,
+          "span": {
+            "offset": 771,
+            "length": 3
+          }
+        },
+        {
+          "content": "Generator.",
+          "polygon": [
+            674,
+            1110,
+            798,
+            1111,
+            798,
+            1133,
+            674,
+            1133
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 775,
+            "length": 10
+          }
+        },
+        {
+          "content": "87,580",
+          "polygon": [
+            938,
+            987,
+            1014,
+            986,
+            1014,
+            1009,
+            938,
+            1010
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 786,
+            "length": 6
+          }
+        },
+        {
+          "content": "2567",
+          "polygon": [
+            1048,
+            986,
+            1103,
+            986,
+            1102,
+            1010,
+            1048,
+            1009
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 793,
+            "length": 4
+          }
+        },
+        {
+          "content": "Attachments:",
+          "polygon": [
+            473,
+            1135,
+            622,
+            1136,
+            622,
+            1156,
+            473,
+            1156
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 798,
+            "length": 12
+          }
+        },
+        {
+          "content": "Boom",
+          "polygon": [
+            471,
+            1159,
+            525,
+            1159,
+            525,
+            1182,
+            471,
+            1182
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 811,
+            "length": 4
+          }
+        },
+        {
+          "content": "50",
+          "polygon": [
+            536,
+            1159,
+            562,
+            1159,
+            562,
+            1182,
+            536,
+            1182
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 816,
+            "length": 2
+          }
+        },
+        {
+          "content": "ft.",
+          "polygon": [
+            573,
+            1159,
+            610,
+            1159,
+            610,
+            1182,
+            573,
+            1182
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 819,
+            "length": 3
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            623,
+            1159,
+            635,
+            1159,
+            635,
+            1182,
+            622,
+            1182
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 823,
+            "length": 1
+          }
+        },
+        {
+          "content": "section",
+          "polygon": [
+            646,
+            1159,
+            738,
+            1160,
+            738,
+            1182,
+            646,
+            1182
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 825,
+            "length": 7
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            749,
+            1160,
+            763,
+            1160,
+            763,
+            1182,
+            749,
+            1182
+          ],
+          "confidence": 0.591,
+          "span": {
+            "offset": 833,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            774,
+            1160,
+            811,
+            1160,
+            811,
+            1182,
+            774,
+            1182
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 835,
+            "length": 3
+          }
+        },
+        {
+          "content": "5815",
+          "polygon": [
+            938,
+            1160,
+            989,
+            1160,
+            989,
+            1182,
+            938,
+            1182
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 839,
+            "length": 4
+          }
+        },
+        {
+          "content": "783.2",
+          "polygon": [
+            1050,
+            1160,
+            1114,
+            1160,
+            1114,
+            1183,
+            1050,
+            1183
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 844,
+            "length": 5
+          }
+        },
+        {
+          "content": "Boom",
+          "polygon": [
+            472,
+            1184,
+            525,
+            1184,
+            525,
+            1207,
+            472,
+            1207
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 850,
+            "length": 4
+          }
+        },
+        {
+          "content": "Extension,",
+          "polygon": [
+            537,
+            1184,
+            660,
+            1184,
+            660,
+            1208,
+            537,
+            1207
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 855,
+            "length": 10
+          }
+        },
+        {
+          "content": "Middle,",
+          "polygon": [
+            672,
+            1184,
+            764,
+            1184,
+            764,
+            1208,
+            672,
+            1208
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 866,
+            "length": 7
+          }
+        },
+        {
+          "content": "10",
+          "polygon": [
+            773,
+            1184,
+            800,
+            1184,
+            800,
+            1208,
+            773,
+            1208
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 874,
+            "length": 2
+          }
+        },
+        {
+          "content": "ft.",
+          "polygon": [
+            811,
+            1184,
+            847,
+            1184,
+            847,
+            1208,
+            812,
+            1208
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 877,
+            "length": 3
+          }
+        },
+        {
+          "content": "720",
+          "polygon": [
+            938,
+            1185,
+            977,
+            1185,
+            977,
+            1205,
+            938,
+            1206
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 881,
+            "length": 3
+          }
+        },
+        {
+          "content": "133.8",
+          "polygon": [
+            1049,
+            1186,
+            1115,
+            1185,
+            1115,
+            1207,
+            1049,
+            1208
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 885,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cable",
+          "polygon": [
+            471,
+            1209,
+            535,
+            1209,
+            535,
+            1231,
+            471,
+            1231
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 891,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            548,
+            1209,
+            561,
+            1209,
+            561,
+            1231,
+            548,
+            1231
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 897,
+            "length": 1
+          }
+        },
+        {
+          "content": "box",
+          "polygon": [
+            573,
+            1210,
+            615,
+            1210,
+            615,
+            1231,
+            573,
+            1231
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 899,
+            "length": 3
+          }
+        },
+        {
+          "content": "610",
+          "polygon": [
+            937,
+            1209,
+            977,
+            1209,
+            977,
+            1230,
+            937,
+            1230
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 903,
+            "length": 3
+          }
+        },
+        {
+          "content": "29.2",
+          "polygon": [
+            1049,
+            1210,
+            1102,
+            1210,
+            1102,
+            1231,
+            1049,
+            1231
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 907,
+            "length": 4
+          }
+        },
+        {
+          "content": "Cable",
+          "polygon": [
+            471,
+            1234,
+            537,
+            1234,
+            537,
+            1256,
+            472,
+            1256
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 912,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            548,
+            1234,
+            562,
+            1234,
+            562,
+            1256,
+            548,
+            1256
+          ],
+          "confidence": 0.637,
+          "span": {
+            "offset": 918,
+            "length": 1
+          }
+        },
+        {
+          "content": "box",
+          "polygon": [
+            567,
+            1234,
+            614,
+            1234,
+            614,
+            1256,
+            567,
+            1256
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 920,
+            "length": 3
+          }
+        },
+        {
+          "content": "435",
+          "polygon": [
+            937,
+            1234,
+            976,
+            1234,
+            976,
+            1257,
+            937,
+            1257
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 924,
+            "length": 3
+          }
+        },
+        {
+          "content": "26.3",
+          "polygon": [
+            1049,
+            1234,
+            1101,
+            1234,
+            1101,
+            1257,
+            1049,
+            1256
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 928,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            483,
+            1279,
+            502,
+            1279,
+            501,
+            1309,
+            483,
+            1309
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 933,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            511,
+            1279,
+            528,
+            1279,
+            527,
+            1309,
+            511,
+            1309
+          ],
+          "confidence": 0.933,
+          "span": {
+            "offset": 935,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            536,
+            1279,
+            551,
+            1280,
+            551,
+            1309,
+            536,
+            1309
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 937,
+            "length": 1
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            561,
+            1280,
+            600,
+            1280,
+            600,
+            1309,
+            561,
+            1309
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 939,
+            "length": 3
+          }
+        },
+        {
+          "content": "two",
+          "polygon": [
+            608,
+            1280,
+            649,
+            1281,
+            649,
+            1308,
+            608,
+            1309
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 943,
+            "length": 3
+          }
+        },
+        {
+          "content": "items",
+          "polygon": [
+            660,
+            1281,
+            725,
+            1281,
+            725,
+            1309,
+            660,
+            1308
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 947,
+            "length": 5
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            734,
+            1281,
+            788,
+            1280,
+            788,
+            1309,
+            734,
+            1309
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 953,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            798,
+            1280,
+            815,
+            1280,
+            815,
+            1309,
+            798,
+            1309
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 958,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            824,
+            1280,
+            839,
+            1280,
+            840,
+            1309,
+            824,
+            1309
+          ],
+          "confidence": 0.941,
+          "span": {
+            "offset": 960,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            848,
+            1280,
+            866,
+            1280,
+            866,
+            1309,
+            848,
+            1309
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 962,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            903,
+            1563,
+            962,
+            1564,
+            963,
+            1641,
+            905,
+            1642
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 964,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            963,
+            1564,
+            1018,
+            1564,
+            1018,
+            1643,
+            964,
+            1641
+          ],
+          "confidence": 0.848,
+          "span": {
+            "offset": 965,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            1026,
+            1563,
+            1112,
+            1564,
+            1112,
+            1645,
+            1026,
+            1643
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 966,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            879,
+            1645,
+            995,
+            1647,
+            995,
+            1673,
+            879,
+            1671
+          ],
+          "confidence": 0.714,
+          "span": {
+            "offset": 968,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1002,
+            1647,
+            1109,
+            1649,
+            1109,
+            1674,
+            1002,
+            1673
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 977,
+            "length": 9
+          }
+        },
+        {
+          "content": "203",
+          "polygon": [
+            26,
+            1664,
+            93,
+            1664,
+            93,
+            1703,
+            26,
+            1702
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 987,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Shipment NO. 234",
+          "polygon": [
+            206,
+            415,
+            410,
+            414,
+            410,
+            438,
+            206,
+            439
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Ex. Alaska Mail",
+          "polygon": [
+            207,
+            440,
+            397,
+            439,
+            398,
+            461,
+            207,
+            463
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Arr. June 11, 1962 Keelung",
+          "polygon": [
+            208,
+            463,
+            549,
+            464,
+            549,
+            488,
+            208,
+            488
+          ],
+          "spans": [
+            {
+              "offset": 33,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "PIO/G-00464",
+          "polygon": [
+            207,
+            490,
+            348,
+            489,
+            348,
+            512,
+            207,
+            513
+          ],
+          "spans": [
+            {
+              "offset": 60,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "GSA Order 10UP-64/AID",
+          "polygon": [
+            207,
+            514,
+            472,
+            513,
+            472,
+            537,
+            207,
+            538
+          ],
+          "spans": [
+            {
+              "offset": 72,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "content": "Date: June 20, 1962",
+          "polygon": [
+            807,
+            389,
+            1049,
+            387,
+            1049,
+            412,
+            808,
+            414
+          ],
+          "spans": [
+            {
+              "offset": 94,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "Qtly & Unit",
+          "polygon": [
+            207,
+            640,
+            346,
+            639,
+            347,
+            660,
+            207,
+            661
+          ],
+          "spans": [
+            {
+              "offset": 114,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            470,
+            640,
+            612,
+            639,
+            612,
+            660,
+            470,
+            660
+          ],
+          "spans": [
+            {
+              "offset": 126,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "wt. (Lb.) Cu.ft.",
+          "polygon": [
+            935,
+            639,
+            1123,
+            639,
+            1123,
+            661,
+            935,
+            661
+          ],
+          "spans": [
+            {
+              "offset": 138,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "one Unit",
+          "polygon": [
+            207,
+            665,
+            323,
+            665,
+            323,
+            686,
+            207,
+            686
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Crane Shovel, Basic Unit, Crawler",
+          "polygon": [
+            470,
+            663,
+            888,
+            663,
+            888,
+            687,
+            470,
+            687
+          ],
+          "spans": [
+            {
+              "offset": 164,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "Mtd,, rated w/50 ft. boom at 12 ft.",
+          "polygon": [
+            469,
+            688,
+            909,
+            687,
+            909,
+            711,
+            469,
+            712
+          ],
+          "spans": [
+            {
+              "offset": 198,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "radius, 1-1/2 cu. yd. 25 ton, mtd.",
+          "polygon": [
+            470,
+            713,
+            897,
+            712,
+            897,
+            736,
+            470,
+            737
+          ],
+          "spans": [
+            {
+              "offset": 234,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "generator set, Mfg. Link Belt Spe-",
+          "polygon": [
+            471,
+            738,
+            902,
+            737,
+            902,
+            760,
+            471,
+            762
+          ],
+          "spans": [
+            {
+              "offset": 269,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "eder Co. Mdl K 360, serial NO.2421,",
+          "polygon": [
+            472,
+            762,
+            910,
+            762,
+            910,
+            786,
+            472,
+            786
+          ],
+          "spans": [
+            {
+              "offset": 304,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "Caterpillar Engine, Diesel, Model",
+          "polygon": [
+            471,
+            787,
+            888,
+            787,
+            888,
+            811,
+            471,
+            811
+          ],
+          "spans": [
+            {
+              "offset": 340,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "D 13000, ser. NO. 4S 1261 SP,",
+          "polygon": [
+            470,
+            812,
+            835,
+            812,
+            835,
+            836,
+            470,
+            835
+          ],
+          "spans": [
+            {
+              "offset": 374,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "82000",
+          "polygon": [
+            937,
+            665,
+            1002,
+            665,
+            1001,
+            685,
+            937,
+            684
+          ],
+          "spans": [
+            {
+              "offset": 404,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2308.1",
+          "polygon": [
+            1048,
+            665,
+            1126,
+            665,
+            1126,
+            686,
+            1048,
+            686
+          ],
+          "spans": [
+            {
+              "offset": 410,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "With the following attachments:",
+          "polygon": [
+            473,
+            836,
+            860,
+            838,
+            859,
+            861,
+            473,
+            860
+          ],
+          "spans": [
+            {
+              "offset": 417,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "Boom 50 ft. 1g. 2 section 1 ea.",
+          "polygon": [
+            471,
+            861,
+            860,
+            862,
+            860,
+            885,
+            471,
+            884
+          ],
+          "spans": [
+            {
+              "offset": 449,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "4975",
+          "polygon": [
+            937,
+            862,
+            988,
+            861,
+            988,
+            885,
+            937,
+            885
+          ],
+          "spans": [
+            {
+              "offset": 481,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "783.2",
+          "polygon": [
+            1050,
+            862,
+            1113,
+            862,
+            1113,
+            884,
+            1050,
+            884
+          ],
+          "spans": [
+            {
+              "offset": 486,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Boom Extension 10 ft, Middle 1 ea.",
+          "polygon": [
+            471,
+            886,
+            897,
+            886,
+            897,
+            909,
+            471,
+            910
+          ],
+          "spans": [
+            {
+              "offset": 492,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "720",
+          "polygon": [
+            938,
+            887,
+            977,
+            887,
+            977,
+            908,
+            938,
+            908
+          ],
+          "spans": [
+            {
+              "offset": 527,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "133.8",
+          "polygon": [
+            1048,
+            887,
+            1115,
+            887,
+            1115,
+            909,
+            1048,
+            909
+          ],
+          "spans": [
+            {
+              "offset": 531,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Cable 1 box",
+          "polygon": [
+            472,
+            912,
+            614,
+            912,
+            614,
+            933,
+            472,
+            933
+          ],
+          "spans": [
+            {
+              "offset": 537,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "595",
+          "polygon": [
+            937,
+            912,
+            976,
+            912,
+            976,
+            934,
+            937,
+            934
+          ],
+          "spans": [
+            {
+              "offset": 549,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "29.2",
+          "polygon": [
+            1049,
+            912,
+            1102,
+            912,
+            1102,
+            933,
+            1049,
+            933
+          ],
+          "spans": [
+            {
+              "offset": 553,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Cable 1 box",
+          "polygon": [
+            472,
+            936,
+            614,
+            936,
+            614,
+            958,
+            472,
+            958
+          ],
+          "spans": [
+            {
+              "offset": 558,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "433",
+          "polygon": [
+            936,
+            937,
+            975,
+            937,
+            975,
+            958,
+            936,
+            958
+          ],
+          "spans": [
+            {
+              "offset": 570,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "26.3",
+          "polygon": [
+            1049,
+            935,
+            1102,
+            936,
+            1101,
+            959,
+            1048,
+            958
+          ],
+          "spans": [
+            {
+              "offset": 574,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "one",
+          "polygon": [
+            208,
+            988,
+            247,
+            988,
+            247,
+            1006,
+            208,
+            1006
+          ],
+          "spans": [
+            {
+              "offset": 579,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            283,
+            986,
+            336,
+            986,
+            336,
+            1006,
+            284,
+            1006
+          ],
+          "spans": [
+            {
+              "offset": 583,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Crane Shovel, Basic Unit, Crawler",
+          "polygon": [
+            471,
+            985,
+            890,
+            986,
+            889,
+            1009,
+            471,
+            1009
+          ],
+          "spans": [
+            {
+              "offset": 588,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "ltd., 25 ton, 1-1/2 cu.yd. Mfg.",
+          "polygon": [
+            471,
+            1009,
+            861,
+            1010,
+            861,
+            1034,
+            471,
+            1033
+          ],
+          "spans": [
+            {
+              "offset": 622,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "Link Belt Speeder Co. Mdl. K 360",
+          "polygon": [
+            471,
+            1034,
+            877,
+            1035,
+            877,
+            1058,
+            471,
+            1057
+          ],
+          "spans": [
+            {
+              "offset": 654,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "Serial NO. 2407, Engine Make; Cater",
+          "polygon": [
+            472,
+            1059,
+            914,
+            1061,
+            914,
+            1084,
+            471,
+            1082
+          ],
+          "spans": [
+            {
+              "offset": 687,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "pillar Diesel, Mdl. D 13000, Serial",
+          "polygon": [
+            471,
+            1084,
+            913,
+            1084,
+            913,
+            1108,
+            471,
+            1108
+          ],
+          "spans": [
+            {
+              "offset": 723,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "NO. 257351, w/O Generator.",
+          "polygon": [
+            471,
+            1109,
+            797,
+            1110,
+            797,
+            1134,
+            471,
+            1133
+          ],
+          "spans": [
+            {
+              "offset": 759,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "87,580",
+          "polygon": [
+            938,
+            987,
+            1014,
+            986,
+            1014,
+            1009,
+            938,
+            1009
+          ],
+          "spans": [
+            {
+              "offset": 786,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "2567",
+          "polygon": [
+            1048,
+            986,
+            1102,
+            986,
+            1102,
+            1010,
+            1048,
+            1009
+          ],
+          "spans": [
+            {
+              "offset": 793,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Attachments:",
+          "polygon": [
+            473,
+            1135,
+            621,
+            1135,
+            621,
+            1156,
+            473,
+            1156
+          ],
+          "spans": [
+            {
+              "offset": 798,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Boom 50 ft. 2 section 1 ea.",
+          "polygon": [
+            471,
+            1159,
+            811,
+            1160,
+            811,
+            1182,
+            471,
+            1181
+          ],
+          "spans": [
+            {
+              "offset": 811,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "5815",
+          "polygon": [
+            938,
+            1160,
+            988,
+            1160,
+            988,
+            1182,
+            938,
+            1182
+          ],
+          "spans": [
+            {
+              "offset": 839,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "783.2",
+          "polygon": [
+            1050,
+            1160,
+            1114,
+            1160,
+            1114,
+            1182,
+            1050,
+            1183
+          ],
+          "spans": [
+            {
+              "offset": 844,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Boom Extension, Middle, 10 ft.",
+          "polygon": [
+            472,
+            1184,
+            847,
+            1184,
+            847,
+            1208,
+            472,
+            1208
+          ],
+          "spans": [
+            {
+              "offset": 850,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "720",
+          "polygon": [
+            938,
+            1185,
+            976,
+            1185,
+            976,
+            1205,
+            938,
+            1205
+          ],
+          "spans": [
+            {
+              "offset": 881,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "133.8",
+          "polygon": [
+            1049,
+            1186,
+            1114,
+            1185,
+            1114,
+            1207,
+            1049,
+            1208
+          ],
+          "spans": [
+            {
+              "offset": 885,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Cable 1 box",
+          "polygon": [
+            471,
+            1209,
+            614,
+            1209,
+            614,
+            1231,
+            471,
+            1231
+          ],
+          "spans": [
+            {
+              "offset": 891,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "610",
+          "polygon": [
+            937,
+            1209,
+            976,
+            1209,
+            976,
+            1230,
+            937,
+            1230
+          ],
+          "spans": [
+            {
+              "offset": 903,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "29.2",
+          "polygon": [
+            1049,
+            1210,
+            1101,
+            1210,
+            1101,
+            1231,
+            1049,
+            1231
+          ],
+          "spans": [
+            {
+              "offset": 907,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Cable 1 box",
+          "polygon": [
+            471,
+            1234,
+            614,
+            1234,
+            614,
+            1255,
+            471,
+            1256
+          ],
+          "spans": [
+            {
+              "offset": 912,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "435",
+          "polygon": [
+            937,
+            1234,
+            976,
+            1234,
+            976,
+            1257,
+            937,
+            1257
+          ],
+          "spans": [
+            {
+              "offset": 924,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "26.3",
+          "polygon": [
+            1049,
+            1234,
+            1101,
+            1234,
+            1101,
+            1256,
+            1049,
+            1256
+          ],
+          "spans": [
+            {
+              "offset": 928,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "/ / / Say two items only / / /",
+          "polygon": [
+            483,
+            1279,
+            865,
+            1279,
+            865,
+            1309,
+            483,
+            1309
+          ],
+          "spans": [
+            {
+              "offset": 933,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            903,
+            1563,
+            1112,
+            1564,
+            1112,
+            1644,
+            903,
+            1642
+          ],
+          "spans": [
+            {
+              "offset": 964,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            879,
+            1645,
+            1109,
+            1647,
+            1108,
+            1674,
+            879,
+            1672
+          ],
+          "spans": [
+            {
+              "offset": 968,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "203",
+          "polygon": [
+            26,
+            1664,
+            93,
+            1664,
+            92,
+            1703,
+            26,
+            1702
+          ],
+          "spans": [
+            {
+              "offset": 987,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 990
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 13,
+      "columnCount": 4,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Qtly & Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                196,
+                628,
+                406,
+                628,
+                406,
+                659,
+                196,
+                659
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 114,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                628,
+                924,
+                628,
+                924,
+                660,
+                406,
+                659
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 126,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "wt. (Lb.)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                924,
+                628,
+                1031,
+                628,
+                1030,
+                660,
+                924,
+                660
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 138,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "Cu.ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1031,
+                628,
+                1136,
+                628,
+                1136,
+                660,
+                1030,
+                660
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 148,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "content": "one Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                196,
+                659,
+                406,
+                659,
+                406,
+                860,
+                195,
+                860
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Crane Shovel, Basic Unit, Crawler Mtd,, rated w/50 ft. boom at 12 ft. radius, 1-1/2 cu. yd. 25 ton, mtd. generator set, Mfg. Link Belt Spe- eder Co. Mdl K 360, serial NO.2421, Caterpillar Engine, Diesel, Model D 13000, ser. NO. 4S 1261 SP,",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                659,
+                924,
+                660,
+                924,
+                836,
+                406,
+                837
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 164,
+              "length": 239
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "rowSpan": 2,
+          "content": "82000",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                924,
+                660,
+                1030,
+                660,
+                1029,
+                860,
+                924,
+                859
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 404,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "rowSpan": 2,
+          "content": "2308.1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1030,
+                660,
+                1136,
+                660,
+                1135,
+                861,
+                1029,
+                860
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 410,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "With the following attachments:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                837,
+                924,
+                836,
+                924,
+                859,
+                406,
+                860
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 417,
+              "length": 31
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                860,
+                406,
+                860,
+                407,
+                886,
+                195,
+                886
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "Boom 50 ft. 1g. 2 section 1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                406,
+                860,
+                924,
+                859,
+                924,
+                885,
+                407,
+                886
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 449,
+              "length": 31
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "4975",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                924,
+                859,
+                1029,
+                860,
+                1029,
+                885,
+                924,
+                885
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 481,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "783.2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1029,
+                860,
+                1135,
+                861,
+                1135,
+                886,
+                1029,
+                885
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 486,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                886,
+                407,
+                886,
+                407,
+                909,
+                195,
+                909
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "Boom Extension 10 ft, Middle 1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                886,
+                924,
+                885,
+                924,
+                909,
+                407,
+                909
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 492,
+              "length": 34
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "720",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                924,
+                885,
+                1029,
+                885,
+                1029,
+                909,
+                924,
+                909
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 527,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 3,
+          "content": "133.8",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1029,
+                885,
+                1135,
+                886,
+                1135,
+                910,
+                1029,
+                909
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 531,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                909,
+                407,
+                909,
+                407,
+                934,
+                195,
+                934
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "Cable 1 box",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                909,
+                924,
+                909,
+                924,
+                934,
+                407,
+                934
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 537,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "595",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                924,
+                909,
+                1029,
+                909,
+                1029,
+                934,
+                924,
+                934
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 549,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 3,
+          "content": "29.2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1029,
+                909,
+                1135,
+                910,
+                1135,
+                935,
+                1029,
+                934
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 553,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                934,
+                407,
+                934,
+                407,
+                971,
+                195,
+                971
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "Cable 1 box",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                934,
+                924,
+                934,
+                923,
+                970,
+                407,
+                971
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 558,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "433",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                924,
+                934,
+                1029,
+                934,
+                1028,
+                970,
+                923,
+                970
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 570,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 3,
+          "content": "26.3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1029,
+                934,
+                1135,
+                935,
+                1135,
+                970,
+                1028,
+                970
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 574,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "content": "one Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                971,
+                407,
+                971,
+                407,
+                1156,
+                194,
+                1154
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 579,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/23"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 1,
+          "content": "Crane Shovel, Basic Unit, Crawler ltd., 25 ton, 1-1/2 cu.yd. Mfg. Link Belt Speeder Co. Mdl. K 360 Serial NO. 2407, Engine Make; Cater pillar Diesel, Mdl. D 13000, Serial NO. 257351, w/O Generator.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                971,
+                923,
+                970,
+                923,
+                1133,
+                407,
+                1132
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 588,
+              "length": 197
+            }
+          ],
+          "elements": [
+            "/paragraphs/24"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "rowSpan": 2,
+          "content": "87,580",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                923,
+                970,
+                1028,
+                970,
+                1027,
+                1157,
+                923,
+                1156
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 786,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/25"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 3,
+          "rowSpan": 2,
+          "content": "2567",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1028,
+                970,
+                1135,
+                970,
+                1134,
+                1158,
+                1027,
+                1157
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 793,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/26"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 1,
+          "content": "Attachments:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                1132,
+                923,
+                1133,
+                923,
+                1156,
+                407,
+                1156
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 798,
+              "length": 12
+            }
+          ],
+          "elements": [
+            "/paragraphs/27"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                194,
+                1154,
+                407,
+                1156,
+                408,
+                1182,
+                194,
+                1182
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 1,
+          "content": "Boom 50 ft. 2 section 1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                1156,
+                923,
+                1156,
+                923,
+                1183,
+                408,
+                1182
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 811,
+              "length": 27
+            }
+          ],
+          "elements": [
+            "/paragraphs/28"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 2,
+          "content": "5815",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                923,
+                1156,
+                1027,
+                1157,
+                1027,
+                1183,
+                923,
+                1183
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 839,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/29"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 3,
+          "content": "783.2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1027,
+                1157,
+                1134,
+                1158,
+                1134,
+                1184,
+                1027,
+                1183
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 844,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/30"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                194,
+                1182,
+                408,
+                1182,
+                408,
+                1206,
+                194,
+                1206
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 1,
+          "content": "Boom Extension, Middle, 10 ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                408,
+                1182,
+                923,
+                1183,
+                923,
+                1207,
+                408,
+                1206
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 850,
+              "length": 30
+            }
+          ],
+          "elements": [
+            "/paragraphs/31"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 2,
+          "content": "720",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                923,
+                1183,
+                1027,
+                1183,
+                1027,
+                1208,
+                923,
+                1207
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 881,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/32"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 3,
+          "content": "133.8",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1027,
+                1183,
+                1134,
+                1184,
+                1134,
+                1209,
+                1027,
+                1208
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 885,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/33"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                194,
+                1206,
+                408,
+                1206,
+                408,
+                1231,
+                194,
+                1229
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 1,
+          "content": "Cable 1 box",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                408,
+                1206,
+                923,
+                1207,
+                923,
+                1232,
+                408,
+                1231
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 891,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/34"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 2,
+          "content": "610",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                923,
+                1207,
+                1027,
+                1208,
+                1027,
+                1233,
+                923,
+                1232
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 903,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/35"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 3,
+          "content": "29.2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1027,
+                1208,
+                1134,
+                1209,
+                1133,
+                1233,
+                1027,
+                1233
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 907,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/36"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                194,
+                1229,
+                408,
+                1231,
+                408,
+                1266,
+                193,
+                1266
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 1,
+          "content": "Cable 1 box",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                408,
+                1231,
+                923,
+                1232,
+                923,
+                1267,
+                408,
+                1266
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 912,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/37"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 2,
+          "content": "435",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                923,
+                1232,
+                1027,
+                1233,
+                1027,
+                1267,
+                923,
+                1267
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 924,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/38"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 3,
+          "content": "26.3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1027,
+                1233,
+                1133,
+                1233,
+                1133,
+                1267,
+                1027,
+                1267
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 928,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/39"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            197,
+            634,
+            1138,
+            634,
+            1138,
+            1266,
+            198,
+            1266
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 114,
+          "length": 818
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 93
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            205,
+            415,
+            549,
+            413,
+            550,
+            536,
+            206,
+            538
+          ]
+        }
+      ],
+      "content": "Shipment NO. 234 Ex. Alaska Mail Arr. June 11, 1962 Keelung PIO/G-00464 GSA Order 10UP-64/AID"
+    },
+    {
+      "spans": [
+        {
+          "offset": 94,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            807,
+            389,
+            1049,
+            387,
+            1049,
+            412,
+            808,
+            414
+          ]
+        }
+      ],
+      "content": "Date: June 20, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 114,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            196,
+            628,
+            406,
+            628,
+            406,
+            659,
+            196,
+            659
+          ]
+        }
+      ],
+      "content": "Qtly & Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 126,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            628,
+            924,
+            628,
+            924,
+            660,
+            406,
+            659
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 138,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            924,
+            628,
+            1031,
+            628,
+            1030,
+            660,
+            924,
+            660
+          ]
+        }
+      ],
+      "content": "wt. (Lb.)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 148,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1031,
+            628,
+            1136,
+            628,
+            1136,
+            660,
+            1030,
+            660
+          ]
+        }
+      ],
+      "content": "Cu.ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 155,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            196,
+            659,
+            406,
+            659,
+            406,
+            860,
+            195,
+            860
+          ]
+        }
+      ],
+      "content": "one Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 164,
+          "length": 239
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            659,
+            924,
+            660,
+            924,
+            836,
+            406,
+            837
+          ]
+        }
+      ],
+      "content": "Crane Shovel, Basic Unit, Crawler Mtd,, rated w/50 ft. boom at 12 ft. radius, 1-1/2 cu. yd. 25 ton, mtd. generator set, Mfg. Link Belt Spe- eder Co. Mdl K 360, serial NO.2421, Caterpillar Engine, Diesel, Model D 13000, ser. NO. 4S 1261 SP,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 404,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            924,
+            660,
+            1030,
+            660,
+            1029,
+            860,
+            924,
+            859
+          ]
+        }
+      ],
+      "content": "82000"
+    },
+    {
+      "spans": [
+        {
+          "offset": 410,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1030,
+            660,
+            1136,
+            660,
+            1135,
+            861,
+            1029,
+            860
+          ]
+        }
+      ],
+      "content": "2308.1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 417,
+          "length": 31
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            837,
+            924,
+            836,
+            924,
+            859,
+            406,
+            860
+          ]
+        }
+      ],
+      "content": "With the following attachments:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 449,
+          "length": 31
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            860,
+            924,
+            859,
+            924,
+            885,
+            407,
+            886
+          ]
+        }
+      ],
+      "content": "Boom 50 ft. 1g. 2 section 1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 481,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            924,
+            859,
+            1029,
+            860,
+            1029,
+            885,
+            924,
+            885
+          ]
+        }
+      ],
+      "content": "4975"
+    },
+    {
+      "spans": [
+        {
+          "offset": 486,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1029,
+            860,
+            1135,
+            861,
+            1135,
+            886,
+            1029,
+            885
+          ]
+        }
+      ],
+      "content": "783.2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 492,
+          "length": 34
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            886,
+            924,
+            885,
+            924,
+            909,
+            407,
+            909
+          ]
+        }
+      ],
+      "content": "Boom Extension 10 ft, Middle 1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 527,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            924,
+            885,
+            1029,
+            885,
+            1029,
+            909,
+            924,
+            909
+          ]
+        }
+      ],
+      "content": "720"
+    },
+    {
+      "spans": [
+        {
+          "offset": 531,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1029,
+            885,
+            1135,
+            886,
+            1135,
+            910,
+            1029,
+            909
+          ]
+        }
+      ],
+      "content": "133.8"
+    },
+    {
+      "spans": [
+        {
+          "offset": 537,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            909,
+            924,
+            909,
+            924,
+            934,
+            407,
+            934
+          ]
+        }
+      ],
+      "content": "Cable 1 box"
+    },
+    {
+      "spans": [
+        {
+          "offset": 549,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            924,
+            909,
+            1029,
+            909,
+            1029,
+            934,
+            924,
+            934
+          ]
+        }
+      ],
+      "content": "595"
+    },
+    {
+      "spans": [
+        {
+          "offset": 553,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1029,
+            909,
+            1135,
+            910,
+            1135,
+            935,
+            1029,
+            934
+          ]
+        }
+      ],
+      "content": "29.2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 558,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            934,
+            924,
+            934,
+            923,
+            970,
+            407,
+            971
+          ]
+        }
+      ],
+      "content": "Cable 1 box"
+    },
+    {
+      "spans": [
+        {
+          "offset": 570,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            924,
+            934,
+            1029,
+            934,
+            1028,
+            970,
+            923,
+            970
+          ]
+        }
+      ],
+      "content": "433"
+    },
+    {
+      "spans": [
+        {
+          "offset": 574,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1029,
+            934,
+            1135,
+            935,
+            1135,
+            970,
+            1028,
+            970
+          ]
+        }
+      ],
+      "content": "26.3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 579,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            195,
+            971,
+            407,
+            971,
+            407,
+            1156,
+            194,
+            1154
+          ]
+        }
+      ],
+      "content": "one Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 588,
+          "length": 197
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            971,
+            923,
+            970,
+            923,
+            1133,
+            407,
+            1132
+          ]
+        }
+      ],
+      "content": "Crane Shovel, Basic Unit, Crawler ltd., 25 ton, 1-1/2 cu.yd. Mfg. Link Belt Speeder Co. Mdl. K 360 Serial NO. 2407, Engine Make; Cater pillar Diesel, Mdl. D 13000, Serial NO. 257351, w/O Generator."
+    },
+    {
+      "spans": [
+        {
+          "offset": 786,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            970,
+            1028,
+            970,
+            1027,
+            1157,
+            923,
+            1156
+          ]
+        }
+      ],
+      "content": "87,580"
+    },
+    {
+      "spans": [
+        {
+          "offset": 793,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1028,
+            970,
+            1135,
+            970,
+            1134,
+            1158,
+            1027,
+            1157
+          ]
+        }
+      ],
+      "content": "2567"
+    },
+    {
+      "spans": [
+        {
+          "offset": 798,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            1132,
+            923,
+            1133,
+            923,
+            1156,
+            407,
+            1156
+          ]
+        }
+      ],
+      "content": "Attachments:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 811,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            1156,
+            923,
+            1156,
+            923,
+            1183,
+            408,
+            1182
+          ]
+        }
+      ],
+      "content": "Boom 50 ft. 2 section 1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 839,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            1156,
+            1027,
+            1157,
+            1027,
+            1183,
+            923,
+            1183
+          ]
+        }
+      ],
+      "content": "5815"
+    },
+    {
+      "spans": [
+        {
+          "offset": 844,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1027,
+            1157,
+            1134,
+            1158,
+            1134,
+            1184,
+            1027,
+            1183
+          ]
+        }
+      ],
+      "content": "783.2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 850,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            408,
+            1182,
+            923,
+            1183,
+            923,
+            1207,
+            408,
+            1206
+          ]
+        }
+      ],
+      "content": "Boom Extension, Middle, 10 ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 881,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            1183,
+            1027,
+            1183,
+            1027,
+            1208,
+            923,
+            1207
+          ]
+        }
+      ],
+      "content": "720"
+    },
+    {
+      "spans": [
+        {
+          "offset": 885,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1027,
+            1183,
+            1134,
+            1184,
+            1134,
+            1209,
+            1027,
+            1208
+          ]
+        }
+      ],
+      "content": "133.8"
+    },
+    {
+      "spans": [
+        {
+          "offset": 891,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            408,
+            1206,
+            923,
+            1207,
+            923,
+            1232,
+            408,
+            1231
+          ]
+        }
+      ],
+      "content": "Cable 1 box"
+    },
+    {
+      "spans": [
+        {
+          "offset": 903,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            1207,
+            1027,
+            1208,
+            1027,
+            1233,
+            923,
+            1232
+          ]
+        }
+      ],
+      "content": "610"
+    },
+    {
+      "spans": [
+        {
+          "offset": 907,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1027,
+            1208,
+            1134,
+            1209,
+            1133,
+            1233,
+            1027,
+            1233
+          ]
+        }
+      ],
+      "content": "29.2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 912,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            408,
+            1231,
+            923,
+            1232,
+            923,
+            1267,
+            408,
+            1266
+          ]
+        }
+      ],
+      "content": "Cable 1 box"
+    },
+    {
+      "spans": [
+        {
+          "offset": 924,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            1232,
+            1027,
+            1233,
+            1027,
+            1267,
+            923,
+            1267
+          ]
+        }
+      ],
+      "content": "435"
+    },
+    {
+      "spans": [
+        {
+          "offset": 928,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1027,
+            1233,
+            1133,
+            1233,
+            1133,
+            1267,
+            1027,
+            1267
+          ]
+        }
+      ],
+      "content": "26.3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 933,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            483,
+            1279,
+            865,
+            1279,
+            865,
+            1309,
+            483,
+            1309
+          ]
+        }
+      ],
+      "content": "/ / / Say two items only / / /"
+    },
+    {
+      "spans": [
+        {
+          "offset": 964,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            880,
+            1562,
+            1112,
+            1564,
+            1111,
+            1674,
+            879,
+            1672
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 987,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            26,
+            1664,
+            93,
+            1664,
+            92,
+            1703,
+            26,
+            1702
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "203"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 964,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 987,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 986
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/40",
+        "/paragraphs/41"
+      ]
+    }
+  ]
+}

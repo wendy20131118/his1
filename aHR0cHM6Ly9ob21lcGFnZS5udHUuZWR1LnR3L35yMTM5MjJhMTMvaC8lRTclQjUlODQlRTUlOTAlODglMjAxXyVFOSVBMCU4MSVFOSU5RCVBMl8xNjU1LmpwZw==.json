@@ -1,0 +1,3307 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "本件保存 七年\nNC- 3820 MAY 24 1962\nGeneral Services Administration/F88 Region 9 San Francisco 3, California U. S. ..\nSubject: Excess Property\nGentlemen, We have requirement for ono Truck Fuel Servicing, Catalog 68], Page 5, Control No. 9-82-50719(28), Item 1, Condition E-l. Plomme advise availability. If your reply is in the affirmative we will immediately forward pur purchase order.\nSincerely yours,\na. T. Potter Supply Advisor\n甘拓\n证\nCho/nl 5/28/62\n51.5. 24\n10270 V.O.\nS.G.\n2\n00: P/SP (2) X/CUR (2) PO JCRA-S.K. Koo CUSA 2nd Div.\nあ 3\n6 2, E16/3,2\n後丽\n國史饭 Academia Historica\n417",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.22333429753780365,
+      "width": 1226,
+      "height": 1591,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "本",
+          "polygon": [
+            30,
+            53,
+            71,
+            54,
+            73,
+            84,
+            29,
+            83
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "件",
+          "polygon": [
+            28,
+            88,
+            73,
+            88,
+            73,
+            120,
+            27,
+            119
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "保",
+          "polygon": [
+            27,
+            130,
+            73,
+            130,
+            73,
+            161,
+            27,
+            161
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "存",
+          "polygon": [
+            28,
+            178,
+            73,
+            178,
+            73,
+            209,
+            29,
+            209
+          ],
+          "confidence": 0.678,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "七",
+          "polygon": [
+            29,
+            255,
+            75,
+            255,
+            75,
+            287,
+            29,
+            286
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "年",
+          "polygon": [
+            28,
+            302,
+            76,
+            303,
+            76,
+            349,
+            27,
+            349
+          ],
+          "confidence": 0.97,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "NC-",
+          "polygon": [
+            248,
+            272,
+            290,
+            266,
+            293,
+            304,
+            251,
+            309
+          ],
+          "confidence": 0.344,
+          "span": {
+            "offset": 8,
+            "length": 3
+          }
+        },
+        {
+          "content": "3820",
+          "polygon": [
+            297,
+            266,
+            390,
+            252,
+            392,
+            289,
+            301,
+            303
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 12,
+            "length": 4
+          }
+        },
+        {
+          "content": "MAY",
+          "polygon": [
+            841,
+            267,
+            906,
+            266,
+            906,
+            305,
+            841,
+            306
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 17,
+            "length": 3
+          }
+        },
+        {
+          "content": "24",
+          "polygon": [
+            914,
+            266,
+            959,
+            265,
+            960,
+            304,
+            915,
+            305
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 21,
+            "length": 2
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            968,
+            265,
+            1034,
+            264,
+            1034,
+            302,
+            968,
+            304
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 24,
+            "length": 4
+          }
+        },
+        {
+          "content": "General",
+          "polygon": [
+            249,
+            358,
+            341,
+            358,
+            340,
+            382,
+            249,
+            381
+          ],
+          "confidence": 0.675,
+          "span": {
+            "offset": 29,
+            "length": 7
+          }
+        },
+        {
+          "content": "Services",
+          "polygon": [
+            352,
+            358,
+            452,
+            358,
+            451,
+            383,
+            351,
+            382
+          ],
+          "confidence": 0.723,
+          "span": {
+            "offset": 37,
+            "length": 8
+          }
+        },
+        {
+          "content": "Administration/F88",
+          "polygon": [
+            462,
+            358,
+            692,
+            359,
+            692,
+            385,
+            461,
+            383
+          ],
+          "confidence": 0.607,
+          "span": {
+            "offset": 46,
+            "length": 18
+          }
+        },
+        {
+          "content": "Region",
+          "polygon": [
+            248,
+            384,
+            327,
+            384,
+            327,
+            407,
+            247,
+            407
+          ],
+          "confidence": 0.573,
+          "span": {
+            "offset": 65,
+            "length": 6
+          }
+        },
+        {
+          "content": "9",
+          "polygon": [
+            338,
+            384,
+            355,
+            384,
+            355,
+            407,
+            338,
+            407
+          ],
+          "confidence": 0.672,
+          "span": {
+            "offset": 72,
+            "length": 1
+          }
+        },
+        {
+          "content": "San",
+          "polygon": [
+            249,
+            410,
+            290,
+            410,
+            290,
+            432,
+            249,
+            431
+          ],
+          "confidence": 0.762,
+          "span": {
+            "offset": 74,
+            "length": 3
+          }
+        },
+        {
+          "content": "Francisco",
+          "polygon": [
+            301,
+            410,
+            414,
+            410,
+            414,
+            433,
+            301,
+            432
+          ],
+          "confidence": 0.54,
+          "span": {
+            "offset": 78,
+            "length": 9
+          }
+        },
+        {
+          "content": "3,",
+          "polygon": [
+            423,
+            410,
+            452,
+            410,
+            452,
+            433,
+            423,
+            433
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 88,
+            "length": 2
+          }
+        },
+        {
+          "content": "California",
+          "polygon": [
+            459,
+            410,
+            593,
+            410,
+            593,
+            434,
+            459,
+            433
+          ],
+          "confidence": 0.575,
+          "span": {
+            "offset": 91,
+            "length": 10
+          }
+        },
+        {
+          "content": "U.",
+          "polygon": [
+            248,
+            435,
+            276,
+            435,
+            276,
+            457,
+            248,
+            457
+          ],
+          "confidence": 0.617,
+          "span": {
+            "offset": 102,
+            "length": 2
+          }
+        },
+        {
+          "content": "S.",
+          "polygon": [
+            289,
+            435,
+            313,
+            436,
+            313,
+            458,
+            289,
+            458
+          ],
+          "confidence": 0.877,
+          "span": {
+            "offset": 105,
+            "length": 2
+          }
+        },
+        {
+          "content": "..",
+          "polygon": [
+            325,
+            436,
+            355,
+            436,
+            355,
+            458,
+            325,
+            458
+          ],
+          "confidence": 0.471,
+          "span": {
+            "offset": 108,
+            "length": 2
+          }
+        },
+        {
+          "content": "Subject:",
+          "polygon": [
+            349,
+            511,
+            453,
+            511,
+            453,
+            534,
+            349,
+            534
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 111,
+            "length": 8
+          }
+        },
+        {
+          "content": "Excess",
+          "polygon": [
+            477,
+            511,
+            553,
+            512,
+            553,
+            534,
+            477,
+            533
+          ],
+          "confidence": 0.444,
+          "span": {
+            "offset": 120,
+            "length": 6
+          }
+        },
+        {
+          "content": "Property",
+          "polygon": [
+            565,
+            512,
+            669,
+            513,
+            669,
+            537,
+            565,
+            535
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 127,
+            "length": 8
+          }
+        },
+        {
+          "content": "Gentlemen,",
+          "polygon": [
+            248,
+            584,
+            377,
+            588,
+            376,
+            610,
+            248,
+            607
+          ],
+          "confidence": 0.562,
+          "span": {
+            "offset": 136,
+            "length": 10
+          }
+        },
+        {
+          "content": "We",
+          "polygon": [
+            309,
+            635,
+            339,
+            635,
+            338,
+            659,
+            309,
+            659
+          ],
+          "confidence": 0.165,
+          "span": {
+            "offset": 147,
+            "length": 2
+          }
+        },
+        {
+          "content": "have",
+          "polygon": [
+            349,
+            635,
+            401,
+            635,
+            401,
+            660,
+            348,
+            659
+          ],
+          "confidence": 0.383,
+          "span": {
+            "offset": 150,
+            "length": 4
+          }
+        },
+        {
+          "content": "requirement",
+          "polygon": [
+            415,
+            635,
+            559,
+            636,
+            559,
+            661,
+            414,
+            660
+          ],
+          "confidence": 0.779,
+          "span": {
+            "offset": 155,
+            "length": 11
+          }
+        },
+        {
+          "content": "for",
+          "polygon": [
+            564,
+            636,
+            603,
+            636,
+            603,
+            661,
+            564,
+            661
+          ],
+          "confidence": 0.925,
+          "span": {
+            "offset": 167,
+            "length": 3
+          }
+        },
+        {
+          "content": "ono",
+          "polygon": [
+            614,
+            636,
+            653,
+            636,
+            653,
+            661,
+            613,
+            661
+          ],
+          "confidence": 0.844,
+          "span": {
+            "offset": 171,
+            "length": 3
+          }
+        },
+        {
+          "content": "Truck",
+          "polygon": [
+            664,
+            636,
+            728,
+            637,
+            728,
+            662,
+            664,
+            661
+          ],
+          "confidence": 0.8,
+          "span": {
+            "offset": 175,
+            "length": 5
+          }
+        },
+        {
+          "content": "Fuel",
+          "polygon": [
+            738,
+            637,
+            791,
+            637,
+            791,
+            662,
+            738,
+            662
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 181,
+            "length": 4
+          }
+        },
+        {
+          "content": "Servicing,",
+          "polygon": [
+            803,
+            637,
+            937,
+            638,
+            937,
+            664,
+            803,
+            662
+          ],
+          "confidence": 0.435,
+          "span": {
+            "offset": 186,
+            "length": 10
+          }
+        },
+        {
+          "content": "Catalog",
+          "polygon": [
+            942,
+            638,
+            1031,
+            638,
+            1031,
+            664,
+            942,
+            664
+          ],
+          "confidence": 0.843,
+          "span": {
+            "offset": 197,
+            "length": 7
+          }
+        },
+        {
+          "content": "68],",
+          "polygon": [
+            1039,
+            638,
+            1091,
+            638,
+            1091,
+            665,
+            1039,
+            664
+          ],
+          "confidence": 0.626,
+          "span": {
+            "offset": 205,
+            "length": 4
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            250,
+            685,
+            303,
+            685,
+            303,
+            710,
+            249,
+            710
+          ],
+          "confidence": 0.876,
+          "span": {
+            "offset": 210,
+            "length": 4
+          }
+        },
+        {
+          "content": "5,",
+          "polygon": [
+            308,
+            685,
+            338,
+            685,
+            337,
+            710,
+            308,
+            710
+          ],
+          "confidence": 0.579,
+          "span": {
+            "offset": 215,
+            "length": 2
+          }
+        },
+        {
+          "content": "Control",
+          "polygon": [
+            351,
+            685,
+            439,
+            685,
+            439,
+            710,
+            351,
+            710
+          ],
+          "confidence": 0.716,
+          "span": {
+            "offset": 218,
+            "length": 7
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            450,
+            685,
+            495,
+            685,
+            495,
+            710,
+            450,
+            710
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 226,
+            "length": 3
+          }
+        },
+        {
+          "content": "9-82-50719(28),",
+          "polygon": [
+            502,
+            685,
+            694,
+            685,
+            694,
+            712,
+            502,
+            711
+          ],
+          "confidence": 0.643,
+          "span": {
+            "offset": 230,
+            "length": 15
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            703,
+            685,
+            760,
+            686,
+            760,
+            712,
+            703,
+            712
+          ],
+          "confidence": 0.911,
+          "span": {
+            "offset": 246,
+            "length": 4
+          }
+        },
+        {
+          "content": "1,",
+          "polygon": [
+            766,
+            686,
+            791,
+            686,
+            791,
+            712,
+            766,
+            712
+          ],
+          "confidence": 0.734,
+          "span": {
+            "offset": 251,
+            "length": 2
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            802,
+            686,
+            917,
+            686,
+            917,
+            712,
+            802,
+            712
+          ],
+          "confidence": 0.754,
+          "span": {
+            "offset": 254,
+            "length": 9
+          }
+        },
+        {
+          "content": "E-l.",
+          "polygon": [
+            927,
+            686,
+            978,
+            687,
+            978,
+            712,
+            927,
+            712
+          ],
+          "confidence": 0.393,
+          "span": {
+            "offset": 264,
+            "length": 4
+          }
+        },
+        {
+          "content": "Plomme",
+          "polygon": [
+            1002,
+            687,
+            1082,
+            688,
+            1082,
+            713,
+            1002,
+            712
+          ],
+          "confidence": 0.538,
+          "span": {
+            "offset": 269,
+            "length": 6
+          }
+        },
+        {
+          "content": "advise",
+          "polygon": [
+            249,
+            735,
+            328,
+            735,
+            327,
+            760,
+            249,
+            760
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 276,
+            "length": 6
+          }
+        },
+        {
+          "content": "availability.",
+          "polygon": [
+            339,
+            735,
+            501,
+            736,
+            501,
+            761,
+            339,
+            760
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 283,
+            "length": 13
+          }
+        },
+        {
+          "content": "If",
+          "polygon": [
+            523,
+            736,
+            553,
+            736,
+            553,
+            761,
+            523,
+            761
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 297,
+            "length": 2
+          }
+        },
+        {
+          "content": "your",
+          "polygon": [
+            561,
+            736,
+            616,
+            736,
+            616,
+            761,
+            561,
+            761
+          ],
+          "confidence": 0.946,
+          "span": {
+            "offset": 300,
+            "length": 4
+          }
+        },
+        {
+          "content": "reply",
+          "polygon": [
+            623,
+            736,
+            692,
+            736,
+            692,
+            762,
+            623,
+            761
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 305,
+            "length": 5
+          }
+        },
+        {
+          "content": "is",
+          "polygon": [
+            702,
+            737,
+            729,
+            737,
+            729,
+            762,
+            702,
+            762
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 311,
+            "length": 2
+          }
+        },
+        {
+          "content": "in",
+          "polygon": [
+            739,
+            737,
+            767,
+            737,
+            767,
+            762,
+            739,
+            762
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 314,
+            "length": 2
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            776,
+            737,
+            815,
+            737,
+            815,
+            762,
+            776,
+            762
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 317,
+            "length": 3
+          }
+        },
+        {
+          "content": "affirmative",
+          "polygon": [
+            825,
+            737,
+            966,
+            737,
+            966,
+            762,
+            825,
+            762
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 321,
+            "length": 11
+          }
+        },
+        {
+          "content": "we",
+          "polygon": [
+            976,
+            737,
+            1004,
+            738,
+            1004,
+            762,
+            976,
+            762
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 333,
+            "length": 2
+          }
+        },
+        {
+          "content": "will",
+          "polygon": [
+            1012,
+            738,
+            1069,
+            738,
+            1069,
+            763,
+            1012,
+            763
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 336,
+            "length": 4
+          }
+        },
+        {
+          "content": "immediately",
+          "polygon": [
+            251,
+            787,
+            391,
+            787,
+            391,
+            811,
+            250,
+            810
+          ],
+          "confidence": 0.623,
+          "span": {
+            "offset": 341,
+            "length": 11
+          }
+        },
+        {
+          "content": "forward",
+          "polygon": [
+            402,
+            787,
+            490,
+            788,
+            490,
+            811,
+            402,
+            811
+          ],
+          "confidence": 0.554,
+          "span": {
+            "offset": 353,
+            "length": 7
+          }
+        },
+        {
+          "content": "pur",
+          "polygon": [
+            501,
+            788,
+            540,
+            788,
+            540,
+            812,
+            500,
+            812
+          ],
+          "confidence": 0.646,
+          "span": {
+            "offset": 361,
+            "length": 3
+          }
+        },
+        {
+          "content": "purchase",
+          "polygon": [
+            551,
+            788,
+            651,
+            789,
+            651,
+            812,
+            550,
+            812
+          ],
+          "confidence": 0.592,
+          "span": {
+            "offset": 365,
+            "length": 8
+          }
+        },
+        {
+          "content": "order.",
+          "polygon": [
+            664,
+            789,
+            741,
+            790,
+            741,
+            813,
+            664,
+            812
+          ],
+          "confidence": 0.516,
+          "span": {
+            "offset": 374,
+            "length": 6
+          }
+        },
+        {
+          "content": "Sincerely",
+          "polygon": [
+            737,
+            839,
+            855,
+            840,
+            855,
+            865,
+            737,
+            863
+          ],
+          "confidence": 0.798,
+          "span": {
+            "offset": 381,
+            "length": 9
+          }
+        },
+        {
+          "content": "yours,",
+          "polygon": [
+            864,
+            840,
+            942,
+            841,
+            941,
+            866,
+            863,
+            866
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 391,
+            "length": 6
+          }
+        },
+        {
+          "content": "a.",
+          "polygon": [
+            737,
+            939,
+            765,
+            940,
+            765,
+            963,
+            737,
+            963
+          ],
+          "confidence": 0.545,
+          "span": {
+            "offset": 398,
+            "length": 2
+          }
+        },
+        {
+          "content": "T.",
+          "polygon": [
+            771,
+            940,
+            802,
+            940,
+            802,
+            963,
+            771,
+            963
+          ],
+          "confidence": 0.677,
+          "span": {
+            "offset": 401,
+            "length": 2
+          }
+        },
+        {
+          "content": "Potter",
+          "polygon": [
+            811,
+            940,
+            892,
+            940,
+            892,
+            963,
+            811,
+            963
+          ],
+          "confidence": 0.572,
+          "span": {
+            "offset": 404,
+            "length": 6
+          }
+        },
+        {
+          "content": "Supply",
+          "polygon": [
+            737,
+            966,
+            816,
+            965,
+            816,
+            990,
+            737,
+            991
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 411,
+            "length": 6
+          }
+        },
+        {
+          "content": "Advisor",
+          "polygon": [
+            825,
+            966,
+            915,
+            966,
+            915,
+            990,
+            825,
+            990
+          ],
+          "confidence": 0.752,
+          "span": {
+            "offset": 418,
+            "length": 7
+          }
+        },
+        {
+          "content": "甘",
+          "polygon": [
+            533,
+            998,
+            565,
+            999,
+            566,
+            1048,
+            535,
+            1050
+          ],
+          "confidence": 0.717,
+          "span": {
+            "offset": 426,
+            "length": 1
+          }
+        },
+        {
+          "content": "拓",
+          "polygon": [
+            570,
+            999,
+            637,
+            1000,
+            637,
+            1050,
+            571,
+            1048
+          ],
+          "confidence": 0.93,
+          "span": {
+            "offset": 427,
+            "length": 1
+          }
+        },
+        {
+          "content": "证",
+          "polygon": [
+            450,
+            1131,
+            505,
+            1127,
+            505,
+            1189,
+            451,
+            1192
+          ],
+          "confidence": 0.684,
+          "span": {
+            "offset": 429,
+            "length": 1
+          }
+        },
+        {
+          "content": "Cho/nl",
+          "polygon": [
+            268,
+            1177,
+            343,
+            1177,
+            343,
+            1200,
+            268,
+            1199
+          ],
+          "confidence": 0.571,
+          "span": {
+            "offset": 431,
+            "length": 6
+          }
+        },
+        {
+          "content": "5/28/62",
+          "polygon": [
+            266,
+            1201,
+            355,
+            1202,
+            355,
+            1226,
+            266,
+            1226
+          ],
+          "confidence": 0.66,
+          "span": {
+            "offset": 438,
+            "length": 7
+          }
+        },
+        {
+          "content": "51.5.",
+          "polygon": [
+            61,
+            1205,
+            127,
+            1206,
+            127,
+            1240,
+            61,
+            1240
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 446,
+            "length": 5
+          }
+        },
+        {
+          "content": "24",
+          "polygon": [
+            134,
+            1206,
+            165,
+            1206,
+            165,
+            1240,
+            134,
+            1240
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 452,
+            "length": 2
+          }
+        },
+        {
+          "content": "10270",
+          "polygon": [
+            64,
+            1245,
+            174,
+            1246,
+            174,
+            1278,
+            63,
+            1277
+          ],
+          "confidence": 0.938,
+          "span": {
+            "offset": 455,
+            "length": 5
+          }
+        },
+        {
+          "content": "V.O.",
+          "polygon": [
+            48,
+            1279,
+            87,
+            1279,
+            87,
+            1299,
+            48,
+            1299
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 461,
+            "length": 4
+          }
+        },
+        {
+          "content": "S.G.",
+          "polygon": [
+            47,
+            1310,
+            88,
+            1310,
+            88,
+            1329,
+            47,
+            1329
+          ],
+          "confidence": 0.782,
+          "span": {
+            "offset": 466,
+            "length": 4
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            105,
+            1334,
+            128,
+            1334,
+            128,
+            1363,
+            105,
+            1363
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 471,
+            "length": 1
+          }
+        },
+        {
+          "content": "00:",
+          "polygon": [
+            267,
+            1258,
+            303,
+            1258,
+            303,
+            1274,
+            267,
+            1274
+          ],
+          "confidence": 0.701,
+          "span": {
+            "offset": 473,
+            "length": 3
+          }
+        },
+        {
+          "content": "P/SP",
+          "polygon": [
+            329,
+            1251,
+            378,
+            1252,
+            378,
+            1278,
+            328,
+            1277
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 477,
+            "length": 4
+          }
+        },
+        {
+          "content": "(2)",
+          "polygon": [
+            394,
+            1252,
+            430,
+            1252,
+            430,
+            1279,
+            393,
+            1278
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 482,
+            "length": 3
+          }
+        },
+        {
+          "content": "X/CUR",
+          "polygon": [
+            327,
+            1277,
+            390,
+            1278,
+            390,
+            1304,
+            327,
+            1303
+          ],
+          "confidence": 0.61,
+          "span": {
+            "offset": 486,
+            "length": 5
+          }
+        },
+        {
+          "content": "(2)",
+          "polygon": [
+            400,
+            1278,
+            440,
+            1279,
+            440,
+            1305,
+            400,
+            1304
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 492,
+            "length": 3
+          }
+        },
+        {
+          "content": "PO",
+          "polygon": [
+            328,
+            1306,
+            355,
+            1306,
+            355,
+            1325,
+            328,
+            1325
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 496,
+            "length": 2
+          }
+        },
+        {
+          "content": "JCRA-S.K.",
+          "polygon": [
+            329,
+            1329,
+            441,
+            1331,
+            441,
+            1353,
+            329,
+            1351
+          ],
+          "confidence": 0.654,
+          "span": {
+            "offset": 499,
+            "length": 9
+          }
+        },
+        {
+          "content": "Koo",
+          "polygon": [
+            454,
+            1332,
+            492,
+            1332,
+            492,
+            1353,
+            453,
+            1353
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 509,
+            "length": 3
+          }
+        },
+        {
+          "content": "CUSA",
+          "polygon": [
+            329,
+            1355,
+            379,
+            1355,
+            379,
+            1376,
+            329,
+            1376
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 513,
+            "length": 4
+          }
+        },
+        {
+          "content": "2nd",
+          "polygon": [
+            390,
+            1355,
+            429,
+            1356,
+            429,
+            1377,
+            390,
+            1376
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 518,
+            "length": 3
+          }
+        },
+        {
+          "content": "Div.",
+          "polygon": [
+            440,
+            1356,
+            487,
+            1357,
+            487,
+            1378,
+            439,
+            1377
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 522,
+            "length": 4
+          }
+        },
+        {
+          "content": "あ",
+          "polygon": [
+            553,
+            1227,
+            580,
+            1220,
+            586,
+            1262,
+            560,
+            1269
+          ],
+          "confidence": 0.378,
+          "span": {
+            "offset": 527,
+            "length": 1
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            680,
+            1201,
+            705,
+            1201,
+            706,
+            1253,
+            682,
+            1256
+          ],
+          "confidence": 0.162,
+          "span": {
+            "offset": 529,
+            "length": 1
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            622,
+            1116,
+            700,
+            1114,
+            700,
+            1166,
+            623,
+            1166
+          ],
+          "confidence": 0.065,
+          "span": {
+            "offset": 531,
+            "length": 1
+          }
+        },
+        {
+          "content": "2,",
+          "polygon": [
+            676,
+            1159,
+            707,
+            1159,
+            707,
+            1191,
+            677,
+            1191
+          ],
+          "confidence": 0.726,
+          "span": {
+            "offset": 533,
+            "length": 2
+          }
+        },
+        {
+          "content": "E16/3,2",
+          "polygon": [
+            720,
+            1163,
+            1096,
+            1133,
+            1098,
+            1247,
+            722,
+            1270
+          ],
+          "confidence": 0.63,
+          "span": {
+            "offset": 536,
+            "length": 7
+          }
+        },
+        {
+          "content": "後",
+          "polygon": [
+            601,
+            1275,
+            647,
+            1278,
+            637,
+            1349,
+            595,
+            1345
+          ],
+          "confidence": 0.702,
+          "span": {
+            "offset": 544,
+            "length": 1
+          }
+        },
+        {
+          "content": "丽",
+          "polygon": [
+            653,
+            1279,
+            747,
+            1290,
+            747,
+            1356,
+            644,
+            1349
+          ],
+          "confidence": 0.688,
+          "span": {
+            "offset": 545,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            864,
+            1434,
+            912,
+            1434,
+            912,
+            1505,
+            864,
+            1505
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 547,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            919,
+            1434,
+            969,
+            1434,
+            969,
+            1507,
+            919,
+            1505
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 548,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            976,
+            1434,
+            1057,
+            1435,
+            1057,
+            1509,
+            976,
+            1507
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 549,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            844,
+            1510,
+            950,
+            1510,
+            950,
+            1533,
+            843,
+            1533
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 551,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            955,
+            1510,
+            1053,
+            1511,
+            1053,
+            1534,
+            955,
+            1533
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 560,
+            "length": 9
+          }
+        },
+        {
+          "content": "417",
+          "polygon": [
+            19,
+            1533,
+            67,
+            1531,
+            67,
+            1570,
+            20,
+            1572
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 570,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "本件保存 七年",
+          "polygon": [
+            27,
+            53,
+            76,
+            53,
+            76,
+            349,
+            28,
+            349
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "NC- 3820",
+          "polygon": [
+            248,
+            272,
+            387,
+            252,
+            392,
+            291,
+            251,
+            309
+          ],
+          "spans": [
+            {
+              "offset": 8,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "MAY 24 1962",
+          "polygon": [
+            840,
+            267,
+            1034,
+            264,
+            1034,
+            302,
+            841,
+            305
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "General Services Administration/F88",
+          "polygon": [
+            249,
+            357,
+            692,
+            359,
+            692,
+            384,
+            249,
+            381
+          ],
+          "spans": [
+            {
+              "offset": 29,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "Region 9",
+          "polygon": [
+            248,
+            384,
+            354,
+            384,
+            354,
+            407,
+            247,
+            407
+          ],
+          "spans": [
+            {
+              "offset": 65,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "San Francisco 3, California",
+          "polygon": [
+            249,
+            410,
+            592,
+            410,
+            592,
+            433,
+            249,
+            433
+          ],
+          "spans": [
+            {
+              "offset": 74,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "U. S. ..",
+          "polygon": [
+            248,
+            434,
+            354,
+            436,
+            354,
+            458,
+            247,
+            457
+          ],
+          "spans": [
+            {
+              "offset": 102,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Subject:",
+          "polygon": [
+            349,
+            510,
+            452,
+            511,
+            452,
+            534,
+            349,
+            534
+          ],
+          "spans": [
+            {
+              "offset": 111,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Excess Property",
+          "polygon": [
+            477,
+            510,
+            669,
+            513,
+            668,
+            537,
+            476,
+            533
+          ],
+          "spans": [
+            {
+              "offset": 120,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Gentlemen,",
+          "polygon": [
+            248,
+            584,
+            377,
+            588,
+            376,
+            610,
+            248,
+            606
+          ],
+          "spans": [
+            {
+              "offset": 136,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "We have requirement for ono Truck Fuel Servicing, Catalog 68],",
+          "polygon": [
+            309,
+            635,
+            1091,
+            638,
+            1090,
+            664,
+            309,
+            661
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 62
+            }
+          ]
+        },
+        {
+          "content": "Page 5, Control No. 9-82-50719(28), Item 1, Condition E-l. Plomme",
+          "polygon": [
+            249,
+            684,
+            1082,
+            686,
+            1082,
+            713,
+            249,
+            710
+          ],
+          "spans": [
+            {
+              "offset": 210,
+              "length": 65
+            }
+          ]
+        },
+        {
+          "content": "advise availability. If your reply is in the affirmative we will",
+          "polygon": [
+            249,
+            735,
+            1068,
+            737,
+            1068,
+            763,
+            249,
+            760
+          ],
+          "spans": [
+            {
+              "offset": 276,
+              "length": 64
+            }
+          ]
+        },
+        {
+          "content": "immediately forward pur purchase order.",
+          "polygon": [
+            251,
+            786,
+            740,
+            789,
+            740,
+            813,
+            250,
+            810
+          ],
+          "spans": [
+            {
+              "offset": 341,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "Sincerely yours,",
+          "polygon": [
+            737,
+            839,
+            941,
+            841,
+            941,
+            866,
+            737,
+            864
+          ],
+          "spans": [
+            {
+              "offset": 381,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "a. T. Potter",
+          "polygon": [
+            737,
+            939,
+            891,
+            940,
+            891,
+            963,
+            737,
+            962
+          ],
+          "spans": [
+            {
+              "offset": 398,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Supply Advisor",
+          "polygon": [
+            737,
+            966,
+            914,
+            965,
+            914,
+            990,
+            737,
+            990
+          ],
+          "spans": [
+            {
+              "offset": 411,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "甘拓",
+          "polygon": [
+            533,
+            998,
+            636,
+            997,
+            637,
+            1049,
+            534,
+            1049
+          ],
+          "spans": [
+            {
+              "offset": 426,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "证",
+          "polygon": [
+            450,
+            1128,
+            504,
+            1127,
+            505,
+            1191,
+            451,
+            1192
+          ],
+          "spans": [
+            {
+              "offset": 429,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "Cho/nl",
+          "polygon": [
+            268,
+            1177,
+            342,
+            1177,
+            342,
+            1199,
+            268,
+            1199
+          ],
+          "spans": [
+            {
+              "offset": 431,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "5/28/62",
+          "polygon": [
+            266,
+            1201,
+            355,
+            1201,
+            355,
+            1226,
+            266,
+            1226
+          ],
+          "spans": [
+            {
+              "offset": 438,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "51.5. 24",
+          "polygon": [
+            61,
+            1205,
+            165,
+            1206,
+            165,
+            1240,
+            60,
+            1239
+          ],
+          "spans": [
+            {
+              "offset": 446,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "10270",
+          "polygon": [
+            64,
+            1245,
+            174,
+            1246,
+            174,
+            1278,
+            63,
+            1276
+          ],
+          "spans": [
+            {
+              "offset": 455,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "V.O.",
+          "polygon": [
+            48,
+            1279,
+            87,
+            1279,
+            87,
+            1299,
+            48,
+            1299
+          ],
+          "spans": [
+            {
+              "offset": 461,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "S.G.",
+          "polygon": [
+            47,
+            1310,
+            87,
+            1310,
+            87,
+            1329,
+            47,
+            1329
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            105,
+            1334,
+            128,
+            1334,
+            128,
+            1363,
+            105,
+            1363
+          ],
+          "spans": [
+            {
+              "offset": 471,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "00:",
+          "polygon": [
+            267,
+            1258,
+            302,
+            1258,
+            302,
+            1274,
+            267,
+            1274
+          ],
+          "spans": [
+            {
+              "offset": 473,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "P/SP (2)",
+          "polygon": [
+            329,
+            1251,
+            429,
+            1252,
+            429,
+            1279,
+            328,
+            1277
+          ],
+          "spans": [
+            {
+              "offset": 477,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "X/CUR (2)",
+          "polygon": [
+            327,
+            1276,
+            440,
+            1278,
+            439,
+            1305,
+            326,
+            1303
+          ],
+          "spans": [
+            {
+              "offset": 486,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "PO",
+          "polygon": [
+            328,
+            1306,
+            355,
+            1306,
+            355,
+            1325,
+            327,
+            1325
+          ],
+          "spans": [
+            {
+              "offset": 496,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "JCRA-S.K. Koo",
+          "polygon": [
+            329,
+            1329,
+            492,
+            1332,
+            491,
+            1353,
+            328,
+            1350
+          ],
+          "spans": [
+            {
+              "offset": 499,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "CUSA 2nd Div.",
+          "polygon": [
+            329,
+            1354,
+            486,
+            1356,
+            486,
+            1377,
+            329,
+            1375
+          ],
+          "spans": [
+            {
+              "offset": 513,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "あ",
+          "polygon": [
+            553,
+            1224,
+            590,
+            1218,
+            597,
+            1263,
+            559,
+            1269
+          ],
+          "spans": [
+            {
+              "offset": 527,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            679,
+            1196,
+            703,
+            1195,
+            706,
+            1255,
+            682,
+            1256
+          ],
+          "spans": [
+            {
+              "offset": 529,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "6",
+          "polygon": [
+            622,
+            1114,
+            699,
+            1113,
+            700,
+            1165,
+            622,
+            1166
+          ],
+          "spans": [
+            {
+              "offset": 531,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2,",
+          "polygon": [
+            676,
+            1158,
+            705,
+            1158,
+            706,
+            1191,
+            677,
+            1191
+          ],
+          "spans": [
+            {
+              "offset": 533,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "E16/3,2",
+          "polygon": [
+            719,
+            1158,
+            1090,
+            1132,
+            1098,
+            1245,
+            722,
+            1270
+          ],
+          "spans": [
+            {
+              "offset": 536,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "後丽",
+          "polygon": [
+            601,
+            1275,
+            747,
+            1287,
+            740,
+            1356,
+            595,
+            1344
+          ],
+          "spans": [
+            {
+              "offset": 544,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            864,
+            1433,
+            1056,
+            1434,
+            1056,
+            1508,
+            864,
+            1508
+          ],
+          "spans": [
+            {
+              "offset": 547,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            843,
+            1509,
+            1053,
+            1510,
+            1052,
+            1534,
+            843,
+            1533
+          ],
+          "spans": [
+            {
+              "offset": 551,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "417",
+          "polygon": [
+            19,
+            1531,
+            66,
+            1531,
+            67,
+            1571,
+            20,
+            1571
+          ],
+          "spans": [
+            {
+              "offset": 570,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 573
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            27,
+            53,
+            76,
+            53,
+            76,
+            349,
+            28,
+            349
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "本件保存 七年"
+    },
+    {
+      "spans": [
+        {
+          "offset": 8,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            248,
+            253,
+            1034,
+            248,
+            1034,
+            304,
+            248,
+            309
+          ]
+        }
+      ],
+      "content": "NC- 3820 MAY 24 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 29,
+          "length": 81
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            248,
+            357,
+            692,
+            359,
+            692,
+            459,
+            247,
+            458
+          ]
+        }
+      ],
+      "content": "General Services Administration/F88 Region 9 San Francisco 3, California U. S. .."
+    },
+    {
+      "spans": [
+        {
+          "offset": 111,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            349,
+            509,
+            669,
+            512,
+            668,
+            537,
+            349,
+            534
+          ]
+        }
+      ],
+      "content": "Subject: Excess Property"
+    },
+    {
+      "spans": [
+        {
+          "offset": 136,
+          "length": 244
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            248,
+            584,
+            1091,
+            589,
+            1089,
+            815,
+            246,
+            810
+          ]
+        }
+      ],
+      "content": "Gentlemen, We have requirement for ono Truck Fuel Servicing, Catalog 68], Page 5, Control No. 9-82-50719(28), Item 1, Condition E-l. Plomme advise availability. If your reply is in the affirmative we will immediately forward pur purchase order."
+    },
+    {
+      "spans": [
+        {
+          "offset": 381,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            839,
+            941,
+            841,
+            941,
+            866,
+            737,
+            864
+          ]
+        }
+      ],
+      "content": "Sincerely yours,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 398,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            939,
+            914,
+            939,
+            914,
+            990,
+            737,
+            990
+          ]
+        }
+      ],
+      "content": "a. T. Potter Supply Advisor"
+    },
+    {
+      "spans": [
+        {
+          "offset": 426,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            533,
+            998,
+            636,
+            997,
+            637,
+            1049,
+            534,
+            1049
+          ]
+        }
+      ],
+      "content": "甘拓"
+    },
+    {
+      "spans": [
+        {
+          "offset": 429,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            450,
+            1128,
+            504,
+            1127,
+            505,
+            1191,
+            451,
+            1192
+          ]
+        }
+      ],
+      "content": "证"
+    },
+    {
+      "spans": [
+        {
+          "offset": 431,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            266,
+            1177,
+            355,
+            1177,
+            355,
+            1226,
+            266,
+            1226
+          ]
+        }
+      ],
+      "content": "Cho/nl 5/28/62"
+    },
+    {
+      "spans": [
+        {
+          "offset": 446,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            61,
+            1205,
+            165,
+            1206,
+            165,
+            1240,
+            60,
+            1239
+          ]
+        }
+      ],
+      "content": "51.5. 24"
+    },
+    {
+      "spans": [
+        {
+          "offset": 455,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            48,
+            1245,
+            174,
+            1246,
+            174,
+            1300,
+            48,
+            1299
+          ]
+        }
+      ],
+      "content": "10270 V.O."
+    },
+    {
+      "spans": [
+        {
+          "offset": 466,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            46,
+            1310,
+            87,
+            1310,
+            87,
+            1329,
+            47,
+            1329
+          ]
+        }
+      ],
+      "content": "S.G."
+    },
+    {
+      "spans": [
+        {
+          "offset": 471,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            105,
+            1334,
+            128,
+            1334,
+            128,
+            1363,
+            105,
+            1363
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 473,
+          "length": 53
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            267,
+            1250,
+            493,
+            1253,
+            491,
+            1377,
+            265,
+            1375
+          ]
+        }
+      ],
+      "content": "00: P/SP (2) X/CUR (2) PO JCRA-S.K. Koo CUSA 2nd Div."
+    },
+    {
+      "spans": [
+        {
+          "offset": 527,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            552,
+            1208,
+            703,
+            1194,
+            708,
+            1255,
+            557,
+            1269
+          ]
+        }
+      ],
+      "content": "あ 3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 531,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            622,
+            1114,
+            1096,
+            1108,
+            1098,
+            1265,
+            624,
+            1271
+          ]
+        }
+      ],
+      "content": "6 2, E16/3,2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 544,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            600,
+            1275,
+            747,
+            1287,
+            741,
+            1356,
+            595,
+            1344
+          ]
+        }
+      ],
+      "content": "後丽"
+    },
+    {
+      "spans": [
+        {
+          "offset": 547,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            844,
+            1433,
+            1057,
+            1434,
+            1056,
+            1534,
+            843,
+            1533
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 570,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            19,
+            1531,
+            66,
+            1531,
+            67,
+            1571,
+            20,
+            1571
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "417"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 8,
+          "length": 8
+        },
+        {
+          "offset": 531,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 426,
+          "length": 4
+        },
+        {
+          "offset": 527,
+          "length": 1
+        },
+        {
+          "offset": 533,
+          "length": 13
+        },
+        {
+          "offset": 570,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 455,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 529,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 547,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 8,
+          "length": 561
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/paragraphs/6",
+        "/paragraphs/7",
+        "/paragraphs/8",
+        "/paragraphs/9",
+        "/paragraphs/10",
+        "/paragraphs/11",
+        "/paragraphs/12",
+        "/paragraphs/13",
+        "/paragraphs/14",
+        "/paragraphs/15",
+        "/paragraphs/16",
+        "/paragraphs/17",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            857,
+            1432,
+            1062,
+            1432,
+            1061,
+            1530,
+            857,
+            1530
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 547,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/18"
+      ]
+    }
+  ]
+}

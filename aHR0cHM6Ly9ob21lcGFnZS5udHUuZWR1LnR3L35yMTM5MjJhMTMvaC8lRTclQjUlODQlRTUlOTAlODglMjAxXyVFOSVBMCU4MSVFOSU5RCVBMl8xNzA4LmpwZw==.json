@@ -1,0 +1,3763 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "-6-\nITEM\nSTOCK NUMBER AND DESCRIPTION\nUNIT OF ISSUE\nSUPPLY ACTION\nNO.\nOF MATERIAL AND /OR SERVICES\n44.(S )9510-596-3747\nSTEEL BAR, CARBON, COLD FINISHED: Round Spec Fed QQ-S-633, composition B1112, 1-1/2 dia in, 12 length ft 6.01 1b per ft 1-2-11/5-1-970 (5)\nFT\n314\n45.(s)9510-596-3874\nSTEEL BAR, CARBON, COLD FINISHED: Round Spec Fed QQ S-633, composition 1020, 1- 7/8 dia in, 10-23 length ft, 0.167 1b per ft annealed 1-2-11/5-1-970 (5)\nFT\n141\n46.(S)9510-596-6298\nTOOL STEEL, CARBON: Round, Spec Fed QQ-S. 00779, Spheroidize annealed 6 to 14 ft length, 11/32 in ID 1.250 in, dia, class W1-08, 4.172 1b per ft 1-2-11/5-1-970 (5)\nEA\n109\n470\nDeta U :unselected:",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.00839999970048666,
+      "width": 1273,
+      "height": 1621,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "-6-",
+          "polygon": [
+            628,
+            145,
+            697,
+            145,
+            697,
+            166,
+            628,
+            166
+          ],
+          "confidence": 0.807,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "ITEM",
+          "polygon": [
+            162,
+            193,
+            218,
+            193,
+            218,
+            214,
+            162,
+            214
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 4,
+            "length": 4
+          }
+        },
+        {
+          "content": "STOCK",
+          "polygon": [
+            439,
+            193,
+            506,
+            192,
+            506,
+            215,
+            439,
+            215
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 9,
+            "length": 5
+          }
+        },
+        {
+          "content": "NUMBER",
+          "polygon": [
+            516,
+            192,
+            590,
+            192,
+            590,
+            215,
+            516,
+            215
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 15,
+            "length": 6
+          }
+        },
+        {
+          "content": "AND",
+          "polygon": [
+            604,
+            192,
+            645,
+            192,
+            645,
+            214,
+            604,
+            215
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 22,
+            "length": 3
+          }
+        },
+        {
+          "content": "DESCRIPTION",
+          "polygon": [
+            652,
+            192,
+            796,
+            191,
+            796,
+            214,
+            652,
+            214
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 26,
+            "length": 11
+          }
+        },
+        {
+          "content": "UNIT",
+          "polygon": [
+            969,
+            192,
+            1020,
+            191,
+            1020,
+            212,
+            969,
+            212
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 38,
+            "length": 4
+          }
+        },
+        {
+          "content": "OF",
+          "polygon": [
+            1029,
+            191,
+            1060,
+            191,
+            1060,
+            212,
+            1029,
+            212
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 43,
+            "length": 2
+          }
+        },
+        {
+          "content": "ISSUE",
+          "polygon": [
+            981,
+            217,
+            1048,
+            217,
+            1048,
+            237,
+            981,
+            237
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 46,
+            "length": 5
+          }
+        },
+        {
+          "content": "SUPPLY",
+          "polygon": [
+            1080,
+            192,
+            1161,
+            191,
+            1161,
+            213,
+            1080,
+            212
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 52,
+            "length": 6
+          }
+        },
+        {
+          "content": "ACTION",
+          "polygon": [
+            1081,
+            218,
+            1161,
+            217,
+            1161,
+            239,
+            1081,
+            239
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 59,
+            "length": 6
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            175,
+            220,
+            213,
+            220,
+            213,
+            241,
+            175,
+            240
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 66,
+            "length": 3
+          }
+        },
+        {
+          "content": "OF",
+          "polygon": [
+            440,
+            217,
+            467,
+            217,
+            467,
+            240,
+            440,
+            240
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 70,
+            "length": 2
+          }
+        },
+        {
+          "content": "MATERIAL",
+          "polygon": [
+            472,
+            217,
+            582,
+            217,
+            582,
+            240,
+            472,
+            240
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 73,
+            "length": 8
+          }
+        },
+        {
+          "content": "AND",
+          "polygon": [
+            593,
+            217,
+            628,
+            217,
+            628,
+            240,
+            593,
+            240
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 82,
+            "length": 3
+          }
+        },
+        {
+          "content": "/OR",
+          "polygon": [
+            633,
+            216,
+            670,
+            217,
+            669,
+            240,
+            633,
+            240
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 86,
+            "length": 3
+          }
+        },
+        {
+          "content": "SERVICES",
+          "polygon": [
+            681,
+            216,
+            784,
+            217,
+            784,
+            239,
+            681,
+            240
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 90,
+            "length": 8
+          }
+        },
+        {
+          "content": "44.(S",
+          "polygon": [
+            175,
+            267,
+            237,
+            267,
+            237,
+            295,
+            175,
+            296
+          ],
+          "confidence": 0.76,
+          "span": {
+            "offset": 99,
+            "length": 5
+          }
+        },
+        {
+          "content": ")9510-596-3747",
+          "polygon": [
+            242,
+            267,
+            419,
+            267,
+            419,
+            295,
+            242,
+            295
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 105,
+            "length": 14
+          }
+        },
+        {
+          "content": "STEEL",
+          "polygon": [
+            439,
+            266,
+            507,
+            266,
+            507,
+            291,
+            439,
+            291
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 120,
+            "length": 5
+          }
+        },
+        {
+          "content": "BAR,",
+          "polygon": [
+            515,
+            266,
+            572,
+            266,
+            572,
+            291,
+            515,
+            291
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 126,
+            "length": 4
+          }
+        },
+        {
+          "content": "CARBON,",
+          "polygon": [
+            579,
+            266,
+            669,
+            266,
+            669,
+            291,
+            579,
+            291
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 131,
+            "length": 7
+          }
+        },
+        {
+          "content": "COLD",
+          "polygon": [
+            680,
+            266,
+            733,
+            266,
+            733,
+            291,
+            679,
+            291
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 139,
+            "length": 4
+          }
+        },
+        {
+          "content": "FINISHED:",
+          "polygon": [
+            742,
+            266,
+            855,
+            267,
+            855,
+            291,
+            742,
+            291
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 144,
+            "length": 9
+          }
+        },
+        {
+          "content": "Round",
+          "polygon": [
+            865,
+            267,
+            935,
+            267,
+            935,
+            292,
+            865,
+            291
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 154,
+            "length": 5
+          }
+        },
+        {
+          "content": "Spec",
+          "polygon": [
+            439,
+            293,
+            495,
+            293,
+            495,
+            318,
+            439,
+            318
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 160,
+            "length": 4
+          }
+        },
+        {
+          "content": "Fed",
+          "polygon": [
+            503,
+            293,
+            542,
+            293,
+            542,
+            318,
+            503,
+            318
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 165,
+            "length": 3
+          }
+        },
+        {
+          "content": "QQ-S-633,",
+          "polygon": [
+            555,
+            293,
+            667,
+            293,
+            667,
+            319,
+            555,
+            318
+          ],
+          "confidence": 0.67,
+          "span": {
+            "offset": 169,
+            "length": 9
+          }
+        },
+        {
+          "content": "composition",
+          "polygon": [
+            676,
+            293,
+            820,
+            293,
+            820,
+            319,
+            676,
+            319
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 179,
+            "length": 11
+          }
+        },
+        {
+          "content": "B1112,",
+          "polygon": [
+            832,
+            293,
+            907,
+            293,
+            907,
+            319,
+            831,
+            319
+          ],
+          "confidence": 0.701,
+          "span": {
+            "offset": 191,
+            "length": 6
+          }
+        },
+        {
+          "content": "1-1/2",
+          "polygon": [
+            919,
+            293,
+            985,
+            293,
+            985,
+            320,
+            919,
+            319
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 198,
+            "length": 5
+          }
+        },
+        {
+          "content": "dia",
+          "polygon": [
+            439,
+            319,
+            481,
+            319,
+            481,
+            343,
+            439,
+            343
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 204,
+            "length": 3
+          }
+        },
+        {
+          "content": "in,",
+          "polygon": [
+            492,
+            319,
+            537,
+            319,
+            537,
+            343,
+            492,
+            343
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 208,
+            "length": 3
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            543,
+            319,
+            574,
+            319,
+            574,
+            343,
+            542,
+            343
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 212,
+            "length": 2
+          }
+        },
+        {
+          "content": "length",
+          "polygon": [
+            580,
+            319,
+            654,
+            319,
+            654,
+            343,
+            580,
+            343
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 215,
+            "length": 6
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            669,
+            319,
+            695,
+            319,
+            694,
+            343,
+            669,
+            343
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 222,
+            "length": 2
+          }
+        },
+        {
+          "content": "6.01",
+          "polygon": [
+            700,
+            319,
+            759,
+            319,
+            759,
+            343,
+            700,
+            343
+          ],
+          "confidence": 0.894,
+          "span": {
+            "offset": 225,
+            "length": 4
+          }
+        },
+        {
+          "content": "1b",
+          "polygon": [
+            767,
+            319,
+            795,
+            319,
+            795,
+            343,
+            767,
+            343
+          ],
+          "confidence": 0.869,
+          "span": {
+            "offset": 230,
+            "length": 2
+          }
+        },
+        {
+          "content": "per",
+          "polygon": [
+            805,
+            319,
+            850,
+            319,
+            850,
+            343,
+            805,
+            343
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 233,
+            "length": 3
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            855,
+            319,
+            885,
+            319,
+            885,
+            343,
+            855,
+            343
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 237,
+            "length": 2
+          }
+        },
+        {
+          "content": "1-2-11/5-1-970",
+          "polygon": [
+            441,
+            344,
+            619,
+            343,
+            619,
+            368,
+            441,
+            369
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 240,
+            "length": 14
+          }
+        },
+        {
+          "content": "(5)",
+          "polygon": [
+            629,
+            343,
+            672,
+            343,
+            672,
+            368,
+            629,
+            368
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 255,
+            "length": 3
+          }
+        },
+        {
+          "content": "FT",
+          "polygon": [
+            1005,
+            342,
+            1035,
+            342,
+            1035,
+            363,
+            1005,
+            363
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 259,
+            "length": 2
+          }
+        },
+        {
+          "content": "314",
+          "polygon": [
+            1119,
+            345,
+            1160,
+            345,
+            1160,
+            368,
+            1119,
+            368
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 262,
+            "length": 3
+          }
+        },
+        {
+          "content": "45.(s)9510-596-3874",
+          "polygon": [
+            175,
+            393,
+            419,
+            393,
+            419,
+            421,
+            175,
+            421
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 266,
+            "length": 19
+          }
+        },
+        {
+          "content": "STEEL",
+          "polygon": [
+            439,
+            391,
+            507,
+            391,
+            507,
+            417,
+            439,
+            417
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 286,
+            "length": 5
+          }
+        },
+        {
+          "content": "BAR,",
+          "polygon": [
+            517,
+            391,
+            567,
+            391,
+            567,
+            417,
+            517,
+            417
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 292,
+            "length": 4
+          }
+        },
+        {
+          "content": "CARBON,",
+          "polygon": [
+            578,
+            391,
+            669,
+            391,
+            669,
+            417,
+            578,
+            417
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 297,
+            "length": 7
+          }
+        },
+        {
+          "content": "COLD",
+          "polygon": [
+            680,
+            391,
+            731,
+            391,
+            731,
+            417,
+            680,
+            417
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 305,
+            "length": 4
+          }
+        },
+        {
+          "content": "FINISHED:",
+          "polygon": [
+            742,
+            391,
+            860,
+            392,
+            860,
+            417,
+            742,
+            417
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 310,
+            "length": 9
+          }
+        },
+        {
+          "content": "Round",
+          "polygon": [
+            869,
+            392,
+            935,
+            392,
+            935,
+            418,
+            869,
+            417
+          ],
+          "confidence": 0.643,
+          "span": {
+            "offset": 320,
+            "length": 5
+          }
+        },
+        {
+          "content": "Spec",
+          "polygon": [
+            439,
+            419,
+            497,
+            419,
+            497,
+            443,
+            439,
+            443
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 326,
+            "length": 4
+          }
+        },
+        {
+          "content": "Fed",
+          "polygon": [
+            503,
+            419,
+            544,
+            419,
+            544,
+            444,
+            503,
+            443
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 331,
+            "length": 3
+          }
+        },
+        {
+          "content": "QQ",
+          "polygon": [
+            556,
+            419,
+            580,
+            419,
+            580,
+            444,
+            556,
+            444
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 335,
+            "length": 2
+          }
+        },
+        {
+          "content": "S-633,",
+          "polygon": [
+            592,
+            419,
+            672,
+            419,
+            672,
+            444,
+            592,
+            444
+          ],
+          "confidence": 0.759,
+          "span": {
+            "offset": 338,
+            "length": 6
+          }
+        },
+        {
+          "content": "composition",
+          "polygon": [
+            678,
+            419,
+            820,
+            419,
+            820,
+            444,
+            678,
+            444
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 345,
+            "length": 11
+          }
+        },
+        {
+          "content": "1020,",
+          "polygon": [
+            831,
+            419,
+            896,
+            419,
+            896,
+            444,
+            831,
+            444
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 357,
+            "length": 5
+          }
+        },
+        {
+          "content": "1-",
+          "polygon": [
+            909,
+            419,
+            936,
+            419,
+            936,
+            444,
+            909,
+            444
+          ],
+          "confidence": 0.928,
+          "span": {
+            "offset": 363,
+            "length": 2
+          }
+        },
+        {
+          "content": "7/8",
+          "polygon": [
+            440,
+            444,
+            484,
+            444,
+            483,
+            470,
+            440,
+            470
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 366,
+            "length": 3
+          }
+        },
+        {
+          "content": "dia",
+          "polygon": [
+            491,
+            444,
+            529,
+            444,
+            528,
+            470,
+            491,
+            470
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 370,
+            "length": 3
+          }
+        },
+        {
+          "content": "in,",
+          "polygon": [
+            541,
+            444,
+            579,
+            444,
+            579,
+            470,
+            541,
+            470
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 374,
+            "length": 3
+          }
+        },
+        {
+          "content": "10-23",
+          "polygon": [
+            586,
+            444,
+            662,
+            444,
+            662,
+            470,
+            586,
+            470
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 378,
+            "length": 5
+          }
+        },
+        {
+          "content": "length",
+          "polygon": [
+            669,
+            444,
+            745,
+            444,
+            745,
+            470,
+            668,
+            470
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 384,
+            "length": 6
+          }
+        },
+        {
+          "content": "ft,",
+          "polygon": [
+            756,
+            444,
+            796,
+            444,
+            796,
+            470,
+            756,
+            470
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 391,
+            "length": 3
+          }
+        },
+        {
+          "content": "0.167",
+          "polygon": [
+            806,
+            444,
+            872,
+            444,
+            872,
+            469,
+            807,
+            470
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 395,
+            "length": 5
+          }
+        },
+        {
+          "content": "1b",
+          "polygon": [
+            879,
+            444,
+            911,
+            444,
+            911,
+            469,
+            879,
+            469
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 401,
+            "length": 2
+          }
+        },
+        {
+          "content": "per",
+          "polygon": [
+            440,
+            472,
+            480,
+            472,
+            480,
+            494,
+            440,
+            494
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 404,
+            "length": 3
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            487,
+            472,
+            519,
+            471,
+            520,
+            493,
+            487,
+            494
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 408,
+            "length": 2
+          }
+        },
+        {
+          "content": "annealed",
+          "polygon": [
+            529,
+            471,
+            632,
+            471,
+            632,
+            492,
+            530,
+            493
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 411,
+            "length": 8
+          }
+        },
+        {
+          "content": "1-2-11/5-1-970",
+          "polygon": [
+            441,
+            493,
+            619,
+            492,
+            619,
+            519,
+            441,
+            519
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 420,
+            "length": 14
+          }
+        },
+        {
+          "content": "(5)",
+          "polygon": [
+            633,
+            492,
+            672,
+            492,
+            672,
+            518,
+            633,
+            519
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 435,
+            "length": 3
+          }
+        },
+        {
+          "content": "FT",
+          "polygon": [
+            1006,
+            492,
+            1036,
+            492,
+            1036,
+            514,
+            1005,
+            514
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 439,
+            "length": 2
+          }
+        },
+        {
+          "content": "141",
+          "polygon": [
+            1120,
+            494,
+            1161,
+            494,
+            1161,
+            517,
+            1120,
+            516
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 442,
+            "length": 3
+          }
+        },
+        {
+          "content": "46.(S)9510-596-6298",
+          "polygon": [
+            175,
+            543,
+            418,
+            543,
+            418,
+            569,
+            175,
+            571
+          ],
+          "confidence": 0.881,
+          "span": {
+            "offset": 446,
+            "length": 19
+          }
+        },
+        {
+          "content": "TOOL",
+          "polygon": [
+            440,
+            541,
+            495,
+            541,
+            495,
+            566,
+            440,
+            566
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 466,
+            "length": 4
+          }
+        },
+        {
+          "content": "STEEL,",
+          "polygon": [
+            504,
+            541,
+            579,
+            541,
+            579,
+            566,
+            504,
+            566
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 471,
+            "length": 6
+          }
+        },
+        {
+          "content": "CARBON:",
+          "polygon": [
+            587,
+            541,
+            680,
+            541,
+            680,
+            567,
+            587,
+            566
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 478,
+            "length": 7
+          }
+        },
+        {
+          "content": "Round,",
+          "polygon": [
+            693,
+            542,
+            771,
+            541,
+            771,
+            567,
+            693,
+            567
+          ],
+          "confidence": 0.936,
+          "span": {
+            "offset": 486,
+            "length": 6
+          }
+        },
+        {
+          "content": "Spec",
+          "polygon": [
+            782,
+            541,
+            833,
+            542,
+            833,
+            567,
+            782,
+            567
+          ],
+          "confidence": 0.891,
+          "span": {
+            "offset": 493,
+            "length": 4
+          }
+        },
+        {
+          "content": "Fed",
+          "polygon": [
+            843,
+            542,
+            883,
+            542,
+            884,
+            567,
+            843,
+            567
+          ],
+          "confidence": 0.946,
+          "span": {
+            "offset": 498,
+            "length": 3
+          }
+        },
+        {
+          "content": "QQ-S.",
+          "polygon": [
+            896,
+            542,
+            961,
+            541,
+            961,
+            567,
+            896,
+            567
+          ],
+          "confidence": 0.385,
+          "span": {
+            "offset": 502,
+            "length": 5
+          }
+        },
+        {
+          "content": "00779,",
+          "polygon": [
+            441,
+            568,
+            515,
+            568,
+            516,
+            593,
+            441,
+            593
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 508,
+            "length": 6
+          }
+        },
+        {
+          "content": "Spheroidize",
+          "polygon": [
+            527,
+            568,
+            670,
+            568,
+            670,
+            593,
+            527,
+            593
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 515,
+            "length": 11
+          }
+        },
+        {
+          "content": "annealed",
+          "polygon": [
+            681,
+            568,
+            782,
+            568,
+            782,
+            592,
+            681,
+            592
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 527,
+            "length": 8
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            792,
+            568,
+            807,
+            568,
+            808,
+            592,
+            792,
+            592
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 536,
+            "length": 1
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            819,
+            568,
+            846,
+            568,
+            847,
+            592,
+            819,
+            592
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 538,
+            "length": 2
+          }
+        },
+        {
+          "content": "14",
+          "polygon": [
+            858,
+            568,
+            888,
+            568,
+            888,
+            592,
+            858,
+            592
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 541,
+            "length": 2
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            895,
+            568,
+            923,
+            568,
+            923,
+            592,
+            895,
+            592
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 544,
+            "length": 2
+          }
+        },
+        {
+          "content": "length,",
+          "polygon": [
+            441,
+            593,
+            529,
+            593,
+            529,
+            618,
+            440,
+            618
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 547,
+            "length": 7
+          }
+        },
+        {
+          "content": "11/32",
+          "polygon": [
+            540,
+            593,
+            606,
+            593,
+            606,
+            618,
+            540,
+            618
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 555,
+            "length": 5
+          }
+        },
+        {
+          "content": "in",
+          "polygon": [
+            618,
+            593,
+            642,
+            593,
+            642,
+            618,
+            618,
+            618
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 561,
+            "length": 2
+          }
+        },
+        {
+          "content": "ID",
+          "polygon": [
+            657,
+            593,
+            682,
+            593,
+            682,
+            618,
+            657,
+            618
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 564,
+            "length": 2
+          }
+        },
+        {
+          "content": "1.250",
+          "polygon": [
+            691,
+            593,
+            758,
+            593,
+            758,
+            619,
+            691,
+            618
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 567,
+            "length": 5
+          }
+        },
+        {
+          "content": "in,",
+          "polygon": [
+            768,
+            593,
+            809,
+            593,
+            809,
+            618,
+            768,
+            619
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 573,
+            "length": 3
+          }
+        },
+        {
+          "content": "dia,",
+          "polygon": [
+            818,
+            593,
+            871,
+            594,
+            871,
+            618,
+            818,
+            618
+          ],
+          "confidence": 0.937,
+          "span": {
+            "offset": 577,
+            "length": 4
+          }
+        },
+        {
+          "content": "class",
+          "polygon": [
+            881,
+            594,
+            946,
+            594,
+            946,
+            618,
+            881,
+            618
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 582,
+            "length": 5
+          }
+        },
+        {
+          "content": "W1-08,",
+          "polygon": [
+            439,
+            619,
+            520,
+            619,
+            520,
+            643,
+            439,
+            643
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 588,
+            "length": 6
+          }
+        },
+        {
+          "content": "4.172",
+          "polygon": [
+            529,
+            619,
+            594,
+            619,
+            594,
+            643,
+            529,
+            643
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 595,
+            "length": 5
+          }
+        },
+        {
+          "content": "1b",
+          "polygon": [
+            605,
+            619,
+            632,
+            619,
+            632,
+            643,
+            605,
+            643
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 601,
+            "length": 2
+          }
+        },
+        {
+          "content": "per",
+          "polygon": [
+            642,
+            619,
+            683,
+            619,
+            683,
+            642,
+            642,
+            643
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 604,
+            "length": 3
+          }
+        },
+        {
+          "content": "ft",
+          "polygon": [
+            694,
+            619,
+            722,
+            619,
+            722,
+            642,
+            695,
+            642
+          ],
+          "confidence": 0.928,
+          "span": {
+            "offset": 608,
+            "length": 2
+          }
+        },
+        {
+          "content": "1-2-11/5-1-970",
+          "polygon": [
+            441,
+            643,
+            622,
+            642,
+            622,
+            668,
+            441,
+            669
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 611,
+            "length": 14
+          }
+        },
+        {
+          "content": "(5)",
+          "polygon": [
+            633,
+            642,
+            673,
+            642,
+            673,
+            668,
+            633,
+            668
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 626,
+            "length": 3
+          }
+        },
+        {
+          "content": "EA",
+          "polygon": [
+            1006,
+            642,
+            1036,
+            642,
+            1036,
+            662,
+            1005,
+            662
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 630,
+            "length": 2
+          }
+        },
+        {
+          "content": "109",
+          "polygon": [
+            1121,
+            643,
+            1161,
+            643,
+            1161,
+            665,
+            1121,
+            664
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 633,
+            "length": 3
+          }
+        },
+        {
+          "content": "470",
+          "polygon": [
+            29,
+            1557,
+            96,
+            1556,
+            96,
+            1600,
+            29,
+            1600
+          ],
+          "confidence": 0.824,
+          "span": {
+            "offset": 637,
+            "length": 3
+          }
+        },
+        {
+          "content": "Deta",
+          "polygon": [
+            906,
+            1463,
+            1101,
+            1465,
+            1101,
+            1538,
+            907,
+            1535
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 641,
+            "length": 4
+          }
+        },
+        {
+          "content": "U",
+          "polygon": [
+            1113,
+            1412,
+            1220,
+            1406,
+            1220,
+            1569,
+            1117,
+            1572
+          ],
+          "confidence": 0.093,
+          "span": {
+            "offset": 646,
+            "length": 1
+          }
+        }
+      ],
+      "selectionMarks": [
+        {
+          "state": "unselected",
+          "polygon": [
+            832,
+            66,
+            875,
+            66,
+            875,
+            108,
+            832,
+            108
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 648,
+            "length": 12
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "-6-",
+          "polygon": [
+            628,
+            144,
+            697,
+            145,
+            697,
+            166,
+            628,
+            166
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "ITEM",
+          "polygon": [
+            162,
+            193,
+            218,
+            193,
+            218,
+            214,
+            162,
+            214
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "STOCK NUMBER AND DESCRIPTION",
+          "polygon": [
+            439,
+            192,
+            796,
+            191,
+            796,
+            213,
+            439,
+            215
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "UNIT OF",
+          "polygon": [
+            969,
+            191,
+            1060,
+            191,
+            1060,
+            212,
+            969,
+            212
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "ISSUE",
+          "polygon": [
+            981,
+            217,
+            1047,
+            217,
+            1047,
+            237,
+            981,
+            237
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "SUPPLY",
+          "polygon": [
+            1080,
+            191,
+            1161,
+            191,
+            1161,
+            212,
+            1080,
+            212
+          ],
+          "spans": [
+            {
+              "offset": 52,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "ACTION",
+          "polygon": [
+            1081,
+            218,
+            1161,
+            217,
+            1161,
+            239,
+            1081,
+            239
+          ],
+          "spans": [
+            {
+              "offset": 59,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            175,
+            219,
+            213,
+            220,
+            213,
+            241,
+            175,
+            240
+          ],
+          "spans": [
+            {
+              "offset": 66,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "OF MATERIAL AND /OR SERVICES",
+          "polygon": [
+            440,
+            217,
+            783,
+            216,
+            783,
+            239,
+            440,
+            240
+          ],
+          "spans": [
+            {
+              "offset": 70,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "44.(S )9510-596-3747",
+          "polygon": [
+            175,
+            267,
+            419,
+            266,
+            419,
+            294,
+            175,
+            295
+          ],
+          "spans": [
+            {
+              "offset": 99,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "STEEL BAR, CARBON, COLD FINISHED: Round",
+          "polygon": [
+            439,
+            266,
+            934,
+            266,
+            934,
+            292,
+            439,
+            291
+          ],
+          "spans": [
+            {
+              "offset": 120,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "Spec Fed QQ-S-633, composition B1112, 1-1/2",
+          "polygon": [
+            439,
+            292,
+            985,
+            293,
+            985,
+            319,
+            439,
+            318
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "dia in, 12 length ft 6.01 1b per ft",
+          "polygon": [
+            439,
+            319,
+            884,
+            319,
+            884,
+            343,
+            439,
+            343
+          ],
+          "spans": [
+            {
+              "offset": 204,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "1-2-11/5-1-970 (5)",
+          "polygon": [
+            441,
+            344,
+            671,
+            342,
+            671,
+            368,
+            441,
+            369
+          ],
+          "spans": [
+            {
+              "offset": 240,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "FT",
+          "polygon": [
+            1005,
+            342,
+            1035,
+            342,
+            1035,
+            363,
+            1005,
+            363
+          ],
+          "spans": [
+            {
+              "offset": 259,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "314",
+          "polygon": [
+            1119,
+            345,
+            1160,
+            344,
+            1160,
+            368,
+            1119,
+            368
+          ],
+          "spans": [
+            {
+              "offset": 262,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "45.(s)9510-596-3874",
+          "polygon": [
+            175,
+            393,
+            418,
+            392,
+            418,
+            420,
+            175,
+            421
+          ],
+          "spans": [
+            {
+              "offset": 266,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "STEEL BAR, CARBON, COLD FINISHED: Round",
+          "polygon": [
+            439,
+            391,
+            935,
+            391,
+            935,
+            417,
+            439,
+            416
+          ],
+          "spans": [
+            {
+              "offset": 286,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "Spec Fed QQ S-633, composition 1020, 1-",
+          "polygon": [
+            439,
+            418,
+            935,
+            419,
+            935,
+            444,
+            439,
+            443
+          ],
+          "spans": [
+            {
+              "offset": 326,
+              "length": 39
+            }
+          ]
+        },
+        {
+          "content": "7/8 dia in, 10-23 length ft, 0.167 1b",
+          "polygon": [
+            440,
+            444,
+            911,
+            443,
+            911,
+            470,
+            440,
+            470
+          ],
+          "spans": [
+            {
+              "offset": 366,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "per ft annealed",
+          "polygon": [
+            440,
+            472,
+            632,
+            470,
+            632,
+            492,
+            440,
+            494
+          ],
+          "spans": [
+            {
+              "offset": 404,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "1-2-11/5-1-970 (5)",
+          "polygon": [
+            440,
+            493,
+            671,
+            491,
+            672,
+            518,
+            441,
+            519
+          ],
+          "spans": [
+            {
+              "offset": 420,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "FT",
+          "polygon": [
+            1006,
+            492,
+            1035,
+            492,
+            1035,
+            514,
+            1005,
+            513
+          ],
+          "spans": [
+            {
+              "offset": 439,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "141",
+          "polygon": [
+            1120,
+            494,
+            1160,
+            494,
+            1160,
+            516,
+            1120,
+            516
+          ],
+          "spans": [
+            {
+              "offset": 442,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "46.(S)9510-596-6298",
+          "polygon": [
+            175,
+            543,
+            417,
+            542,
+            417,
+            569,
+            175,
+            570
+          ],
+          "spans": [
+            {
+              "offset": 446,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "TOOL STEEL, CARBON: Round, Spec Fed QQ-S.",
+          "polygon": [
+            440,
+            541,
+            961,
+            541,
+            961,
+            567,
+            440,
+            566
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 41
+            }
+          ]
+        },
+        {
+          "content": "00779, Spheroidize annealed 6 to 14 ft",
+          "polygon": [
+            441,
+            568,
+            922,
+            568,
+            922,
+            592,
+            441,
+            593
+          ],
+          "spans": [
+            {
+              "offset": 508,
+              "length": 38
+            }
+          ]
+        },
+        {
+          "content": "length, 11/32 in ID 1.250 in, dia, class",
+          "polygon": [
+            440,
+            593,
+            946,
+            593,
+            946,
+            618,
+            440,
+            618
+          ],
+          "spans": [
+            {
+              "offset": 547,
+              "length": 40
+            }
+          ]
+        },
+        {
+          "content": "W1-08, 4.172 1b per ft",
+          "polygon": [
+            439,
+            619,
+            721,
+            619,
+            721,
+            643,
+            439,
+            643
+          ],
+          "spans": [
+            {
+              "offset": 588,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "1-2-11/5-1-970 (5)",
+          "polygon": [
+            441,
+            643,
+            672,
+            642,
+            673,
+            668,
+            441,
+            669
+          ],
+          "spans": [
+            {
+              "offset": 611,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "EA",
+          "polygon": [
+            1006,
+            642,
+            1036,
+            642,
+            1036,
+            662,
+            1005,
+            662
+          ],
+          "spans": [
+            {
+              "offset": 630,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "109",
+          "polygon": [
+            1121,
+            643,
+            1161,
+            643,
+            1161,
+            664,
+            1121,
+            664
+          ],
+          "spans": [
+            {
+              "offset": 633,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "470",
+          "polygon": [
+            29,
+            1556,
+            95,
+            1556,
+            96,
+            1599,
+            29,
+            1600
+          ],
+          "spans": [
+            {
+              "offset": 637,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Deta",
+          "polygon": [
+            907,
+            1462,
+            1101,
+            1464,
+            1100,
+            1538,
+            906,
+            1535
+          ],
+          "spans": [
+            {
+              "offset": 641,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "U",
+          "polygon": [
+            1113,
+            1407,
+            1216,
+            1404,
+            1220,
+            1569,
+            1117,
+            1571
+          ],
+          "spans": [
+            {
+              "offset": 646,
+              "length": 1
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 660
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 5,
+      "columnCount": 4,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "ITEM",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                152,
+                179,
+                429,
+                178,
+                429,
+                215,
+                152,
+                216
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/1"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "STOCK NUMBER AND DESCRIPTION",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                429,
+                178,
+                956,
+                178,
+                956,
+                215,
+                429,
+                215
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 28
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "rowSpan": 2,
+          "content": "UNIT OF ISSUE",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                956,
+                178,
+                1068,
+                178,
+                1068,
+                239,
+                956,
+                239
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "rowSpan": 2,
+          "content": "SUPPLY ACTION",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1068,
+                178,
+                1174,
+                178,
+                1174,
+                239,
+                1068,
+                239
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 52,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "NO.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                152,
+                216,
+                429,
+                215,
+                429,
+                239,
+                152,
+                238
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 66,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "OF MATERIAL AND /OR SERVICES",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                429,
+                215,
+                956,
+                215,
+                956,
+                239,
+                429,
+                239
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 70,
+              "length": 28
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "44.(S )9510-596-3747",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                152,
+                238,
+                429,
+                239,
+                429,
+                379,
+                153,
+                379
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 99,
+              "length": 20
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "STEEL BAR, CARBON, COLD FINISHED: Round Spec Fed QQ-S-633, composition B1112, 1-1/2 dia in, 12 length ft 6.01 1b per ft 1-2-11/5-1-970 (5)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                429,
+                239,
+                956,
+                239,
+                957,
+                379,
+                429,
+                379
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 120,
+              "length": 138
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "FT",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                956,
+                239,
+                1068,
+                239,
+                1068,
+                380,
+                957,
+                379
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 259,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "314",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1068,
+                239,
+                1174,
+                239,
+                1175,
+                380,
+                1068,
+                380
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 262,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "45.(s)9510-596-3874",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                153,
+                379,
+                429,
+                379,
+                429,
+                528,
+                153,
+                528
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 266,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "STEEL BAR, CARBON, COLD FINISHED: Round Spec Fed QQ S-633, composition 1020, 1- 7/8 dia in, 10-23 length ft, 0.167 1b per ft annealed 1-2-11/5-1-970 (5)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                429,
+                379,
+                957,
+                379,
+                957,
+                528,
+                429,
+                528
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 286,
+              "length": 152
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "FT",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                957,
+                379,
+                1068,
+                380,
+                1068,
+                528,
+                957,
+                528
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 439,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "141",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1068,
+                380,
+                1175,
+                380,
+                1175,
+                530,
+                1068,
+                528
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 442,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "46.(S)9510-596-6298",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                153,
+                528,
+                429,
+                528,
+                429,
+                678,
+                154,
+                679
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 446,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "TOOL STEEL, CARBON: Round, Spec Fed QQ-S. 00779, Spheroidize annealed 6 to 14 ft length, 11/32 in ID 1.250 in, dia, class W1-08, 4.172 1b per ft 1-2-11/5-1-970 (5)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                429,
+                528,
+                957,
+                528,
+                957,
+                678,
+                429,
+                678
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 163
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "EA",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                957,
+                528,
+                1068,
+                528,
+                1067,
+                678,
+                957,
+                678
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 630,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 3,
+          "content": "109",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1068,
+                528,
+                1175,
+                530,
+                1175,
+                678,
+                1067,
+                678
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 633,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            150,
+            175,
+            1179,
+            176,
+            1178,
+            675,
+            150,
+            673
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 4,
+          "length": 632
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            628,
+            144,
+            697,
+            145,
+            697,
+            166,
+            628,
+            166
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "-6-"
+    },
+    {
+      "spans": [
+        {
+          "offset": 4,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            152,
+            179,
+            429,
+            178,
+            429,
+            215,
+            152,
+            216
+          ]
+        }
+      ],
+      "content": "ITEM"
+    },
+    {
+      "spans": [
+        {
+          "offset": 9,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            429,
+            178,
+            956,
+            178,
+            956,
+            215,
+            429,
+            215
+          ]
+        }
+      ],
+      "content": "STOCK NUMBER AND DESCRIPTION"
+    },
+    {
+      "spans": [
+        {
+          "offset": 38,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            956,
+            178,
+            1068,
+            178,
+            1068,
+            239,
+            956,
+            239
+          ]
+        }
+      ],
+      "content": "UNIT OF ISSUE"
+    },
+    {
+      "spans": [
+        {
+          "offset": 52,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1068,
+            178,
+            1174,
+            178,
+            1174,
+            239,
+            1068,
+            239
+          ]
+        }
+      ],
+      "content": "SUPPLY ACTION"
+    },
+    {
+      "spans": [
+        {
+          "offset": 66,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            152,
+            216,
+            429,
+            215,
+            429,
+            239,
+            152,
+            238
+          ]
+        }
+      ],
+      "content": "NO."
+    },
+    {
+      "spans": [
+        {
+          "offset": 70,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            429,
+            215,
+            956,
+            215,
+            956,
+            239,
+            429,
+            239
+          ]
+        }
+      ],
+      "content": "OF MATERIAL AND /OR SERVICES"
+    },
+    {
+      "spans": [
+        {
+          "offset": 99,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            152,
+            238,
+            429,
+            239,
+            429,
+            379,
+            153,
+            379
+          ]
+        }
+      ],
+      "content": "44.(S )9510-596-3747"
+    },
+    {
+      "spans": [
+        {
+          "offset": 120,
+          "length": 138
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            429,
+            239,
+            956,
+            239,
+            957,
+            379,
+            429,
+            379
+          ]
+        }
+      ],
+      "content": "STEEL BAR, CARBON, COLD FINISHED: Round Spec Fed QQ-S-633, composition B1112, 1-1/2 dia in, 12 length ft 6.01 1b per ft 1-2-11/5-1-970 (5)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 259,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            956,
+            239,
+            1068,
+            239,
+            1068,
+            380,
+            957,
+            379
+          ]
+        }
+      ],
+      "content": "FT"
+    },
+    {
+      "spans": [
+        {
+          "offset": 262,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1068,
+            239,
+            1174,
+            239,
+            1175,
+            380,
+            1068,
+            380
+          ]
+        }
+      ],
+      "content": "314"
+    },
+    {
+      "spans": [
+        {
+          "offset": 266,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            153,
+            379,
+            429,
+            379,
+            429,
+            528,
+            153,
+            528
+          ]
+        }
+      ],
+      "content": "45.(s)9510-596-3874"
+    },
+    {
+      "spans": [
+        {
+          "offset": 286,
+          "length": 152
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            429,
+            379,
+            957,
+            379,
+            957,
+            528,
+            429,
+            528
+          ]
+        }
+      ],
+      "content": "STEEL BAR, CARBON, COLD FINISHED: Round Spec Fed QQ S-633, composition 1020, 1- 7/8 dia in, 10-23 length ft, 0.167 1b per ft annealed 1-2-11/5-1-970 (5)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 439,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            957,
+            379,
+            1068,
+            380,
+            1068,
+            528,
+            957,
+            528
+          ]
+        }
+      ],
+      "content": "FT"
+    },
+    {
+      "spans": [
+        {
+          "offset": 442,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1068,
+            380,
+            1175,
+            380,
+            1175,
+            530,
+            1068,
+            528
+          ]
+        }
+      ],
+      "content": "141"
+    },
+    {
+      "spans": [
+        {
+          "offset": 446,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            153,
+            528,
+            429,
+            528,
+            429,
+            678,
+            154,
+            679
+          ]
+        }
+      ],
+      "content": "46.(S)9510-596-6298"
+    },
+    {
+      "spans": [
+        {
+          "offset": 466,
+          "length": 163
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            429,
+            528,
+            957,
+            528,
+            957,
+            678,
+            429,
+            678
+          ]
+        }
+      ],
+      "content": "TOOL STEEL, CARBON: Round, Spec Fed QQ-S. 00779, Spheroidize annealed 6 to 14 ft length, 11/32 in ID 1.250 in, dia, class W1-08, 4.172 1b per ft 1-2-11/5-1-970 (5)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 630,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            957,
+            528,
+            1068,
+            528,
+            1067,
+            678,
+            957,
+            678
+          ]
+        }
+      ],
+      "content": "EA"
+    },
+    {
+      "spans": [
+        {
+          "offset": 633,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1068,
+            528,
+            1175,
+            530,
+            1175,
+            678,
+            1067,
+            678
+          ]
+        }
+      ],
+      "content": "109"
+    },
+    {
+      "spans": [
+        {
+          "offset": 637,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            29,
+            1556,
+            95,
+            1556,
+            96,
+            1599,
+            29,
+            1600
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "470"
+    },
+    {
+      "spans": [
+        {
+          "offset": 641,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            903,
+            1412,
+            1216,
+            1404,
+            1220,
+            1569,
+            907,
+            1576
+          ]
+        }
+      ],
+      "content": "Deta U"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 637,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 641,
+          "length": 4
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 636
+        },
+        {
+          "offset": 641,
+          "length": 6
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/tables/0",
+        "/paragraphs/20"
+      ]
+    }
+  ]
+}

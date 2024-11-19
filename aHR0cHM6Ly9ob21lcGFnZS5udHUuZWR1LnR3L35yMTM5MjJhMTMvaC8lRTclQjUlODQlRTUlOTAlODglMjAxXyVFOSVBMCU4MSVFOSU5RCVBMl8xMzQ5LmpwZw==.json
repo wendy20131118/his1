@@ -1,0 +1,1712 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "NAME\nDESCRIPTION\nStation Wagon\nAutomobile, steel body, gasoline powered engine 6 cylinders, 140 max bhp at 4200 rpm, 115 in wheelbase, 3730 1b curb wt, manual transmission w/o over- drive, 3 seats, 4 side doors, engine model 1552041, mfg by Chev. model 2119, 1956, Reg. No 56B 1030. Eng. No. 0369554156Z\n40:112.213.82\n@216 Academia Historica\n111",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 1.0156879425048828,
+      "width": 1228,
+      "height": 1592,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "NAME",
+          "polygon": [
+            231,
+            333,
+            288,
+            335,
+            288,
+            352,
+            231,
+            351
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": "DESCRIPTION",
+          "polygon": [
+            559,
+            339,
+            712,
+            341,
+            712,
+            362,
+            559,
+            359
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 5,
+            "length": 11
+          }
+        },
+        {
+          "content": "Station",
+          "polygon": [
+            231,
+            384,
+            331,
+            386,
+            330,
+            408,
+            230,
+            405
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 17,
+            "length": 7
+          }
+        },
+        {
+          "content": "Wagon",
+          "polygon": [
+            341,
+            387,
+            411,
+            389,
+            411,
+            410,
+            341,
+            408
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 25,
+            "length": 5
+          }
+        },
+        {
+          "content": "Automobile,",
+          "polygon": [
+            559,
+            391,
+            707,
+            393,
+            707,
+            416,
+            559,
+            413
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 31,
+            "length": 11
+          }
+        },
+        {
+          "content": "steel",
+          "polygon": [
+            717,
+            393,
+            790,
+            395,
+            790,
+            417,
+            717,
+            416
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 43,
+            "length": 5
+          }
+        },
+        {
+          "content": "body,",
+          "polygon": [
+            804,
+            395,
+            880,
+            397,
+            879,
+            419,
+            803,
+            418
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 49,
+            "length": 5
+          }
+        },
+        {
+          "content": "gasoline",
+          "polygon": [
+            887,
+            397,
+            995,
+            399,
+            995,
+            421,
+            886,
+            419
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 55,
+            "length": 8
+          }
+        },
+        {
+          "content": "powered",
+          "polygon": [
+            557,
+            418,
+            656,
+            418,
+            655,
+            440,
+            557,
+            439
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 64,
+            "length": 7
+          }
+        },
+        {
+          "content": "engine",
+          "polygon": [
+            669,
+            418,
+            750,
+            419,
+            749,
+            442,
+            669,
+            440
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 72,
+            "length": 6
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            759,
+            419,
+            776,
+            420,
+            776,
+            442,
+            759,
+            442
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 79,
+            "length": 1
+          }
+        },
+        {
+          "content": "cylinders,",
+          "polygon": [
+            792,
+            420,
+            925,
+            423,
+            925,
+            445,
+            791,
+            442
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 81,
+            "length": 10
+          }
+        },
+        {
+          "content": "140",
+          "polygon": [
+            558,
+            439,
+            601,
+            440,
+            601,
+            463,
+            558,
+            462
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 92,
+            "length": 3
+          }
+        },
+        {
+          "content": "max",
+          "polygon": [
+            611,
+            440,
+            654,
+            441,
+            653,
+            465,
+            610,
+            463
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 96,
+            "length": 3
+          }
+        },
+        {
+          "content": "bhp",
+          "polygon": [
+            663,
+            441,
+            706,
+            442,
+            705,
+            466,
+            662,
+            465
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 100,
+            "length": 3
+          }
+        },
+        {
+          "content": "at",
+          "polygon": [
+            721,
+            442,
+            748,
+            443,
+            747,
+            467,
+            721,
+            466
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 104,
+            "length": 2
+          }
+        },
+        {
+          "content": "4200",
+          "polygon": [
+            762,
+            443,
+            822,
+            444,
+            822,
+            468,
+            762,
+            467
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 107,
+            "length": 4
+          }
+        },
+        {
+          "content": "rpm,",
+          "polygon": [
+            831,
+            445,
+            883,
+            446,
+            882,
+            469,
+            831,
+            468
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 112,
+            "length": 4
+          }
+        },
+        {
+          "content": "115",
+          "polygon": [
+            897,
+            446,
+            941,
+            447,
+            941,
+            471,
+            896,
+            469
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 117,
+            "length": 3
+          }
+        },
+        {
+          "content": "in",
+          "polygon": [
+            558,
+            466,
+            585,
+            466,
+            585,
+            488,
+            557,
+            487
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 121,
+            "length": 2
+          }
+        },
+        {
+          "content": "wheelbase,",
+          "polygon": [
+            596,
+            466,
+            734,
+            469,
+            734,
+            491,
+            595,
+            488
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 124,
+            "length": 10
+          }
+        },
+        {
+          "content": "3730",
+          "polygon": [
+            750,
+            469,
+            809,
+            470,
+            808,
+            492,
+            750,
+            491
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 135,
+            "length": 4
+          }
+        },
+        {
+          "content": "1b",
+          "polygon": [
+            815,
+            471,
+            841,
+            471,
+            841,
+            493,
+            815,
+            493
+          ],
+          "confidence": 0.669,
+          "span": {
+            "offset": 140,
+            "length": 2
+          }
+        },
+        {
+          "content": "curb",
+          "polygon": [
+            858,
+            471,
+            912,
+            473,
+            911,
+            494,
+            858,
+            493
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 143,
+            "length": 4
+          }
+        },
+        {
+          "content": "wt,",
+          "polygon": [
+            927,
+            473,
+            965,
+            474,
+            965,
+            496,
+            926,
+            495
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 148,
+            "length": 3
+          }
+        },
+        {
+          "content": "manual",
+          "polygon": [
+            556,
+            491,
+            639,
+            492,
+            638,
+            513,
+            556,
+            512
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 152,
+            "length": 6
+          }
+        },
+        {
+          "content": "transmission",
+          "polygon": [
+            645,
+            492,
+            817,
+            495,
+            817,
+            517,
+            645,
+            513
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 159,
+            "length": 12
+          }
+        },
+        {
+          "content": "w/o",
+          "polygon": [
+            824,
+            495,
+            870,
+            496,
+            869,
+            517,
+            824,
+            517
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 172,
+            "length": 3
+          }
+        },
+        {
+          "content": "over-",
+          "polygon": [
+            885,
+            496,
+            953,
+            498,
+            953,
+            518,
+            885,
+            517
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 176,
+            "length": 5
+          }
+        },
+        {
+          "content": "drive,",
+          "polygon": [
+            557,
+            515,
+            636,
+            517,
+            635,
+            540,
+            556,
+            538
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 182,
+            "length": 6
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            642,
+            517,
+            668,
+            517,
+            667,
+            540,
+            642,
+            540
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 189,
+            "length": 1
+          }
+        },
+        {
+          "content": "seats,",
+          "polygon": [
+            680,
+            517,
+            765,
+            519,
+            765,
+            542,
+            679,
+            540
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 191,
+            "length": 6
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            773,
+            519,
+            794,
+            519,
+            794,
+            542,
+            772,
+            542
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 198,
+            "length": 1
+          }
+        },
+        {
+          "content": "side",
+          "polygon": [
+            803,
+            519,
+            856,
+            521,
+            855,
+            543,
+            803,
+            542
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 200,
+            "length": 4
+          }
+        },
+        {
+          "content": "doors,",
+          "polygon": [
+            863,
+            521,
+            951,
+            523,
+            951,
+            546,
+            863,
+            543
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 205,
+            "length": 6
+          }
+        },
+        {
+          "content": "engine",
+          "polygon": [
+            557,
+            541,
+            637,
+            542,
+            637,
+            565,
+            556,
+            563
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 212,
+            "length": 6
+          }
+        },
+        {
+          "content": "model",
+          "polygon": [
+            646,
+            542,
+            719,
+            543,
+            719,
+            566,
+            646,
+            565
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 219,
+            "length": 5
+          }
+        },
+        {
+          "content": "1552041,",
+          "polygon": [
+            728,
+            543,
+            844,
+            545,
+            844,
+            568,
+            727,
+            566
+          ],
+          "confidence": 0.972,
+          "span": {
+            "offset": 225,
+            "length": 8
+          }
+        },
+        {
+          "content": "mfg",
+          "polygon": [
+            856,
+            546,
+            897,
+            547,
+            896,
+            570,
+            855,
+            569
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 234,
+            "length": 3
+          }
+        },
+        {
+          "content": "by",
+          "polygon": [
+            906,
+            547,
+            939,
+            548,
+            939,
+            571,
+            906,
+            570
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 238,
+            "length": 2
+          }
+        },
+        {
+          "content": "Chev.",
+          "polygon": [
+            556,
+            564,
+            629,
+            566,
+            629,
+            588,
+            556,
+            587
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 241,
+            "length": 5
+          }
+        },
+        {
+          "content": "model",
+          "polygon": [
+            637,
+            566,
+            706,
+            567,
+            706,
+            590,
+            636,
+            589
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 247,
+            "length": 5
+          }
+        },
+        {
+          "content": "2119,",
+          "polygon": [
+            712,
+            567,
+            787,
+            569,
+            786,
+            592,
+            712,
+            590
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 253,
+            "length": 5
+          }
+        },
+        {
+          "content": "1956,",
+          "polygon": [
+            802,
+            569,
+            871,
+            571,
+            870,
+            594,
+            802,
+            593
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 259,
+            "length": 5
+          }
+        },
+        {
+          "content": "Reg.",
+          "polygon": [
+            876,
+            571,
+            936,
+            573,
+            936,
+            597,
+            875,
+            595
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 265,
+            "length": 4
+          }
+        },
+        {
+          "content": "No",
+          "polygon": [
+            554,
+            590,
+            586,
+            590,
+            586,
+            613,
+            554,
+            612
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 270,
+            "length": 2
+          }
+        },
+        {
+          "content": "56B",
+          "polygon": [
+            596,
+            590,
+            637,
+            591,
+            637,
+            614,
+            596,
+            613
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 273,
+            "length": 3
+          }
+        },
+        {
+          "content": "1030.",
+          "polygon": [
+            651,
+            591,
+            718,
+            592,
+            718,
+            615,
+            651,
+            614
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 277,
+            "length": 5
+          }
+        },
+        {
+          "content": "Eng.",
+          "polygon": [
+            554,
+            615,
+            610,
+            616,
+            610,
+            639,
+            553,
+            638
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 283,
+            "length": 4
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            623,
+            616,
+            664,
+            617,
+            664,
+            640,
+            622,
+            639
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 288,
+            "length": 3
+          }
+        },
+        {
+          "content": "0369554156Z",
+          "polygon": [
+            678,
+            617,
+            829,
+            618,
+            829,
+            642,
+            678,
+            640
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 292,
+            "length": 11
+          }
+        },
+        {
+          "content": "40:112.213.82",
+          "polygon": [
+            491,
+            792,
+            751,
+            792,
+            751,
+            834,
+            491,
+            833
+          ],
+          "confidence": 0.63,
+          "span": {
+            "offset": 304,
+            "length": 13
+          }
+        },
+        {
+          "content": "@216",
+          "polygon": [
+            868,
+            1437,
+            1058,
+            1437,
+            1058,
+            1509,
+            868,
+            1506
+          ],
+          "confidence": 0.071,
+          "span": {
+            "offset": 318,
+            "length": 4
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            846,
+            1512,
+            951,
+            1512,
+            951,
+            1535,
+            845,
+            1535
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 323,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            957,
+            1512,
+            1056,
+            1513,
+            1056,
+            1535,
+            957,
+            1535
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 332,
+            "length": 9
+          }
+        },
+        {
+          "content": "111",
+          "polygon": [
+            24,
+            1536,
+            64,
+            1532,
+            64,
+            1568,
+            24,
+            1565
+          ],
+          "confidence": 0.762,
+          "span": {
+            "offset": 342,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "NAME",
+          "polygon": [
+            231,
+            333,
+            288,
+            335,
+            288,
+            352,
+            231,
+            351
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "DESCRIPTION",
+          "polygon": [
+            559,
+            339,
+            711,
+            341,
+            711,
+            361,
+            559,
+            359
+          ],
+          "spans": [
+            {
+              "offset": 5,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Station Wagon",
+          "polygon": [
+            231,
+            383,
+            411,
+            389,
+            410,
+            410,
+            230,
+            405
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Automobile, steel body, gasoline",
+          "polygon": [
+            559,
+            391,
+            995,
+            399,
+            994,
+            421,
+            559,
+            413
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "powered engine 6 cylinders,",
+          "polygon": [
+            557,
+            417,
+            925,
+            422,
+            924,
+            444,
+            557,
+            438
+          ],
+          "spans": [
+            {
+              "offset": 64,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "140 max bhp at 4200 rpm, 115",
+          "polygon": [
+            558,
+            439,
+            941,
+            447,
+            940,
+            470,
+            558,
+            462
+          ],
+          "spans": [
+            {
+              "offset": 92,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "in wheelbase, 3730 1b curb wt,",
+          "polygon": [
+            558,
+            465,
+            965,
+            473,
+            964,
+            495,
+            557,
+            487
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "manual transmission w/o over-",
+          "polygon": [
+            556,
+            491,
+            952,
+            497,
+            952,
+            519,
+            555,
+            511
+          ],
+          "spans": [
+            {
+              "offset": 152,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "drive, 3 seats, 4 side doors,",
+          "polygon": [
+            557,
+            515,
+            951,
+            522,
+            950,
+            545,
+            556,
+            538
+          ],
+          "spans": [
+            {
+              "offset": 182,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "engine model 1552041, mfg by",
+          "polygon": [
+            557,
+            541,
+            939,
+            547,
+            938,
+            571,
+            556,
+            563
+          ],
+          "spans": [
+            {
+              "offset": 212,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "Chev. model 2119, 1956, Reg.",
+          "polygon": [
+            556,
+            564,
+            936,
+            572,
+            935,
+            596,
+            556,
+            586
+          ],
+          "spans": [
+            {
+              "offset": 241,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "No 56B 1030.",
+          "polygon": [
+            554,
+            589,
+            717,
+            592,
+            717,
+            615,
+            554,
+            612
+          ],
+          "spans": [
+            {
+              "offset": 270,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Eng. No. 0369554156Z",
+          "polygon": [
+            554,
+            615,
+            829,
+            618,
+            829,
+            642,
+            553,
+            638
+          ],
+          "spans": [
+            {
+              "offset": 283,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "40:112.213.82",
+          "polygon": [
+            491,
+            792,
+            751,
+            792,
+            751,
+            834,
+            491,
+            834
+          ],
+          "spans": [
+            {
+              "offset": 304,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "@216",
+          "polygon": [
+            868,
+            1435,
+            1057,
+            1436,
+            1057,
+            1509,
+            868,
+            1508
+          ],
+          "spans": [
+            {
+              "offset": 318,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            845,
+            1511,
+            1055,
+            1512,
+            1055,
+            1535,
+            845,
+            1535
+          ],
+          "spans": [
+            {
+              "offset": 323,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "111",
+          "polygon": [
+            24,
+            1532,
+            63,
+            1532,
+            63,
+            1567,
+            24,
+            1567
+          ],
+          "spans": [
+            {
+              "offset": 342,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 345
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 2,
+      "columnCount": 2,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "NAME",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                218,
+                313,
+                481,
+                319,
+                481,
+                372,
+                218,
+                365
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/0"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "DESCRIPTION",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                481,
+                319,
+                1000,
+                331,
+                999,
+                382,
+                481,
+                372
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 5,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/1"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "Station Wagon",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                218,
+                365,
+                481,
+                372,
+                480,
+                648,
+                217,
+                645
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Automobile, steel body, gasoline powered engine 6 cylinders, 140 max bhp at 4200 rpm, 115 in wheelbase, 3730 1b curb wt, manual transmission w/o over- drive, 3 seats, 4 side doors, engine model 1552041, mfg by Chev. model 2119, 1956, Reg. No 56B 1030. Eng. No. 0369554156Z",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                481,
+                372,
+                999,
+                382,
+                998,
+                654,
+                480,
+                648
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 272
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            222,
+            314,
+            990,
+            316,
+            989,
+            653,
+            221,
+            650
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 303
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            218,
+            313,
+            481,
+            319,
+            481,
+            372,
+            218,
+            365
+          ]
+        }
+      ],
+      "content": "NAME"
+    },
+    {
+      "spans": [
+        {
+          "offset": 5,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            481,
+            319,
+            1000,
+            331,
+            999,
+            382,
+            481,
+            372
+          ]
+        }
+      ],
+      "content": "DESCRIPTION"
+    },
+    {
+      "spans": [
+        {
+          "offset": 17,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            218,
+            365,
+            481,
+            372,
+            480,
+            648,
+            217,
+            645
+          ]
+        }
+      ],
+      "content": "Station Wagon"
+    },
+    {
+      "spans": [
+        {
+          "offset": 31,
+          "length": 272
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            481,
+            372,
+            999,
+            382,
+            998,
+            654,
+            480,
+            648
+          ]
+        }
+      ],
+      "content": "Automobile, steel body, gasoline powered engine 6 cylinders, 140 max bhp at 4200 rpm, 115 in wheelbase, 3730 1b curb wt, manual transmission w/o over- drive, 3 seats, 4 side doors, engine model 1552041, mfg by Chev. model 2119, 1956, Reg. No 56B 1030. Eng. No. 0369554156Z"
+    },
+    {
+      "spans": [
+        {
+          "offset": 304,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            491,
+            792,
+            751,
+            792,
+            751,
+            834,
+            491,
+            834
+          ]
+        }
+      ],
+      "content": "40:112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 318,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            846,
+            1435,
+            1057,
+            1436,
+            1057,
+            1535,
+            845,
+            1535
+          ]
+        }
+      ],
+      "content": "@216 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 342,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            24,
+            1532,
+            63,
+            1532,
+            63,
+            1567,
+            24,
+            1567
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "111"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 318,
+          "length": 4
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.9,
+      "spans": [
+        {
+          "offset": 342,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 341
+        }
+      ],
+      "elements": [
+        "/tables/0",
+        "/paragraphs/4",
+        "/paragraphs/5"
+      ]
+    }
+  ]
+}

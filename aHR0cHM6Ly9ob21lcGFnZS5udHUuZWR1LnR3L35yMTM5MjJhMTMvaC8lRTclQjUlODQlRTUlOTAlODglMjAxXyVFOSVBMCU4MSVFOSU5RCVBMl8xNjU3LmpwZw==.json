@@ -1,0 +1,3297 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "2 本件保存 年\nMAY 24 1962\n3822\nGeneral Services Administration/FőS Ragion 6 Kansas City B1, Missouri U. S. A.\nSubject: Excess Property\nContleen,\nWe have requirement for me Tractor, Bulletin No. 66, Page 3, Control Bo. 6-62-4645, Item 1, Condition B-S. Please advise availability. If your reply is in the affirmative we will imediatoly forward our purchase order.\nSincerely yours,\nH. T. Potter Supply Advisor\nN 女拓\nCho/ml 5/23/62\n51.5. 24\n10278 V.C.\nS.G.\n2\nCUNA\n419\nP/SP (2) X/CAR (2) PO JORR-S.K. Koo CUSA 2nd Div.\n佳\n3 1 3 3 徐州 E-16.13.2 2 216 Academia Histórica",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.023900000378489494,
+      "width": 1226,
+      "height": 1582,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "2",
+          "polygon": [
+            35,
+            281,
+            69,
+            284,
+            69,
+            306,
+            34,
+            308
+          ],
+          "confidence": 0.454,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "本",
+          "polygon": [
+            28,
+            67,
+            71,
+            68,
+            71,
+            98,
+            27,
+            98
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "件",
+          "polygon": [
+            27,
+            111,
+            72,
+            110,
+            74,
+            139,
+            27,
+            140
+          ],
+          "confidence": 0.286,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "保",
+          "polygon": [
+            28,
+            158,
+            74,
+            158,
+            74,
+            186,
+            29,
+            187
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "存",
+          "polygon": [
+            29,
+            193,
+            74,
+            193,
+            74,
+            238,
+            29,
+            238
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "年",
+          "polygon": [
+            35,
+            321,
+            77,
+            321,
+            77,
+            360,
+            34,
+            360
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "MAY",
+          "polygon": [
+            852,
+            215,
+            917,
+            213,
+            918,
+            251,
+            852,
+            252
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 9,
+            "length": 3
+          }
+        },
+        {
+          "content": "24",
+          "polygon": [
+            925,
+            213,
+            966,
+            212,
+            967,
+            250,
+            925,
+            251
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 13,
+            "length": 2
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            978,
+            212,
+            1046,
+            210,
+            1046,
+            247,
+            979,
+            249
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "3822",
+          "polygon": [
+            293,
+            262,
+            395,
+            234,
+            406,
+            268,
+            304,
+            300
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 21,
+            "length": 4
+          }
+        },
+        {
+          "content": "General",
+          "polygon": [
+            244,
+            347,
+            335,
+            347,
+            335,
+            371,
+            244,
+            371
+          ],
+          "confidence": 0.807,
+          "span": {
+            "offset": 26,
+            "length": 7
+          }
+        },
+        {
+          "content": "Services",
+          "polygon": [
+            344,
+            347,
+            447,
+            346,
+            447,
+            371,
+            344,
+            371
+          ],
+          "confidence": 0.881,
+          "span": {
+            "offset": 34,
+            "length": 8
+          }
+        },
+        {
+          "content": "Administration/FőS",
+          "polygon": [
+            457,
+            346,
+            687,
+            346,
+            687,
+            371,
+            457,
+            371
+          ],
+          "confidence": 0.241,
+          "span": {
+            "offset": 43,
+            "length": 18
+          }
+        },
+        {
+          "content": "Ragion",
+          "polygon": [
+            244,
+            374,
+            322,
+            373,
+            322,
+            397,
+            244,
+            398
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 62,
+            "length": 6
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            332,
+            373,
+            348,
+            373,
+            348,
+            397,
+            332,
+            397
+          ],
+          "confidence": 0.94,
+          "span": {
+            "offset": 69,
+            "length": 1
+          }
+        },
+        {
+          "content": "Kansas",
+          "polygon": [
+            244,
+            399,
+            321,
+            399,
+            321,
+            421,
+            244,
+            420
+          ],
+          "confidence": 0.425,
+          "span": {
+            "offset": 71,
+            "length": 6
+          }
+        },
+        {
+          "content": "City",
+          "polygon": [
+            330,
+            399,
+            382,
+            399,
+            382,
+            421,
+            330,
+            421
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 78,
+            "length": 4
+          }
+        },
+        {
+          "content": "B1,",
+          "polygon": [
+            395,
+            398,
+            434,
+            398,
+            434,
+            421,
+            395,
+            421
+          ],
+          "confidence": 0.418,
+          "span": {
+            "offset": 83,
+            "length": 3
+          }
+        },
+        {
+          "content": "Missouri",
+          "polygon": [
+            445,
+            398,
+            549,
+            398,
+            549,
+            420,
+            445,
+            421
+          ],
+          "confidence": 0.579,
+          "span": {
+            "offset": 87,
+            "length": 8
+          }
+        },
+        {
+          "content": "U.",
+          "polygon": [
+            242,
+            424,
+            270,
+            424,
+            270,
+            447,
+            242,
+            447
+          ],
+          "confidence": 0.292,
+          "span": {
+            "offset": 96,
+            "length": 2
+          }
+        },
+        {
+          "content": "S.",
+          "polygon": [
+            284,
+            425,
+            308,
+            425,
+            308,
+            447,
+            284,
+            447
+          ],
+          "confidence": 0.62,
+          "span": {
+            "offset": 99,
+            "length": 2
+          }
+        },
+        {
+          "content": "A.",
+          "polygon": [
+            316,
+            425,
+            349,
+            425,
+            349,
+            447,
+            316,
+            447
+          ],
+          "confidence": 0.576,
+          "span": {
+            "offset": 102,
+            "length": 2
+          }
+        },
+        {
+          "content": "Subject:",
+          "polygon": [
+            345,
+            498,
+            464,
+            498,
+            464,
+            523,
+            345,
+            523
+          ],
+          "confidence": 0.666,
+          "span": {
+            "offset": 105,
+            "length": 8
+          }
+        },
+        {
+          "content": "Excess",
+          "polygon": [
+            472,
+            498,
+            549,
+            499,
+            549,
+            523,
+            472,
+            522
+          ],
+          "confidence": 0.429,
+          "span": {
+            "offset": 114,
+            "length": 6
+          }
+        },
+        {
+          "content": "Property",
+          "polygon": [
+            560,
+            499,
+            663,
+            499,
+            663,
+            523,
+            560,
+            523
+          ],
+          "confidence": 0.607,
+          "span": {
+            "offset": 121,
+            "length": 8
+          }
+        },
+        {
+          "content": "Contleen,",
+          "polygon": [
+            246,
+            573,
+            374,
+            576,
+            374,
+            599,
+            245,
+            597
+          ],
+          "confidence": 0.641,
+          "span": {
+            "offset": 130,
+            "length": 9
+          }
+        },
+        {
+          "content": "We",
+          "polygon": [
+            306,
+            623,
+            335,
+            623,
+            335,
+            647,
+            306,
+            647
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 140,
+            "length": 2
+          }
+        },
+        {
+          "content": "have",
+          "polygon": [
+            346,
+            623,
+            401,
+            623,
+            401,
+            648,
+            346,
+            647
+          ],
+          "confidence": 0.897,
+          "span": {
+            "offset": 143,
+            "length": 4
+          }
+        },
+        {
+          "content": "requirement",
+          "polygon": [
+            410,
+            623,
+            551,
+            623,
+            551,
+            648,
+            410,
+            648
+          ],
+          "confidence": 0.514,
+          "span": {
+            "offset": 148,
+            "length": 11
+          }
+        },
+        {
+          "content": "for",
+          "polygon": [
+            559,
+            623,
+            599,
+            623,
+            599,
+            648,
+            559,
+            648
+          ],
+          "confidence": 0.939,
+          "span": {
+            "offset": 160,
+            "length": 3
+          }
+        },
+        {
+          "content": "me",
+          "polygon": [
+            606,
+            623,
+            649,
+            622,
+            649,
+            648,
+            606,
+            648
+          ],
+          "confidence": 0.616,
+          "span": {
+            "offset": 164,
+            "length": 2
+          }
+        },
+        {
+          "content": "Tractor,",
+          "polygon": [
+            660,
+            622,
+            769,
+            622,
+            769,
+            648,
+            660,
+            648
+          ],
+          "confidence": 0.539,
+          "span": {
+            "offset": 167,
+            "length": 8
+          }
+        },
+        {
+          "content": "Bulletin",
+          "polygon": [
+            774,
+            622,
+            875,
+            622,
+            875,
+            648,
+            774,
+            648
+          ],
+          "confidence": 0.668,
+          "span": {
+            "offset": 176,
+            "length": 8
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            883,
+            622,
+            924,
+            622,
+            924,
+            648,
+            883,
+            648
+          ],
+          "confidence": 0.783,
+          "span": {
+            "offset": 185,
+            "length": 3
+          }
+        },
+        {
+          "content": "66,",
+          "polygon": [
+            936,
+            622,
+            974,
+            622,
+            974,
+            648,
+            936,
+            648
+          ],
+          "confidence": 0.798,
+          "span": {
+            "offset": 189,
+            "length": 3
+          }
+        },
+        {
+          "content": "Page",
+          "polygon": [
+            986,
+            622,
+            1040,
+            622,
+            1040,
+            649,
+            986,
+            648
+          ],
+          "confidence": 0.665,
+          "span": {
+            "offset": 193,
+            "length": 4
+          }
+        },
+        {
+          "content": "3,",
+          "polygon": [
+            244,
+            673,
+            271,
+            673,
+            271,
+            699,
+            244,
+            699
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 198,
+            "length": 2
+          }
+        },
+        {
+          "content": "Control",
+          "polygon": [
+            287,
+            674,
+            374,
+            674,
+            374,
+            699,
+            287,
+            699
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 201,
+            "length": 7
+          }
+        },
+        {
+          "content": "Bo.",
+          "polygon": [
+            383,
+            674,
+            429,
+            673,
+            429,
+            699,
+            383,
+            699
+          ],
+          "confidence": 0.648,
+          "span": {
+            "offset": 209,
+            "length": 3
+          }
+        },
+        {
+          "content": "6-62-4645,",
+          "polygon": [
+            435,
+            673,
+            567,
+            672,
+            567,
+            699,
+            435,
+            699
+          ],
+          "confidence": 0.64,
+          "span": {
+            "offset": 213,
+            "length": 10
+          }
+        },
+        {
+          "content": "Item",
+          "polygon": [
+            574,
+            672,
+            626,
+            672,
+            626,
+            699,
+            574,
+            699
+          ],
+          "confidence": 0.835,
+          "span": {
+            "offset": 224,
+            "length": 4
+          }
+        },
+        {
+          "content": "1,",
+          "polygon": [
+            637,
+            672,
+            660,
+            672,
+            660,
+            699,
+            637,
+            699
+          ],
+          "confidence": 0.79,
+          "span": {
+            "offset": 229,
+            "length": 2
+          }
+        },
+        {
+          "content": "Condition",
+          "polygon": [
+            666,
+            672,
+            788,
+            672,
+            788,
+            698,
+            666,
+            699
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 232,
+            "length": 9
+          }
+        },
+        {
+          "content": "B-S.",
+          "polygon": [
+            798,
+            672,
+            850,
+            672,
+            850,
+            698,
+            798,
+            698
+          ],
+          "confidence": 0.557,
+          "span": {
+            "offset": 242,
+            "length": 4
+          }
+        },
+        {
+          "content": "Please",
+          "polygon": [
+            873,
+            672,
+            950,
+            671,
+            951,
+            697,
+            873,
+            698
+          ],
+          "confidence": 0.743,
+          "span": {
+            "offset": 247,
+            "length": 6
+          }
+        },
+        {
+          "content": "advise",
+          "polygon": [
+            961,
+            671,
+            1040,
+            671,
+            1040,
+            697,
+            961,
+            697
+          ],
+          "confidence": 0.636,
+          "span": {
+            "offset": 254,
+            "length": 6
+          }
+        },
+        {
+          "content": "availability.",
+          "polygon": [
+            245,
+            725,
+            412,
+            724,
+            412,
+            750,
+            245,
+            749
+          ],
+          "confidence": 0.625,
+          "span": {
+            "offset": 261,
+            "length": 13
+          }
+        },
+        {
+          "content": "If",
+          "polygon": [
+            435,
+            724,
+            462,
+            723,
+            462,
+            750,
+            435,
+            750
+          ],
+          "confidence": 0.734,
+          "span": {
+            "offset": 275,
+            "length": 2
+          }
+        },
+        {
+          "content": "your",
+          "polygon": [
+            471,
+            723,
+            525,
+            723,
+            525,
+            750,
+            471,
+            750
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 278,
+            "length": 4
+          }
+        },
+        {
+          "content": "reply",
+          "polygon": [
+            532,
+            723,
+            600,
+            723,
+            600,
+            749,
+            532,
+            750
+          ],
+          "confidence": 0.835,
+          "span": {
+            "offset": 283,
+            "length": 5
+          }
+        },
+        {
+          "content": "is",
+          "polygon": [
+            610,
+            723,
+            639,
+            723,
+            639,
+            749,
+            610,
+            749
+          ],
+          "confidence": 0.953,
+          "span": {
+            "offset": 289,
+            "length": 2
+          }
+        },
+        {
+          "content": "in",
+          "polygon": [
+            649,
+            723,
+            674,
+            723,
+            674,
+            748,
+            649,
+            749
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 292,
+            "length": 2
+          }
+        },
+        {
+          "content": "the",
+          "polygon": [
+            688,
+            723,
+            723,
+            723,
+            723,
+            748,
+            688,
+            748
+          ],
+          "confidence": 0.652,
+          "span": {
+            "offset": 295,
+            "length": 3
+          }
+        },
+        {
+          "content": "affirmative",
+          "polygon": [
+            734,
+            723,
+            877,
+            723,
+            877,
+            747,
+            734,
+            748
+          ],
+          "confidence": 0.58,
+          "span": {
+            "offset": 299,
+            "length": 11
+          }
+        },
+        {
+          "content": "we",
+          "polygon": [
+            884,
+            722,
+            912,
+            722,
+            912,
+            747,
+            884,
+            747
+          ],
+          "confidence": 0.133,
+          "span": {
+            "offset": 311,
+            "length": 2
+          }
+        },
+        {
+          "content": "will",
+          "polygon": [
+            921,
+            722,
+            977,
+            723,
+            977,
+            747,
+            921,
+            747
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 314,
+            "length": 4
+          }
+        },
+        {
+          "content": "imediatoly",
+          "polygon": [
+            247,
+            775,
+            392,
+            774,
+            391,
+            799,
+            247,
+            799
+          ],
+          "confidence": 0.169,
+          "span": {
+            "offset": 319,
+            "length": 10
+          }
+        },
+        {
+          "content": "forward",
+          "polygon": [
+            397,
+            774,
+            487,
+            774,
+            487,
+            799,
+            397,
+            799
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 330,
+            "length": 7
+          }
+        },
+        {
+          "content": "our",
+          "polygon": [
+            498,
+            774,
+            539,
+            775,
+            538,
+            799,
+            498,
+            799
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 338,
+            "length": 3
+          }
+        },
+        {
+          "content": "purchase",
+          "polygon": [
+            549,
+            775,
+            648,
+            775,
+            648,
+            798,
+            549,
+            799
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 342,
+            "length": 8
+          }
+        },
+        {
+          "content": "order.",
+          "polygon": [
+            660,
+            775,
+            738,
+            774,
+            738,
+            798,
+            660,
+            798
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 351,
+            "length": 6
+          }
+        },
+        {
+          "content": "Sincerely",
+          "polygon": [
+            737,
+            824,
+            851,
+            825,
+            851,
+            850,
+            736,
+            848
+          ],
+          "confidence": 0.633,
+          "span": {
+            "offset": 358,
+            "length": 9
+          }
+        },
+        {
+          "content": "yours,",
+          "polygon": [
+            861,
+            825,
+            938,
+            826,
+            938,
+            851,
+            861,
+            850
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 368,
+            "length": 6
+          }
+        },
+        {
+          "content": "H.",
+          "polygon": [
+            735,
+            925,
+            762,
+            926,
+            762,
+            949,
+            735,
+            948
+          ],
+          "confidence": 0.561,
+          "span": {
+            "offset": 375,
+            "length": 2
+          }
+        },
+        {
+          "content": "T.",
+          "polygon": [
+            774,
+            926,
+            802,
+            926,
+            802,
+            948,
+            774,
+            949
+          ],
+          "confidence": 0.838,
+          "span": {
+            "offset": 378,
+            "length": 2
+          }
+        },
+        {
+          "content": "Potter",
+          "polygon": [
+            814,
+            926,
+            890,
+            926,
+            890,
+            948,
+            814,
+            949
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 381,
+            "length": 6
+          }
+        },
+        {
+          "content": "Supply",
+          "polygon": [
+            737,
+            951,
+            814,
+            950,
+            814,
+            975,
+            737,
+            975
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 388,
+            "length": 6
+          }
+        },
+        {
+          "content": "Advisor",
+          "polygon": [
+            825,
+            950,
+            914,
+            950,
+            914,
+            974,
+            825,
+            975
+          ],
+          "confidence": 0.292,
+          "span": {
+            "offset": 395,
+            "length": 7
+          }
+        },
+        {
+          "content": "N",
+          "polygon": [
+            605,
+            1009,
+            664,
+            1009,
+            664,
+            1040,
+            606,
+            1040
+          ],
+          "confidence": 0.158,
+          "span": {
+            "offset": 403,
+            "length": 1
+          }
+        },
+        {
+          "content": "女",
+          "polygon": [
+            574,
+            1042,
+            608,
+            1043,
+            609,
+            1099,
+            576,
+            1101
+          ],
+          "confidence": 0.967,
+          "span": {
+            "offset": 405,
+            "length": 1
+          }
+        },
+        {
+          "content": "拓",
+          "polygon": [
+            609,
+            1043,
+            681,
+            1043,
+            681,
+            1098,
+            610,
+            1099
+          ],
+          "confidence": 0.89,
+          "span": {
+            "offset": 406,
+            "length": 1
+          }
+        },
+        {
+          "content": "Cho/ml",
+          "polygon": [
+            236,
+            1136,
+            311,
+            1135,
+            311,
+            1159,
+            236,
+            1158
+          ],
+          "confidence": 0.728,
+          "span": {
+            "offset": 408,
+            "length": 6
+          }
+        },
+        {
+          "content": "5/23/62",
+          "polygon": [
+            235,
+            1159,
+            323,
+            1159,
+            323,
+            1185,
+            235,
+            1186
+          ],
+          "confidence": 0.924,
+          "span": {
+            "offset": 415,
+            "length": 7
+          }
+        },
+        {
+          "content": "51.5.",
+          "polygon": [
+            78,
+            1216,
+            146,
+            1218,
+            145,
+            1252,
+            78,
+            1250
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 423,
+            "length": 5
+          }
+        },
+        {
+          "content": "24",
+          "polygon": [
+            153,
+            1218,
+            183,
+            1220,
+            183,
+            1253,
+            153,
+            1252
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 429,
+            "length": 2
+          }
+        },
+        {
+          "content": "10278",
+          "polygon": [
+            82,
+            1257,
+            194,
+            1260,
+            194,
+            1291,
+            81,
+            1288
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 432,
+            "length": 5
+          }
+        },
+        {
+          "content": "V.C.",
+          "polygon": [
+            62,
+            1289,
+            102,
+            1290,
+            102,
+            1310,
+            62,
+            1309
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 438,
+            "length": 4
+          }
+        },
+        {
+          "content": "S.G.",
+          "polygon": [
+            60,
+            1321,
+            102,
+            1321,
+            102,
+            1341,
+            60,
+            1340
+          ],
+          "confidence": 0.867,
+          "span": {
+            "offset": 443,
+            "length": 4
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            123,
+            1337,
+            146,
+            1337,
+            146,
+            1368,
+            122,
+            1368
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 448,
+            "length": 1
+          }
+        },
+        {
+          "content": "CUNA",
+          "polygon": [
+            69,
+            1494,
+            162,
+            1497,
+            161,
+            1516,
+            69,
+            1514
+          ],
+          "confidence": 0.362,
+          "span": {
+            "offset": 450,
+            "length": 4
+          }
+        },
+        {
+          "content": "419",
+          "polygon": [
+            22,
+            1525,
+            74,
+            1525,
+            74,
+            1567,
+            22,
+            1567
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 455,
+            "length": 3
+          }
+        },
+        {
+          "content": "P/SP",
+          "polygon": [
+            296,
+            1208,
+            351,
+            1209,
+            351,
+            1234,
+            296,
+            1234
+          ],
+          "confidence": 0.937,
+          "span": {
+            "offset": 459,
+            "length": 4
+          }
+        },
+        {
+          "content": "(2)",
+          "polygon": [
+            362,
+            1209,
+            398,
+            1208,
+            398,
+            1235,
+            362,
+            1234
+          ],
+          "confidence": 0.933,
+          "span": {
+            "offset": 464,
+            "length": 3
+          }
+        },
+        {
+          "content": "X/CAR",
+          "polygon": [
+            295,
+            1234,
+            359,
+            1235,
+            359,
+            1260,
+            295,
+            1260
+          ],
+          "confidence": 0.634,
+          "span": {
+            "offset": 468,
+            "length": 5
+          }
+        },
+        {
+          "content": "(2)",
+          "polygon": [
+            375,
+            1235,
+            409,
+            1235,
+            409,
+            1261,
+            375,
+            1261
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 474,
+            "length": 3
+          }
+        },
+        {
+          "content": "PO",
+          "polygon": [
+            298,
+            1263,
+            324,
+            1263,
+            324,
+            1282,
+            298,
+            1282
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 478,
+            "length": 2
+          }
+        },
+        {
+          "content": "JORR-S.K.",
+          "polygon": [
+            299,
+            1287,
+            410,
+            1287,
+            410,
+            1309,
+            298,
+            1309
+          ],
+          "confidence": 0.672,
+          "span": {
+            "offset": 481,
+            "length": 9
+          }
+        },
+        {
+          "content": "Koo",
+          "polygon": [
+            416,
+            1287,
+            463,
+            1287,
+            463,
+            1308,
+            416,
+            1309
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 491,
+            "length": 3
+          }
+        },
+        {
+          "content": "CUSA",
+          "polygon": [
+            300,
+            1312,
+            350,
+            1312,
+            350,
+            1334,
+            300,
+            1334
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 495,
+            "length": 4
+          }
+        },
+        {
+          "content": "2nd",
+          "polygon": [
+            359,
+            1312,
+            399,
+            1312,
+            399,
+            1333,
+            359,
+            1334
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 500,
+            "length": 3
+          }
+        },
+        {
+          "content": "Div.",
+          "polygon": [
+            411,
+            1312,
+            458,
+            1312,
+            458,
+            1333,
+            410,
+            1333
+          ],
+          "confidence": 0.628,
+          "span": {
+            "offset": 504,
+            "length": 4
+          }
+        },
+        {
+          "content": "佳",
+          "polygon": [
+            491,
+            1176,
+            539,
+            1163,
+            542,
+            1217,
+            494,
+            1229
+          ],
+          "confidence": 0.261,
+          "span": {
+            "offset": 509,
+            "length": 1
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            687,
+            1192,
+            717,
+            1195,
+            717,
+            1250,
+            688,
+            1254
+          ],
+          "confidence": 0.619,
+          "span": {
+            "offset": 511,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            614,
+            1196,
+            623,
+            1195,
+            624,
+            1210,
+            615,
+            1211
+          ],
+          "confidence": 0.132,
+          "span": {
+            "offset": 513,
+            "length": 1
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            594,
+            1236,
+            611,
+            1235,
+            612,
+            1262,
+            594,
+            1263
+          ],
+          "confidence": 0.5,
+          "span": {
+            "offset": 515,
+            "length": 1
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            591,
+            1277,
+            631,
+            1263,
+            636,
+            1300,
+            597,
+            1312
+          ],
+          "confidence": 0.184,
+          "span": {
+            "offset": 517,
+            "length": 1
+          }
+        },
+        {
+          "content": "徐",
+          "polygon": [
+            632,
+            1297,
+            668,
+            1297,
+            667,
+            1373,
+            632,
+            1371
+          ],
+          "confidence": 0.327,
+          "span": {
+            "offset": 519,
+            "length": 1
+          }
+        },
+        {
+          "content": "州",
+          "polygon": [
+            669,
+            1297,
+            746,
+            1303,
+            746,
+            1375,
+            668,
+            1373
+          ],
+          "confidence": 0.33,
+          "span": {
+            "offset": 520,
+            "length": 1
+          }
+        },
+        {
+          "content": "E-16.13.2",
+          "polygon": [
+            563,
+            1431,
+            981,
+            1330,
+            988,
+            1412,
+            582,
+            1507
+          ],
+          "confidence": 0.816,
+          "span": {
+            "offset": 522,
+            "length": 9
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            866,
+            1428,
+            905,
+            1427,
+            906,
+            1496,
+            867,
+            1496
+          ],
+          "confidence": 0.076,
+          "span": {
+            "offset": 532,
+            "length": 1
+          }
+        },
+        {
+          "content": "216",
+          "polygon": [
+            931,
+            1426,
+            1057,
+            1426,
+            1057,
+            1499,
+            932,
+            1497
+          ],
+          "confidence": 0.076,
+          "span": {
+            "offset": 534,
+            "length": 3
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            845,
+            1500,
+            951,
+            1500,
+            950,
+            1525,
+            845,
+            1525
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 538,
+            "length": 8
+          }
+        },
+        {
+          "content": "Histórica",
+          "polygon": [
+            956,
+            1500,
+            1055,
+            1501,
+            1055,
+            1526,
+            956,
+            1525
+          ],
+          "confidence": 0.556,
+          "span": {
+            "offset": 547,
+            "length": 9
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "2",
+          "polygon": [
+            35,
+            281,
+            69,
+            282,
+            68,
+            308,
+            34,
+            307
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "本件保存",
+          "polygon": [
+            27,
+            67,
+            72,
+            67,
+            75,
+            237,
+            30,
+            238
+          ],
+          "spans": [
+            {
+              "offset": 2,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "年",
+          "polygon": [
+            34,
+            320,
+            77,
+            321,
+            76,
+            360,
+            34,
+            360
+          ],
+          "spans": [
+            {
+              "offset": 7,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "MAY 24 1962",
+          "polygon": [
+            851,
+            215,
+            1045,
+            210,
+            1046,
+            247,
+            852,
+            252
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "3822",
+          "polygon": [
+            293,
+            261,
+            395,
+            234,
+            406,
+            269,
+            304,
+            300
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "General Services Administration/FőS",
+          "polygon": [
+            244,
+            347,
+            687,
+            346,
+            687,
+            371,
+            244,
+            372
+          ],
+          "spans": [
+            {
+              "offset": 26,
+              "length": 35
+            }
+          ]
+        },
+        {
+          "content": "Ragion 6",
+          "polygon": [
+            244,
+            374,
+            347,
+            373,
+            347,
+            397,
+            244,
+            398
+          ],
+          "spans": [
+            {
+              "offset": 62,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Kansas City B1, Missouri",
+          "polygon": [
+            244,
+            399,
+            548,
+            398,
+            549,
+            420,
+            244,
+            422
+          ],
+          "spans": [
+            {
+              "offset": 71,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "U. S. A.",
+          "polygon": [
+            242,
+            424,
+            349,
+            425,
+            349,
+            447,
+            242,
+            446
+          ],
+          "spans": [
+            {
+              "offset": 96,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "Subject: Excess Property",
+          "polygon": [
+            345,
+            497,
+            663,
+            498,
+            663,
+            523,
+            345,
+            523
+          ],
+          "spans": [
+            {
+              "offset": 105,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "Contleen,",
+          "polygon": [
+            246,
+            573,
+            373,
+            576,
+            373,
+            599,
+            245,
+            596
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "We have requirement for me Tractor, Bulletin No. 66, Page",
+          "polygon": [
+            306,
+            622,
+            1040,
+            622,
+            1040,
+            648,
+            306,
+            648
+          ],
+          "spans": [
+            {
+              "offset": 140,
+              "length": 57
+            }
+          ]
+        },
+        {
+          "content": "3, Control Bo. 6-62-4645, Item 1, Condition B-S. Please advise",
+          "polygon": [
+            244,
+            673,
+            1040,
+            671,
+            1040,
+            697,
+            244,
+            700
+          ],
+          "spans": [
+            {
+              "offset": 198,
+              "length": 62
+            }
+          ]
+        },
+        {
+          "content": "availability. If your reply is in the affirmative we will",
+          "polygon": [
+            245,
+            724,
+            977,
+            722,
+            977,
+            748,
+            245,
+            750
+          ],
+          "spans": [
+            {
+              "offset": 261,
+              "length": 57
+            }
+          ]
+        },
+        {
+          "content": "imediatoly forward our purchase order.",
+          "polygon": [
+            247,
+            774,
+            737,
+            774,
+            737,
+            799,
+            247,
+            799
+          ],
+          "spans": [
+            {
+              "offset": 319,
+              "length": 38
+            }
+          ]
+        },
+        {
+          "content": "Sincerely yours,",
+          "polygon": [
+            737,
+            824,
+            937,
+            825,
+            937,
+            851,
+            736,
+            849
+          ],
+          "spans": [
+            {
+              "offset": 358,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "H. T. Potter",
+          "polygon": [
+            735,
+            925,
+            889,
+            926,
+            889,
+            949,
+            735,
+            948
+          ],
+          "spans": [
+            {
+              "offset": 375,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Supply Advisor",
+          "polygon": [
+            737,
+            951,
+            914,
+            950,
+            914,
+            975,
+            737,
+            975
+          ],
+          "spans": [
+            {
+              "offset": 388,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "N",
+          "polygon": [
+            605,
+            1009,
+            664,
+            1008,
+            664,
+            1040,
+            606,
+            1040
+          ],
+          "spans": [
+            {
+              "offset": 403,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "女拓",
+          "polygon": [
+            574,
+            1042,
+            679,
+            1042,
+            681,
+            1098,
+            576,
+            1101
+          ],
+          "spans": [
+            {
+              "offset": 405,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Cho/ml",
+          "polygon": [
+            236,
+            1135,
+            310,
+            1135,
+            310,
+            1158,
+            236,
+            1158
+          ],
+          "spans": [
+            {
+              "offset": 408,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "5/23/62",
+          "polygon": [
+            235,
+            1159,
+            323,
+            1158,
+            323,
+            1185,
+            235,
+            1185
+          ],
+          "spans": [
+            {
+              "offset": 415,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "51.5. 24",
+          "polygon": [
+            78,
+            1216,
+            183,
+            1219,
+            182,
+            1253,
+            77,
+            1249
+          ],
+          "spans": [
+            {
+              "offset": 423,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "10278",
+          "polygon": [
+            82,
+            1256,
+            194,
+            1259,
+            193,
+            1291,
+            81,
+            1288
+          ],
+          "spans": [
+            {
+              "offset": 432,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "V.C.",
+          "polygon": [
+            62,
+            1289,
+            102,
+            1290,
+            101,
+            1310,
+            62,
+            1309
+          ],
+          "spans": [
+            {
+              "offset": 438,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "S.G.",
+          "polygon": [
+            60,
+            1320,
+            101,
+            1321,
+            101,
+            1341,
+            60,
+            1340
+          ],
+          "spans": [
+            {
+              "offset": 443,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            123,
+            1337,
+            146,
+            1337,
+            145,
+            1368,
+            122,
+            1368
+          ],
+          "spans": [
+            {
+              "offset": 448,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "CUNA",
+          "polygon": [
+            69,
+            1494,
+            161,
+            1496,
+            161,
+            1516,
+            69,
+            1514
+          ],
+          "spans": [
+            {
+              "offset": 450,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "419",
+          "polygon": [
+            22,
+            1524,
+            73,
+            1524,
+            73,
+            1567,
+            22,
+            1566
+          ],
+          "spans": [
+            {
+              "offset": 455,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "P/SP (2)",
+          "polygon": [
+            296,
+            1208,
+            397,
+            1208,
+            397,
+            1234,
+            296,
+            1234
+          ],
+          "spans": [
+            {
+              "offset": 459,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "X/CAR (2)",
+          "polygon": [
+            295,
+            1234,
+            409,
+            1235,
+            409,
+            1260,
+            295,
+            1260
+          ],
+          "spans": [
+            {
+              "offset": 468,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "PO",
+          "polygon": [
+            298,
+            1263,
+            324,
+            1263,
+            324,
+            1282,
+            298,
+            1282
+          ],
+          "spans": [
+            {
+              "offset": 478,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "JORR-S.K. Koo",
+          "polygon": [
+            298,
+            1287,
+            463,
+            1287,
+            463,
+            1308,
+            298,
+            1308
+          ],
+          "spans": [
+            {
+              "offset": 481,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "CUSA 2nd Div.",
+          "polygon": [
+            300,
+            1312,
+            457,
+            1312,
+            457,
+            1333,
+            300,
+            1334
+          ],
+          "spans": [
+            {
+              "offset": 495,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "佳",
+          "polygon": [
+            490,
+            1168,
+            538,
+            1164,
+            542,
+            1225,
+            494,
+            1229
+          ],
+          "spans": [
+            {
+              "offset": 509,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            687,
+            1192,
+            715,
+            1192,
+            716,
+            1255,
+            688,
+            1255
+          ],
+          "spans": [
+            {
+              "offset": 511,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            614,
+            1196,
+            623,
+            1195,
+            624,
+            1210,
+            615,
+            1211
+          ],
+          "spans": [
+            {
+              "offset": 513,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            594,
+            1235,
+            610,
+            1235,
+            611,
+            1262,
+            594,
+            1263
+          ],
+          "spans": [
+            {
+              "offset": 515,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            590,
+            1274,
+            630,
+            1264,
+            636,
+            1302,
+            596,
+            1312
+          ],
+          "spans": [
+            {
+              "offset": 517,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "徐州",
+          "polygon": [
+            633,
+            1296,
+            746,
+            1300,
+            745,
+            1375,
+            631,
+            1371
+          ],
+          "spans": [
+            {
+              "offset": 519,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "E-16.13.2",
+          "polygon": [
+            562,
+            1424,
+            972,
+            1330,
+            988,
+            1410,
+            581,
+            1507
+          ],
+          "spans": [
+            {
+              "offset": 522,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "2 216",
+          "polygon": [
+            866,
+            1425,
+            1057,
+            1426,
+            1057,
+            1498,
+            866,
+            1498
+          ],
+          "spans": [
+            {
+              "offset": 532,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Academia Histórica",
+          "polygon": [
+            845,
+            1499,
+            1054,
+            1500,
+            1054,
+            1526,
+            845,
+            1525
+          ],
+          "spans": [
+            {
+              "offset": 538,
+              "length": 18
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 556
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            27,
+            67,
+            72,
+            66,
+            77,
+            360,
+            33,
+            361
+          ]
+        }
+      ],
+      "content": "2 本件保存 年"
+    },
+    {
+      "spans": [
+        {
+          "offset": 9,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            851,
+            215,
+            1045,
+            210,
+            1046,
+            247,
+            852,
+            252
+          ]
+        }
+      ],
+      "content": "MAY 24 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            293,
+            261,
+            394,
+            231,
+            406,
+            269,
+            304,
+            300
+          ]
+        }
+      ],
+      "content": "3822"
+    },
+    {
+      "spans": [
+        {
+          "offset": 26,
+          "length": 78
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            241,
+            347,
+            687,
+            346,
+            687,
+            446,
+            242,
+            447
+          ]
+        }
+      ],
+      "content": "General Services Administration/FőS Ragion 6 Kansas City B1, Missouri U. S. A."
+    },
+    {
+      "spans": [
+        {
+          "offset": 105,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            345,
+            497,
+            663,
+            498,
+            663,
+            523,
+            345,
+            523
+          ]
+        }
+      ],
+      "content": "Subject: Excess Property"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            246,
+            573,
+            373,
+            576,
+            373,
+            599,
+            245,
+            596
+          ]
+        }
+      ],
+      "content": "Contleen,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 140,
+          "length": 217
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            244,
+            622,
+            1040,
+            622,
+            1040,
+            799,
+            244,
+            799
+          ]
+        }
+      ],
+      "content": "We have requirement for me Tractor, Bulletin No. 66, Page 3, Control Bo. 6-62-4645, Item 1, Condition B-S. Please advise availability. If your reply is in the affirmative we will imediatoly forward our purchase order."
+    },
+    {
+      "spans": [
+        {
+          "offset": 358,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            824,
+            937,
+            825,
+            937,
+            851,
+            736,
+            849
+          ]
+        }
+      ],
+      "content": "Sincerely yours,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 375,
+          "length": 27
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            925,
+            914,
+            925,
+            914,
+            975,
+            735,
+            975
+          ]
+        }
+      ],
+      "content": "H. T. Potter Supply Advisor"
+    },
+    {
+      "spans": [
+        {
+          "offset": 403,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            574,
+            1009,
+            679,
+            1007,
+            681,
+            1098,
+            576,
+            1101
+          ]
+        }
+      ],
+      "content": "N 女拓"
+    },
+    {
+      "spans": [
+        {
+          "offset": 408,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            235,
+            1135,
+            323,
+            1135,
+            323,
+            1185,
+            235,
+            1185
+          ]
+        }
+      ],
+      "content": "Cho/ml 5/23/62"
+    },
+    {
+      "spans": [
+        {
+          "offset": 423,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            78,
+            1216,
+            184,
+            1219,
+            182,
+            1253,
+            77,
+            1249
+          ]
+        }
+      ],
+      "content": "51.5. 24"
+    },
+    {
+      "spans": [
+        {
+          "offset": 432,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            63,
+            1256,
+            194,
+            1259,
+            192,
+            1313,
+            62,
+            1309
+          ]
+        }
+      ],
+      "content": "10278 V.C."
+    },
+    {
+      "spans": [
+        {
+          "offset": 443,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            60,
+            1320,
+            101,
+            1321,
+            101,
+            1341,
+            60,
+            1340
+          ]
+        }
+      ],
+      "content": "S.G."
+    },
+    {
+      "spans": [
+        {
+          "offset": 448,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            123,
+            1337,
+            146,
+            1337,
+            145,
+            1368,
+            122,
+            1368
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 450,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            69,
+            1494,
+            161,
+            1496,
+            161,
+            1516,
+            69,
+            1514
+          ]
+        }
+      ],
+      "content": "CUNA"
+    },
+    {
+      "spans": [
+        {
+          "offset": 455,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            22,
+            1524,
+            73,
+            1524,
+            73,
+            1567,
+            22,
+            1566
+          ]
+        }
+      ],
+      "content": "419"
+    },
+    {
+      "spans": [
+        {
+          "offset": 459,
+          "length": 49
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            295,
+            1208,
+            462,
+            1208,
+            463,
+            1333,
+            296,
+            1334
+          ]
+        }
+      ],
+      "content": "P/SP (2) X/CAR (2) PO JORR-S.K. Koo CUSA 2nd Div."
+    },
+    {
+      "spans": [
+        {
+          "offset": 509,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            490,
+            1167,
+            538,
+            1164,
+            542,
+            1226,
+            494,
+            1229
+          ]
+        }
+      ],
+      "content": "佳"
+    },
+    {
+      "spans": [
+        {
+          "offset": 511,
+          "length": 45
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            579,
+            1182,
+            1076,
+            1216,
+            1054,
+            1539,
+            556,
+            1505
+          ]
+        }
+      ],
+      "content": "3 1 3 3 徐州 E-16.13.2 2 216 Academia Histórica"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        },
+        {
+          "offset": 21,
+          "length": 4
+        },
+        {
+          "offset": 403,
+          "length": 4
+        },
+        {
+          "offset": 455,
+          "length": 3
+        },
+        {
+          "offset": 515,
+          "length": 16
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 432,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 509,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 532,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 556
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/paragraphs/6",
+        "/paragraphs/7",
+        "/paragraphs/8",
+        "/paragraphs/9",
+        "/paragraphs/10",
+        "/paragraphs/11",
+        "/paragraphs/12",
+        "/paragraphs/13",
+        "/paragraphs/14",
+        "/paragraphs/15",
+        "/paragraphs/16",
+        "/paragraphs/17",
+        "/paragraphs/18",
+        "/paragraphs/19",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            853,
+            1425,
+            1060,
+            1423,
+            1061,
+            1521,
+            854,
+            1523
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 556,
+          "length": 0
+        }
+      ]
+    }
+  ]
+}

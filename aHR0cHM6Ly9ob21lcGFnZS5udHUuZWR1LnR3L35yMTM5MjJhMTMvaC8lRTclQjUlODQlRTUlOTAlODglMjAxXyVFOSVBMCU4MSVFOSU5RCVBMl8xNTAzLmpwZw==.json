@@ -1,0 +1,2050 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Shipment NO. 230 Ex. Genevieve from New Orleans Arr. May. 22, 1962 Keelung PIO/C-10218 P.O. E61-081\nDate: June 9, 1962\notty & Unit\nDescription\nWt. (Lb.) Cu.ft.\none Box\nTransformer, GE 50 KVA, Sgle ph Volt Bating 720/11950V-115/1230 FSN 5950-0011-0010, 1 ea.\n1.850 44.0\n/ / / Say one item only / / /\nD\n國史馆 Academia Historica\n265",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.09598484635353088,
+      "width": 1284,
+      "height": 1692,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Shipment",
+          "polygon": [
+            196,
+            402,
+            298,
+            402,
+            298,
+            425,
+            196,
+            425
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 0,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO.",
+          "polygon": [
+            308,
+            402,
+            346,
+            402,
+            346,
+            425,
+            308,
+            425
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 9,
+            "length": 3
+          }
+        },
+        {
+          "content": "230",
+          "polygon": [
+            360,
+            402,
+            401,
+            402,
+            401,
+            425,
+            360,
+            425
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 13,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ex.",
+          "polygon": [
+            198,
+            428,
+            234,
+            427,
+            234,
+            449,
+            198,
+            449
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 17,
+            "length": 3
+          }
+        },
+        {
+          "content": "Genevieve",
+          "polygon": [
+            244,
+            427,
+            361,
+            428,
+            361,
+            449,
+            244,
+            449
+          ],
+          "confidence": 0.668,
+          "span": {
+            "offset": 21,
+            "length": 9
+          }
+        },
+        {
+          "content": "from",
+          "polygon": [
+            386,
+            428,
+            438,
+            428,
+            438,
+            449,
+            386,
+            449
+          ],
+          "confidence": 0.659,
+          "span": {
+            "offset": 31,
+            "length": 4
+          }
+        },
+        {
+          "content": "New",
+          "polygon": [
+            448,
+            428,
+            486,
+            428,
+            486,
+            450,
+            447,
+            449
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 36,
+            "length": 3
+          }
+        },
+        {
+          "content": "Orleans",
+          "polygon": [
+            496,
+            428,
+            587,
+            429,
+            587,
+            450,
+            496,
+            450
+          ],
+          "confidence": 0.874,
+          "span": {
+            "offset": 40,
+            "length": 7
+          }
+        },
+        {
+          "content": "Arr.",
+          "polygon": [
+            198,
+            454,
+            246,
+            453,
+            246,
+            476,
+            198,
+            476
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 48,
+            "length": 4
+          }
+        },
+        {
+          "content": "May.",
+          "polygon": [
+            260,
+            453,
+            306,
+            453,
+            306,
+            476,
+            260,
+            476
+          ],
+          "confidence": 0.657,
+          "span": {
+            "offset": 53,
+            "length": 4
+          }
+        },
+        {
+          "content": "22,",
+          "polygon": [
+            310,
+            452,
+            346,
+            452,
+            346,
+            476,
+            310,
+            476
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 58,
+            "length": 3
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            361,
+            453,
+            412,
+            453,
+            411,
+            476,
+            361,
+            476
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 62,
+            "length": 4
+          }
+        },
+        {
+          "content": "Keelung",
+          "polygon": [
+            436,
+            453,
+            526,
+            454,
+            526,
+            478,
+            436,
+            476
+          ],
+          "confidence": 0.869,
+          "span": {
+            "offset": 67,
+            "length": 7
+          }
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            198,
+            477,
+            338,
+            477,
+            338,
+            499,
+            198,
+            500
+          ],
+          "confidence": 0.854,
+          "span": {
+            "offset": 75,
+            "length": 11
+          }
+        },
+        {
+          "content": "P.O.",
+          "polygon": [
+            197,
+            502,
+            246,
+            502,
+            246,
+            525,
+            197,
+            525
+          ],
+          "confidence": 0.843,
+          "span": {
+            "offset": 87,
+            "length": 4
+          }
+        },
+        {
+          "content": "E61-081",
+          "polygon": [
+            263,
+            502,
+            349,
+            502,
+            349,
+            525,
+            263,
+            525
+          ],
+          "confidence": 0.634,
+          "span": {
+            "offset": 92,
+            "length": 7
+          }
+        },
+        {
+          "content": "Date:",
+          "polygon": [
+            794,
+            379,
+            861,
+            379,
+            861,
+            404,
+            794,
+            404
+          ],
+          "confidence": 0.968,
+          "span": {
+            "offset": 100,
+            "length": 5
+          }
+        },
+        {
+          "content": "June",
+          "polygon": [
+            871,
+            379,
+            923,
+            378,
+            923,
+            403,
+            871,
+            404
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 106,
+            "length": 4
+          }
+        },
+        {
+          "content": "9,",
+          "polygon": [
+            934,
+            378,
+            957,
+            378,
+            957,
+            403,
+            934,
+            403
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 111,
+            "length": 2
+          }
+        },
+        {
+          "content": "1962",
+          "polygon": [
+            969,
+            378,
+            1023,
+            378,
+            1023,
+            403,
+            970,
+            403
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 114,
+            "length": 4
+          }
+        },
+        {
+          "content": "otty",
+          "polygon": [
+            197,
+            654,
+            249,
+            654,
+            249,
+            675,
+            197,
+            675
+          ],
+          "confidence": 0.656,
+          "span": {
+            "offset": 119,
+            "length": 4
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            259,
+            654,
+            272,
+            654,
+            272,
+            675,
+            259,
+            675
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 124,
+            "length": 1
+          }
+        },
+        {
+          "content": "Unit",
+          "polygon": [
+            283,
+            654,
+            334,
+            653,
+            334,
+            675,
+            283,
+            675
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 126,
+            "length": 4
+          }
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            408,
+            655,
+            548,
+            654,
+            548,
+            676,
+            408,
+            675
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 131,
+            "length": 11
+          }
+        },
+        {
+          "content": "Wt.",
+          "polygon": [
+            918,
+            655,
+            954,
+            654,
+            955,
+            678,
+            918,
+            677
+          ],
+          "confidence": 0.826,
+          "span": {
+            "offset": 143,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Lb.)",
+          "polygon": [
+            959,
+            654,
+            1018,
+            655,
+            1018,
+            678,
+            959,
+            678
+          ],
+          "confidence": 0.815,
+          "span": {
+            "offset": 147,
+            "length": 5
+          }
+        },
+        {
+          "content": "Cu.ft.",
+          "polygon": [
+            1032,
+            655,
+            1107,
+            656,
+            1107,
+            679,
+            1032,
+            678
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 153,
+            "length": 6
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            196,
+            681,
+            236,
+            681,
+            236,
+            698,
+            196,
+            699
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 160,
+            "length": 3
+          }
+        },
+        {
+          "content": "Box",
+          "polygon": [
+            272,
+            681,
+            313,
+            681,
+            313,
+            699,
+            272,
+            699
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 164,
+            "length": 3
+          }
+        },
+        {
+          "content": "Transformer,",
+          "polygon": [
+            408,
+            679,
+            557,
+            679,
+            557,
+            702,
+            408,
+            702
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 168,
+            "length": 12
+          }
+        },
+        {
+          "content": "GE",
+          "polygon": [
+            571,
+            679,
+            598,
+            679,
+            598,
+            703,
+            571,
+            702
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 181,
+            "length": 2
+          }
+        },
+        {
+          "content": "50",
+          "polygon": [
+            608,
+            679,
+            636,
+            679,
+            635,
+            703,
+            608,
+            703
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 184,
+            "length": 2
+          }
+        },
+        {
+          "content": "KVA,",
+          "polygon": [
+            647,
+            679,
+            701,
+            679,
+            701,
+            703,
+            647,
+            703
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 187,
+            "length": 4
+          }
+        },
+        {
+          "content": "Sgle",
+          "polygon": [
+            708,
+            679,
+            760,
+            680,
+            760,
+            703,
+            708,
+            703
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 192,
+            "length": 4
+          }
+        },
+        {
+          "content": "ph",
+          "polygon": [
+            771,
+            680,
+            798,
+            680,
+            798,
+            704,
+            771,
+            704
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 197,
+            "length": 2
+          }
+        },
+        {
+          "content": "Volt",
+          "polygon": [
+            410,
+            704,
+            464,
+            704,
+            464,
+            727,
+            410,
+            727
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 200,
+            "length": 4
+          }
+        },
+        {
+          "content": "Bating",
+          "polygon": [
+            471,
+            704,
+            548,
+            704,
+            548,
+            727,
+            471,
+            727
+          ],
+          "confidence": 0.799,
+          "span": {
+            "offset": 205,
+            "length": 6
+          }
+        },
+        {
+          "content": "720/11950V-115/1230",
+          "polygon": [
+            560,
+            703,
+            798,
+            704,
+            798,
+            728,
+            560,
+            728
+          ],
+          "confidence": 0.814,
+          "span": {
+            "offset": 212,
+            "length": 19
+          }
+        },
+        {
+          "content": "FSN",
+          "polygon": [
+            407,
+            729,
+            448,
+            729,
+            448,
+            753,
+            407,
+            752
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 232,
+            "length": 3
+          }
+        },
+        {
+          "content": "5950-0011-0010,",
+          "polygon": [
+            455,
+            729,
+            638,
+            730,
+            638,
+            754,
+            455,
+            753
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 236,
+            "length": 15
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            645,
+            730,
+            659,
+            730,
+            659,
+            754,
+            645,
+            754
+          ],
+          "confidence": 0.653,
+          "span": {
+            "offset": 252,
+            "length": 1
+          }
+        },
+        {
+          "content": "ea.",
+          "polygon": [
+            672,
+            730,
+            709,
+            731,
+            709,
+            754,
+            672,
+            753
+          ],
+          "confidence": 0.92,
+          "span": {
+            "offset": 254,
+            "length": 3
+          }
+        },
+        {
+          "content": "1.850",
+          "polygon": [
+            920,
+            680,
+            972,
+            680,
+            972,
+            702,
+            920,
+            701
+          ],
+          "confidence": 0.575,
+          "span": {
+            "offset": 258,
+            "length": 5
+          }
+        },
+        {
+          "content": "44.0",
+          "polygon": [
+            1033,
+            682,
+            1085,
+            682,
+            1085,
+            703,
+            1033,
+            703
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 264,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            407,
+            849,
+            429,
+            850,
+            428,
+            879,
+            406,
+            879
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 269,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            434,
+            850,
+            450,
+            850,
+            450,
+            879,
+            434,
+            879
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 271,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            459,
+            850,
+            473,
+            850,
+            473,
+            879,
+            458,
+            879
+          ],
+          "confidence": 0.904,
+          "span": {
+            "offset": 273,
+            "length": 1
+          }
+        },
+        {
+          "content": "Say",
+          "polygon": [
+            480,
+            850,
+            527,
+            850,
+            527,
+            879,
+            480,
+            879
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 275,
+            "length": 3
+          }
+        },
+        {
+          "content": "one",
+          "polygon": [
+            533,
+            850,
+            572,
+            850,
+            571,
+            879,
+            533,
+            879
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 279,
+            "length": 3
+          }
+        },
+        {
+          "content": "item",
+          "polygon": [
+            582,
+            850,
+            633,
+            850,
+            633,
+            879,
+            582,
+            879
+          ],
+          "confidence": 0.738,
+          "span": {
+            "offset": 283,
+            "length": 4
+          }
+        },
+        {
+          "content": "only",
+          "polygon": [
+            645,
+            850,
+            696,
+            849,
+            696,
+            879,
+            645,
+            879
+          ],
+          "confidence": 0.741,
+          "span": {
+            "offset": 288,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            705,
+            849,
+            722,
+            849,
+            722,
+            879,
+            705,
+            879
+          ],
+          "confidence": 0.786,
+          "span": {
+            "offset": 293,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            733,
+            848,
+            750,
+            848,
+            750,
+            879,
+            733,
+            879
+          ],
+          "confidence": 0.66,
+          "span": {
+            "offset": 295,
+            "length": 1
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            757,
+            848,
+            775,
+            849,
+            775,
+            879,
+            757,
+            879
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 297,
+            "length": 1
+          }
+        },
+        {
+          "content": "D",
+          "polygon": [
+            1117,
+            1478,
+            1238,
+            1485,
+            1238,
+            1650,
+            1126,
+            1643
+          ],
+          "confidence": 0.096,
+          "span": {
+            "offset": 299,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            904,
+            1529,
+            961,
+            1529,
+            961,
+            1605,
+            905,
+            1605
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 301,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            962,
+            1529,
+            1015,
+            1529,
+            1016,
+            1606,
+            963,
+            1605
+          ],
+          "confidence": 0.941,
+          "span": {
+            "offset": 302,
+            "length": 1
+          }
+        },
+        {
+          "content": "馆",
+          "polygon": [
+            1023,
+            1529,
+            1107,
+            1530,
+            1107,
+            1609,
+            1023,
+            1606
+          ],
+          "confidence": 0.703,
+          "span": {
+            "offset": 303,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            876,
+            1609,
+            992,
+            1610,
+            992,
+            1635,
+            876,
+            1634
+          ],
+          "confidence": 0.277,
+          "span": {
+            "offset": 305,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1002,
+            1610,
+            1105,
+            1613,
+            1105,
+            1636,
+            1002,
+            1635
+          ],
+          "confidence": 0.594,
+          "span": {
+            "offset": 314,
+            "length": 9
+          }
+        },
+        {
+          "content": "265",
+          "polygon": [
+            21,
+            1628,
+            90,
+            1628,
+            90,
+            1662,
+            21,
+            1662
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 324,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Shipment NO. 230",
+          "polygon": [
+            196,
+            402,
+            400,
+            402,
+            400,
+            425,
+            196,
+            425
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Ex. Genevieve from New Orleans",
+          "polygon": [
+            198,
+            427,
+            586,
+            428,
+            586,
+            450,
+            198,
+            448
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 30
+            }
+          ]
+        },
+        {
+          "content": "Arr. May. 22, 1962 Keelung",
+          "polygon": [
+            198,
+            452,
+            525,
+            453,
+            525,
+            478,
+            198,
+            476
+          ],
+          "spans": [
+            {
+              "offset": 48,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "PIO/C-10218",
+          "polygon": [
+            198,
+            477,
+            338,
+            476,
+            338,
+            499,
+            198,
+            500
+          ],
+          "spans": [
+            {
+              "offset": 75,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "P.O. E61-081",
+          "polygon": [
+            197,
+            502,
+            348,
+            502,
+            348,
+            525,
+            197,
+            525
+          ],
+          "spans": [
+            {
+              "offset": 87,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Date: June 9, 1962",
+          "polygon": [
+            794,
+            379,
+            1022,
+            378,
+            1022,
+            403,
+            794,
+            404
+          ],
+          "spans": [
+            {
+              "offset": 100,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "otty & Unit",
+          "polygon": [
+            197,
+            654,
+            334,
+            653,
+            334,
+            674,
+            197,
+            675
+          ],
+          "spans": [
+            {
+              "offset": 119,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Description",
+          "polygon": [
+            408,
+            654,
+            548,
+            654,
+            548,
+            675,
+            408,
+            675
+          ],
+          "spans": [
+            {
+              "offset": 131,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Wt. (Lb.) Cu.ft.",
+          "polygon": [
+            918,
+            654,
+            1107,
+            655,
+            1106,
+            679,
+            918,
+            677
+          ],
+          "spans": [
+            {
+              "offset": 143,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "one",
+          "polygon": [
+            196,
+            681,
+            236,
+            681,
+            236,
+            699,
+            196,
+            698
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Box",
+          "polygon": [
+            272,
+            681,
+            313,
+            681,
+            313,
+            699,
+            272,
+            699
+          ],
+          "spans": [
+            {
+              "offset": 164,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Transformer, GE 50 KVA, Sgle ph",
+          "polygon": [
+            408,
+            678,
+            797,
+            680,
+            797,
+            703,
+            408,
+            702
+          ],
+          "spans": [
+            {
+              "offset": 168,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "Volt Bating 720/11950V-115/1230",
+          "polygon": [
+            410,
+            703,
+            797,
+            704,
+            797,
+            728,
+            410,
+            727
+          ],
+          "spans": [
+            {
+              "offset": 200,
+              "length": 31
+            }
+          ]
+        },
+        {
+          "content": "FSN 5950-0011-0010, 1 ea.",
+          "polygon": [
+            407,
+            728,
+            708,
+            730,
+            708,
+            754,
+            407,
+            752
+          ],
+          "spans": [
+            {
+              "offset": 232,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "1.850",
+          "polygon": [
+            920,
+            680,
+            972,
+            680,
+            972,
+            701,
+            920,
+            701
+          ],
+          "spans": [
+            {
+              "offset": 258,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "44.0",
+          "polygon": [
+            1033,
+            682,
+            1084,
+            682,
+            1084,
+            703,
+            1033,
+            703
+          ],
+          "spans": [
+            {
+              "offset": 264,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "/ / / Say one item only / / /",
+          "polygon": [
+            406,
+            849,
+            774,
+            848,
+            774,
+            879,
+            406,
+            879
+          ],
+          "spans": [
+            {
+              "offset": 269,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "D",
+          "polygon": [
+            1117,
+            1471,
+            1230,
+            1469,
+            1237,
+            1649,
+            1124,
+            1650
+          ],
+          "spans": [
+            {
+              "offset": 299,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "國史馆",
+          "polygon": [
+            904,
+            1528,
+            1107,
+            1530,
+            1106,
+            1608,
+            903,
+            1604
+          ],
+          "spans": [
+            {
+              "offset": 301,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            876,
+            1609,
+            1104,
+            1611,
+            1104,
+            1636,
+            876,
+            1635
+          ],
+          "spans": [
+            {
+              "offset": 305,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "265",
+          "polygon": [
+            21,
+            1627,
+            89,
+            1627,
+            89,
+            1662,
+            21,
+            1662
+          ],
+          "spans": [
+            {
+              "offset": 324,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 327
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 2,
+      "columnCount": 3,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "otty & Unit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                187,
+                641,
+                369,
+                641,
+                369,
+                676,
+                186,
+                676
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 119,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Description",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                369,
+                641,
+                858,
+                642,
+                858,
+                677,
+                369,
+                676
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 131,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Wt. (Lb.) Cu.ft.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                858,
+                642,
+                1115,
+                643,
+                1115,
+                678,
+                858,
+                677
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 143,
+              "length": 16
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "one Box",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                186,
+                676,
+                369,
+                676,
+                369,
+                760,
+                184,
+                760
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Transformer, GE 50 KVA, Sgle ph Volt Bating 720/11950V-115/1230 FSN 5950-0011-0010, 1 ea.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                369,
+                676,
+                858,
+                677,
+                859,
+                761,
+                369,
+                760
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 168,
+              "length": 89
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "1.850 44.0",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                858,
+                677,
+                1115,
+                678,
+                1115,
+                762,
+                859,
+                761
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 258,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            192,
+            648,
+            1112,
+            646,
+            1113,
+            758,
+            193,
+            759
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 119,
+          "length": 149
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 99
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            196,
+            402,
+            586,
+            400,
+            587,
+            524,
+            197,
+            525
+          ]
+        }
+      ],
+      "content": "Shipment NO. 230 Ex. Genevieve from New Orleans Arr. May. 22, 1962 Keelung PIO/C-10218 P.O. E61-081"
+    },
+    {
+      "spans": [
+        {
+          "offset": 100,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            794,
+            379,
+            1022,
+            378,
+            1022,
+            403,
+            794,
+            404
+          ]
+        }
+      ],
+      "content": "Date: June 9, 1962"
+    },
+    {
+      "spans": [
+        {
+          "offset": 119,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            187,
+            641,
+            369,
+            641,
+            369,
+            676,
+            186,
+            676
+          ]
+        }
+      ],
+      "content": "otty & Unit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 131,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            369,
+            641,
+            858,
+            642,
+            858,
+            677,
+            369,
+            676
+          ]
+        }
+      ],
+      "content": "Description"
+    },
+    {
+      "spans": [
+        {
+          "offset": 143,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            858,
+            642,
+            1115,
+            643,
+            1115,
+            678,
+            858,
+            677
+          ]
+        }
+      ],
+      "content": "Wt. (Lb.) Cu.ft."
+    },
+    {
+      "spans": [
+        {
+          "offset": 160,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            676,
+            369,
+            676,
+            369,
+            760,
+            184,
+            760
+          ]
+        }
+      ],
+      "content": "one Box"
+    },
+    {
+      "spans": [
+        {
+          "offset": 168,
+          "length": 89
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            369,
+            676,
+            858,
+            677,
+            859,
+            761,
+            369,
+            760
+          ]
+        }
+      ],
+      "content": "Transformer, GE 50 KVA, Sgle ph Volt Bating 720/11950V-115/1230 FSN 5950-0011-0010, 1 ea."
+    },
+    {
+      "spans": [
+        {
+          "offset": 258,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            858,
+            677,
+            1115,
+            678,
+            1115,
+            762,
+            859,
+            761
+          ]
+        }
+      ],
+      "content": "1.850 44.0"
+    },
+    {
+      "spans": [
+        {
+          "offset": 269,
+          "length": 29
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            406,
+            849,
+            774,
+            848,
+            774,
+            879,
+            406,
+            879
+          ]
+        }
+      ],
+      "content": "/ / / Say one item only / / /"
+    },
+    {
+      "spans": [
+        {
+          "offset": 299,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1117,
+            1471,
+            1229,
+            1466,
+            1237,
+            1649,
+            1125,
+            1654
+          ]
+        }
+      ],
+      "content": "D"
+    },
+    {
+      "spans": [
+        {
+          "offset": 301,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            877,
+            1528,
+            1107,
+            1530,
+            1106,
+            1636,
+            876,
+            1635
+          ]
+        }
+      ],
+      "content": "國史馆 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 324,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            21,
+            1627,
+            89,
+            1627,
+            89,
+            1662,
+            21,
+            1662
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "265"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 324,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 323
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/8",
+        "/paragraphs/9",
+        "/paragraphs/10"
+      ]
+    }
+  ]
+}

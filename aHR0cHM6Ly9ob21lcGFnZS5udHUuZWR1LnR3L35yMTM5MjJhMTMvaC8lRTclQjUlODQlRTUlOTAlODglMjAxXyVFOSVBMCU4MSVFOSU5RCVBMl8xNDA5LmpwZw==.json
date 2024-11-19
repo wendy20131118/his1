@@ -1,0 +1,4662 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "DEPART T OF STATE\nUS AID/C TAIPEI TOADD A- 6 0\nUNCLASSIFIED 4 4\nATTA CIT NT\nIII. Country from which acquired Taiwan ( Cont'd)\nA\nB\nFederal Supply Classification Group\nAcquisition Value\n49\n011,919.00\n53\n128.49\n52\n11.00\n58\n901.90\n56\n136.80\n59\n許躍薾\n335.00\n61\n140.112.213.82\n22,842.00\n62\n264.24\n65\n161,748.98\n73.\n2.498.52\n73\n1,235.00\n74\n6,509.40\n95\n239.00\n99\n96.00\nTotal:\n₹ 911.965.44\nUNCLASSIFIED\n國史饭 Academia Historica\n171",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.0940999984741211,
+      "width": 1227,
+      "height": 1585,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "DEPART",
+          "polygon": [
+            473,
+            88,
+            547,
+            87,
+            547,
+            110,
+            473,
+            110
+          ],
+          "confidence": 0.673,
+          "span": {
+            "offset": 0,
+            "length": 6
+          }
+        },
+        {
+          "content": "T",
+          "polygon": [
+            576,
+            87,
+            599,
+            87,
+            599,
+            109,
+            576,
+            110
+          ],
+          "confidence": 0.596,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "OF",
+          "polygon": [
+            614,
+            87,
+            636,
+            87,
+            636,
+            109,
+            614,
+            109
+          ],
+          "confidence": 0.196,
+          "span": {
+            "offset": 9,
+            "length": 2
+          }
+        },
+        {
+          "content": "STATE",
+          "polygon": [
+            651,
+            87,
+            716,
+            86,
+            716,
+            109,
+            651,
+            109
+          ],
+          "confidence": 0.88,
+          "span": {
+            "offset": 12,
+            "length": 5
+          }
+        },
+        {
+          "content": "US",
+          "polygon": [
+            86,
+            148,
+            110,
+            148,
+            110,
+            172,
+            86,
+            172
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 18,
+            "length": 2
+          }
+        },
+        {
+          "content": "AID/C",
+          "polygon": [
+            124,
+            147,
+            189,
+            147,
+            189,
+            172,
+            124,
+            172
+          ],
+          "confidence": 0.711,
+          "span": {
+            "offset": 21,
+            "length": 5
+          }
+        },
+        {
+          "content": "TAIPEI",
+          "polygon": [
+            199,
+            147,
+            277,
+            148,
+            277,
+            171,
+            199,
+            172
+          ],
+          "confidence": 0.688,
+          "span": {
+            "offset": 27,
+            "length": 6
+          }
+        },
+        {
+          "content": "TOADD",
+          "polygon": [
+            311,
+            148,
+            376,
+            147,
+            376,
+            169,
+            311,
+            170
+          ],
+          "confidence": 0.185,
+          "span": {
+            "offset": 34,
+            "length": 5
+          }
+        },
+        {
+          "content": "A-",
+          "polygon": [
+            388,
+            146,
+            415,
+            145,
+            415,
+            168,
+            388,
+            169
+          ],
+          "confidence": 0.548,
+          "span": {
+            "offset": 40,
+            "length": 2
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            435,
+            144,
+            448,
+            143,
+            449,
+            167,
+            435,
+            167
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 43,
+            "length": 1
+          }
+        },
+        {
+          "content": "0",
+          "polygon": [
+            459,
+            143,
+            476,
+            143,
+            476,
+            166,
+            460,
+            167
+          ],
+          "confidence": 0.852,
+          "span": {
+            "offset": 45,
+            "length": 1
+          }
+        },
+        {
+          "content": "UNCLASSIFIED",
+          "polygon": [
+            712,
+            146,
+            867,
+            145,
+            867,
+            168,
+            712,
+            169
+          ],
+          "confidence": 0.846,
+          "span": {
+            "offset": 47,
+            "length": 12
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            1077,
+            143,
+            1094,
+            143,
+            1094,
+            164,
+            1077,
+            163
+          ],
+          "confidence": 0.94,
+          "span": {
+            "offset": 60,
+            "length": 1
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            1166,
+            144,
+            1182,
+            144,
+            1182,
+            164,
+            1166,
+            164
+          ],
+          "confidence": 0.424,
+          "span": {
+            "offset": 62,
+            "length": 1
+          }
+        },
+        {
+          "content": "ATTA",
+          "polygon": [
+            210,
+            226,
+            261,
+            226,
+            261,
+            246,
+            210,
+            247
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 64,
+            "length": 4
+          }
+        },
+        {
+          "content": "CIT",
+          "polygon": [
+            266,
+            226,
+            300,
+            226,
+            300,
+            246,
+            266,
+            246
+          ],
+          "confidence": 0.291,
+          "span": {
+            "offset": 69,
+            "length": 3
+          }
+        },
+        {
+          "content": "NT",
+          "polygon": [
+            310,
+            225,
+            340,
+            225,
+            340,
+            246,
+            310,
+            246
+          ],
+          "confidence": 0.657,
+          "span": {
+            "offset": 73,
+            "length": 2
+          }
+        },
+        {
+          "content": "III.",
+          "polygon": [
+            214,
+            299,
+            262,
+            299,
+            262,
+            324,
+            214,
+            324
+          ],
+          "confidence": 0.716,
+          "span": {
+            "offset": 76,
+            "length": 4
+          }
+        },
+        {
+          "content": "Country",
+          "polygon": [
+            292,
+            299,
+            377,
+            299,
+            377,
+            324,
+            292,
+            324
+          ],
+          "confidence": 0.939,
+          "span": {
+            "offset": 81,
+            "length": 7
+          }
+        },
+        {
+          "content": "from",
+          "polygon": [
+            388,
+            298,
+            438,
+            298,
+            438,
+            324,
+            388,
+            324
+          ],
+          "confidence": 0.659,
+          "span": {
+            "offset": 89,
+            "length": 4
+          }
+        },
+        {
+          "content": "which",
+          "polygon": [
+            450,
+            298,
+            514,
+            298,
+            514,
+            324,
+            450,
+            324
+          ],
+          "confidence": 0.898,
+          "span": {
+            "offset": 94,
+            "length": 5
+          }
+        },
+        {
+          "content": "acquired",
+          "polygon": [
+            528,
+            298,
+            627,
+            298,
+            627,
+            323,
+            528,
+            324
+          ],
+          "confidence": 0.703,
+          "span": {
+            "offset": 100,
+            "length": 8
+          }
+        },
+        {
+          "content": "Taiwan",
+          "polygon": [
+            640,
+            298,
+            717,
+            297,
+            717,
+            323,
+            640,
+            323
+          ],
+          "confidence": 0.608,
+          "span": {
+            "offset": 109,
+            "length": 6
+          }
+        },
+        {
+          "content": "(",
+          "polygon": [
+            730,
+            297,
+            738,
+            297,
+            738,
+            323,
+            730,
+            323
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 116,
+            "length": 1
+          }
+        },
+        {
+          "content": "Cont'd)",
+          "polygon": [
+            743,
+            297,
+            828,
+            296,
+            828,
+            324,
+            743,
+            323
+          ],
+          "confidence": 0.681,
+          "span": {
+            "offset": 118,
+            "length": 7
+          }
+        },
+        {
+          "content": "A",
+          "polygon": [
+            411,
+            352,
+            429,
+            353,
+            429,
+            369,
+            411,
+            370
+          ],
+          "confidence": 0.657,
+          "span": {
+            "offset": 126,
+            "length": 1
+          }
+        },
+        {
+          "content": "B",
+          "polygon": [
+            852,
+            350,
+            867,
+            350,
+            867,
+            368,
+            852,
+            368
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 128,
+            "length": 1
+          }
+        },
+        {
+          "content": "Federal",
+          "polygon": [
+            212,
+            401,
+            301,
+            401,
+            301,
+            426,
+            212,
+            426
+          ],
+          "confidence": 0.649,
+          "span": {
+            "offset": 130,
+            "length": 7
+          }
+        },
+        {
+          "content": "Supply",
+          "polygon": [
+            314,
+            401,
+            389,
+            400,
+            389,
+            426,
+            314,
+            426
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 138,
+            "length": 6
+          }
+        },
+        {
+          "content": "Classification",
+          "polygon": [
+            404,
+            400,
+            580,
+            400,
+            580,
+            425,
+            404,
+            426
+          ],
+          "confidence": 0.641,
+          "span": {
+            "offset": 145,
+            "length": 14
+          }
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            363,
+            429,
+            431,
+            429,
+            431,
+            448,
+            363,
+            448
+          ],
+          "confidence": 0.658,
+          "span": {
+            "offset": 160,
+            "length": 5
+          }
+        },
+        {
+          "content": "Acquisition",
+          "polygon": [
+            790,
+            400,
+            930,
+            400,
+            930,
+            422,
+            790,
+            423
+          ],
+          "confidence": 0.661,
+          "span": {
+            "offset": 166,
+            "length": 11
+          }
+        },
+        {
+          "content": "Value",
+          "polygon": [
+            826,
+            426,
+            891,
+            426,
+            891,
+            445,
+            827,
+            445
+          ],
+          "confidence": 0.9,
+          "span": {
+            "offset": 178,
+            "length": 5
+          }
+        },
+        {
+          "content": "49",
+          "polygon": [
+            375,
+            479,
+            404,
+            479,
+            404,
+            499,
+            375,
+            499
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 184,
+            "length": 2
+          }
+        },
+        {
+          "content": "011,919.00",
+          "polygon": [
+            800,
+            474,
+            930,
+            474,
+            930,
+            497,
+            800,
+            498
+          ],
+          "confidence": 0.786,
+          "span": {
+            "offset": 187,
+            "length": 10
+          }
+        },
+        {
+          "content": "53",
+          "polygon": [
+            377,
+            528,
+            402,
+            528,
+            402,
+            548,
+            377,
+            548
+          ],
+          "confidence": 0.559,
+          "span": {
+            "offset": 198,
+            "length": 2
+          }
+        },
+        {
+          "content": "128.49",
+          "polygon": [
+            853,
+            525,
+            931,
+            525,
+            931,
+            546,
+            853,
+            546
+          ],
+          "confidence": 0.791,
+          "span": {
+            "offset": 201,
+            "length": 6
+          }
+        },
+        {
+          "content": "52",
+          "polygon": [
+            378,
+            579,
+            405,
+            579,
+            405,
+            600,
+            378,
+            599
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 208,
+            "length": 2
+          }
+        },
+        {
+          "content": "11.00",
+          "polygon": [
+            865,
+            576,
+            931,
+            576,
+            931,
+            597,
+            865,
+            597
+          ],
+          "confidence": 0.643,
+          "span": {
+            "offset": 211,
+            "length": 5
+          }
+        },
+        {
+          "content": "58",
+          "polygon": [
+            378,
+            629,
+            404,
+            629,
+            404,
+            650,
+            378,
+            650
+          ],
+          "confidence": 0.77,
+          "span": {
+            "offset": 217,
+            "length": 2
+          }
+        },
+        {
+          "content": "901.90",
+          "polygon": [
+            854,
+            626,
+            932,
+            626,
+            932,
+            647,
+            854,
+            648
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 220,
+            "length": 6
+          }
+        },
+        {
+          "content": "56",
+          "polygon": [
+            378,
+            680,
+            404,
+            680,
+            404,
+            700,
+            378,
+            700
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 227,
+            "length": 2
+          }
+        },
+        {
+          "content": "136.80",
+          "polygon": [
+            854,
+            677,
+            932,
+            677,
+            932,
+            698,
+            854,
+            698
+          ],
+          "confidence": 0.79,
+          "span": {
+            "offset": 230,
+            "length": 6
+          }
+        },
+        {
+          "content": "59",
+          "polygon": [
+            379,
+            730,
+            405,
+            730,
+            405,
+            751,
+            379,
+            751
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 237,
+            "length": 2
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            554,
+            739,
+            580,
+            739,
+            580,
+            779,
+            554,
+            779
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 240,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            591,
+            739,
+            622,
+            740,
+            621,
+            779,
+            591,
+            779
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 241,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            633,
+            740,
+            672,
+            740,
+            672,
+            779,
+            633,
+            779
+          ],
+          "confidence": 0.895,
+          "span": {
+            "offset": 242,
+            "length": 1
+          }
+        },
+        {
+          "content": "335.00",
+          "polygon": [
+            853,
+            728,
+            932,
+            728,
+            932,
+            749,
+            853,
+            750
+          ],
+          "confidence": 0.644,
+          "span": {
+            "offset": 244,
+            "length": 6
+          }
+        },
+        {
+          "content": "61",
+          "polygon": [
+            380,
+            782,
+            405,
+            782,
+            405,
+            801,
+            380,
+            801
+          ],
+          "confidence": 0.816,
+          "span": {
+            "offset": 251,
+            "length": 2
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            469,
+            789,
+            749,
+            789,
+            749,
+            825,
+            469,
+            825
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 254,
+            "length": 14
+          }
+        },
+        {
+          "content": "22,842.00",
+          "polygon": [
+            816,
+            779,
+            932,
+            779,
+            932,
+            802,
+            816,
+            802
+          ],
+          "confidence": 0.922,
+          "span": {
+            "offset": 269,
+            "length": 9
+          }
+        },
+        {
+          "content": "62",
+          "polygon": [
+            379,
+            832,
+            405,
+            832,
+            405,
+            852,
+            379,
+            851
+          ],
+          "confidence": 0.939,
+          "span": {
+            "offset": 279,
+            "length": 2
+          }
+        },
+        {
+          "content": "264.24",
+          "polygon": [
+            855,
+            829,
+            932,
+            829,
+            932,
+            850,
+            855,
+            850
+          ],
+          "confidence": 0.647,
+          "span": {
+            "offset": 282,
+            "length": 6
+          }
+        },
+        {
+          "content": "65",
+          "polygon": [
+            379,
+            882,
+            406,
+            882,
+            406,
+            902,
+            379,
+            901
+          ],
+          "confidence": 0.964,
+          "span": {
+            "offset": 289,
+            "length": 2
+          }
+        },
+        {
+          "content": "161,748.98",
+          "polygon": [
+            806,
+            879,
+            933,
+            879,
+            933,
+            901,
+            806,
+            903
+          ],
+          "confidence": 0.676,
+          "span": {
+            "offset": 292,
+            "length": 10
+          }
+        },
+        {
+          "content": "73.",
+          "polygon": [
+            380,
+            931,
+            407,
+            931,
+            407,
+            952,
+            380,
+            952
+          ],
+          "confidence": 0.404,
+          "span": {
+            "offset": 303,
+            "length": 3
+          }
+        },
+        {
+          "content": "2.498.52",
+          "polygon": [
+            829,
+            930,
+            933,
+            930,
+            933,
+            953,
+            830,
+            954
+          ],
+          "confidence": 0.677,
+          "span": {
+            "offset": 307,
+            "length": 8
+          }
+        },
+        {
+          "content": "73",
+          "polygon": [
+            381,
+            982,
+            407,
+            982,
+            407,
+            1002,
+            382,
+            1002
+          ],
+          "confidence": 0.908,
+          "span": {
+            "offset": 316,
+            "length": 2
+          }
+        },
+        {
+          "content": "1,235.00",
+          "polygon": [
+            831,
+            980,
+            935,
+            979,
+            935,
+            1003,
+            832,
+            1005
+          ],
+          "confidence": 0.635,
+          "span": {
+            "offset": 319,
+            "length": 8
+          }
+        },
+        {
+          "content": "74",
+          "polygon": [
+            381,
+            1032,
+            408,
+            1032,
+            408,
+            1052,
+            381,
+            1052
+          ],
+          "confidence": 0.859,
+          "span": {
+            "offset": 328,
+            "length": 2
+          }
+        },
+        {
+          "content": "6,509.40",
+          "polygon": [
+            831,
+            1031,
+            935,
+            1030,
+            935,
+            1053,
+            832,
+            1054
+          ],
+          "confidence": 0.637,
+          "span": {
+            "offset": 331,
+            "length": 8
+          }
+        },
+        {
+          "content": "95",
+          "polygon": [
+            381,
+            1084,
+            408,
+            1084,
+            408,
+            1104,
+            381,
+            1104
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 340,
+            "length": 2
+          }
+        },
+        {
+          "content": "239.00",
+          "polygon": [
+            857,
+            1081,
+            936,
+            1081,
+            936,
+            1102,
+            857,
+            1103
+          ],
+          "confidence": 0.879,
+          "span": {
+            "offset": 343,
+            "length": 6
+          }
+        },
+        {
+          "content": "99",
+          "polygon": [
+            381,
+            1134,
+            409,
+            1134,
+            409,
+            1154,
+            381,
+            1154
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 350,
+            "length": 2
+          }
+        },
+        {
+          "content": "96.00",
+          "polygon": [
+            871,
+            1132,
+            936,
+            1132,
+            936,
+            1152,
+            871,
+            1153
+          ],
+          "confidence": 0.955,
+          "span": {
+            "offset": 353,
+            "length": 5
+          }
+        },
+        {
+          "content": "Total:",
+          "polygon": [
+            593,
+            1159,
+            671,
+            1159,
+            671,
+            1180,
+            593,
+            1180
+          ],
+          "confidence": 0.652,
+          "span": {
+            "offset": 359,
+            "length": 6
+          }
+        },
+        {
+          "content": "₹",
+          "polygon": [
+            793,
+            1158,
+            803,
+            1158,
+            803,
+            1179,
+            793,
+            1179
+          ],
+          "confidence": 0.563,
+          "span": {
+            "offset": 366,
+            "length": 1
+          }
+        },
+        {
+          "content": "911.965.44",
+          "polygon": [
+            807,
+            1158,
+            934,
+            1157,
+            934,
+            1178,
+            807,
+            1179
+          ],
+          "confidence": 0.776,
+          "span": {
+            "offset": 368,
+            "length": 10
+          }
+        },
+        {
+          "content": "UNCLASSIFIED",
+          "polygon": [
+            558,
+            1429,
+            714,
+            1428,
+            714,
+            1450,
+            558,
+            1451
+          ],
+          "confidence": 0.56,
+          "span": {
+            "offset": 379,
+            "length": 12
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            819,
+            1433,
+            895,
+            1432,
+            896,
+            1502,
+            821,
+            1503
+          ],
+          "confidence": 0.959,
+          "span": {
+            "offset": 392,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            921,
+            1429,
+            971,
+            1428,
+            971,
+            1501,
+            922,
+            1500
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 393,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            978,
+            1427,
+            1059,
+            1427,
+            1059,
+            1503,
+            978,
+            1501
+          ],
+          "confidence": 0.914,
+          "span": {
+            "offset": 394,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            845,
+            1507,
+            952,
+            1504,
+            952,
+            1528,
+            845,
+            1530
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 396,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            960,
+            1504,
+            1057,
+            1505,
+            1057,
+            1529,
+            960,
+            1528
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 405,
+            "length": 9
+          }
+        },
+        {
+          "content": "171",
+          "polygon": [
+            27,
+            1502,
+            77,
+            1500,
+            77,
+            1536,
+            27,
+            1538
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 415,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "DEPART T OF STATE",
+          "polygon": [
+            473,
+            88,
+            716,
+            86,
+            716,
+            108,
+            473,
+            111
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "US AID/C TAIPEI",
+          "polygon": [
+            86,
+            147,
+            277,
+            146,
+            277,
+            172,
+            86,
+            172
+          ],
+          "spans": [
+            {
+              "offset": 18,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "TOADD A- 6 0",
+          "polygon": [
+            310,
+            147,
+            475,
+            142,
+            476,
+            166,
+            311,
+            170
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "UNCLASSIFIED",
+          "polygon": [
+            712,
+            146,
+            867,
+            145,
+            867,
+            168,
+            712,
+            168
+          ],
+          "spans": [
+            {
+              "offset": 47,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "4",
+          "polygon": [
+            1077,
+            143,
+            1093,
+            143,
+            1093,
+            164,
+            1077,
+            164
+          ],
+          "spans": [
+            {
+              "offset": 60,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "4",
+          "polygon": [
+            1166,
+            144,
+            1181,
+            144,
+            1181,
+            164,
+            1166,
+            164
+          ],
+          "spans": [
+            {
+              "offset": 62,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "ATTA CIT NT",
+          "polygon": [
+            210,
+            225,
+            340,
+            225,
+            340,
+            246,
+            210,
+            246
+          ],
+          "spans": [
+            {
+              "offset": 64,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "III. Country from which acquired Taiwan ( Cont'd)",
+          "polygon": [
+            214,
+            297,
+            828,
+            296,
+            828,
+            323,
+            214,
+            324
+          ],
+          "spans": [
+            {
+              "offset": 76,
+              "length": 49
+            }
+          ]
+        },
+        {
+          "content": "A",
+          "polygon": [
+            411,
+            352,
+            429,
+            352,
+            429,
+            370,
+            411,
+            370
+          ],
+          "spans": [
+            {
+              "offset": 126,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "B",
+          "polygon": [
+            852,
+            350,
+            867,
+            350,
+            867,
+            368,
+            852,
+            368
+          ],
+          "spans": [
+            {
+              "offset": 128,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "Federal Supply Classification",
+          "polygon": [
+            212,
+            401,
+            580,
+            400,
+            580,
+            425,
+            212,
+            426
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "Group",
+          "polygon": [
+            363,
+            429,
+            430,
+            429,
+            430,
+            448,
+            363,
+            448
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Acquisition",
+          "polygon": [
+            790,
+            400,
+            930,
+            399,
+            930,
+            422,
+            790,
+            423
+          ],
+          "spans": [
+            {
+              "offset": 166,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Value",
+          "polygon": [
+            826,
+            426,
+            891,
+            426,
+            891,
+            445,
+            826,
+            445
+          ],
+          "spans": [
+            {
+              "offset": 178,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "49",
+          "polygon": [
+            375,
+            479,
+            403,
+            479,
+            403,
+            498,
+            375,
+            498
+          ],
+          "spans": [
+            {
+              "offset": 184,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "011,919.00",
+          "polygon": [
+            800,
+            474,
+            930,
+            473,
+            930,
+            497,
+            800,
+            498
+          ],
+          "spans": [
+            {
+              "offset": 187,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "53",
+          "polygon": [
+            377,
+            528,
+            402,
+            528,
+            402,
+            548,
+            377,
+            548
+          ],
+          "spans": [
+            {
+              "offset": 198,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "128.49",
+          "polygon": [
+            853,
+            525,
+            930,
+            525,
+            930,
+            546,
+            853,
+            546
+          ],
+          "spans": [
+            {
+              "offset": 201,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "52",
+          "polygon": [
+            378,
+            579,
+            404,
+            579,
+            404,
+            599,
+            378,
+            599
+          ],
+          "spans": [
+            {
+              "offset": 208,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "11.00",
+          "polygon": [
+            865,
+            576,
+            931,
+            576,
+            931,
+            596,
+            865,
+            596
+          ],
+          "spans": [
+            {
+              "offset": 211,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "58",
+          "polygon": [
+            378,
+            629,
+            403,
+            629,
+            403,
+            649,
+            378,
+            649
+          ],
+          "spans": [
+            {
+              "offset": 217,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "901.90",
+          "polygon": [
+            854,
+            626,
+            932,
+            626,
+            932,
+            647,
+            854,
+            647
+          ],
+          "spans": [
+            {
+              "offset": 220,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "56",
+          "polygon": [
+            378,
+            680,
+            404,
+            680,
+            404,
+            700,
+            378,
+            700
+          ],
+          "spans": [
+            {
+              "offset": 227,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "136.80",
+          "polygon": [
+            854,
+            677,
+            932,
+            677,
+            931,
+            698,
+            854,
+            698
+          ],
+          "spans": [
+            {
+              "offset": 230,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "59",
+          "polygon": [
+            379,
+            730,
+            405,
+            730,
+            405,
+            751,
+            379,
+            751
+          ],
+          "spans": [
+            {
+              "offset": 237,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "許躍薾",
+          "polygon": [
+            554,
+            739,
+            672,
+            739,
+            672,
+            778,
+            554,
+            778
+          ],
+          "spans": [
+            {
+              "offset": 240,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "335.00",
+          "polygon": [
+            853,
+            728,
+            932,
+            728,
+            932,
+            749,
+            853,
+            749
+          ],
+          "spans": [
+            {
+              "offset": 244,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "61",
+          "polygon": [
+            380,
+            782,
+            405,
+            782,
+            405,
+            801,
+            379,
+            801
+          ],
+          "spans": [
+            {
+              "offset": 251,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            469,
+            789,
+            748,
+            789,
+            748,
+            825,
+            469,
+            825
+          ],
+          "spans": [
+            {
+              "offset": 254,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "22,842.00",
+          "polygon": [
+            816,
+            779,
+            931,
+            779,
+            931,
+            802,
+            816,
+            802
+          ],
+          "spans": [
+            {
+              "offset": 269,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "62",
+          "polygon": [
+            379,
+            832,
+            405,
+            832,
+            405,
+            851,
+            379,
+            851
+          ],
+          "spans": [
+            {
+              "offset": 279,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "264.24",
+          "polygon": [
+            855,
+            829,
+            932,
+            829,
+            932,
+            850,
+            855,
+            850
+          ],
+          "spans": [
+            {
+              "offset": 282,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "65",
+          "polygon": [
+            379,
+            882,
+            406,
+            882,
+            406,
+            901,
+            379,
+            901
+          ],
+          "spans": [
+            {
+              "offset": 289,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "161,748.98",
+          "polygon": [
+            806,
+            879,
+            932,
+            878,
+            932,
+            901,
+            806,
+            902
+          ],
+          "spans": [
+            {
+              "offset": 292,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "73.",
+          "polygon": [
+            380,
+            931,
+            407,
+            931,
+            407,
+            952,
+            380,
+            952
+          ],
+          "spans": [
+            {
+              "offset": 303,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "2.498.52",
+          "polygon": [
+            829,
+            930,
+            933,
+            930,
+            933,
+            953,
+            829,
+            954
+          ],
+          "spans": [
+            {
+              "offset": 307,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "73",
+          "polygon": [
+            381,
+            982,
+            407,
+            981,
+            407,
+            1002,
+            382,
+            1002
+          ],
+          "spans": [
+            {
+              "offset": 316,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "1,235.00",
+          "polygon": [
+            831,
+            980,
+            934,
+            979,
+            935,
+            1003,
+            831,
+            1004
+          ],
+          "spans": [
+            {
+              "offset": 319,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "74",
+          "polygon": [
+            381,
+            1032,
+            408,
+            1032,
+            408,
+            1052,
+            381,
+            1052
+          ],
+          "spans": [
+            {
+              "offset": 328,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "6,509.40",
+          "polygon": [
+            831,
+            1031,
+            934,
+            1030,
+            935,
+            1053,
+            831,
+            1054
+          ],
+          "spans": [
+            {
+              "offset": 331,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "95",
+          "polygon": [
+            381,
+            1084,
+            407,
+            1084,
+            407,
+            1104,
+            381,
+            1104
+          ],
+          "spans": [
+            {
+              "offset": 340,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "239.00",
+          "polygon": [
+            857,
+            1081,
+            935,
+            1081,
+            936,
+            1102,
+            857,
+            1102
+          ],
+          "spans": [
+            {
+              "offset": 343,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "99",
+          "polygon": [
+            381,
+            1134,
+            408,
+            1134,
+            408,
+            1154,
+            381,
+            1154
+          ],
+          "spans": [
+            {
+              "offset": 350,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "96.00",
+          "polygon": [
+            871,
+            1132,
+            936,
+            1131,
+            936,
+            1152,
+            871,
+            1153
+          ],
+          "spans": [
+            {
+              "offset": 353,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Total:",
+          "polygon": [
+            593,
+            1159,
+            670,
+            1159,
+            670,
+            1180,
+            593,
+            1180
+          ],
+          "spans": [
+            {
+              "offset": 359,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "₹ 911.965.44",
+          "polygon": [
+            793,
+            1158,
+            934,
+            1156,
+            934,
+            1177,
+            793,
+            1179
+          ],
+          "spans": [
+            {
+              "offset": 366,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "UNCLASSIFIED",
+          "polygon": [
+            558,
+            1429,
+            714,
+            1428,
+            714,
+            1450,
+            558,
+            1451
+          ],
+          "spans": [
+            {
+              "offset": 379,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            819,
+            1428,
+            1058,
+            1426,
+            1058,
+            1501,
+            820,
+            1503
+          ],
+          "spans": [
+            {
+              "offset": 392,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            845,
+            1504,
+            1056,
+            1503,
+            1056,
+            1528,
+            845,
+            1530
+          ],
+          "spans": [
+            {
+              "offset": 396,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "171",
+          "polygon": [
+            27,
+            1502,
+            76,
+            1500,
+            77,
+            1535,
+            27,
+            1537
+          ],
+          "spans": [
+            {
+              "offset": 415,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 418
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 16,
+      "columnCount": 3,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "Federal Supply Classification Group",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                201,
+                388,
+                767,
+                387,
+                767,
+                449,
+                201,
+                451
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 35
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Acquisition Value",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                767,
+                387,
+                938,
+                387,
+                939,
+                449,
+                767,
+                449
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 166,
+              "length": 17
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "49",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                201,
+                451,
+                767,
+                449,
+                767,
+                510,
+                200,
+                512
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 184,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "011,919.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                767,
+                449,
+                939,
+                449,
+                939,
+                508,
+                767,
+                510
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 187,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "53",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                200,
+                512,
+                767,
+                510,
+                767,
+                560,
+                200,
+                562
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 198,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "128.49",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                767,
+                510,
+                939,
+                508,
+                940,
+                560,
+                767,
+                560
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 201,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "52",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                200,
+                562,
+                448,
+                561,
+                448,
+                612,
+                199,
+                613
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 208,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                448,
+                561,
+                767,
+                560,
+                768,
+                611,
+                448,
+                612
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "11.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                767,
+                560,
+                940,
+                560,
+                940,
+                609,
+                768,
+                611
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 211,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "58",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                199,
+                613,
+                448,
+                612,
+                448,
+                662,
+                199,
+                663
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 217,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                448,
+                612,
+                768,
+                611,
+                768,
+                661,
+                448,
+                662
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "901.90",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                611,
+                940,
+                609,
+                940,
+                661,
+                768,
+                661
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 220,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "56",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                199,
+                663,
+                448,
+                662,
+                448,
+                713,
+                198,
+                714
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 227,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                448,
+                662,
+                768,
+                661,
+                768,
+                712,
+                448,
+                713
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "136.80",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                661,
+                940,
+                661,
+                941,
+                710,
+                768,
+                712
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 230,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "59",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                198,
+                714,
+                448,
+                713,
+                447,
+                766,
+                198,
+                766
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 237,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "許躍薾",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                448,
+                713,
+                768,
+                712,
+                768,
+                765,
+                447,
+                766
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 240,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "335.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                712,
+                941,
+                710,
+                941,
+                766,
+                768,
+                765
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 244,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "content": "61",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                198,
+                766,
+                447,
+                766,
+                447,
+                818,
+                198,
+                818
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 251,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 1,
+          "content": "140.112.213.82",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                447,
+                766,
+                768,
+                765,
+                768,
+                817,
+                447,
+                818
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 254,
+              "length": 14
+            }
+          ],
+          "elements": [
+            "/paragraphs/23"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "content": "22,842.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                765,
+                941,
+                766,
+                942,
+                817,
+                768,
+                817
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 269,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/24"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 0,
+          "content": "62",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                198,
+                818,
+                447,
+                818,
+                447,
+                865,
+                197,
+                866
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 279,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/25"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                447,
+                818,
+                768,
+                817,
+                768,
+                864,
+                447,
+                865
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 2,
+          "content": "264.24",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                817,
+                942,
+                817,
+                942,
+                864,
+                768,
+                864
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 282,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/26"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 0,
+          "content": "65",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                197,
+                866,
+                447,
+                865,
+                447,
+                915,
+                197,
+                915
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 289,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/27"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                447,
+                865,
+                768,
+                864,
+                768,
+                913,
+                447,
+                915
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 2,
+          "content": "161,748.98",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                864,
+                942,
+                864,
+                942,
+                914,
+                768,
+                913
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 292,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/28"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 0,
+          "content": "73.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                197,
+                915,
+                447,
+                915,
+                447,
+                965,
+                196,
+                965
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 303,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/29"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                447,
+                915,
+                768,
+                913,
+                768,
+                963,
+                447,
+                965
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 2,
+          "content": "2.498.52",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                913,
+                942,
+                914,
+                943,
+                964,
+                768,
+                963
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 307,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/30"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 0,
+          "content": "73",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                196,
+                965,
+                447,
+                965,
+                447,
+                1015,
+                196,
+                1016
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 316,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/31"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                447,
+                965,
+                768,
+                963,
+                768,
+                1014,
+                447,
+                1015
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 2,
+          "content": "1,235.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                963,
+                943,
+                964,
+                943,
+                1014,
+                768,
+                1014
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 319,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/32"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 0,
+          "content": "74",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                196,
+                1016,
+                447,
+                1015,
+                447,
+                1066,
+                195,
+                1067
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 328,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/33"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                447,
+                1015,
+                768,
+                1014,
+                768,
+                1064,
+                447,
+                1066
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 2,
+          "content": "6,509.40",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                1014,
+                943,
+                1014,
+                943,
+                1064,
+                768,
+                1064
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 331,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/34"
+          ]
+        },
+        {
+          "rowIndex": 13,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "95",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                1067,
+                768,
+                1064,
+                768,
+                1115,
+                195,
+                1118
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 340,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/35"
+          ]
+        },
+        {
+          "rowIndex": 13,
+          "columnIndex": 2,
+          "content": "239.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                1064,
+                943,
+                1064,
+                944,
+                1115,
+                768,
+                1115
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 343,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/36"
+          ]
+        },
+        {
+          "rowIndex": 14,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "99",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                1118,
+                768,
+                1115,
+                768,
+                1156,
+                195,
+                1159
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 350,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/37"
+          ]
+        },
+        {
+          "rowIndex": 14,
+          "columnIndex": 2,
+          "content": "96.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                1115,
+                944,
+                1115,
+                944,
+                1154,
+                768,
+                1156
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 353,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/38"
+          ]
+        },
+        {
+          "rowIndex": 15,
+          "columnIndex": 0,
+          "columnSpan": 2,
+          "content": "Total:",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                195,
+                1159,
+                768,
+                1156,
+                768,
+                1193,
+                194,
+                1196
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 359,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/39"
+          ]
+        },
+        {
+          "rowIndex": 15,
+          "columnIndex": 2,
+          "content": "₹ 911.965.44",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                768,
+                1156,
+                944,
+                1154,
+                944,
+                1191,
+                768,
+                1193
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 366,
+              "length": 12
+            }
+          ],
+          "elements": [
+            "/paragraphs/40"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            208,
+            390,
+            939,
+            388,
+            940,
+            1195,
+            208,
+            1196
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 130,
+          "length": 248
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            473,
+            88,
+            716,
+            86,
+            716,
+            108,
+            473,
+            111
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "DEPART T OF STATE"
+    },
+    {
+      "spans": [
+        {
+          "offset": 18,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            85,
+            147,
+            476,
+            142,
+            476,
+            170,
+            86,
+            174
+          ]
+        }
+      ],
+      "content": "US AID/C TAIPEI TOADD A- 6 0"
+    },
+    {
+      "spans": [
+        {
+          "offset": 47,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            712,
+            146,
+            1181,
+            142,
+            1182,
+            166,
+            712,
+            169
+          ]
+        }
+      ],
+      "content": "UNCLASSIFIED 4 4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 64,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            210,
+            225,
+            340,
+            225,
+            340,
+            246,
+            210,
+            246
+          ]
+        }
+      ],
+      "content": "ATTA CIT NT"
+    },
+    {
+      "spans": [
+        {
+          "offset": 76,
+          "length": 49
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            214,
+            297,
+            828,
+            296,
+            828,
+            323,
+            214,
+            324
+          ]
+        }
+      ],
+      "content": "III. Country from which acquired Taiwan ( Cont'd)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 126,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            411,
+            352,
+            429,
+            352,
+            429,
+            370,
+            411,
+            370
+          ]
+        }
+      ],
+      "content": "A"
+    },
+    {
+      "spans": [
+        {
+          "offset": 128,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            852,
+            350,
+            867,
+            350,
+            867,
+            368,
+            852,
+            368
+          ]
+        }
+      ],
+      "content": "B"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 35
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            201,
+            388,
+            767,
+            387,
+            767,
+            449,
+            201,
+            451
+          ]
+        }
+      ],
+      "content": "Federal Supply Classification Group"
+    },
+    {
+      "spans": [
+        {
+          "offset": 166,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            767,
+            387,
+            938,
+            387,
+            939,
+            449,
+            767,
+            449
+          ]
+        }
+      ],
+      "content": "Acquisition Value"
+    },
+    {
+      "spans": [
+        {
+          "offset": 184,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            201,
+            451,
+            767,
+            449,
+            767,
+            510,
+            200,
+            512
+          ]
+        }
+      ],
+      "content": "49"
+    },
+    {
+      "spans": [
+        {
+          "offset": 187,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            767,
+            449,
+            939,
+            449,
+            939,
+            508,
+            767,
+            510
+          ]
+        }
+      ],
+      "content": "011,919.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 198,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            200,
+            512,
+            767,
+            510,
+            767,
+            560,
+            200,
+            562
+          ]
+        }
+      ],
+      "content": "53"
+    },
+    {
+      "spans": [
+        {
+          "offset": 201,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            767,
+            510,
+            939,
+            508,
+            940,
+            560,
+            767,
+            560
+          ]
+        }
+      ],
+      "content": "128.49"
+    },
+    {
+      "spans": [
+        {
+          "offset": 208,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            200,
+            562,
+            448,
+            561,
+            448,
+            612,
+            199,
+            613
+          ]
+        }
+      ],
+      "content": "52"
+    },
+    {
+      "spans": [
+        {
+          "offset": 211,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            767,
+            560,
+            940,
+            560,
+            940,
+            609,
+            768,
+            611
+          ]
+        }
+      ],
+      "content": "11.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 217,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            199,
+            613,
+            448,
+            612,
+            448,
+            662,
+            199,
+            663
+          ]
+        }
+      ],
+      "content": "58"
+    },
+    {
+      "spans": [
+        {
+          "offset": 220,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            611,
+            940,
+            609,
+            940,
+            661,
+            768,
+            661
+          ]
+        }
+      ],
+      "content": "901.90"
+    },
+    {
+      "spans": [
+        {
+          "offset": 227,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            199,
+            663,
+            448,
+            662,
+            448,
+            713,
+            198,
+            714
+          ]
+        }
+      ],
+      "content": "56"
+    },
+    {
+      "spans": [
+        {
+          "offset": 230,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            661,
+            940,
+            661,
+            941,
+            710,
+            768,
+            712
+          ]
+        }
+      ],
+      "content": "136.80"
+    },
+    {
+      "spans": [
+        {
+          "offset": 237,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            198,
+            714,
+            448,
+            713,
+            447,
+            766,
+            198,
+            766
+          ]
+        }
+      ],
+      "content": "59"
+    },
+    {
+      "spans": [
+        {
+          "offset": 240,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            448,
+            713,
+            768,
+            712,
+            768,
+            765,
+            447,
+            766
+          ]
+        }
+      ],
+      "content": "許躍薾"
+    },
+    {
+      "spans": [
+        {
+          "offset": 244,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            712,
+            941,
+            710,
+            941,
+            766,
+            768,
+            765
+          ]
+        }
+      ],
+      "content": "335.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 251,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            198,
+            766,
+            447,
+            766,
+            447,
+            818,
+            198,
+            818
+          ]
+        }
+      ],
+      "content": "61"
+    },
+    {
+      "spans": [
+        {
+          "offset": 254,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            447,
+            766,
+            768,
+            765,
+            768,
+            817,
+            447,
+            818
+          ]
+        }
+      ],
+      "content": "140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 269,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            765,
+            941,
+            766,
+            942,
+            817,
+            768,
+            817
+          ]
+        }
+      ],
+      "content": "22,842.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 279,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            198,
+            818,
+            447,
+            818,
+            447,
+            865,
+            197,
+            866
+          ]
+        }
+      ],
+      "content": "62"
+    },
+    {
+      "spans": [
+        {
+          "offset": 282,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            817,
+            942,
+            817,
+            942,
+            864,
+            768,
+            864
+          ]
+        }
+      ],
+      "content": "264.24"
+    },
+    {
+      "spans": [
+        {
+          "offset": 289,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            197,
+            866,
+            447,
+            865,
+            447,
+            915,
+            197,
+            915
+          ]
+        }
+      ],
+      "content": "65"
+    },
+    {
+      "spans": [
+        {
+          "offset": 292,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            864,
+            942,
+            864,
+            942,
+            914,
+            768,
+            913
+          ]
+        }
+      ],
+      "content": "161,748.98"
+    },
+    {
+      "spans": [
+        {
+          "offset": 303,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            197,
+            915,
+            447,
+            915,
+            447,
+            965,
+            196,
+            965
+          ]
+        }
+      ],
+      "content": "73."
+    },
+    {
+      "spans": [
+        {
+          "offset": 307,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            913,
+            942,
+            914,
+            943,
+            964,
+            768,
+            963
+          ]
+        }
+      ],
+      "content": "2.498.52"
+    },
+    {
+      "spans": [
+        {
+          "offset": 316,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            196,
+            965,
+            447,
+            965,
+            447,
+            1015,
+            196,
+            1016
+          ]
+        }
+      ],
+      "content": "73"
+    },
+    {
+      "spans": [
+        {
+          "offset": 319,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            963,
+            943,
+            964,
+            943,
+            1014,
+            768,
+            1014
+          ]
+        }
+      ],
+      "content": "1,235.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 328,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            196,
+            1016,
+            447,
+            1015,
+            447,
+            1066,
+            195,
+            1067
+          ]
+        }
+      ],
+      "content": "74"
+    },
+    {
+      "spans": [
+        {
+          "offset": 331,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            1014,
+            943,
+            1014,
+            943,
+            1064,
+            768,
+            1064
+          ]
+        }
+      ],
+      "content": "6,509.40"
+    },
+    {
+      "spans": [
+        {
+          "offset": 340,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            195,
+            1067,
+            768,
+            1064,
+            768,
+            1115,
+            195,
+            1118
+          ]
+        }
+      ],
+      "content": "95"
+    },
+    {
+      "spans": [
+        {
+          "offset": 343,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            1064,
+            943,
+            1064,
+            944,
+            1115,
+            768,
+            1115
+          ]
+        }
+      ],
+      "content": "239.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 350,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            195,
+            1118,
+            768,
+            1115,
+            768,
+            1156,
+            195,
+            1159
+          ]
+        }
+      ],
+      "content": "99"
+    },
+    {
+      "spans": [
+        {
+          "offset": 353,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            1115,
+            944,
+            1115,
+            944,
+            1154,
+            768,
+            1156
+          ]
+        }
+      ],
+      "content": "96.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 359,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            195,
+            1159,
+            768,
+            1156,
+            768,
+            1193,
+            194,
+            1196
+          ]
+        }
+      ],
+      "content": "Total:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 366,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            1156,
+            944,
+            1154,
+            944,
+            1191,
+            768,
+            1193
+          ]
+        }
+      ],
+      "content": "₹ 911.965.44"
+    },
+    {
+      "spans": [
+        {
+          "offset": 379,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            558,
+            1429,
+            714,
+            1428,
+            714,
+            1450,
+            558,
+            1451
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "UNCLASSIFIED"
+    },
+    {
+      "spans": [
+        {
+          "offset": 392,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            819,
+            1428,
+            1058,
+            1426,
+            1059,
+            1528,
+            820,
+            1530
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 415,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            26,
+            1502,
+            76,
+            1500,
+            77,
+            1535,
+            27,
+            1537
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "171"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 62,
+          "length": 1
+        },
+        {
+          "offset": 328,
+          "length": 2
+        },
+        {
+          "offset": 392,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 415,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 378
+        },
+        {
+          "offset": 392,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/paragraphs/6",
+        "/tables/0",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            822,
+            1421,
+            1182,
+            1421,
+            1182,
+            1538,
+            822,
+            1538
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 392,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/42"
+      ]
+    }
+  ]
+}

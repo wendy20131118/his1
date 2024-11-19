@@ -1,0 +1,1558 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "三、函復\n查照品\n處長 李辉元\n140.112.213.82\n許躍爾\nAcademia Historica\n018",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.12150000035762787,
+      "width": 1104,
+      "height": 1550,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "三",
+          "polygon": [
+            896,
+            213,
+            922,
+            213,
+            923,
+            228,
+            895,
+            228
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "、",
+          "polygon": [
+            895,
+            228,
+            923,
+            228,
+            923,
+            246,
+            896,
+            246
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "函",
+          "polygon": [
+            896,
+            250,
+            923,
+            250,
+            923,
+            272,
+            896,
+            272
+          ],
+          "confidence": 0.868,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "復",
+          "polygon": [
+            896,
+            281,
+            923,
+            281,
+            923,
+            308,
+            896,
+            308
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "查",
+          "polygon": [
+            898,
+            347,
+            923,
+            347,
+            923,
+            371,
+            898,
+            372
+          ],
+          "confidence": 0.351,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "照",
+          "polygon": [
+            898,
+            381,
+            923,
+            381,
+            922,
+            397,
+            898,
+            397
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "品",
+          "polygon": [
+            899,
+            410,
+            922,
+            410,
+            921,
+            440,
+            899,
+            440
+          ],
+          "confidence": 0.674,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "處",
+          "polygon": [
+            718,
+            547,
+            835,
+            548,
+            827,
+            650,
+            715,
+            649
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 9,
+            "length": 1
+          }
+        },
+        {
+          "content": "長",
+          "polygon": [
+            715,
+            651,
+            827,
+            652,
+            827,
+            752,
+            707,
+            750
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "李",
+          "polygon": [
+            700,
+            788,
+            833,
+            790,
+            838,
+            874,
+            691,
+            870
+          ],
+          "confidence": 0.896,
+          "span": {
+            "offset": 12,
+            "length": 1
+          }
+        },
+        {
+          "content": "辉",
+          "polygon": [
+            687,
+            977,
+            836,
+            978,
+            839,
+            1074,
+            684,
+            1072
+          ],
+          "confidence": 0.146,
+          "span": {
+            "offset": 13,
+            "length": 1
+          }
+        },
+        {
+          "content": "元",
+          "polygon": [
+            685,
+            1141,
+            838,
+            1142,
+            836,
+            1254,
+            679,
+            1254
+          ],
+          "confidence": 0.569,
+          "span": {
+            "offset": 14,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            408,
+            771,
+            686,
+            771,
+            686,
+            809,
+            408,
+            810
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 16,
+            "length": 14
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            495,
+            723,
+            521,
+            724,
+            521,
+            762,
+            495,
+            762
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 31,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            531,
+            723,
+            556,
+            724,
+            555,
+            762,
+            531,
+            761
+          ],
+          "confidence": 0.947,
+          "span": {
+            "offset": 32,
+            "length": 1
+          }
+        },
+        {
+          "content": "爾",
+          "polygon": [
+            571,
+            724,
+            610,
+            723,
+            610,
+            762,
+            571,
+            762
+          ],
+          "confidence": 0.42,
+          "span": {
+            "offset": 33,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            729,
+            1469,
+            834,
+            1469,
+            834,
+            1493,
+            729,
+            1493
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 35,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            841,
+            1469,
+            935,
+            1470,
+            935,
+            1494,
+            841,
+            1493
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 44,
+            "length": 9
+          }
+        },
+        {
+          "content": "018",
+          "polygon": [
+            39,
+            1470,
+            87,
+            1469,
+            87,
+            1506,
+            39,
+            1507
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 54,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "三、函復",
+          "polygon": [
+            896,
+            213,
+            923,
+            213,
+            923,
+            308,
+            896,
+            308
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "查照品",
+          "polygon": [
+            898,
+            347,
+            923,
+            347,
+            923,
+            439,
+            898,
+            439
+          ],
+          "spans": [
+            {
+              "offset": 5,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "處長 李辉元",
+          "polygon": [
+            700,
+            547,
+            840,
+            548,
+            839,
+            1254,
+            679,
+            1249
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            408,
+            771,
+            686,
+            770,
+            686,
+            809,
+            408,
+            810
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "許躍爾",
+          "polygon": [
+            495,
+            723,
+            609,
+            723,
+            609,
+            761,
+            495,
+            761
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            729,
+            1468,
+            934,
+            1469,
+            934,
+            1493,
+            729,
+            1493
+          ],
+          "spans": [
+            {
+              "offset": 35,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "018",
+          "polygon": [
+            38,
+            1469,
+            87,
+            1468,
+            87,
+            1506,
+            39,
+            1506
+          ],
+          "spans": [
+            {
+              "offset": 54,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 57
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 4,
+      "columnCount": 8,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                37,
+                186,
+                128,
+                186,
+                127,
+                331,
+                36,
+                331
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                128,
+                186,
+                220,
+                185,
+                219,
+                330,
+                127,
+                331
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                220,
+                185,
+                310,
+                185,
+                308,
+                330,
+                219,
+                330
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                310,
+                185,
+                401,
+                185,
+                399,
+                330,
+                308,
+                330
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                401,
+                185,
+                493,
+                183,
+                490,
+                330,
+                399,
+                330
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                493,
+                183,
+                585,
+                183,
+                584,
+                330,
+                490,
+                330
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 6,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                585,
+                183,
+                852,
+                185,
+                852,
+                328,
+                584,
+                330
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 7,
+          "content": "三、函復",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                852,
+                185,
+                943,
+                183,
+                942,
+                327,
+                852,
+                328
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/0"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                36,
+                331,
+                127,
+                331,
+                127,
+                409,
+                36,
+                409
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                127,
+                331,
+                219,
+                330,
+                217,
+                407,
+                127,
+                409
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                219,
+                330,
+                308,
+                330,
+                307,
+                407,
+                217,
+                407
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                308,
+                330,
+                399,
+                330,
+                398,
+                407,
+                307,
+                407
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                399,
+                330,
+                490,
+                330,
+                490,
+                407,
+                398,
+                407
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                490,
+                330,
+                584,
+                330,
+                582,
+                407,
+                490,
+                407
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 6,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                584,
+                330,
+                852,
+                328,
+                851,
+                406,
+                582,
+                407
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 7,
+          "content": "查照",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                852,
+                328,
+                942,
+                327,
+                942,
+                406,
+                851,
+                406
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 5,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/1"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                36,
+                409,
+                127,
+                409,
+                123,
+                733,
+                32,
+                735
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                127,
+                409,
+                217,
+                407,
+                215,
+                730,
+                123,
+                733
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                217,
+                407,
+                307,
+                407,
+                304,
+                728,
+                215,
+                730
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                307,
+                407,
+                398,
+                407,
+                395,
+                726,
+                304,
+                728
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                398,
+                407,
+                490,
+                407,
+                486,
+                728,
+                395,
+                726
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 5,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                490,
+                407,
+                582,
+                407,
+                580,
+                725,
+                486,
+                728
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 6,
+          "content": "處長",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                582,
+                407,
+                851,
+                406,
+                850,
+                724,
+                580,
+                725
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 7,
+          "content": "品",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                851,
+                406,
+                942,
+                406,
+                941,
+                718,
+                850,
+                724
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 7,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                32,
+                735,
+                123,
+                733,
+                116,
+                1460,
+                25,
+                1464
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                123,
+                733,
+                215,
+                730,
+                208,
+                1459,
+                116,
+                1460
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                215,
+                730,
+                304,
+                728,
+                298,
+                1457,
+                208,
+                1459
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                304,
+                728,
+                395,
+                726,
+                387,
+                1455,
+                298,
+                1457
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 4,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                395,
+                726,
+                486,
+                728,
+                480,
+                1456,
+                387,
+                1455
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 5,
+          "content": "許躍",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                486,
+                728,
+                580,
+                725,
+                572,
+                1459,
+                480,
+                1456
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 6,
+          "content": "爾\n140.112.213.82\n李辉元",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                580,
+                725,
+                850,
+                724,
+                846,
+                1456,
+                572,
+                1459
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 33,
+              "length": 1
+            },
+            {
+              "offset": 16,
+              "length": 14
+            },
+            {
+              "offset": 12,
+              "length": 3
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 7,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                850,
+                724,
+                941,
+                718,
+                938,
+                1449,
+                846,
+                1456
+              ]
+            }
+          ],
+          "spans": []
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            29,
+            179,
+            933,
+            179,
+            934,
+            1462,
+            29,
+            1463
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 7
+        },
+        {
+          "offset": 9,
+          "length": 2
+        },
+        {
+          "offset": 7,
+          "length": 1
+        },
+        {
+          "offset": 31,
+          "length": 3
+        },
+        {
+          "offset": 16,
+          "length": 14
+        },
+        {
+          "offset": 12,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            852,
+            185,
+            943,
+            183,
+            942,
+            327,
+            852,
+            328
+          ]
+        }
+      ],
+      "content": "三、函復"
+    },
+    {
+      "spans": [
+        {
+          "offset": 5,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            852,
+            328,
+            942,
+            327,
+            942,
+            406,
+            851,
+            406
+          ]
+        }
+      ],
+      "content": "查照"
+    },
+    {
+      "spans": [
+        {
+          "offset": 9,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            582,
+            407,
+            851,
+            406,
+            850,
+            724,
+            580,
+            725
+          ]
+        }
+      ],
+      "content": "處長"
+    },
+    {
+      "spans": [
+        {
+          "offset": 7,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            851,
+            406,
+            942,
+            406,
+            941,
+            718,
+            850,
+            724
+          ]
+        }
+      ],
+      "content": "品"
+    },
+    {
+      "spans": [
+        {
+          "offset": 31,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            486,
+            728,
+            580,
+            725,
+            572,
+            1459,
+            480,
+            1456
+          ]
+        }
+      ],
+      "content": "許躍"
+    },
+    {
+      "spans": [
+        {
+          "offset": 33,
+          "length": 1
+        },
+        {
+          "offset": 16,
+          "length": 14
+        },
+        {
+          "offset": 12,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            580,
+            725,
+            850,
+            724,
+            846,
+            1456,
+            572,
+            1459
+          ]
+        }
+      ],
+      "content": "爾\n140.112.213.82\n李辉元"
+    },
+    {
+      "spans": [
+        {
+          "offset": 35,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            729,
+            1468,
+            934,
+            1469,
+            934,
+            1493,
+            729,
+            1493
+          ]
+        }
+      ],
+      "role": "pageFooter",
+      "content": "Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 54,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            38,
+            1469,
+            87,
+            1468,
+            87,
+            1506,
+            39,
+            1506
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "018"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 54,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 0
+        },
+        {
+          "offset": 0,
+          "length": 7
+        },
+        {
+          "offset": 9,
+          "length": 2
+        },
+        {
+          "offset": 7,
+          "length": 1
+        },
+        {
+          "offset": 31,
+          "length": 3
+        },
+        {
+          "offset": 16,
+          "length": 14
+        },
+        {
+          "offset": 12,
+          "length": 3
+        }
+      ],
+      "elements": [
+        "/figures/0",
+        "/tables/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            679,
+            787,
+            842,
+            788,
+            842,
+            1259,
+            679,
+            1258
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 0
+        }
+      ]
+    }
+  ]
+}

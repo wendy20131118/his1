@@ -1,0 +1,9712 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "Allocation\nKİHB KaHB\nStock No.\nNoun\nSpecification Q'ty PWB THB\n2815-447-6860\nRing, Disel, ME650\n16\n2815-447-6870\nSeal\n12\n2815-517-9068\nBushing, Piston Pin\n12\n2815-661-9411\nBushing, Sleeve, 0.5212\" to 0.5414\" ID\n0.75 to 0.7497 1 OD 0.328\" THK\n2815-DL-40565\nHose Rubber, By-Pass Line\n5\n2815-NL-E604A201\nInsert\n12\n2815-NL-MD-973\nCover\n3\n2815-NL-4551051\nPistón Ring Set\n6\n2815-NL-2651-14\nFilter Oil\n2\n2815-C322\nPlate\n1\n2815-MD-16188\nGasket Kit\n1\n2910-294-1958\nCap. Fuel Tank, Plain\n1-25/32\" W. 3 3/4\"H\n2910-294-1968\nn 許躍薾\n1\n2910-297-7214\nGasket Fiber, fuel injection\n3\n2910-321-8730\nShaft, pump. 6DC-844\nApp. mdl M60DA6-W\n2910-322-0429\nKit, Repair, Carb. ACF\n1\n2910-325-4247\nOver speed\n2\n2910-358-4519\nCarburetor\n1\n2910-361-2490\nFilter\n3\n2910-371-4931\nCarburetor, float, mdl.14 Briggs & Stratton 2\n2910-373-4409\nElement\n4\n2910-374-3531\nElement, fluid, pressure\n4\n2910-375-4409\nElement.\n1\n2910-376-4409\nn?\n1\n2910-379-9655\nGasket\n8\n2910-424-4507\nInsert, Flexible coupling R/N MD-5957\n5\n2910-474-6443\nBowl\n82\n2910-529-7993\nCap - 7 -\n7\n2\n國史饭 Academia Historica\n519",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.08150000125169754,
+      "width": 1300,
+      "height": 1796,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "Allocation",
+          "polygon": [
+            1055,
+            127,
+            1183,
+            128,
+            1183,
+            150,
+            1054,
+            150
+          ],
+          "confidence": 0.593,
+          "span": {
+            "offset": 0,
+            "length": 10
+          }
+        },
+        {
+          "content": "KİHB",
+          "polygon": [
+            1105,
+            154,
+            1156,
+            154,
+            1156,
+            174,
+            1105,
+            175
+          ],
+          "confidence": 0.587,
+          "span": {
+            "offset": 11,
+            "length": 4
+          }
+        },
+        {
+          "content": "KaHB",
+          "polygon": [
+            1178,
+            154,
+            1232,
+            153,
+            1232,
+            173,
+            1178,
+            174
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "Stock",
+          "polygon": [
+            287,
+            155,
+            351,
+            156,
+            351,
+            179,
+            287,
+            179
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 21,
+            "length": 5
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            364,
+            156,
+            401,
+            157,
+            401,
+            180,
+            363,
+            179
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 27,
+            "length": 3
+          }
+        },
+        {
+          "content": "Noun",
+          "polygon": [
+            525,
+            157,
+            580,
+            157,
+            580,
+            178,
+            525,
+            178
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 31,
+            "length": 4
+          }
+        },
+        {
+          "content": "Specification",
+          "polygon": [
+            753,
+            155,
+            918,
+            153,
+            918,
+            178,
+            753,
+            179
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 36,
+            "length": 13
+          }
+        },
+        {
+          "content": "Q'ty",
+          "polygon": [
+            929,
+            153,
+            985,
+            153,
+            985,
+            178,
+            929,
+            178
+          ],
+          "confidence": 0.721,
+          "span": {
+            "offset": 50,
+            "length": 4
+          }
+        },
+        {
+          "content": "PWB",
+          "polygon": [
+            991,
+            153,
+            1030,
+            154,
+            1030,
+            177,
+            991,
+            178
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 55,
+            "length": 3
+          }
+        },
+        {
+          "content": "THB",
+          "polygon": [
+            1042,
+            154,
+            1082,
+            154,
+            1082,
+            177,
+            1042,
+            177
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 59,
+            "length": 3
+          }
+        },
+        {
+          "content": "2815-447-6860",
+          "polygon": [
+            200,
+            195,
+            365,
+            193,
+            365,
+            217,
+            200,
+            218
+          ],
+          "confidence": 0.815,
+          "span": {
+            "offset": 63,
+            "length": 13
+          }
+        },
+        {
+          "content": "Ring,",
+          "polygon": [
+            412,
+            194,
+            475,
+            193,
+            475,
+            218,
+            412,
+            218
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 77,
+            "length": 5
+          }
+        },
+        {
+          "content": "Disel,",
+          "polygon": [
+            489,
+            193,
+            563,
+            193,
+            563,
+            217,
+            489,
+            218
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 83,
+            "length": 6
+          }
+        },
+        {
+          "content": "ME650",
+          "polygon": [
+            577,
+            192,
+            643,
+            192,
+            643,
+            216,
+            577,
+            217
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 90,
+            "length": 5
+          }
+        },
+        {
+          "content": "16",
+          "polygon": [
+            941,
+            190,
+            969,
+            190,
+            969,
+            212,
+            941,
+            212
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 96,
+            "length": 2
+          }
+        },
+        {
+          "content": "2815-447-6870",
+          "polygon": [
+            200,
+            244,
+            366,
+            243,
+            366,
+            267,
+            200,
+            268
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 99,
+            "length": 13
+          }
+        },
+        {
+          "content": "Seal",
+          "polygon": [
+            412,
+            245,
+            466,
+            245,
+            466,
+            266,
+            412,
+            266
+          ],
+          "confidence": 0.952,
+          "span": {
+            "offset": 113,
+            "length": 4
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            942,
+            241,
+            971,
+            241,
+            971,
+            263,
+            942,
+            262
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 118,
+            "length": 2
+          }
+        },
+        {
+          "content": "2815-517-9068",
+          "polygon": [
+            200,
+            294,
+            367,
+            292,
+            367,
+            316,
+            200,
+            317
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 121,
+            "length": 13
+          }
+        },
+        {
+          "content": "Bushing,",
+          "polygon": [
+            413,
+            294,
+            513,
+            293,
+            513,
+            317,
+            413,
+            318
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 135,
+            "length": 8
+          }
+        },
+        {
+          "content": "Piston",
+          "polygon": [
+            528,
+            293,
+            605,
+            293,
+            605,
+            317,
+            528,
+            317
+          ],
+          "confidence": 0.803,
+          "span": {
+            "offset": 144,
+            "length": 6
+          }
+        },
+        {
+          "content": "Pin",
+          "polygon": [
+            617,
+            293,
+            658,
+            293,
+            658,
+            317,
+            617,
+            317
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 151,
+            "length": 3
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            943,
+            291,
+            972,
+            291,
+            972,
+            312,
+            943,
+            312
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 155,
+            "length": 2
+          }
+        },
+        {
+          "content": "2815-661-9411",
+          "polygon": [
+            200,
+            342,
+            367,
+            342,
+            367,
+            366,
+            200,
+            367
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 158,
+            "length": 13
+          }
+        },
+        {
+          "content": "Bushing,",
+          "polygon": [
+            413,
+            343,
+            513,
+            342,
+            513,
+            365,
+            413,
+            366
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 172,
+            "length": 8
+          }
+        },
+        {
+          "content": "Sleeve,",
+          "polygon": [
+            528,
+            342,
+            610,
+            342,
+            610,
+            365,
+            528,
+            365
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 181,
+            "length": 7
+          }
+        },
+        {
+          "content": "0.5212\"",
+          "polygon": [
+            615,
+            341,
+            705,
+            341,
+            705,
+            364,
+            615,
+            365
+          ],
+          "confidence": 0.86,
+          "span": {
+            "offset": 189,
+            "length": 7
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            718,
+            341,
+            744,
+            341,
+            744,
+            364,
+            718,
+            364
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 197,
+            "length": 2
+          }
+        },
+        {
+          "content": "0.5414\"",
+          "polygon": [
+            427,
+            367,
+            516,
+            367,
+            516,
+            391,
+            427,
+            391
+          ],
+          "confidence": 0.918,
+          "span": {
+            "offset": 200,
+            "length": 7
+          }
+        },
+        {
+          "content": "ID",
+          "polygon": [
+            530,
+            367,
+            555,
+            367,
+            555,
+            390,
+            530,
+            391
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 208,
+            "length": 2
+          }
+        },
+        {
+          "content": "0.75",
+          "polygon": [
+            766,
+            340,
+            818,
+            340,
+            818,
+            364,
+            767,
+            364
+          ],
+          "confidence": 0.404,
+          "span": {
+            "offset": 211,
+            "length": 4
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            832,
+            340,
+            855,
+            340,
+            855,
+            363,
+            832,
+            363
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 216,
+            "length": 2
+          }
+        },
+        {
+          "content": "0.7497",
+          "polygon": [
+            869,
+            340,
+            944,
+            339,
+            944,
+            363,
+            869,
+            363
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 219,
+            "length": 6
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            957,
+            339,
+            972,
+            339,
+            972,
+            363,
+            957,
+            363
+          ],
+          "confidence": 0.748,
+          "span": {
+            "offset": 226,
+            "length": 1
+          }
+        },
+        {
+          "content": "OD",
+          "polygon": [
+            767,
+            366,
+            793,
+            365,
+            793,
+            389,
+            767,
+            389
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 228,
+            "length": 2
+          }
+        },
+        {
+          "content": "0.328\"",
+          "polygon": [
+            806,
+            365,
+            881,
+            364,
+            881,
+            388,
+            806,
+            388
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 231,
+            "length": 6
+          }
+        },
+        {
+          "content": "THK",
+          "polygon": [
+            894,
+            364,
+            935,
+            364,
+            935,
+            387,
+            894,
+            388
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 238,
+            "length": 3
+          }
+        },
+        {
+          "content": "2815-DL-40565",
+          "polygon": [
+            200,
+            416,
+            367,
+            416,
+            367,
+            441,
+            200,
+            441
+          ],
+          "confidence": 0.984,
+          "span": {
+            "offset": 242,
+            "length": 13
+          }
+        },
+        {
+          "content": "Hose",
+          "polygon": [
+            414,
+            416,
+            466,
+            416,
+            466,
+            440,
+            414,
+            440
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 256,
+            "length": 4
+          }
+        },
+        {
+          "content": "Rubber,",
+          "polygon": [
+            477,
+            416,
+            565,
+            416,
+            565,
+            441,
+            477,
+            441
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 261,
+            "length": 7
+          }
+        },
+        {
+          "content": "By-Pass",
+          "polygon": [
+            580,
+            416,
+            668,
+            416,
+            668,
+            440,
+            580,
+            441
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 269,
+            "length": 7
+          }
+        },
+        {
+          "content": "Line",
+          "polygon": [
+            680,
+            416,
+            733,
+            415,
+            733,
+            440,
+            680,
+            440
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 277,
+            "length": 4
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            944,
+            415,
+            959,
+            415,
+            959,
+            437,
+            944,
+            438
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 282,
+            "length": 1
+          }
+        },
+        {
+          "content": "2815-NL-E604A201",
+          "polygon": [
+            201,
+            467,
+            404,
+            466,
+            404,
+            489,
+            201,
+            491
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 284,
+            "length": 16
+          }
+        },
+        {
+          "content": "Insert",
+          "polygon": [
+            417,
+            466,
+            492,
+            466,
+            492,
+            488,
+            417,
+            488
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 301,
+            "length": 6
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            944,
+            463,
+            973,
+            463,
+            973,
+            485,
+            944,
+            486
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 308,
+            "length": 2
+          }
+        },
+        {
+          "content": "2815-NL-MD-973",
+          "polygon": [
+            201,
+            515,
+            379,
+            513,
+            379,
+            540,
+            201,
+            541
+          ],
+          "confidence": 0.818,
+          "span": {
+            "offset": 311,
+            "length": 14
+          }
+        },
+        {
+          "content": "Cover",
+          "polygon": [
+            415,
+            516,
+            481,
+            516,
+            481,
+            538,
+            415,
+            538
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 326,
+            "length": 5
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            946,
+            513,
+            960,
+            513,
+            960,
+            536,
+            946,
+            536
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 332,
+            "length": 1
+          }
+        },
+        {
+          "content": "2815-NL-4551051",
+          "polygon": [
+            202,
+            565,
+            394,
+            565,
+            394,
+            589,
+            202,
+            590
+          ],
+          "confidence": 0.819,
+          "span": {
+            "offset": 334,
+            "length": 15
+          }
+        },
+        {
+          "content": "Pistón",
+          "polygon": [
+            415,
+            565,
+            493,
+            565,
+            493,
+            589,
+            415,
+            589
+          ],
+          "confidence": 0.615,
+          "span": {
+            "offset": 350,
+            "length": 6
+          }
+        },
+        {
+          "content": "Ring",
+          "polygon": [
+            504,
+            565,
+            555,
+            565,
+            555,
+            589,
+            504,
+            589
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 357,
+            "length": 4
+          }
+        },
+        {
+          "content": "Set",
+          "polygon": [
+            563,
+            565,
+            608,
+            564,
+            608,
+            589,
+            563,
+            589
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 362,
+            "length": 3
+          }
+        },
+        {
+          "content": "6",
+          "polygon": [
+            945,
+            562,
+            959,
+            562,
+            959,
+            584,
+            945,
+            584
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 366,
+            "length": 1
+          }
+        },
+        {
+          "content": "2815-NL-2651-14",
+          "polygon": [
+            203,
+            615,
+            393,
+            615,
+            393,
+            640,
+            203,
+            640
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 368,
+            "length": 15
+          }
+        },
+        {
+          "content": "Filter",
+          "polygon": [
+            415,
+            615,
+            493,
+            615,
+            493,
+            637,
+            415,
+            638
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 384,
+            "length": 6
+          }
+        },
+        {
+          "content": "Oil",
+          "polygon": [
+            505,
+            615,
+            545,
+            615,
+            545,
+            638,
+            505,
+            637
+          ],
+          "confidence": 0.622,
+          "span": {
+            "offset": 391,
+            "length": 3
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            947,
+            614,
+            962,
+            615,
+            962,
+            636,
+            947,
+            635
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 395,
+            "length": 1
+          }
+        },
+        {
+          "content": "2815-C322",
+          "polygon": [
+            203,
+            667,
+            319,
+            667,
+            319,
+            690,
+            203,
+            690
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 397,
+            "length": 9
+          }
+        },
+        {
+          "content": "Plate",
+          "polygon": [
+            415,
+            667,
+            482,
+            667,
+            482,
+            688,
+            415,
+            688
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 407,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            946,
+            663,
+            962,
+            664,
+            962,
+            686,
+            946,
+            686
+          ],
+          "confidence": 0.934,
+          "span": {
+            "offset": 413,
+            "length": 1
+          }
+        },
+        {
+          "content": "2815-MD-16188",
+          "polygon": [
+            203,
+            717,
+            370,
+            715,
+            370,
+            740,
+            203,
+            741
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 415,
+            "length": 13
+          }
+        },
+        {
+          "content": "Gasket",
+          "polygon": [
+            417,
+            717,
+            493,
+            716,
+            493,
+            739,
+            417,
+            740
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 429,
+            "length": 6
+          }
+        },
+        {
+          "content": "Kit",
+          "polygon": [
+            505,
+            716,
+            545,
+            716,
+            545,
+            739,
+            505,
+            739
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 436,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            947,
+            714,
+            963,
+            714,
+            963,
+            735,
+            946,
+            735
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 440,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-294-1958",
+          "polygon": [
+            204,
+            768,
+            370,
+            767,
+            370,
+            791,
+            204,
+            792
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 442,
+            "length": 13
+          }
+        },
+        {
+          "content": "Cap.",
+          "polygon": [
+            417,
+            768,
+            466,
+            768,
+            467,
+            792,
+            417,
+            792
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 456,
+            "length": 4
+          }
+        },
+        {
+          "content": "Fuel",
+          "polygon": [
+            480,
+            767,
+            532,
+            767,
+            533,
+            792,
+            480,
+            792
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 461,
+            "length": 4
+          }
+        },
+        {
+          "content": "Tank,",
+          "polygon": [
+            545,
+            767,
+            605,
+            766,
+            605,
+            791,
+            545,
+            792
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 466,
+            "length": 5
+          }
+        },
+        {
+          "content": "Plain",
+          "polygon": [
+            621,
+            767,
+            686,
+            766,
+            686,
+            791,
+            621,
+            791
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 472,
+            "length": 5
+          }
+        },
+        {
+          "content": "1-25/32\"",
+          "polygon": [
+            745,
+            764,
+            848,
+            764,
+            848,
+            790,
+            745,
+            790
+          ],
+          "confidence": 0.898,
+          "span": {
+            "offset": 478,
+            "length": 8
+          }
+        },
+        {
+          "content": "W.",
+          "polygon": [
+            860,
+            763,
+            885,
+            764,
+            885,
+            790,
+            860,
+            790
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 487,
+            "length": 2
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            947,
+            765,
+            961,
+            765,
+            961,
+            787,
+            946,
+            787
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 490,
+            "length": 1
+          }
+        },
+        {
+          "content": "3/4\"H",
+          "polygon": [
+            745,
+            790,
+            813,
+            790,
+            813,
+            815,
+            745,
+            817
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 492,
+            "length": 5
+          }
+        },
+        {
+          "content": "2910-294-1968",
+          "polygon": [
+            204,
+            845,
+            371,
+            843,
+            371,
+            867,
+            204,
+            868
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 498,
+            "length": 13
+          }
+        },
+        {
+          "content": "n",
+          "polygon": [
+            418,
+            844,
+            433,
+            844,
+            433,
+            860,
+            418,
+            859
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 512,
+            "length": 1
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            592,
+            846,
+            618,
+            846,
+            618,
+            885,
+            592,
+            884
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 514,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            634,
+            846,
+            658,
+            846,
+            658,
+            884,
+            634,
+            885
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 515,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            674,
+            846,
+            708,
+            846,
+            708,
+            885,
+            674,
+            884
+          ],
+          "confidence": 0.761,
+          "span": {
+            "offset": 516,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            948,
+            841,
+            964,
+            840,
+            964,
+            862,
+            948,
+            862
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 518,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-297-7214",
+          "polygon": [
+            204,
+            894,
+            370,
+            894,
+            370,
+            918,
+            204,
+            918
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 520,
+            "length": 13
+          }
+        },
+        {
+          "content": "Gasket",
+          "polygon": [
+            418,
+            894,
+            495,
+            894,
+            495,
+            918,
+            418,
+            918
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 534,
+            "length": 6
+          }
+        },
+        {
+          "content": "Fiber,",
+          "polygon": [
+            507,
+            894,
+            581,
+            893,
+            581,
+            918,
+            507,
+            918
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 541,
+            "length": 6
+          }
+        },
+        {
+          "content": "fuel",
+          "polygon": [
+            595,
+            893,
+            647,
+            893,
+            647,
+            918,
+            595,
+            918
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 548,
+            "length": 4
+          }
+        },
+        {
+          "content": "injection",
+          "polygon": [
+            655,
+            893,
+            777,
+            893,
+            777,
+            918,
+            655,
+            918
+          ],
+          "confidence": 0.952,
+          "span": {
+            "offset": 553,
+            "length": 9
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            948,
+            891,
+            962,
+            891,
+            962,
+            914,
+            948,
+            914
+          ],
+          "confidence": 0.911,
+          "span": {
+            "offset": 563,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-321-8730",
+          "polygon": [
+            204,
+            945,
+            371,
+            944,
+            371,
+            969,
+            204,
+            969
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 565,
+            "length": 13
+          }
+        },
+        {
+          "content": "Shaft,",
+          "polygon": [
+            419,
+            945,
+            494,
+            944,
+            494,
+            970,
+            419,
+            970
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 579,
+            "length": 6
+          }
+        },
+        {
+          "content": "pump.",
+          "polygon": [
+            507,
+            944,
+            569,
+            943,
+            569,
+            970,
+            507,
+            970
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 586,
+            "length": 5
+          }
+        },
+        {
+          "content": "6DC-844",
+          "polygon": [
+            583,
+            943,
+            674,
+            943,
+            674,
+            969,
+            583,
+            969
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 592,
+            "length": 7
+          }
+        },
+        {
+          "content": "App.",
+          "polygon": [
+            748,
+            944,
+            797,
+            944,
+            797,
+            968,
+            748,
+            969
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 600,
+            "length": 4
+          }
+        },
+        {
+          "content": "mdl",
+          "polygon": [
+            810,
+            944,
+            849,
+            942,
+            849,
+            966,
+            810,
+            968
+          ],
+          "confidence": 0.848,
+          "span": {
+            "offset": 605,
+            "length": 3
+          }
+        },
+        {
+          "content": "M60DA6-W",
+          "polygon": [
+            861,
+            942,
+            965,
+            941,
+            965,
+            965,
+            861,
+            966
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 609,
+            "length": 8
+          }
+        },
+        {
+          "content": "2910-322-0429",
+          "polygon": [
+            204,
+            994,
+            372,
+            994,
+            372,
+            1018,
+            204,
+            1019
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 618,
+            "length": 13
+          }
+        },
+        {
+          "content": "Kit,",
+          "polygon": [
+            419,
+            993,
+            468,
+            994,
+            468,
+            1019,
+            419,
+            1019
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 632,
+            "length": 4
+          }
+        },
+        {
+          "content": "Repair,",
+          "polygon": [
+            481,
+            993,
+            570,
+            993,
+            570,
+            1019,
+            481,
+            1019
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 637,
+            "length": 7
+          }
+        },
+        {
+          "content": "Carb.",
+          "polygon": [
+            585,
+            993,
+            645,
+            993,
+            645,
+            1019,
+            584,
+            1019
+          ],
+          "confidence": 0.954,
+          "span": {
+            "offset": 645,
+            "length": 5
+          }
+        },
+        {
+          "content": "ACF",
+          "polygon": [
+            660,
+            993,
+            699,
+            993,
+            699,
+            1019,
+            660,
+            1019
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 651,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            948,
+            992,
+            964,
+            992,
+            964,
+            1014,
+            949,
+            1014
+          ],
+          "confidence": 0.917,
+          "span": {
+            "offset": 655,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-325-4247",
+          "polygon": [
+            205,
+            1043,
+            371,
+            1043,
+            371,
+            1067,
+            205,
+            1068
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 657,
+            "length": 13
+          }
+        },
+        {
+          "content": "Over",
+          "polygon": [
+            419,
+            1043,
+            466,
+            1044,
+            466,
+            1067,
+            419,
+            1067
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 671,
+            "length": 4
+          }
+        },
+        {
+          "content": "speed",
+          "polygon": [
+            471,
+            1044,
+            535,
+            1044,
+            535,
+            1067,
+            470,
+            1067
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 676,
+            "length": 5
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            950,
+            1042,
+            966,
+            1042,
+            966,
+            1063,
+            950,
+            1063
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 682,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-358-4519",
+          "polygon": [
+            205,
+            1093,
+            373,
+            1092,
+            373,
+            1116,
+            205,
+            1117
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 684,
+            "length": 13
+          }
+        },
+        {
+          "content": "Carburetor",
+          "polygon": [
+            419,
+            1093,
+            548,
+            1093,
+            548,
+            1115,
+            419,
+            1115
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 698,
+            "length": 10
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            949,
+            1090,
+            965,
+            1091,
+            965,
+            1112,
+            949,
+            1111
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 709,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-361-2490",
+          "polygon": [
+            205,
+            1142,
+            372,
+            1141,
+            372,
+            1165,
+            205,
+            1166
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 711,
+            "length": 13
+          }
+        },
+        {
+          "content": "Filter",
+          "polygon": [
+            419,
+            1142,
+            498,
+            1142,
+            498,
+            1164,
+            419,
+            1164
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 725,
+            "length": 6
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            950,
+            1140,
+            965,
+            1140,
+            964,
+            1162,
+            950,
+            1162
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 732,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-371-4931",
+          "polygon": [
+            205,
+            1191,
+            373,
+            1190,
+            373,
+            1214,
+            206,
+            1215
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 734,
+            "length": 13
+          }
+        },
+        {
+          "content": "Carburetor,",
+          "polygon": [
+            421,
+            1190,
+            557,
+            1190,
+            557,
+            1215,
+            421,
+            1215
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 748,
+            "length": 11
+          }
+        },
+        {
+          "content": "float,",
+          "polygon": [
+            572,
+            1190,
+            646,
+            1189,
+            646,
+            1215,
+            572,
+            1215
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 760,
+            "length": 6
+          }
+        },
+        {
+          "content": "mdl.14",
+          "polygon": [
+            661,
+            1189,
+            738,
+            1189,
+            738,
+            1215,
+            661,
+            1215
+          ],
+          "confidence": 0.835,
+          "span": {
+            "offset": 767,
+            "length": 6
+          }
+        },
+        {
+          "content": "Briggs",
+          "polygon": [
+            749,
+            1189,
+            825,
+            1189,
+            825,
+            1214,
+            749,
+            1215
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 774,
+            "length": 6
+          }
+        },
+        {
+          "content": "&",
+          "polygon": [
+            836,
+            1189,
+            851,
+            1189,
+            851,
+            1214,
+            836,
+            1214
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 781,
+            "length": 1
+          }
+        },
+        {
+          "content": "Stratton",
+          "polygon": [
+            862,
+            1189,
+            964,
+            1189,
+            964,
+            1214,
+            862,
+            1214
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 783,
+            "length": 8
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            990,
+            1189,
+            1004,
+            1189,
+            1004,
+            1214,
+            989,
+            1214
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 792,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-373-4409",
+          "polygon": [
+            206,
+            1241,
+            372,
+            1240,
+            372,
+            1265,
+            206,
+            1265
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 794,
+            "length": 13
+          }
+        },
+        {
+          "content": "Element",
+          "polygon": [
+            421,
+            1240,
+            511,
+            1240,
+            511,
+            1262,
+            421,
+            1263
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 808,
+            "length": 7
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            938,
+            1240,
+            953,
+            1241,
+            953,
+            1262,
+            938,
+            1262
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 816,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-374-3531",
+          "polygon": [
+            207,
+            1290,
+            373,
+            1289,
+            373,
+            1313,
+            207,
+            1314
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 818,
+            "length": 13
+          }
+        },
+        {
+          "content": "Element,",
+          "polygon": [
+            421,
+            1290,
+            520,
+            1289,
+            520,
+            1314,
+            421,
+            1314
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 832,
+            "length": 8
+          }
+        },
+        {
+          "content": "fluid,",
+          "polygon": [
+            536,
+            1290,
+            609,
+            1290,
+            609,
+            1315,
+            535,
+            1315
+          ],
+          "confidence": 0.973,
+          "span": {
+            "offset": 841,
+            "length": 6
+          }
+        },
+        {
+          "content": "pressure",
+          "polygon": [
+            624,
+            1290,
+            726,
+            1291,
+            726,
+            1315,
+            624,
+            1315
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 848,
+            "length": 8
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            938,
+            1290,
+            953,
+            1290,
+            953,
+            1311,
+            937,
+            1311
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 857,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-375-4409",
+          "polygon": [
+            207,
+            1340,
+            373,
+            1340,
+            373,
+            1364,
+            207,
+            1364
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 859,
+            "length": 13
+          }
+        },
+        {
+          "content": "Element.",
+          "polygon": [
+            421,
+            1340,
+            522,
+            1340,
+            522,
+            1363,
+            421,
+            1362
+          ],
+          "confidence": 0.909,
+          "span": {
+            "offset": 873,
+            "length": 8
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            938,
+            1338,
+            953,
+            1338,
+            953,
+            1359,
+            938,
+            1359
+          ],
+          "confidence": 0.667,
+          "span": {
+            "offset": 882,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-376-4409",
+          "polygon": [
+            207,
+            1391,
+            374,
+            1389,
+            374,
+            1414,
+            207,
+            1415
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 884,
+            "length": 13
+          }
+        },
+        {
+          "content": "n?",
+          "polygon": [
+            449,
+            1391,
+            462,
+            1391,
+            462,
+            1406,
+            449,
+            1406
+          ],
+          "confidence": 0.096,
+          "span": {
+            "offset": 898,
+            "length": 2
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            939,
+            1388,
+            954,
+            1388,
+            954,
+            1409,
+            938,
+            1409
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 901,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-379-9655",
+          "polygon": [
+            208,
+            1441,
+            374,
+            1440,
+            374,
+            1465,
+            208,
+            1465
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 903,
+            "length": 13
+          }
+        },
+        {
+          "content": "Gasket",
+          "polygon": [
+            422,
+            1442,
+            500,
+            1441,
+            500,
+            1463,
+            422,
+            1463
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 917,
+            "length": 6
+          }
+        },
+        {
+          "content": "8",
+          "polygon": [
+            939,
+            1438,
+            953,
+            1439,
+            953,
+            1459,
+            939,
+            1459
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 924,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-424-4507",
+          "polygon": [
+            209,
+            1492,
+            374,
+            1491,
+            374,
+            1516,
+            209,
+            1516
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 926,
+            "length": 13
+          }
+        },
+        {
+          "content": "Insert,",
+          "polygon": [
+            423,
+            1491,
+            509,
+            1490,
+            509,
+            1517,
+            423,
+            1517
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 940,
+            "length": 7
+          }
+        },
+        {
+          "content": "Flexible",
+          "polygon": [
+            524,
+            1490,
+            625,
+            1489,
+            625,
+            1516,
+            524,
+            1516
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 948,
+            "length": 8
+          }
+        },
+        {
+          "content": "coupling",
+          "polygon": [
+            639,
+            1489,
+            739,
+            1488,
+            739,
+            1516,
+            639,
+            1516
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 957,
+            "length": 8
+          }
+        },
+        {
+          "content": "R/N",
+          "polygon": [
+            750,
+            1488,
+            790,
+            1488,
+            790,
+            1515,
+            750,
+            1516
+          ],
+          "confidence": 0.958,
+          "span": {
+            "offset": 966,
+            "length": 3
+          }
+        },
+        {
+          "content": "MD-5957",
+          "polygon": [
+            796,
+            1488,
+            892,
+            1488,
+            892,
+            1514,
+            796,
+            1515
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 970,
+            "length": 7
+          }
+        },
+        {
+          "content": "5",
+          "polygon": [
+            940,
+            1490,
+            954,
+            1490,
+            954,
+            1512,
+            940,
+            1512
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 978,
+            "length": 1
+          }
+        },
+        {
+          "content": "2910-474-6443",
+          "polygon": [
+            209,
+            1542,
+            373,
+            1541,
+            373,
+            1567,
+            209,
+            1568
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 980,
+            "length": 13
+          }
+        },
+        {
+          "content": "Bowl",
+          "polygon": [
+            423,
+            1543,
+            476,
+            1543,
+            476,
+            1564,
+            423,
+            1564
+          ],
+          "confidence": 0.805,
+          "span": {
+            "offset": 994,
+            "length": 4
+          }
+        },
+        {
+          "content": "82",
+          "polygon": [
+            940,
+            1539,
+            968,
+            1540,
+            968,
+            1562,
+            940,
+            1562
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 999,
+            "length": 2
+          }
+        },
+        {
+          "content": "2910-529-7993",
+          "polygon": [
+            210,
+            1593,
+            375,
+            1593,
+            375,
+            1617,
+            209,
+            1617
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1002,
+            "length": 13
+          }
+        },
+        {
+          "content": "Cap",
+          "polygon": [
+            424,
+            1595,
+            464,
+            1596,
+            464,
+            1618,
+            424,
+            1617
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1016,
+            "length": 3
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            674,
+            1618,
+            691,
+            1618,
+            691,
+            1640,
+            674,
+            1641
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1020,
+            "length": 1
+          }
+        },
+        {
+          "content": "7",
+          "polygon": [
+            702,
+            1618,
+            715,
+            1618,
+            715,
+            1640,
+            702,
+            1640
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1022,
+            "length": 1
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            726,
+            1618,
+            744,
+            1618,
+            744,
+            1640,
+            726,
+            1640
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1024,
+            "length": 1
+          }
+        },
+        {
+          "content": "7",
+          "polygon": [
+            939,
+            1591,
+            956,
+            1591,
+            956,
+            1612,
+            939,
+            1611
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1026,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            988,
+            943,
+            1002,
+            943,
+            1002,
+            963,
+            988,
+            963
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1028,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            900,
+            1622,
+            957,
+            1623,
+            956,
+            1706,
+            900,
+            1706
+          ],
+          "confidence": 0.954,
+          "span": {
+            "offset": 1030,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            965,
+            1623,
+            1020,
+            1622,
+            1020,
+            1709,
+            965,
+            1707
+          ],
+          "confidence": 0.939,
+          "span": {
+            "offset": 1031,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            1022,
+            1622,
+            1116,
+            1624,
+            1116,
+            1712,
+            1021,
+            1709
+          ],
+          "confidence": 0.955,
+          "span": {
+            "offset": 1032,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            876,
+            1710,
+            996,
+            1710,
+            995,
+            1738,
+            876,
+            1738
+          ],
+          "confidence": 0.591,
+          "span": {
+            "offset": 1034,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            1004,
+            1710,
+            1114,
+            1711,
+            1114,
+            1739,
+            1004,
+            1738
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1043,
+            "length": 9
+          }
+        },
+        {
+          "content": "519",
+          "polygon": [
+            30,
+            1734,
+            89,
+            1731,
+            89,
+            1773,
+            31,
+            1775
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1053,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "Allocation",
+          "polygon": [
+            1055,
+            127,
+            1182,
+            128,
+            1182,
+            150,
+            1054,
+            149
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "KİHB",
+          "polygon": [
+            1105,
+            154,
+            1156,
+            154,
+            1156,
+            174,
+            1105,
+            175
+          ],
+          "spans": [
+            {
+              "offset": 11,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "KaHB",
+          "polygon": [
+            1178,
+            154,
+            1232,
+            153,
+            1232,
+            173,
+            1178,
+            174
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Stock No.",
+          "polygon": [
+            287,
+            155,
+            400,
+            156,
+            400,
+            180,
+            286,
+            178
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "Noun",
+          "polygon": [
+            525,
+            156,
+            580,
+            157,
+            579,
+            178,
+            525,
+            177
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Specification Q'ty PWB THB",
+          "polygon": [
+            753,
+            154,
+            1082,
+            153,
+            1082,
+            178,
+            753,
+            179
+          ],
+          "spans": [
+            {
+              "offset": 36,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "2815-447-6860",
+          "polygon": [
+            200,
+            194,
+            365,
+            193,
+            365,
+            217,
+            200,
+            218
+          ],
+          "spans": [
+            {
+              "offset": 63,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Ring, Disel, ME650",
+          "polygon": [
+            412,
+            193,
+            642,
+            192,
+            643,
+            216,
+            412,
+            218
+          ],
+          "spans": [
+            {
+              "offset": 77,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "16",
+          "polygon": [
+            941,
+            190,
+            968,
+            189,
+            968,
+            212,
+            941,
+            212
+          ],
+          "spans": [
+            {
+              "offset": 96,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2815-447-6870",
+          "polygon": [
+            200,
+            244,
+            365,
+            243,
+            366,
+            267,
+            200,
+            268
+          ],
+          "spans": [
+            {
+              "offset": 99,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Seal",
+          "polygon": [
+            412,
+            245,
+            466,
+            245,
+            466,
+            266,
+            412,
+            266
+          ],
+          "spans": [
+            {
+              "offset": 113,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "12",
+          "polygon": [
+            942,
+            241,
+            971,
+            241,
+            971,
+            262,
+            942,
+            262
+          ],
+          "spans": [
+            {
+              "offset": 118,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2815-517-9068",
+          "polygon": [
+            200,
+            294,
+            366,
+            292,
+            366,
+            316,
+            200,
+            318
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Bushing, Piston Pin",
+          "polygon": [
+            413,
+            294,
+            657,
+            292,
+            657,
+            316,
+            413,
+            318
+          ],
+          "spans": [
+            {
+              "offset": 135,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "12",
+          "polygon": [
+            943,
+            291,
+            972,
+            291,
+            972,
+            312,
+            943,
+            311
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2815-661-9411",
+          "polygon": [
+            200,
+            342,
+            366,
+            341,
+            366,
+            366,
+            200,
+            367
+          ],
+          "spans": [
+            {
+              "offset": 158,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Bushing, Sleeve, 0.5212\" to",
+          "polygon": [
+            413,
+            342,
+            743,
+            341,
+            743,
+            364,
+            413,
+            366
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "0.5414\" ID",
+          "polygon": [
+            426,
+            367,
+            555,
+            366,
+            555,
+            390,
+            427,
+            391
+          ],
+          "spans": [
+            {
+              "offset": 200,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "0.75 to 0.7497 1",
+          "polygon": [
+            766,
+            340,
+            971,
+            339,
+            972,
+            363,
+            767,
+            364
+          ],
+          "spans": [
+            {
+              "offset": 211,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "OD 0.328\" THK",
+          "polygon": [
+            767,
+            365,
+            934,
+            364,
+            935,
+            387,
+            767,
+            389
+          ],
+          "spans": [
+            {
+              "offset": 228,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "2815-DL-40565",
+          "polygon": [
+            200,
+            416,
+            366,
+            416,
+            366,
+            441,
+            200,
+            441
+          ],
+          "spans": [
+            {
+              "offset": 242,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Hose Rubber, By-Pass Line",
+          "polygon": [
+            414,
+            416,
+            732,
+            415,
+            732,
+            440,
+            414,
+            441
+          ],
+          "spans": [
+            {
+              "offset": 256,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "content": "5",
+          "polygon": [
+            944,
+            415,
+            958,
+            415,
+            958,
+            438,
+            944,
+            437
+          ],
+          "spans": [
+            {
+              "offset": 282,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2815-NL-E604A201",
+          "polygon": [
+            201,
+            466,
+            403,
+            465,
+            403,
+            489,
+            201,
+            490
+          ],
+          "spans": [
+            {
+              "offset": 284,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Insert",
+          "polygon": [
+            417,
+            466,
+            492,
+            466,
+            492,
+            488,
+            417,
+            488
+          ],
+          "spans": [
+            {
+              "offset": 301,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "12",
+          "polygon": [
+            944,
+            463,
+            973,
+            463,
+            973,
+            485,
+            944,
+            485
+          ],
+          "spans": [
+            {
+              "offset": 308,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2815-NL-MD-973",
+          "polygon": [
+            201,
+            514,
+            379,
+            513,
+            379,
+            539,
+            201,
+            540
+          ],
+          "spans": [
+            {
+              "offset": 311,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Cover",
+          "polygon": [
+            415,
+            516,
+            480,
+            516,
+            480,
+            537,
+            415,
+            537
+          ],
+          "spans": [
+            {
+              "offset": 326,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            946,
+            513,
+            959,
+            513,
+            959,
+            536,
+            946,
+            536
+          ],
+          "spans": [
+            {
+              "offset": 332,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2815-NL-4551051",
+          "polygon": [
+            202,
+            565,
+            393,
+            564,
+            393,
+            589,
+            202,
+            590
+          ],
+          "spans": [
+            {
+              "offset": 334,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Pistón Ring Set",
+          "polygon": [
+            415,
+            565,
+            607,
+            564,
+            608,
+            589,
+            415,
+            589
+          ],
+          "spans": [
+            {
+              "offset": 350,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "6",
+          "polygon": [
+            945,
+            562,
+            959,
+            562,
+            959,
+            584,
+            945,
+            584
+          ],
+          "spans": [
+            {
+              "offset": 366,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2815-NL-2651-14",
+          "polygon": [
+            203,
+            615,
+            393,
+            615,
+            393,
+            639,
+            203,
+            639
+          ],
+          "spans": [
+            {
+              "offset": 368,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Filter Oil",
+          "polygon": [
+            415,
+            615,
+            545,
+            614,
+            545,
+            637,
+            415,
+            637
+          ],
+          "spans": [
+            {
+              "offset": 384,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            947,
+            614,
+            962,
+            614,
+            962,
+            636,
+            947,
+            635
+          ],
+          "spans": [
+            {
+              "offset": 395,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2815-C322",
+          "polygon": [
+            203,
+            667,
+            318,
+            667,
+            318,
+            689,
+            203,
+            690
+          ],
+          "spans": [
+            {
+              "offset": 397,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "Plate",
+          "polygon": [
+            415,
+            667,
+            481,
+            667,
+            481,
+            688,
+            415,
+            688
+          ],
+          "spans": [
+            {
+              "offset": 407,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            946,
+            663,
+            962,
+            663,
+            962,
+            686,
+            946,
+            686
+          ],
+          "spans": [
+            {
+              "offset": 413,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2815-MD-16188",
+          "polygon": [
+            203,
+            717,
+            369,
+            715,
+            370,
+            740,
+            203,
+            741
+          ],
+          "spans": [
+            {
+              "offset": 415,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Gasket Kit",
+          "polygon": [
+            417,
+            716,
+            545,
+            716,
+            545,
+            739,
+            417,
+            740
+          ],
+          "spans": [
+            {
+              "offset": 429,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            947,
+            714,
+            962,
+            714,
+            962,
+            735,
+            946,
+            735
+          ],
+          "spans": [
+            {
+              "offset": 440,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-294-1958",
+          "polygon": [
+            204,
+            768,
+            370,
+            767,
+            370,
+            791,
+            204,
+            792
+          ],
+          "spans": [
+            {
+              "offset": 442,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Cap. Fuel Tank, Plain",
+          "polygon": [
+            417,
+            768,
+            685,
+            766,
+            686,
+            790,
+            417,
+            792
+          ],
+          "spans": [
+            {
+              "offset": 456,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "content": "1-25/32\" W.",
+          "polygon": [
+            745,
+            764,
+            884,
+            763,
+            884,
+            790,
+            745,
+            790
+          ],
+          "spans": [
+            {
+              "offset": 478,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            947,
+            765,
+            960,
+            765,
+            960,
+            787,
+            946,
+            787
+          ],
+          "spans": [
+            {
+              "offset": 490,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3/4\"H",
+          "polygon": [
+            745,
+            790,
+            813,
+            790,
+            813,
+            816,
+            745,
+            816
+          ],
+          "spans": [
+            {
+              "offset": 492,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2910-294-1968",
+          "polygon": [
+            204,
+            845,
+            370,
+            843,
+            370,
+            867,
+            204,
+            868
+          ],
+          "spans": [
+            {
+              "offset": 498,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "n",
+          "polygon": [
+            418,
+            844,
+            432,
+            844,
+            432,
+            859,
+            418,
+            859
+          ],
+          "spans": [
+            {
+              "offset": 512,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "許躍薾",
+          "polygon": [
+            592,
+            846,
+            708,
+            846,
+            708,
+            884,
+            592,
+            884
+          ],
+          "spans": [
+            {
+              "offset": 514,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            948,
+            840,
+            963,
+            840,
+            963,
+            862,
+            948,
+            862
+          ],
+          "spans": [
+            {
+              "offset": 518,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-297-7214",
+          "polygon": [
+            204,
+            894,
+            370,
+            894,
+            370,
+            918,
+            204,
+            918
+          ],
+          "spans": [
+            {
+              "offset": 520,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Gasket Fiber, fuel injection",
+          "polygon": [
+            418,
+            893,
+            777,
+            892,
+            777,
+            917,
+            418,
+            918
+          ],
+          "spans": [
+            {
+              "offset": 534,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            948,
+            891,
+            961,
+            891,
+            961,
+            914,
+            948,
+            914
+          ],
+          "spans": [
+            {
+              "offset": 563,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-321-8730",
+          "polygon": [
+            204,
+            945,
+            371,
+            944,
+            371,
+            968,
+            204,
+            969
+          ],
+          "spans": [
+            {
+              "offset": 565,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Shaft, pump. 6DC-844",
+          "polygon": [
+            418,
+            944,
+            673,
+            943,
+            674,
+            969,
+            419,
+            970
+          ],
+          "spans": [
+            {
+              "offset": 579,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "App. mdl M60DA6-W",
+          "polygon": [
+            747,
+            944,
+            964,
+            940,
+            965,
+            965,
+            748,
+            969
+          ],
+          "spans": [
+            {
+              "offset": 600,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "2910-322-0429",
+          "polygon": [
+            204,
+            994,
+            371,
+            994,
+            371,
+            1018,
+            204,
+            1019
+          ],
+          "spans": [
+            {
+              "offset": 618,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Kit, Repair, Carb. ACF",
+          "polygon": [
+            419,
+            993,
+            699,
+            993,
+            699,
+            1019,
+            419,
+            1019
+          ],
+          "spans": [
+            {
+              "offset": 632,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            948,
+            992,
+            964,
+            992,
+            964,
+            1013,
+            949,
+            1013
+          ],
+          "spans": [
+            {
+              "offset": 655,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-325-4247",
+          "polygon": [
+            205,
+            1043,
+            371,
+            1043,
+            371,
+            1067,
+            205,
+            1067
+          ],
+          "spans": [
+            {
+              "offset": 657,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Over speed",
+          "polygon": [
+            419,
+            1043,
+            535,
+            1044,
+            535,
+            1067,
+            419,
+            1067
+          ],
+          "spans": [
+            {
+              "offset": 671,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            950,
+            1042,
+            965,
+            1042,
+            965,
+            1063,
+            950,
+            1062
+          ],
+          "spans": [
+            {
+              "offset": 682,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-358-4519",
+          "polygon": [
+            205,
+            1093,
+            373,
+            1092,
+            373,
+            1116,
+            205,
+            1116
+          ],
+          "spans": [
+            {
+              "offset": 684,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Carburetor",
+          "polygon": [
+            419,
+            1093,
+            548,
+            1093,
+            548,
+            1115,
+            419,
+            1115
+          ],
+          "spans": [
+            {
+              "offset": 698,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            949,
+            1090,
+            964,
+            1090,
+            964,
+            1111,
+            949,
+            1111
+          ],
+          "spans": [
+            {
+              "offset": 709,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-361-2490",
+          "polygon": [
+            205,
+            1142,
+            372,
+            1141,
+            372,
+            1164,
+            205,
+            1165
+          ],
+          "spans": [
+            {
+              "offset": 711,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Filter",
+          "polygon": [
+            419,
+            1142,
+            498,
+            1142,
+            498,
+            1164,
+            419,
+            1164
+          ],
+          "spans": [
+            {
+              "offset": 725,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            950,
+            1140,
+            964,
+            1140,
+            964,
+            1162,
+            950,
+            1162
+          ],
+          "spans": [
+            {
+              "offset": 732,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-371-4931",
+          "polygon": [
+            205,
+            1191,
+            372,
+            1190,
+            372,
+            1214,
+            206,
+            1215
+          ],
+          "spans": [
+            {
+              "offset": 734,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Carburetor, float, mdl.14 Briggs & Stratton 2",
+          "polygon": [
+            420,
+            1190,
+            1004,
+            1188,
+            1004,
+            1214,
+            421,
+            1215
+          ],
+          "spans": [
+            {
+              "offset": 748,
+              "length": 45
+            }
+          ]
+        },
+        {
+          "content": "2910-373-4409",
+          "polygon": [
+            206,
+            1240,
+            372,
+            1240,
+            372,
+            1264,
+            206,
+            1264
+          ],
+          "spans": [
+            {
+              "offset": 794,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Element",
+          "polygon": [
+            421,
+            1240,
+            510,
+            1240,
+            510,
+            1262,
+            421,
+            1262
+          ],
+          "spans": [
+            {
+              "offset": 808,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "4",
+          "polygon": [
+            938,
+            1240,
+            952,
+            1240,
+            952,
+            1262,
+            938,
+            1262
+          ],
+          "spans": [
+            {
+              "offset": 816,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-374-3531",
+          "polygon": [
+            207,
+            1289,
+            372,
+            1289,
+            372,
+            1313,
+            207,
+            1314
+          ],
+          "spans": [
+            {
+              "offset": 818,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Element, fluid, pressure",
+          "polygon": [
+            421,
+            1289,
+            726,
+            1290,
+            726,
+            1315,
+            421,
+            1314
+          ],
+          "spans": [
+            {
+              "offset": 832,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "content": "4",
+          "polygon": [
+            938,
+            1290,
+            952,
+            1290,
+            952,
+            1311,
+            937,
+            1311
+          ],
+          "spans": [
+            {
+              "offset": 857,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-375-4409",
+          "polygon": [
+            207,
+            1340,
+            373,
+            1340,
+            373,
+            1364,
+            207,
+            1364
+          ],
+          "spans": [
+            {
+              "offset": 859,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Element.",
+          "polygon": [
+            421,
+            1340,
+            521,
+            1340,
+            521,
+            1362,
+            421,
+            1362
+          ],
+          "spans": [
+            {
+              "offset": 873,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            938,
+            1338,
+            953,
+            1338,
+            953,
+            1359,
+            938,
+            1359
+          ],
+          "spans": [
+            {
+              "offset": 882,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-376-4409",
+          "polygon": [
+            207,
+            1390,
+            374,
+            1389,
+            374,
+            1414,
+            207,
+            1414
+          ],
+          "spans": [
+            {
+              "offset": 884,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "n?",
+          "polygon": [
+            449,
+            1391,
+            461,
+            1391,
+            461,
+            1406,
+            449,
+            1406
+          ],
+          "spans": [
+            {
+              "offset": 898,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            938,
+            1388,
+            953,
+            1388,
+            953,
+            1409,
+            938,
+            1409
+          ],
+          "spans": [
+            {
+              "offset": 901,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-379-9655",
+          "polygon": [
+            208,
+            1440,
+            374,
+            1440,
+            374,
+            1464,
+            208,
+            1464
+          ],
+          "spans": [
+            {
+              "offset": 903,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Gasket",
+          "polygon": [
+            422,
+            1442,
+            500,
+            1441,
+            500,
+            1462,
+            422,
+            1463
+          ],
+          "spans": [
+            {
+              "offset": 917,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "8",
+          "polygon": [
+            939,
+            1438,
+            953,
+            1438,
+            952,
+            1458,
+            939,
+            1458
+          ],
+          "spans": [
+            {
+              "offset": 924,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-424-4507",
+          "polygon": [
+            209,
+            1492,
+            374,
+            1491,
+            374,
+            1516,
+            209,
+            1516
+          ],
+          "spans": [
+            {
+              "offset": 926,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Insert, Flexible coupling R/N MD-5957",
+          "polygon": [
+            423,
+            1490,
+            892,
+            1487,
+            892,
+            1514,
+            423,
+            1517
+          ],
+          "spans": [
+            {
+              "offset": 940,
+              "length": 37
+            }
+          ]
+        },
+        {
+          "content": "5",
+          "polygon": [
+            940,
+            1490,
+            953,
+            1490,
+            953,
+            1512,
+            940,
+            1512
+          ],
+          "spans": [
+            {
+              "offset": 978,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2910-474-6443",
+          "polygon": [
+            209,
+            1542,
+            373,
+            1541,
+            373,
+            1567,
+            209,
+            1567
+          ],
+          "spans": [
+            {
+              "offset": 980,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Bowl",
+          "polygon": [
+            423,
+            1543,
+            475,
+            1543,
+            475,
+            1564,
+            423,
+            1564
+          ],
+          "spans": [
+            {
+              "offset": 994,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "82",
+          "polygon": [
+            940,
+            1539,
+            968,
+            1540,
+            968,
+            1561,
+            940,
+            1561
+          ],
+          "spans": [
+            {
+              "offset": 999,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2910-529-7993",
+          "polygon": [
+            209,
+            1593,
+            374,
+            1593,
+            374,
+            1616,
+            209,
+            1616
+          ],
+          "spans": [
+            {
+              "offset": 1002,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Cap",
+          "polygon": [
+            424,
+            1595,
+            463,
+            1596,
+            463,
+            1618,
+            423,
+            1617
+          ],
+          "spans": [
+            {
+              "offset": 1016,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "- 7 -",
+          "polygon": [
+            674,
+            1618,
+            743,
+            1618,
+            743,
+            1640,
+            674,
+            1640
+          ],
+          "spans": [
+            {
+              "offset": 1020,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "7",
+          "polygon": [
+            939,
+            1591,
+            955,
+            1591,
+            955,
+            1612,
+            939,
+            1612
+          ],
+          "spans": [
+            {
+              "offset": 1026,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            988,
+            943,
+            1002,
+            943,
+            1002,
+            963,
+            988,
+            963
+          ],
+          "spans": [
+            {
+              "offset": 1028,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            900,
+            1621,
+            1116,
+            1623,
+            1115,
+            1711,
+            900,
+            1709
+          ],
+          "spans": [
+            {
+              "offset": 1030,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            876,
+            1709,
+            1113,
+            1710,
+            1113,
+            1738,
+            876,
+            1737
+          ],
+          "spans": [
+            {
+              "offset": 1034,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "519",
+          "polygon": [
+            30,
+            1732,
+            89,
+            1730,
+            89,
+            1773,
+            31,
+            1774
+          ],
+          "spans": [
+            {
+              "offset": 1053,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1056
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 29,
+      "columnCount": 4,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Stock No.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                142,
+                404,
+                141,
+                404,
+                177,
+                182,
+                177
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/2"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Noun",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                141,
+                740,
+                139,
+                740,
+                176,
+                404,
+                177
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/3"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "Specification Q'ty PWB THB",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                139,
+                981,
+                139,
+                981,
+                176,
+                740,
+                176
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 36,
+              "length": 26
+            }
+          ],
+          "elements": [
+            "/paragraphs/4"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "2815-447-6860",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                177,
+                404,
+                177,
+                404,
+                230,
+                182,
+                231
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 63,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/5"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Ring, Disel, ME650",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                177,
+                740,
+                176,
+                740,
+                228,
+                404,
+                230
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 77,
+              "length": 18
+            }
+          ],
+          "elements": [
+            "/paragraphs/6"
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "16",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                176,
+                981,
+                176,
+                981,
+                226,
+                740,
+                228
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 96,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/7"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "2815-447-6870",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                231,
+                404,
+                230,
+                404,
+                279,
+                182,
+                280
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 99,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/8"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "Seal",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                230,
+                740,
+                228,
+                740,
+                277,
+                404,
+                279
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 113,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/9"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "12",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                228,
+                981,
+                226,
+                981,
+                276,
+                740,
+                277
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 118,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/10"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "2815-517-9068",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                280,
+                404,
+                279,
+                404,
+                328,
+                182,
+                329
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/11"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "Bushing, Piston Pin",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                279,
+                740,
+                277,
+                740,
+                326,
+                404,
+                328
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 135,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/12"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "12",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                277,
+                981,
+                276,
+                981,
+                325,
+                740,
+                326
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/13"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "2815-661-9411",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                329,
+                404,
+                328,
+                405,
+                401,
+                182,
+                403
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 158,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/14"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "Bushing, Sleeve, 0.5212\" to 0.5414\" ID",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                404,
+                328,
+                740,
+                326,
+                740,
+                400,
+                405,
+                401
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 38
+            }
+          ],
+          "elements": [
+            "/paragraphs/15"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "0.75 to 0.7497 1 OD 0.328\" THK",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                326,
+                981,
+                325,
+                981,
+                398,
+                740,
+                400
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 211,
+              "length": 30
+            }
+          ],
+          "elements": [
+            "/paragraphs/16"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "2815-DL-40565",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                403,
+                405,
+                401,
+                405,
+                450,
+                182,
+                454
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 242,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/17"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "Hose Rubber, By-Pass Line",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                401,
+                740,
+                400,
+                740,
+                449,
+                405,
+                450
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 256,
+              "length": 25
+            }
+          ],
+          "elements": [
+            "/paragraphs/18"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "5",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                400,
+                981,
+                398,
+                979,
+                447,
+                740,
+                449
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 282,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/19"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "2815-NL-E604A201",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                182,
+                454,
+                405,
+                450,
+                405,
+                501,
+                184,
+                504
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 284,
+              "length": 16
+            }
+          ],
+          "elements": [
+            "/paragraphs/20"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "Insert",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                450,
+                740,
+                449,
+                738,
+                500,
+                405,
+                501
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 301,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/21"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                740,
+                449,
+                896,
+                447,
+                896,
+                498,
+                738,
+                500
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 3,
+          "content": "12",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                896,
+                447,
+                979,
+                447,
+                979,
+                498,
+                896,
+                498
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 308,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/22"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 0,
+          "content": "2815-NL-MD-973",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                504,
+                405,
+                501,
+                405,
+                549,
+                184,
+                552
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 311,
+              "length": 14
+            }
+          ],
+          "elements": [
+            "/paragraphs/23"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 1,
+          "content": "Cover",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                501,
+                738,
+                500,
+                738,
+                547,
+                405,
+                549
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 326,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/24"
+          ]
+        },
+        {
+          "rowIndex": 7,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                500,
+                979,
+                498,
+                979,
+                546,
+                738,
+                547
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 332,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/25"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 0,
+          "content": "2815-NL-4551051",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                552,
+                405,
+                549,
+                405,
+                601,
+                184,
+                604
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 334,
+              "length": 15
+            }
+          ],
+          "elements": [
+            "/paragraphs/26"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 1,
+          "content": "Pistón Ring Set",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                549,
+                738,
+                547,
+                738,
+                599,
+                405,
+                601
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 350,
+              "length": 15
+            }
+          ],
+          "elements": [
+            "/paragraphs/27"
+          ]
+        },
+        {
+          "rowIndex": 8,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "6",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                547,
+                979,
+                546,
+                979,
+                598,
+                738,
+                599
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 366,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/28"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 0,
+          "content": "2815-NL-2651-14",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                604,
+                405,
+                601,
+                405,
+                651,
+                184,
+                653
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 368,
+              "length": 15
+            }
+          ],
+          "elements": [
+            "/paragraphs/29"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 1,
+          "content": "Filter Oil",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                601,
+                738,
+                599,
+                738,
+                648,
+                405,
+                651
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 384,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/30"
+          ]
+        },
+        {
+          "rowIndex": 9,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                599,
+                979,
+                598,
+                979,
+                647,
+                738,
+                648
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 395,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/31"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 0,
+          "content": "2815-C322",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                653,
+                405,
+                651,
+                405,
+                701,
+                184,
+                702
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 397,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/32"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 1,
+          "content": "Plate",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                651,
+                738,
+                648,
+                738,
+                699,
+                405,
+                701
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 407,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/33"
+          ]
+        },
+        {
+          "rowIndex": 10,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                648,
+                979,
+                647,
+                979,
+                697,
+                738,
+                699
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 413,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/34"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 0,
+          "content": "2815-MD-16188",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                702,
+                405,
+                701,
+                405,
+                751,
+                184,
+                754
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 415,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/35"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 1,
+          "content": "Gasket Kit",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                701,
+                738,
+                699,
+                738,
+                750,
+                405,
+                751
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 429,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/36"
+          ]
+        },
+        {
+          "rowIndex": 11,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                699,
+                979,
+                697,
+                979,
+                748,
+                738,
+                750
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 440,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/37"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 0,
+          "content": "2910-294-1958",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                754,
+                405,
+                751,
+                405,
+                829,
+                184,
+                831
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 442,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/38"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 1,
+          "content": "Cap. Fuel Tank, Plain",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                751,
+                738,
+                750,
+                737,
+                828,
+                405,
+                829
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 456,
+              "length": 21
+            }
+          ],
+          "elements": [
+            "/paragraphs/39"
+          ]
+        },
+        {
+          "rowIndex": 12,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1-25/32\" W. 3 3/4\"H",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                738,
+                750,
+                979,
+                748,
+                979,
+                825,
+                737,
+                828
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 478,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/40"
+          ]
+        },
+        {
+          "rowIndex": 13,
+          "columnIndex": 0,
+          "content": "2910-294-1968",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                831,
+                405,
+                829,
+                405,
+                879,
+                184,
+                882
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 498,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/41"
+          ]
+        },
+        {
+          "rowIndex": 13,
+          "columnIndex": 1,
+          "content": "n 許躍薾",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                829,
+                737,
+                828,
+                737,
+                877,
+                405,
+                879
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 512,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/42"
+          ]
+        },
+        {
+          "rowIndex": 13,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                828,
+                979,
+                825,
+                979,
+                875,
+                737,
+                877
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 518,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/43"
+          ]
+        },
+        {
+          "rowIndex": 14,
+          "columnIndex": 0,
+          "content": "2910-297-7214",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                882,
+                405,
+                879,
+                405,
+                929,
+                184,
+                932
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 520,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/44"
+          ]
+        },
+        {
+          "rowIndex": 14,
+          "columnIndex": 1,
+          "content": "Gasket Fiber, fuel injection",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                879,
+                737,
+                877,
+                737,
+                928,
+                405,
+                929
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 534,
+              "length": 28
+            }
+          ],
+          "elements": [
+            "/paragraphs/45"
+          ]
+        },
+        {
+          "rowIndex": 14,
+          "columnIndex": 2,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                877,
+                896,
+                875,
+                896,
+                926,
+                737,
+                928
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 14,
+          "columnIndex": 3,
+          "content": "3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                896,
+                875,
+                979,
+                875,
+                979,
+                926,
+                896,
+                926
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 563,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/46"
+          ]
+        },
+        {
+          "rowIndex": 15,
+          "columnIndex": 0,
+          "content": "2910-321-8730",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                932,
+                405,
+                929,
+                405,
+                980,
+                184,
+                981
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 565,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/47"
+          ]
+        },
+        {
+          "rowIndex": 15,
+          "columnIndex": 1,
+          "content": "Shaft, pump. 6DC-844",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                929,
+                737,
+                928,
+                737,
+                978,
+                405,
+                980
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 579,
+              "length": 20
+            }
+          ],
+          "elements": [
+            "/paragraphs/48"
+          ]
+        },
+        {
+          "rowIndex": 15,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "App. mdl M60DA6-W",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                928,
+                979,
+                926,
+                978,
+                977,
+                737,
+                978
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 600,
+              "length": 17
+            }
+          ],
+          "elements": [
+            "/paragraphs/49"
+          ]
+        },
+        {
+          "rowIndex": 16,
+          "columnIndex": 0,
+          "content": "2910-322-0429",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                981,
+                405,
+                980,
+                405,
+                1030,
+                184,
+                1032
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 618,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/50"
+          ]
+        },
+        {
+          "rowIndex": 16,
+          "columnIndex": 1,
+          "content": "Kit, Repair, Carb. ACF",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                980,
+                737,
+                978,
+                737,
+                1029,
+                405,
+                1030
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 632,
+              "length": 22
+            }
+          ],
+          "elements": [
+            "/paragraphs/51"
+          ]
+        },
+        {
+          "rowIndex": 16,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                978,
+                978,
+                977,
+                978,
+                1027,
+                737,
+                1029
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 655,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/52"
+          ]
+        },
+        {
+          "rowIndex": 17,
+          "columnIndex": 0,
+          "content": "2910-325-4247",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1032,
+                405,
+                1030,
+                405,
+                1078,
+                184,
+                1081
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 657,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/53"
+          ]
+        },
+        {
+          "rowIndex": 17,
+          "columnIndex": 1,
+          "content": "Over speed",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1030,
+                737,
+                1029,
+                737,
+                1076,
+                405,
+                1078
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 671,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/54"
+          ]
+        },
+        {
+          "rowIndex": 17,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                1029,
+                978,
+                1027,
+                978,
+                1076,
+                737,
+                1076
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 682,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/55"
+          ]
+        },
+        {
+          "rowIndex": 18,
+          "columnIndex": 0,
+          "content": "2910-358-4519",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1081,
+                405,
+                1078,
+                405,
+                1127,
+                184,
+                1130
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 684,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/56"
+          ]
+        },
+        {
+          "rowIndex": 18,
+          "columnIndex": 1,
+          "content": "Carburetor",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1078,
+                737,
+                1076,
+                737,
+                1126,
+                405,
+                1127
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 698,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/57"
+          ]
+        },
+        {
+          "rowIndex": 18,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                1076,
+                978,
+                1076,
+                978,
+                1126,
+                737,
+                1126
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 709,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/58"
+          ]
+        },
+        {
+          "rowIndex": 19,
+          "columnIndex": 0,
+          "content": "2910-361-2490",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1130,
+                405,
+                1127,
+                405,
+                1176,
+                184,
+                1179
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 711,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/59"
+          ]
+        },
+        {
+          "rowIndex": 19,
+          "columnIndex": 1,
+          "content": "Filter",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1127,
+                737,
+                1126,
+                737,
+                1175,
+                405,
+                1176
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 725,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/60"
+          ]
+        },
+        {
+          "rowIndex": 19,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                1126,
+                978,
+                1126,
+                978,
+                1175,
+                737,
+                1175
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 732,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/61"
+          ]
+        },
+        {
+          "rowIndex": 20,
+          "columnIndex": 0,
+          "content": "2910-371-4931",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1179,
+                405,
+                1176,
+                405,
+                1227,
+                184,
+                1230
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 734,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/62"
+          ]
+        },
+        {
+          "rowIndex": 20,
+          "columnIndex": 1,
+          "content": "Carburetor, float, mdl.14",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1176,
+                737,
+                1175,
+                735,
+                1225,
+                405,
+                1227
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 748,
+              "length": 25
+            }
+          ],
+          "elements": [
+            "/paragraphs/63"
+          ]
+        },
+        {
+          "rowIndex": 20,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "Briggs & Stratton 2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                737,
+                1175,
+                978,
+                1175,
+                978,
+                1225,
+                735,
+                1225
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 774,
+              "length": 19
+            }
+          ],
+          "elements": [
+            "/paragraphs/64"
+          ]
+        },
+        {
+          "rowIndex": 21,
+          "columnIndex": 0,
+          "content": "2910-373-4409",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1230,
+                405,
+                1227,
+                405,
+                1274,
+                184,
+                1277
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 794,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/65"
+          ]
+        },
+        {
+          "rowIndex": 21,
+          "columnIndex": 1,
+          "content": "Element",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1227,
+                735,
+                1225,
+                735,
+                1274,
+                405,
+                1274
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 808,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/66"
+          ]
+        },
+        {
+          "rowIndex": 21,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "4",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1225,
+                978,
+                1225,
+                978,
+                1271,
+                735,
+                1274
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 816,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/67"
+          ]
+        },
+        {
+          "rowIndex": 22,
+          "columnIndex": 0,
+          "content": "2910-374-3531",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1277,
+                405,
+                1274,
+                405,
+                1325,
+                184,
+                1326
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 818,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/68"
+          ]
+        },
+        {
+          "rowIndex": 22,
+          "columnIndex": 1,
+          "content": "Element, fluid, pressure",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1274,
+                735,
+                1274,
+                735,
+                1325,
+                405,
+                1325
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 832,
+              "length": 24
+            }
+          ],
+          "elements": [
+            "/paragraphs/69"
+          ]
+        },
+        {
+          "rowIndex": 22,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "4",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1274,
+                978,
+                1271,
+                978,
+                1323,
+                735,
+                1325
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 857,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/70"
+          ]
+        },
+        {
+          "rowIndex": 23,
+          "columnIndex": 0,
+          "content": "2910-375-4409",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1326,
+                405,
+                1325,
+                405,
+                1376,
+                184,
+                1377
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 859,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/71"
+          ]
+        },
+        {
+          "rowIndex": 23,
+          "columnIndex": 1,
+          "content": "Element.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1325,
+                735,
+                1325,
+                735,
+                1374,
+                405,
+                1376
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 873,
+              "length": 8
+            }
+          ],
+          "elements": [
+            "/paragraphs/72"
+          ]
+        },
+        {
+          "rowIndex": 23,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1325,
+                978,
+                1323,
+                978,
+                1373,
+                735,
+                1374
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 882,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/73"
+          ]
+        },
+        {
+          "rowIndex": 24,
+          "columnIndex": 0,
+          "content": "2910-376-4409",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1377,
+                405,
+                1376,
+                405,
+                1425,
+                184,
+                1428
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 884,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/74"
+          ]
+        },
+        {
+          "rowIndex": 24,
+          "columnIndex": 1,
+          "content": "n?",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1376,
+                735,
+                1374,
+                735,
+                1423,
+                405,
+                1425
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 898,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/75"
+          ]
+        },
+        {
+          "rowIndex": 24,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1374,
+                978,
+                1373,
+                978,
+                1422,
+                735,
+                1423
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 901,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/76"
+          ]
+        },
+        {
+          "rowIndex": 25,
+          "columnIndex": 0,
+          "content": "2910-379-9655",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1428,
+                405,
+                1425,
+                405,
+                1475,
+                184,
+                1478
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 903,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/77"
+          ]
+        },
+        {
+          "rowIndex": 25,
+          "columnIndex": 1,
+          "content": "Gasket",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1425,
+                735,
+                1423,
+                735,
+                1474,
+                405,
+                1475
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 917,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/78"
+          ]
+        },
+        {
+          "rowIndex": 25,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "8",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1423,
+                978,
+                1422,
+                976,
+                1474,
+                735,
+                1474
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 924,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/79"
+          ]
+        },
+        {
+          "rowIndex": 26,
+          "columnIndex": 0,
+          "content": "2910-424-4507",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1478,
+                405,
+                1475,
+                405,
+                1527,
+                184,
+                1531
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 926,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/80"
+          ]
+        },
+        {
+          "rowIndex": 26,
+          "columnIndex": 1,
+          "content": "Insert, Flexible coupling",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1475,
+                735,
+                1474,
+                735,
+                1526,
+                405,
+                1527
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 940,
+              "length": 25
+            }
+          ],
+          "elements": [
+            "/paragraphs/81"
+          ]
+        },
+        {
+          "rowIndex": 26,
+          "columnIndex": 2,
+          "content": "R/N MD-5957",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1474,
+                896,
+                1474,
+                896,
+                1526,
+                735,
+                1526
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 966,
+              "length": 11
+            }
+          ],
+          "elements": [
+            "/paragraphs/82"
+          ]
+        },
+        {
+          "rowIndex": 26,
+          "columnIndex": 3,
+          "content": "5",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                896,
+                1474,
+                976,
+                1474,
+                976,
+                1526,
+                896,
+                1526
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 978,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/83"
+          ]
+        },
+        {
+          "rowIndex": 27,
+          "columnIndex": 0,
+          "content": "2910-474-6443",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1531,
+                405,
+                1527,
+                407,
+                1578,
+                184,
+                1581
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 980,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/84"
+          ]
+        },
+        {
+          "rowIndex": 27,
+          "columnIndex": 1,
+          "content": "Bowl",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                405,
+                1527,
+                735,
+                1526,
+                734,
+                1577,
+                407,
+                1578
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 994,
+              "length": 4
+            }
+          ],
+          "elements": [
+            "/paragraphs/85"
+          ]
+        },
+        {
+          "rowIndex": 27,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "82",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                735,
+                1526,
+                976,
+                1526,
+                976,
+                1577,
+                734,
+                1577
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 999,
+              "length": 2
+            }
+          ],
+          "elements": [
+            "/paragraphs/86"
+          ]
+        },
+        {
+          "rowIndex": 28,
+          "columnIndex": 0,
+          "content": "2910-529-7993",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                184,
+                1581,
+                407,
+                1578,
+                407,
+                1633,
+                184,
+                1633
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1002,
+              "length": 13
+            }
+          ],
+          "elements": [
+            "/paragraphs/87"
+          ]
+        },
+        {
+          "rowIndex": 28,
+          "columnIndex": 1,
+          "content": "Cap - 7",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                407,
+                1578,
+                734,
+                1577,
+                734,
+                1633,
+                407,
+                1633
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1016,
+              "length": 7
+            }
+          ],
+          "elements": [
+            "/paragraphs/88"
+          ]
+        },
+        {
+          "rowIndex": 28,
+          "columnIndex": 2,
+          "columnSpan": 2,
+          "content": "7\n-",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                734,
+                1577,
+                976,
+                1577,
+                976,
+                1633,
+                734,
+                1633
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1026,
+              "length": 1
+            },
+            {
+              "offset": 1024,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/89"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            143,
+            987,
+            144,
+            987,
+            1639,
+            185,
+            1638
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 21,
+          "length": 1002
+        },
+        {
+          "offset": 1026,
+          "length": 1
+        },
+        {
+          "offset": 1024,
+          "length": 1
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1055,
+            127,
+            1182,
+            128,
+            1182,
+            150,
+            1054,
+            149
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "Allocation"
+    },
+    {
+      "spans": [
+        {
+          "offset": 11,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1105,
+            154,
+            1232,
+            153,
+            1232,
+            174,
+            1105,
+            175
+          ]
+        }
+      ],
+      "content": "KİHB KaHB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            142,
+            404,
+            141,
+            404,
+            177,
+            182,
+            177
+          ]
+        }
+      ],
+      "content": "Stock No."
+    },
+    {
+      "spans": [
+        {
+          "offset": 31,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            141,
+            740,
+            139,
+            740,
+            176,
+            404,
+            177
+          ]
+        }
+      ],
+      "content": "Noun"
+    },
+    {
+      "spans": [
+        {
+          "offset": 36,
+          "length": 26
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            139,
+            981,
+            139,
+            981,
+            176,
+            740,
+            176
+          ]
+        }
+      ],
+      "content": "Specification Q'ty PWB THB"
+    },
+    {
+      "spans": [
+        {
+          "offset": 63,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            177,
+            404,
+            177,
+            404,
+            230,
+            182,
+            231
+          ]
+        }
+      ],
+      "content": "2815-447-6860"
+    },
+    {
+      "spans": [
+        {
+          "offset": 77,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            177,
+            740,
+            176,
+            740,
+            228,
+            404,
+            230
+          ]
+        }
+      ],
+      "content": "Ring, Disel, ME650"
+    },
+    {
+      "spans": [
+        {
+          "offset": 96,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            176,
+            981,
+            176,
+            981,
+            226,
+            740,
+            228
+          ]
+        }
+      ],
+      "content": "16"
+    },
+    {
+      "spans": [
+        {
+          "offset": 99,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            231,
+            404,
+            230,
+            404,
+            279,
+            182,
+            280
+          ]
+        }
+      ],
+      "content": "2815-447-6870"
+    },
+    {
+      "spans": [
+        {
+          "offset": 113,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            230,
+            740,
+            228,
+            740,
+            277,
+            404,
+            279
+          ]
+        }
+      ],
+      "content": "Seal"
+    },
+    {
+      "spans": [
+        {
+          "offset": 118,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            228,
+            981,
+            226,
+            981,
+            276,
+            740,
+            277
+          ]
+        }
+      ],
+      "content": "12"
+    },
+    {
+      "spans": [
+        {
+          "offset": 121,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            280,
+            404,
+            279,
+            404,
+            328,
+            182,
+            329
+          ]
+        }
+      ],
+      "content": "2815-517-9068"
+    },
+    {
+      "spans": [
+        {
+          "offset": 135,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            279,
+            740,
+            277,
+            740,
+            326,
+            404,
+            328
+          ]
+        }
+      ],
+      "content": "Bushing, Piston Pin"
+    },
+    {
+      "spans": [
+        {
+          "offset": 155,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            277,
+            981,
+            276,
+            981,
+            325,
+            740,
+            326
+          ]
+        }
+      ],
+      "content": "12"
+    },
+    {
+      "spans": [
+        {
+          "offset": 158,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            329,
+            404,
+            328,
+            405,
+            401,
+            182,
+            403
+          ]
+        }
+      ],
+      "content": "2815-661-9411"
+    },
+    {
+      "spans": [
+        {
+          "offset": 172,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            404,
+            328,
+            740,
+            326,
+            740,
+            400,
+            405,
+            401
+          ]
+        }
+      ],
+      "content": "Bushing, Sleeve, 0.5212\" to 0.5414\" ID"
+    },
+    {
+      "spans": [
+        {
+          "offset": 211,
+          "length": 30
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            326,
+            981,
+            325,
+            981,
+            398,
+            740,
+            400
+          ]
+        }
+      ],
+      "content": "0.75 to 0.7497 1 OD 0.328\" THK"
+    },
+    {
+      "spans": [
+        {
+          "offset": 242,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            403,
+            405,
+            401,
+            405,
+            450,
+            182,
+            454
+          ]
+        }
+      ],
+      "content": "2815-DL-40565"
+    },
+    {
+      "spans": [
+        {
+          "offset": 256,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            401,
+            740,
+            400,
+            740,
+            449,
+            405,
+            450
+          ]
+        }
+      ],
+      "content": "Hose Rubber, By-Pass Line"
+    },
+    {
+      "spans": [
+        {
+          "offset": 282,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            400,
+            981,
+            398,
+            979,
+            447,
+            740,
+            449
+          ]
+        }
+      ],
+      "content": "5"
+    },
+    {
+      "spans": [
+        {
+          "offset": 284,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            454,
+            405,
+            450,
+            405,
+            501,
+            184,
+            504
+          ]
+        }
+      ],
+      "content": "2815-NL-E604A201"
+    },
+    {
+      "spans": [
+        {
+          "offset": 301,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            450,
+            740,
+            449,
+            738,
+            500,
+            405,
+            501
+          ]
+        }
+      ],
+      "content": "Insert"
+    },
+    {
+      "spans": [
+        {
+          "offset": 308,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            896,
+            447,
+            979,
+            447,
+            979,
+            498,
+            896,
+            498
+          ]
+        }
+      ],
+      "content": "12"
+    },
+    {
+      "spans": [
+        {
+          "offset": 311,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            504,
+            405,
+            501,
+            405,
+            549,
+            184,
+            552
+          ]
+        }
+      ],
+      "content": "2815-NL-MD-973"
+    },
+    {
+      "spans": [
+        {
+          "offset": 326,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            501,
+            738,
+            500,
+            738,
+            547,
+            405,
+            549
+          ]
+        }
+      ],
+      "content": "Cover"
+    },
+    {
+      "spans": [
+        {
+          "offset": 332,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            500,
+            979,
+            498,
+            979,
+            546,
+            738,
+            547
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 334,
+          "length": 15
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            552,
+            405,
+            549,
+            405,
+            601,
+            184,
+            604
+          ]
+        }
+      ],
+      "content": "2815-NL-4551051"
+    },
+    {
+      "spans": [
+        {
+          "offset": 350,
+          "length": 15
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            549,
+            738,
+            547,
+            738,
+            599,
+            405,
+            601
+          ]
+        }
+      ],
+      "content": "Pistón Ring Set"
+    },
+    {
+      "spans": [
+        {
+          "offset": 366,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            547,
+            979,
+            546,
+            979,
+            598,
+            738,
+            599
+          ]
+        }
+      ],
+      "content": "6"
+    },
+    {
+      "spans": [
+        {
+          "offset": 368,
+          "length": 15
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            604,
+            405,
+            601,
+            405,
+            651,
+            184,
+            653
+          ]
+        }
+      ],
+      "content": "2815-NL-2651-14"
+    },
+    {
+      "spans": [
+        {
+          "offset": 384,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            601,
+            738,
+            599,
+            738,
+            648,
+            405,
+            651
+          ]
+        }
+      ],
+      "content": "Filter Oil"
+    },
+    {
+      "spans": [
+        {
+          "offset": 395,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            599,
+            979,
+            598,
+            979,
+            647,
+            738,
+            648
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 397,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            653,
+            405,
+            651,
+            405,
+            701,
+            184,
+            702
+          ]
+        }
+      ],
+      "content": "2815-C322"
+    },
+    {
+      "spans": [
+        {
+          "offset": 407,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            651,
+            738,
+            648,
+            738,
+            699,
+            405,
+            701
+          ]
+        }
+      ],
+      "content": "Plate"
+    },
+    {
+      "spans": [
+        {
+          "offset": 413,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            648,
+            979,
+            647,
+            979,
+            697,
+            738,
+            699
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 415,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            702,
+            405,
+            701,
+            405,
+            751,
+            184,
+            754
+          ]
+        }
+      ],
+      "content": "2815-MD-16188"
+    },
+    {
+      "spans": [
+        {
+          "offset": 429,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            701,
+            738,
+            699,
+            738,
+            750,
+            405,
+            751
+          ]
+        }
+      ],
+      "content": "Gasket Kit"
+    },
+    {
+      "spans": [
+        {
+          "offset": 440,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            699,
+            979,
+            697,
+            979,
+            748,
+            738,
+            750
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 442,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            754,
+            405,
+            751,
+            405,
+            829,
+            184,
+            831
+          ]
+        }
+      ],
+      "content": "2910-294-1958"
+    },
+    {
+      "spans": [
+        {
+          "offset": 456,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            751,
+            738,
+            750,
+            737,
+            828,
+            405,
+            829
+          ]
+        }
+      ],
+      "content": "Cap. Fuel Tank, Plain"
+    },
+    {
+      "spans": [
+        {
+          "offset": 478,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            738,
+            750,
+            979,
+            748,
+            979,
+            825,
+            737,
+            828
+          ]
+        }
+      ],
+      "content": "1-25/32\" W. 3 3/4\"H"
+    },
+    {
+      "spans": [
+        {
+          "offset": 498,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            831,
+            405,
+            829,
+            405,
+            879,
+            184,
+            882
+          ]
+        }
+      ],
+      "content": "2910-294-1968"
+    },
+    {
+      "spans": [
+        {
+          "offset": 512,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            829,
+            737,
+            828,
+            737,
+            877,
+            405,
+            879
+          ]
+        }
+      ],
+      "content": "n 許躍薾"
+    },
+    {
+      "spans": [
+        {
+          "offset": 518,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            828,
+            979,
+            825,
+            979,
+            875,
+            737,
+            877
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 520,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            882,
+            405,
+            879,
+            405,
+            929,
+            184,
+            932
+          ]
+        }
+      ],
+      "content": "2910-297-7214"
+    },
+    {
+      "spans": [
+        {
+          "offset": 534,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            879,
+            737,
+            877,
+            737,
+            928,
+            405,
+            929
+          ]
+        }
+      ],
+      "content": "Gasket Fiber, fuel injection"
+    },
+    {
+      "spans": [
+        {
+          "offset": 563,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            896,
+            875,
+            979,
+            875,
+            979,
+            926,
+            896,
+            926
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 565,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            932,
+            405,
+            929,
+            405,
+            980,
+            184,
+            981
+          ]
+        }
+      ],
+      "content": "2910-321-8730"
+    },
+    {
+      "spans": [
+        {
+          "offset": 579,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            929,
+            737,
+            928,
+            737,
+            978,
+            405,
+            980
+          ]
+        }
+      ],
+      "content": "Shaft, pump. 6DC-844"
+    },
+    {
+      "spans": [
+        {
+          "offset": 600,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            928,
+            979,
+            926,
+            978,
+            977,
+            737,
+            978
+          ]
+        }
+      ],
+      "content": "App. mdl M60DA6-W"
+    },
+    {
+      "spans": [
+        {
+          "offset": 618,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            981,
+            405,
+            980,
+            405,
+            1030,
+            184,
+            1032
+          ]
+        }
+      ],
+      "content": "2910-322-0429"
+    },
+    {
+      "spans": [
+        {
+          "offset": 632,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            980,
+            737,
+            978,
+            737,
+            1029,
+            405,
+            1030
+          ]
+        }
+      ],
+      "content": "Kit, Repair, Carb. ACF"
+    },
+    {
+      "spans": [
+        {
+          "offset": 655,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            978,
+            978,
+            977,
+            978,
+            1027,
+            737,
+            1029
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 657,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1032,
+            405,
+            1030,
+            405,
+            1078,
+            184,
+            1081
+          ]
+        }
+      ],
+      "content": "2910-325-4247"
+    },
+    {
+      "spans": [
+        {
+          "offset": 671,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1030,
+            737,
+            1029,
+            737,
+            1076,
+            405,
+            1078
+          ]
+        }
+      ],
+      "content": "Over speed"
+    },
+    {
+      "spans": [
+        {
+          "offset": 682,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            1029,
+            978,
+            1027,
+            978,
+            1076,
+            737,
+            1076
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 684,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1081,
+            405,
+            1078,
+            405,
+            1127,
+            184,
+            1130
+          ]
+        }
+      ],
+      "content": "2910-358-4519"
+    },
+    {
+      "spans": [
+        {
+          "offset": 698,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1078,
+            737,
+            1076,
+            737,
+            1126,
+            405,
+            1127
+          ]
+        }
+      ],
+      "content": "Carburetor"
+    },
+    {
+      "spans": [
+        {
+          "offset": 709,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            1076,
+            978,
+            1076,
+            978,
+            1126,
+            737,
+            1126
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 711,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1130,
+            405,
+            1127,
+            405,
+            1176,
+            184,
+            1179
+          ]
+        }
+      ],
+      "content": "2910-361-2490"
+    },
+    {
+      "spans": [
+        {
+          "offset": 725,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1127,
+            737,
+            1126,
+            737,
+            1175,
+            405,
+            1176
+          ]
+        }
+      ],
+      "content": "Filter"
+    },
+    {
+      "spans": [
+        {
+          "offset": 732,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            1126,
+            978,
+            1126,
+            978,
+            1175,
+            737,
+            1175
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 734,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1179,
+            405,
+            1176,
+            405,
+            1227,
+            184,
+            1230
+          ]
+        }
+      ],
+      "content": "2910-371-4931"
+    },
+    {
+      "spans": [
+        {
+          "offset": 748,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1176,
+            737,
+            1175,
+            735,
+            1225,
+            405,
+            1227
+          ]
+        }
+      ],
+      "content": "Carburetor, float, mdl.14"
+    },
+    {
+      "spans": [
+        {
+          "offset": 774,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            737,
+            1175,
+            978,
+            1175,
+            978,
+            1225,
+            735,
+            1225
+          ]
+        }
+      ],
+      "content": "Briggs & Stratton 2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 794,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1230,
+            405,
+            1227,
+            405,
+            1274,
+            184,
+            1277
+          ]
+        }
+      ],
+      "content": "2910-373-4409"
+    },
+    {
+      "spans": [
+        {
+          "offset": 808,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1227,
+            735,
+            1225,
+            735,
+            1274,
+            405,
+            1274
+          ]
+        }
+      ],
+      "content": "Element"
+    },
+    {
+      "spans": [
+        {
+          "offset": 816,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1225,
+            978,
+            1225,
+            978,
+            1271,
+            735,
+            1274
+          ]
+        }
+      ],
+      "content": "4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 818,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1277,
+            405,
+            1274,
+            405,
+            1325,
+            184,
+            1326
+          ]
+        }
+      ],
+      "content": "2910-374-3531"
+    },
+    {
+      "spans": [
+        {
+          "offset": 832,
+          "length": 24
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1274,
+            735,
+            1274,
+            735,
+            1325,
+            405,
+            1325
+          ]
+        }
+      ],
+      "content": "Element, fluid, pressure"
+    },
+    {
+      "spans": [
+        {
+          "offset": 857,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1274,
+            978,
+            1271,
+            978,
+            1323,
+            735,
+            1325
+          ]
+        }
+      ],
+      "content": "4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 859,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1326,
+            405,
+            1325,
+            405,
+            1376,
+            184,
+            1377
+          ]
+        }
+      ],
+      "content": "2910-375-4409"
+    },
+    {
+      "spans": [
+        {
+          "offset": 873,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1325,
+            735,
+            1325,
+            735,
+            1374,
+            405,
+            1376
+          ]
+        }
+      ],
+      "content": "Element."
+    },
+    {
+      "spans": [
+        {
+          "offset": 882,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1325,
+            978,
+            1323,
+            978,
+            1373,
+            735,
+            1374
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 884,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1377,
+            405,
+            1376,
+            405,
+            1425,
+            184,
+            1428
+          ]
+        }
+      ],
+      "content": "2910-376-4409"
+    },
+    {
+      "spans": [
+        {
+          "offset": 898,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1376,
+            735,
+            1374,
+            735,
+            1423,
+            405,
+            1425
+          ]
+        }
+      ],
+      "content": "n?"
+    },
+    {
+      "spans": [
+        {
+          "offset": 901,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1374,
+            978,
+            1373,
+            978,
+            1422,
+            735,
+            1423
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 903,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1428,
+            405,
+            1425,
+            405,
+            1475,
+            184,
+            1478
+          ]
+        }
+      ],
+      "content": "2910-379-9655"
+    },
+    {
+      "spans": [
+        {
+          "offset": 917,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1425,
+            735,
+            1423,
+            735,
+            1474,
+            405,
+            1475
+          ]
+        }
+      ],
+      "content": "Gasket"
+    },
+    {
+      "spans": [
+        {
+          "offset": 924,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1423,
+            978,
+            1422,
+            976,
+            1474,
+            735,
+            1474
+          ]
+        }
+      ],
+      "content": "8"
+    },
+    {
+      "spans": [
+        {
+          "offset": 926,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1478,
+            405,
+            1475,
+            405,
+            1527,
+            184,
+            1531
+          ]
+        }
+      ],
+      "content": "2910-424-4507"
+    },
+    {
+      "spans": [
+        {
+          "offset": 940,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1475,
+            735,
+            1474,
+            735,
+            1526,
+            405,
+            1527
+          ]
+        }
+      ],
+      "content": "Insert, Flexible coupling"
+    },
+    {
+      "spans": [
+        {
+          "offset": 966,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1474,
+            896,
+            1474,
+            896,
+            1526,
+            735,
+            1526
+          ]
+        }
+      ],
+      "content": "R/N MD-5957"
+    },
+    {
+      "spans": [
+        {
+          "offset": 978,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            896,
+            1474,
+            976,
+            1474,
+            976,
+            1526,
+            896,
+            1526
+          ]
+        }
+      ],
+      "content": "5"
+    },
+    {
+      "spans": [
+        {
+          "offset": 980,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1531,
+            405,
+            1527,
+            407,
+            1578,
+            184,
+            1581
+          ]
+        }
+      ],
+      "content": "2910-474-6443"
+    },
+    {
+      "spans": [
+        {
+          "offset": 994,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            405,
+            1527,
+            735,
+            1526,
+            734,
+            1577,
+            407,
+            1578
+          ]
+        }
+      ],
+      "content": "Bowl"
+    },
+    {
+      "spans": [
+        {
+          "offset": 999,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            735,
+            1526,
+            976,
+            1526,
+            976,
+            1577,
+            734,
+            1577
+          ]
+        }
+      ],
+      "content": "82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1002,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            1581,
+            407,
+            1578,
+            407,
+            1633,
+            184,
+            1633
+          ]
+        }
+      ],
+      "content": "2910-529-7993"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1016,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            407,
+            1578,
+            734,
+            1577,
+            734,
+            1633,
+            407,
+            1633
+          ]
+        }
+      ],
+      "content": "Cap - 7"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1026,
+          "length": 1
+        },
+        {
+          "offset": 1024,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            734,
+            1577,
+            976,
+            1577,
+            976,
+            1633,
+            734,
+            1633
+          ]
+        }
+      ],
+      "content": "7\n-"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1028,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            988,
+            943,
+            1002,
+            943,
+            1002,
+            963,
+            988,
+            963
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1030,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            877,
+            1621,
+            1116,
+            1623,
+            1115,
+            1740,
+            876,
+            1737
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 1053,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            30,
+            1732,
+            89,
+            1730,
+            89,
+            1773,
+            31,
+            1774
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "519"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 282,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.3,
+      "spans": [
+        {
+          "offset": 732,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 857,
+          "length": 1
+        },
+        {
+          "offset": 1030,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 1053,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1023
+        },
+        {
+          "offset": 1026,
+          "length": 1
+        },
+        {
+          "offset": 1024,
+          "length": 1
+        },
+        {
+          "offset": 1028,
+          "length": 24
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/tables/0",
+        "/paragraphs/90",
+        "/paragraphs/91"
+      ]
+    }
+  ]
+}
