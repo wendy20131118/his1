@@ -1,0 +1,871 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "附\n部令司總備普考台\n起\nDE DE\n書 1\n國史饭 Academia Historica\n380",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.1682983934879303,
+      "width": 1218,
+      "height": 1712,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "附",
+          "polygon": [
+            1111,
+            145,
+            1148,
+            136,
+            1148,
+            174,
+            1112,
+            188
+          ],
+          "confidence": 0.498,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "部",
+          "polygon": [
+            139,
+            441,
+            221,
+            410,
+            239,
+            541,
+            155,
+            564
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "令",
+          "polygon": [
+            238,
+            400,
+            312,
+            362,
+            330,
+            494,
+            255,
+            528
+          ],
+          "confidence": 0.719,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "司",
+          "polygon": [
+            347,
+            350,
+            429,
+            333,
+            434,
+            465,
+            362,
+            484
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "總",
+          "polygon": [
+            482,
+            326,
+            566,
+            323,
+            566,
+            458,
+            483,
+            460
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "備",
+          "polygon": [
+            603,
+            322,
+            686,
+            326,
+            684,
+            466,
+            602,
+            459
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "普",
+          "polygon": [
+            723,
+            330,
+            803,
+            354,
+            790,
+            485,
+            719,
+            471
+          ],
+          "confidence": 0.873,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "考",
+          "polygon": [
+            838,
+            366,
+            913,
+            402,
+            897,
+            534,
+            818,
+            491
+          ],
+          "confidence": 0.309,
+          "span": {
+            "offset": 8,
+            "length": 1
+          }
+        },
+        {
+          "content": "台",
+          "polygon": [
+            957,
+            433,
+            1032,
+            486,
+            1032,
+            602,
+            943,
+            553
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 9,
+            "length": 1
+          }
+        },
+        {
+          "content": "起",
+          "polygon": [
+            527,
+            705,
+            641,
+            713,
+            641,
+            824,
+            524,
+            821
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 11,
+            "length": 1
+          }
+        },
+        {
+          "content": "DE",
+          "polygon": [
+            668,
+            912,
+            666,
+            955,
+            639,
+            955,
+            640,
+            911
+          ],
+          "confidence": 0.743,
+          "span": {
+            "offset": 13,
+            "length": 2
+          }
+        },
+        {
+          "content": "DE",
+          "polygon": [
+            724,
+            913,
+            722,
+            955,
+            698,
+            955,
+            703,
+            913
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 16,
+            "length": 2
+          }
+        },
+        {
+          "content": "書",
+          "polygon": [
+            538,
+            1242,
+            640,
+            1247,
+            640,
+            1383,
+            538,
+            1383
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 19,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            1076,
+            1337,
+            1098,
+            1333,
+            1098,
+            1413,
+            1075,
+            1417
+          ],
+          "confidence": 0.955,
+          "span": {
+            "offset": 21,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            835,
+            1546,
+            889,
+            1547,
+            889,
+            1626,
+            835,
+            1626
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 23,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            897,
+            1547,
+            949,
+            1546,
+            949,
+            1628,
+            897,
+            1627
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 24,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            950,
+            1546,
+            1040,
+            1547,
+            1040,
+            1631,
+            950,
+            1628
+          ],
+          "confidence": 0.931,
+          "span": {
+            "offset": 25,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            810,
+            1627,
+            924,
+            1628,
+            924,
+            1655,
+            810,
+            1655
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 27,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            933,
+            1628,
+            1036,
+            1629,
+            1036,
+            1656,
+            932,
+            1655
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 36,
+            "length": 9
+          }
+        },
+        {
+          "content": "380",
+          "polygon": [
+            69,
+            1641,
+            107,
+            1633,
+            107,
+            1655,
+            71,
+            1663
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 46,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "附",
+          "polygon": [
+            1111,
+            138,
+            1146,
+            137,
+            1148,
+            186,
+            1112,
+            187
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "部令司總備普考台",
+          "polygon": [
+            145,
+            321,
+            1032,
+            339,
+            1026,
+            601,
+            138,
+            561
+          ],
+          "spans": [
+            {
+              "offset": 2,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "起",
+          "polygon": [
+            527,
+            705,
+            640,
+            708,
+            637,
+            824,
+            524,
+            820
+          ],
+          "spans": [
+            {
+              "offset": 11,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "DE",
+          "polygon": [
+            669,
+            912,
+            668,
+            955,
+            639,
+            954,
+            640,
+            911
+          ],
+          "spans": [
+            {
+              "offset": 13,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "DE",
+          "polygon": [
+            725,
+            913,
+            723,
+            955,
+            699,
+            954,
+            701,
+            912
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "書",
+          "polygon": [
+            538,
+            1240,
+            640,
+            1241,
+            639,
+            1383,
+            538,
+            1383
+          ],
+          "spans": [
+            {
+              "offset": 19,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            1076,
+            1333,
+            1097,
+            1333,
+            1097,
+            1416,
+            1075,
+            1416
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            835,
+            1545,
+            1039,
+            1546,
+            1039,
+            1630,
+            835,
+            1630
+          ],
+          "spans": [
+            {
+              "offset": 23,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            810,
+            1627,
+            1035,
+            1628,
+            1035,
+            1655,
+            810,
+            1654
+          ],
+          "spans": [
+            {
+              "offset": 27,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "380",
+          "polygon": [
+            69,
+            1641,
+            105,
+            1633,
+            107,
+            1655,
+            71,
+            1663
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 49
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1111,
+            138,
+            1146,
+            137,
+            1148,
+            186,
+            1112,
+            187
+          ]
+        }
+      ],
+      "content": "附"
+    },
+    {
+      "spans": [
+        {
+          "offset": 2,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            144,
+            318,
+            1032,
+            339,
+            1026,
+            601,
+            138,
+            580
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "部令司總備普考台"
+    },
+    {
+      "spans": [
+        {
+          "offset": 11,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            527,
+            705,
+            640,
+            708,
+            637,
+            824,
+            524,
+            820
+          ]
+        }
+      ],
+      "content": "起"
+    },
+    {
+      "spans": [
+        {
+          "offset": 13,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            640,
+            911,
+            725,
+            912,
+            724,
+            956,
+            639,
+            954
+          ]
+        }
+      ],
+      "content": "DE DE"
+    },
+    {
+      "spans": [
+        {
+          "offset": 19,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            539,
+            1234,
+            1106,
+            1270,
+            1097,
+            1417,
+            529,
+            1382
+          ]
+        }
+      ],
+      "content": "書 1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 23,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            810,
+            1545,
+            1039,
+            1546,
+            1039,
+            1655,
+            810,
+            1654
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 46,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            66,
+            1641,
+            105,
+            1633,
+            109,
+            1655,
+            71,
+            1663
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "380"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        },
+        {
+          "offset": 46,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.6,
+      "spans": [
+        {
+          "offset": 23,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 45
+        }
+      ],
+      "elements": [
+        "/sections/1",
+        "/sections/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        }
+      ],
+      "elements": [
+        "/paragraphs/0"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 2,
+          "length": 43
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/figures/0",
+        "/paragraphs/4",
+        "/figures/1"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            414,
+            698,
+            803,
+            699,
+            802,
+            1391,
+            413,
+            1390
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 11,
+          "length": 7
+        }
+      ],
+      "elements": [
+        "/paragraphs/2",
+        "/paragraphs/3"
+      ]
+    },
+    {
+      "id": "1.2",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            803,
+            1545,
+            1176,
+            1545,
+            1176,
+            1671,
+            803,
+            1671
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 23,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/5"
+      ]
+    }
+  ]
+}

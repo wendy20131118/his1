@@ -1,0 +1,912 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "6\n附件(1)初\n許膠爾\n13.82\n140.11 審 判決書\nに\n國史饭 Academia Historica\n383",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.13050979375839233,
+      "width": 1218,
+      "height": 1712,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "6",
+          "polygon": [
+            683,
+            308,
+            713,
+            309,
+            713,
+            339,
+            683,
+            338
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "附",
+          "polygon": [
+            587,
+            489,
+            648,
+            491,
+            648,
+            532,
+            586,
+            531
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "件",
+          "polygon": [
+            587,
+            556,
+            647,
+            557,
+            648,
+            596,
+            587,
+            596
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "(1)",
+          "polygon": [
+            587,
+            613,
+            648,
+            613,
+            647,
+            670,
+            587,
+            670
+          ],
+          "confidence": 0.035,
+          "span": {
+            "offset": 4,
+            "length": 3
+          }
+        },
+        {
+          "content": "初",
+          "polygon": [
+            588,
+            712,
+            648,
+            712,
+            650,
+            768,
+            588,
+            768
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            551,
+            804,
+            587,
+            804,
+            587,
+            841,
+            551,
+            841
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 9,
+            "length": 1
+          }
+        },
+        {
+          "content": "膠",
+          "polygon": [
+            594,
+            804,
+            625,
+            805,
+            624,
+            840,
+            594,
+            840
+          ],
+          "confidence": 0.2,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "爾",
+          "polygon": [
+            632,
+            805,
+            667,
+            806,
+            667,
+            842,
+            632,
+            841
+          ],
+          "confidence": 0.683,
+          "span": {
+            "offset": 11,
+            "length": 1
+          }
+        },
+        {
+          "content": "13.82",
+          "polygon": [
+            652,
+            852,
+            743,
+            854,
+            743,
+            890,
+            652,
+            890
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 13,
+            "length": 5
+          }
+        },
+        {
+          "content": "140.11",
+          "polygon": [
+            465,
+            853,
+            584,
+            852,
+            584,
+            890,
+            466,
+            889
+          ],
+          "confidence": 0.625,
+          "span": {
+            "offset": 19,
+            "length": 6
+          }
+        },
+        {
+          "content": "審",
+          "polygon": [
+            590,
+            890,
+            590,
+            838,
+            648,
+            839,
+            648,
+            890
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 26,
+            "length": 1
+          }
+        },
+        {
+          "content": "判",
+          "polygon": [
+            592,
+            956,
+            649,
+            956,
+            649,
+            1012,
+            591,
+            1012
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 28,
+            "length": 1
+          }
+        },
+        {
+          "content": "決",
+          "polygon": [
+            590,
+            1085,
+            649,
+            1084,
+            649,
+            1136,
+            590,
+            1137
+          ],
+          "confidence": 0.868,
+          "span": {
+            "offset": 29,
+            "length": 1
+          }
+        },
+        {
+          "content": "書",
+          "polygon": [
+            590,
+            1208,
+            648,
+            1207,
+            648,
+            1266,
+            590,
+            1266
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 30,
+            "length": 1
+          }
+        },
+        {
+          "content": "に",
+          "polygon": [
+            719,
+            1399,
+            743,
+            1400,
+            743,
+            1424,
+            719,
+            1424
+          ],
+          "confidence": 0.192,
+          "span": {
+            "offset": 32,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            834,
+            1548,
+            886,
+            1548,
+            886,
+            1625,
+            834,
+            1624
+          ],
+          "confidence": 0.964,
+          "span": {
+            "offset": 34,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            894,
+            1548,
+            944,
+            1548,
+            944,
+            1626,
+            894,
+            1625
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 35,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            945,
+            1548,
+            1040,
+            1547,
+            1040,
+            1629,
+            945,
+            1626
+          ],
+          "confidence": 0.891,
+          "span": {
+            "offset": 36,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            810,
+            1627,
+            924,
+            1628,
+            924,
+            1655,
+            810,
+            1655
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 38,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            933,
+            1628,
+            1036,
+            1629,
+            1036,
+            1656,
+            933,
+            1655
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 47,
+            "length": 9
+          }
+        },
+        {
+          "content": "383",
+          "polygon": [
+            72,
+            1637,
+            109,
+            1635,
+            109,
+            1660,
+            72,
+            1662
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 57,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "6",
+          "polygon": [
+            683,
+            308,
+            713,
+            308,
+            713,
+            339,
+            683,
+            339
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "附件(1)初",
+          "polygon": [
+            586,
+            489,
+            648,
+            489,
+            650,
+            767,
+            588,
+            768
+          ],
+          "spans": [
+            {
+              "offset": 2,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "許膠爾",
+          "polygon": [
+            551,
+            804,
+            667,
+            805,
+            666,
+            841,
+            551,
+            840
+          ],
+          "spans": [
+            {
+              "offset": 9,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "13.82",
+          "polygon": [
+            652,
+            852,
+            742,
+            853,
+            742,
+            890,
+            652,
+            889
+          ],
+          "spans": [
+            {
+              "offset": 13,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "140.11",
+          "polygon": [
+            465,
+            852,
+            583,
+            851,
+            583,
+            890,
+            466,
+            890
+          ],
+          "spans": [
+            {
+              "offset": 19,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "審",
+          "polygon": [
+            590,
+            890,
+            590,
+            838,
+            648,
+            838,
+            647,
+            890
+          ],
+          "spans": [
+            {
+              "offset": 26,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "判決書",
+          "polygon": [
+            591,
+            901,
+            649,
+            901,
+            648,
+            1265,
+            590,
+            1265
+          ],
+          "spans": [
+            {
+              "offset": 28,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "に",
+          "polygon": [
+            719,
+            1399,
+            743,
+            1399,
+            743,
+            1424,
+            719,
+            1424
+          ],
+          "spans": [
+            {
+              "offset": 32,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            834,
+            1547,
+            1039,
+            1547,
+            1039,
+            1629,
+            834,
+            1628
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            810,
+            1627,
+            1036,
+            1628,
+            1036,
+            1656,
+            810,
+            1655
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "383",
+          "polygon": [
+            71,
+            1637,
+            108,
+            1636,
+            109,
+            1660,
+            72,
+            1662
+          ],
+          "spans": [
+            {
+              "offset": 57,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 60
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            683,
+            308,
+            713,
+            308,
+            713,
+            339,
+            683,
+            339
+          ]
+        }
+      ],
+      "content": "6"
+    },
+    {
+      "spans": [
+        {
+          "offset": 2,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            586,
+            489,
+            648,
+            489,
+            650,
+            767,
+            588,
+            768
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "附件(1)初"
+    },
+    {
+      "spans": [
+        {
+          "offset": 9,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            551,
+            804,
+            667,
+            805,
+            666,
+            841,
+            551,
+            840
+          ]
+        }
+      ],
+      "content": "許膠爾"
+    },
+    {
+      "spans": [
+        {
+          "offset": 13,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            652,
+            852,
+            742,
+            853,
+            742,
+            890,
+            652,
+            889
+          ]
+        }
+      ],
+      "content": "13.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 19,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            465,
+            838,
+            649,
+            838,
+            650,
+            1265,
+            467,
+            1266
+          ]
+        }
+      ],
+      "content": "140.11 審 判決書"
+    },
+    {
+      "spans": [
+        {
+          "offset": 32,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            719,
+            1399,
+            743,
+            1399,
+            743,
+            1424,
+            719,
+            1424
+          ]
+        }
+      ],
+      "content": "に"
+    },
+    {
+      "spans": [
+        {
+          "offset": 34,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            810,
+            1546,
+            1039,
+            1547,
+            1039,
+            1656,
+            810,
+            1655
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 57,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            71,
+            1637,
+            108,
+            1636,
+            109,
+            1660,
+            72,
+            1662
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "383"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.4,
+      "spans": [
+        {
+          "offset": 34,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 57,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 56
+        }
+      ],
+      "elements": [
+        "/sections/1",
+        "/sections/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1
+        }
+      ],
+      "elements": [
+        "/paragraphs/0"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 2,
+          "length": 54
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            805,
+            1543,
+            1046,
+            1543,
+            1046,
+            1655,
+            805,
+            1655
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 34,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/6"
+      ]
+    }
+  ]
+}

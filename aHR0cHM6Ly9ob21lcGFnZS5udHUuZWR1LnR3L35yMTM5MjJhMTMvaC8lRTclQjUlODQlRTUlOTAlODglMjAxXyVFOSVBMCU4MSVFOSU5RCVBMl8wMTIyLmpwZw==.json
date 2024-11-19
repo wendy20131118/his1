@@ -1,0 +1,479 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "無相關資料影像 Image not found 140.112.213.82\nDet Acıdeinin Fattotoca",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.11020000278949738,
+      "width": 515,
+      "height": 720,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "無",
+          "polygon": [
+            59,
+            244,
+            99,
+            244,
+            99,
+            304,
+            59,
+            304
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "相",
+          "polygon": [
+            116,
+            243,
+            154,
+            243,
+            154,
+            303,
+            116,
+            304
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "關",
+          "polygon": [
+            170,
+            244,
+            208,
+            243,
+            208,
+            303,
+            170,
+            303
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "資",
+          "polygon": [
+            233,
+            243,
+            271,
+            244,
+            271,
+            303,
+            233,
+            303
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "料",
+          "polygon": [
+            295,
+            243,
+            333,
+            244,
+            333,
+            302,
+            295,
+            303
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "影",
+          "polygon": [
+            350,
+            244,
+            388,
+            243,
+            388,
+            303,
+            350,
+            302
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "像",
+          "polygon": [
+            412,
+            243,
+            457,
+            244,
+            457,
+            303,
+            412,
+            303
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "Image",
+          "polygon": [
+            49,
+            316,
+            208,
+            315,
+            208,
+            373,
+            49,
+            375
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 8,
+            "length": 5
+          }
+        },
+        {
+          "content": "not",
+          "polygon": [
+            226,
+            315,
+            306,
+            315,
+            306,
+            370,
+            226,
+            372
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 14,
+            "length": 3
+          }
+        },
+        {
+          "content": "found",
+          "polygon": [
+            325,
+            316,
+            476,
+            315,
+            476,
+            367,
+            325,
+            370
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 18,
+            "length": 5
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            114,
+            363,
+            395,
+            362,
+            395,
+            393,
+            114,
+            394
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 24,
+            "length": 14
+          }
+        },
+        {
+          "content": "Det",
+          "polygon": [
+            326,
+            620,
+            411,
+            622,
+            411,
+            656,
+            326,
+            653
+          ],
+          "confidence": 0.066,
+          "span": {
+            "offset": 39,
+            "length": 3
+          }
+        },
+        {
+          "content": "Acıdeinin",
+          "polygon": [
+            315,
+            655,
+            362,
+            655,
+            362,
+            668,
+            315,
+            667
+          ],
+          "confidence": 0.298,
+          "span": {
+            "offset": 43,
+            "length": 9
+          }
+        },
+        {
+          "content": "Fattotoca",
+          "polygon": [
+            366,
+            656,
+            409,
+            656,
+            409,
+            668,
+            366,
+            668
+          ],
+          "confidence": 0.157,
+          "span": {
+            "offset": 53,
+            "length": 9
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "無相關資料影像",
+          "polygon": [
+            59,
+            244,
+            457,
+            243,
+            457,
+            302,
+            59,
+            303
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "Image not found",
+          "polygon": [
+            48,
+            316,
+            476,
+            315,
+            476,
+            371,
+            49,
+            374
+          ],
+          "spans": [
+            {
+              "offset": 8,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            114,
+            362,
+            394,
+            362,
+            394,
+            393,
+            114,
+            394
+          ],
+          "spans": [
+            {
+              "offset": 24,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Det",
+          "polygon": [
+            326,
+            620,
+            411,
+            622,
+            410,
+            655,
+            325,
+            654
+          ],
+          "spans": [
+            {
+              "offset": 39,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Acıdeinin Fattotoca",
+          "polygon": [
+            312,
+            655,
+            409,
+            656,
+            409,
+            668,
+            312,
+            667
+          ],
+          "spans": [
+            {
+              "offset": 43,
+              "length": 19
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 62
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            48,
+            244,
+            476,
+            243,
+            476,
+            393,
+            48,
+            394
+          ]
+        }
+      ],
+      "content": "無相關資料影像 Image not found 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 39,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            313,
+            620,
+            411,
+            622,
+            410,
+            668,
+            312,
+            667
+          ]
+        }
+      ],
+      "content": "Det Acıdeinin Fattotoca"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.6,
+      "spans": [
+        {
+          "offset": 39,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 62
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            315,
+            596,
+            467,
+            596,
+            467,
+            671,
+            314,
+            670
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 39,
+          "length": 23
+        }
+      ],
+      "elements": [
+        "/paragraphs/1"
+      ]
+    }
+  ]
+}

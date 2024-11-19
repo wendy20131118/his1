@@ -1,0 +1,869 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "掛號 第 056933號\n98-00-0\n世华南元件收據\n許躍爾 140.112.213.82\n國史饭 Academia Historica\n236",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.13045430183410645,
+      "width": 1274,
+      "height": 1668,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "掛",
+          "polygon": [
+            505,
+            399,
+            521,
+            399,
+            521,
+            422,
+            505,
+            422
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "號",
+          "polygon": [
+            524,
+            399,
+            546,
+            400,
+            546,
+            423,
+            524,
+            423
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "第",
+          "polygon": [
+            574,
+            400,
+            593,
+            401,
+            592,
+            424,
+            574,
+            423
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": "056933",
+          "polygon": [
+            599,
+            401,
+            680,
+            402,
+            680,
+            425,
+            599,
+            424
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 5,
+            "length": 6
+          }
+        },
+        {
+          "content": "號",
+          "polygon": [
+            680,
+            402,
+            703,
+            403,
+            703,
+            426,
+            680,
+            425
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 11,
+            "length": 1
+          }
+        },
+        {
+          "content": "98-00-0",
+          "polygon": [
+            362,
+            446,
+            417,
+            449,
+            417,
+            464,
+            361,
+            461
+          ],
+          "confidence": 0.751,
+          "span": {
+            "offset": 13,
+            "length": 7
+          }
+        },
+        {
+          "content": "世",
+          "polygon": [
+            474,
+            451,
+            496,
+            452,
+            495,
+            483,
+            473,
+            482
+          ],
+          "confidence": 0.691,
+          "span": {
+            "offset": 21,
+            "length": 1
+          }
+        },
+        {
+          "content": "华",
+          "polygon": [
+            497,
+            452,
+            517,
+            452,
+            516,
+            484,
+            495,
+            483
+          ],
+          "confidence": 0.143,
+          "span": {
+            "offset": 22,
+            "length": 1
+          }
+        },
+        {
+          "content": "南",
+          "polygon": [
+            526,
+            453,
+            547,
+            453,
+            545,
+            485,
+            525,
+            484
+          ],
+          "confidence": 0.673,
+          "span": {
+            "offset": 23,
+            "length": 1
+          }
+        },
+        {
+          "content": "元",
+          "polygon": [
+            551,
+            454,
+            576,
+            455,
+            575,
+            486,
+            550,
+            485
+          ],
+          "confidence": 0.274,
+          "span": {
+            "offset": 24,
+            "length": 1
+          }
+        },
+        {
+          "content": "件",
+          "polygon": [
+            589,
+            455,
+            610,
+            456,
+            609,
+            488,
+            588,
+            487
+          ],
+          "confidence": 0.749,
+          "span": {
+            "offset": 25,
+            "length": 1
+          }
+        },
+        {
+          "content": "收",
+          "polygon": [
+            623,
+            456,
+            644,
+            457,
+            642,
+            490,
+            622,
+            489
+          ],
+          "confidence": 0.902,
+          "span": {
+            "offset": 26,
+            "length": 1
+          }
+        },
+        {
+          "content": "據",
+          "polygon": [
+            665,
+            458,
+            703,
+            459,
+            703,
+            492,
+            664,
+            491
+          ],
+          "confidence": 0.9,
+          "span": {
+            "offset": 27,
+            "length": 1
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            578,
+            783,
+            614,
+            783,
+            613,
+            820,
+            578,
+            820
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 29,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            621,
+            783,
+            642,
+            783,
+            642,
+            820,
+            621,
+            820
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 30,
+            "length": 1
+          }
+        },
+        {
+          "content": "爾",
+          "polygon": [
+            662,
+            783,
+            695,
+            784,
+            695,
+            820,
+            662,
+            820
+          ],
+          "confidence": 0.588,
+          "span": {
+            "offset": 31,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            493,
+            831,
+            772,
+            831,
+            772,
+            868,
+            493,
+            867
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 33,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            900,
+            1508,
+            955,
+            1507,
+            955,
+            1581,
+            900,
+            1581
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 48,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            956,
+            1507,
+            1008,
+            1507,
+            1008,
+            1581,
+            957,
+            1581
+          ],
+          "confidence": 0.818,
+          "span": {
+            "offset": 49,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            1015,
+            1507,
+            1099,
+            1506,
+            1099,
+            1583,
+            1015,
+            1581
+          ],
+          "confidence": 0.84,
+          "span": {
+            "offset": 50,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            878,
+            1585,
+            986,
+            1585,
+            986,
+            1610,
+            878,
+            1610
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 52,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            996,
+            1585,
+            1097,
+            1586,
+            1097,
+            1611,
+            996,
+            1610
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 61,
+            "length": 9
+          }
+        },
+        {
+          "content": "236",
+          "polygon": [
+            96,
+            1584,
+            139,
+            1580,
+            139,
+            1611,
+            97,
+            1615
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 71,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "掛號",
+          "polygon": [
+            505,
+            399,
+            545,
+            399,
+            545,
+            422,
+            505,
+            422
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "第 056933號",
+          "polygon": [
+            574,
+            400,
+            703,
+            403,
+            703,
+            426,
+            574,
+            423
+          ],
+          "spans": [
+            {
+              "offset": 3,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "98-00-0",
+          "polygon": [
+            362,
+            446,
+            417,
+            449,
+            416,
+            464,
+            361,
+            461
+          ],
+          "spans": [
+            {
+              "offset": 13,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "世华南元件收據",
+          "polygon": [
+            474,
+            451,
+            702,
+            459,
+            701,
+            492,
+            473,
+            483
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "許躍爾",
+          "polygon": [
+            578,
+            783,
+            695,
+            783,
+            695,
+            820,
+            578,
+            820
+          ],
+          "spans": [
+            {
+              "offset": 29,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            493,
+            830,
+            771,
+            831,
+            771,
+            868,
+            493,
+            867
+          ],
+          "spans": [
+            {
+              "offset": 33,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            900,
+            1506,
+            1098,
+            1505,
+            1098,
+            1583,
+            900,
+            1583
+          ],
+          "spans": [
+            {
+              "offset": 48,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            878,
+            1585,
+            1096,
+            1585,
+            1096,
+            1611,
+            878,
+            1610
+          ],
+          "spans": [
+            {
+              "offset": 52,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "236",
+          "polygon": [
+            95,
+            1584,
+            138,
+            1580,
+            139,
+            1610,
+            97,
+            1614
+          ],
+          "spans": [
+            {
+              "offset": 71,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 74
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            505,
+            398,
+            703,
+            402,
+            703,
+            426,
+            505,
+            422
+          ]
+        }
+      ],
+      "content": "掛號 第 056933號"
+    },
+    {
+      "spans": [
+        {
+          "offset": 13,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            362,
+            446,
+            417,
+            449,
+            416,
+            464,
+            361,
+            461
+          ]
+        }
+      ],
+      "content": "98-00-0"
+    },
+    {
+      "spans": [
+        {
+          "offset": 21,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            474,
+            451,
+            702,
+            459,
+            701,
+            492,
+            473,
+            483
+          ]
+        }
+      ],
+      "content": "世华南元件收據"
+    },
+    {
+      "spans": [
+        {
+          "offset": 29,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            493,
+            783,
+            771,
+            783,
+            771,
+            868,
+            493,
+            867
+          ]
+        }
+      ],
+      "content": "許躍爾 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 48,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            878,
+            1505,
+            1098,
+            1505,
+            1098,
+            1611,
+            878,
+            1610
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 71,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            94,
+            1584,
+            138,
+            1580,
+            141,
+            1610,
+            97,
+            1614
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "236"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 71,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 70
+        }
+      ],
+      "elements": [
+        "/figures/0",
+        "/paragraphs/3",
+        "/figures/1",
+        "/figures/2"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            359,
+            331,
+            884,
+            351,
+            864,
+            506,
+            337,
+            485
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 28
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2"
+      ]
+    },
+    {
+      "id": "1.2",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1103,
+            1449,
+            1228,
+            1449,
+            1228,
+            1621,
+            1103,
+            1622
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 47,
+          "length": 0
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            887,
+            1505,
+            1104,
+            1505,
+            1104,
+            1608,
+            887,
+            1608
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 48,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/4"
+      ]
+    }
+  ]
+}

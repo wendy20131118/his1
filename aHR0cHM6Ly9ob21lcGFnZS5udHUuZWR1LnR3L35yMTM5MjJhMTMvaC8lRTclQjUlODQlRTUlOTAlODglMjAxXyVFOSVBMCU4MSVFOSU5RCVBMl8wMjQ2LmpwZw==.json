@@ -1,0 +1,956 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "掛號第 44395 號\n中華民國郵政 掛號函件收據 第 44395 號\n許躍薾 140.112.213.82\n國史饭 Academia Historica\n124",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -5.630199909210205,
+      "width": 732,
+      "height": 1373,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "掛",
+          "polygon": [
+            221,
+            336,
+            245,
+            334,
+            247,
+            360,
+            222,
+            362
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "號",
+          "polygon": [
+            251,
+            334,
+            275,
+            331,
+            276,
+            357,
+            253,
+            359
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "第",
+          "polygon": [
+            281,
+            330,
+            301,
+            328,
+            302,
+            354,
+            282,
+            356
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "44395",
+          "polygon": [
+            335,
+            329,
+            460,
+            314,
+            461,
+            343,
+            337,
+            359
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 4,
+            "length": 5
+          }
+        },
+        {
+          "content": "號",
+          "polygon": [
+            479,
+            308,
+            505,
+            306,
+            506,
+            331,
+            482,
+            333
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "中",
+          "polygon": [
+            296,
+            387,
+            316,
+            385,
+            318,
+            412,
+            298,
+            414
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 12,
+            "length": 1
+          }
+        },
+        {
+          "content": "華",
+          "polygon": [
+            323,
+            385,
+            346,
+            382,
+            348,
+            408,
+            325,
+            411
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 13,
+            "length": 1
+          }
+        },
+        {
+          "content": "民",
+          "polygon": [
+            353,
+            382,
+            374,
+            379,
+            376,
+            405,
+            355,
+            408
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 14,
+            "length": 1
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            380,
+            378,
+            398,
+            376,
+            400,
+            402,
+            383,
+            404
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 15,
+            "length": 1
+          }
+        },
+        {
+          "content": "郵",
+          "polygon": [
+            405,
+            376,
+            428,
+            373,
+            430,
+            398,
+            408,
+            401
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 16,
+            "length": 1
+          }
+        },
+        {
+          "content": "政",
+          "polygon": [
+            433,
+            372,
+            459,
+            369,
+            461,
+            395,
+            435,
+            398
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 17,
+            "length": 1
+          }
+        },
+        {
+          "content": "掛",
+          "polygon": [
+            259,
+            436,
+            289,
+            433,
+            292,
+            464,
+            261,
+            467
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 19,
+            "length": 1
+          }
+        },
+        {
+          "content": "號",
+          "polygon": [
+            305,
+            431,
+            334,
+            428,
+            336,
+            458,
+            307,
+            462
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 20,
+            "length": 1
+          }
+        },
+        {
+          "content": "函",
+          "polygon": [
+            350,
+            426,
+            374,
+            423,
+            377,
+            454,
+            352,
+            456
+          ],
+          "confidence": 0.938,
+          "span": {
+            "offset": 21,
+            "length": 1
+          }
+        },
+        {
+          "content": "件",
+          "polygon": [
+            391,
+            421,
+            419,
+            418,
+            422,
+            449,
+            394,
+            452
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 22,
+            "length": 1
+          }
+        },
+        {
+          "content": "收",
+          "polygon": [
+            436,
+            416,
+            464,
+            413,
+            467,
+            443,
+            438,
+            447
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 23,
+            "length": 1
+          }
+        },
+        {
+          "content": "據",
+          "polygon": [
+            476,
+            411,
+            510,
+            407,
+            510,
+            438,
+            479,
+            442
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 24,
+            "length": 1
+          }
+        },
+        {
+          "content": "第",
+          "polygon": [
+            285,
+            486,
+            304,
+            484,
+            306,
+            512,
+            288,
+            514
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 26,
+            "length": 1
+          }
+        },
+        {
+          "content": "44395",
+          "polygon": [
+            326,
+            481,
+            453,
+            467,
+            454,
+            496,
+            329,
+            509
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 28,
+            "length": 5
+          }
+        },
+        {
+          "content": "號",
+          "polygon": [
+            475,
+            468,
+            500,
+            465,
+            502,
+            490,
+            477,
+            491
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 34,
+            "length": 1
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            308,
+            634,
+            334,
+            634,
+            334,
+            672,
+            309,
+            672
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 36,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            349,
+            634,
+            373,
+            635,
+            373,
+            672,
+            349,
+            672
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 37,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            388,
+            635,
+            424,
+            635,
+            424,
+            672,
+            388,
+            672
+          ],
+          "confidence": 0.716,
+          "span": {
+            "offset": 38,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            222,
+            683,
+            500,
+            683,
+            500,
+            718,
+            222,
+            719
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 40,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            415,
+            1231,
+            456,
+            1231,
+            457,
+            1292,
+            415,
+            1292
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 55,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            462,
+            1231,
+            503,
+            1230,
+            503,
+            1293,
+            463,
+            1292
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 56,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            504,
+            1230,
+            579,
+            1231,
+            579,
+            1296,
+            504,
+            1293
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 57,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            395,
+            1296,
+            487,
+            1296,
+            487,
+            1317,
+            395,
+            1317
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 59,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            492,
+            1296,
+            577,
+            1297,
+            577,
+            1317,
+            492,
+            1317
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 68,
+            "length": 9
+          }
+        },
+        {
+          "content": "124",
+          "polygon": [
+            67,
+            1327,
+            67,
+            1304,
+            106,
+            1303,
+            106,
+            1327
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 78,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "掛號第",
+          "polygon": [
+            220,
+            337,
+            301,
+            327,
+            302,
+            353,
+            222,
+            362
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "44395",
+          "polygon": [
+            334,
+            328,
+            458,
+            313,
+            461,
+            343,
+            337,
+            358
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "號",
+          "polygon": [
+            479,
+            308,
+            503,
+            306,
+            505,
+            330,
+            481,
+            333
+          ],
+          "spans": [
+            {
+              "offset": 10,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "中華民國郵政",
+          "polygon": [
+            295,
+            387,
+            458,
+            369,
+            461,
+            396,
+            298,
+            414
+          ],
+          "spans": [
+            {
+              "offset": 12,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "掛號函件收據",
+          "polygon": [
+            259,
+            436,
+            507,
+            408,
+            510,
+            439,
+            261,
+            467
+          ],
+          "spans": [
+            {
+              "offset": 19,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "第 44395",
+          "polygon": [
+            285,
+            485,
+            451,
+            467,
+            454,
+            496,
+            288,
+            514
+          ],
+          "spans": [
+            {
+              "offset": 26,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "號",
+          "polygon": [
+            475,
+            467,
+            499,
+            465,
+            501,
+            489,
+            477,
+            491
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "許躍薾",
+          "polygon": [
+            308,
+            634,
+            423,
+            634,
+            423,
+            672,
+            308,
+            671
+          ],
+          "spans": [
+            {
+              "offset": 36,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            222,
+            683,
+            499,
+            683,
+            499,
+            718,
+            222,
+            718
+          ],
+          "spans": [
+            {
+              "offset": 40,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            415,
+            1230,
+            579,
+            1231,
+            578,
+            1295,
+            415,
+            1294
+          ],
+          "spans": [
+            {
+              "offset": 55,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            395,
+            1295,
+            577,
+            1296,
+            576,
+            1317,
+            395,
+            1316
+          ],
+          "spans": [
+            {
+              "offset": 59,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "124",
+          "polygon": [
+            67,
+            1327,
+            67,
+            1303,
+            106,
+            1303,
+            106,
+            1327
+          ],
+          "spans": [
+            {
+              "offset": 78,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 81
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 11
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            220,
+            336,
+            503,
+            306,
+            507,
+            340,
+            223,
+            371
+          ]
+        }
+      ],
+      "content": "掛號第 44395 號"
+    },
+    {
+      "spans": [
+        {
+          "offset": 12,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            253,
+            392,
+            503,
+            364,
+            516,
+            489,
+            267,
+            517
+          ]
+        }
+      ],
+      "content": "中華民國郵政 掛號函件收據 第 44395 號"
+    },
+    {
+      "spans": [
+        {
+          "offset": 36,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            222,
+            634,
+            499,
+            634,
+            499,
+            718,
+            222,
+            718
+          ]
+        }
+      ],
+      "content": "許躍薾 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 55,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            395,
+            1230,
+            579,
+            1231,
+            579,
+            1317,
+            395,
+            1316
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 78,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            67,
+            1303,
+            106,
+            1303,
+            106,
+            1327,
+            67,
+            1327
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "124"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.6,
+      "spans": [
+        {
+          "offset": 55,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 78,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 77
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3"
+      ]
+    }
+  ]
+}

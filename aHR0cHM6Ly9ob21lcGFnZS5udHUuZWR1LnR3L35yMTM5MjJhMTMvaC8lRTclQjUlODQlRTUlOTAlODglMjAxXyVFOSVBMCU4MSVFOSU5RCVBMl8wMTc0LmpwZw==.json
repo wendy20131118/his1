@@ -1,0 +1,971 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "核稿人員:\n核稿意見: 發\n喬書漢(Shu Han Chiao/OOP)於 89/04/01 10:42:14 AM\n許躍薾 140.112.213.82\n國史饭 Academia Historica\n52",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.03738832101225853,
+      "width": 1248,
+      "height": 1749,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "核",
+          "polygon": [
+            61,
+            167,
+            79,
+            167,
+            79,
+            194,
+            61,
+            194
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "稿",
+          "polygon": [
+            90,
+            167,
+            107,
+            167,
+            107,
+            194,
+            90,
+            194
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1,
+            "length": 1
+          }
+        },
+        {
+          "content": "人",
+          "polygon": [
+            115,
+            167,
+            132,
+            167,
+            132,
+            194,
+            115,
+            194
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 2,
+            "length": 1
+          }
+        },
+        {
+          "content": "員",
+          "polygon": [
+            140,
+            167,
+            157,
+            167,
+            157,
+            194,
+            140,
+            194
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 3,
+            "length": 1
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            164,
+            167,
+            179,
+            167,
+            179,
+            193,
+            164,
+            194
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "核",
+          "polygon": [
+            62,
+            233,
+            80,
+            232,
+            80,
+            260,
+            62,
+            260
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "稿",
+          "polygon": [
+            88,
+            232,
+            105,
+            232,
+            105,
+            260,
+            87,
+            260
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 7,
+            "length": 1
+          }
+        },
+        {
+          "content": "意",
+          "polygon": [
+            113,
+            232,
+            130,
+            232,
+            130,
+            259,
+            113,
+            259
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 8,
+            "length": 1
+          }
+        },
+        {
+          "content": "見",
+          "polygon": [
+            141,
+            232,
+            159,
+            232,
+            159,
+            259,
+            141,
+            259
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 9,
+            "length": 1
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            163,
+            232,
+            179,
+            232,
+            179,
+            259,
+            163,
+            259
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 10,
+            "length": 1
+          }
+        },
+        {
+          "content": "發",
+          "polygon": [
+            302,
+            225,
+            336,
+            225,
+            336,
+            261,
+            302,
+            261
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 12,
+            "length": 1
+          }
+        },
+        {
+          "content": "喬",
+          "polygon": [
+            566,
+            265,
+            583,
+            266,
+            583,
+            290,
+            566,
+            290
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 14,
+            "length": 1
+          }
+        },
+        {
+          "content": "書",
+          "polygon": [
+            590,
+            266,
+            605,
+            266,
+            605,
+            291,
+            589,
+            291
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 15,
+            "length": 1
+          }
+        },
+        {
+          "content": "漢",
+          "polygon": [
+            612,
+            266,
+            628,
+            266,
+            628,
+            291,
+            612,
+            291
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 16,
+            "length": 1
+          }
+        },
+        {
+          "content": "(Shu",
+          "polygon": [
+            628,
+            266,
+            676,
+            266,
+            676,
+            291,
+            628,
+            291
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 17,
+            "length": 4
+          }
+        },
+        {
+          "content": "Han",
+          "polygon": [
+            680,
+            266,
+            723,
+            266,
+            723,
+            291,
+            680,
+            291
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 22,
+            "length": 3
+          }
+        },
+        {
+          "content": "Chiao/OOP)",
+          "polygon": [
+            732,
+            266,
+            860,
+            267,
+            860,
+            292,
+            731,
+            291
+          ],
+          "confidence": 0.976,
+          "span": {
+            "offset": 26,
+            "length": 10
+          }
+        },
+        {
+          "content": "於",
+          "polygon": [
+            860,
+            267,
+            881,
+            267,
+            881,
+            292,
+            860,
+            292
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 36,
+            "length": 1
+          }
+        },
+        {
+          "content": "89/04/01",
+          "polygon": [
+            888,
+            267,
+            990,
+            267,
+            990,
+            292,
+            888,
+            292
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 38,
+            "length": 8
+          }
+        },
+        {
+          "content": "10:42:14",
+          "polygon": [
+            998,
+            267,
+            1090,
+            268,
+            1090,
+            291,
+            998,
+            292
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 47,
+            "length": 8
+          }
+        },
+        {
+          "content": "AM",
+          "polygon": [
+            1098,
+            268,
+            1131,
+            268,
+            1131,
+            292,
+            1098,
+            292
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 56,
+            "length": 2
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            566,
+            822,
+            592,
+            822,
+            592,
+            861,
+            566,
+            861
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 59,
+            "length": 1
+          }
+        },
+        {
+          "content": "躍",
+          "polygon": [
+            603,
+            822,
+            628,
+            822,
+            628,
+            861,
+            603,
+            861
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 60,
+            "length": 1
+          }
+        },
+        {
+          "content": "薾",
+          "polygon": [
+            644,
+            822,
+            682,
+            822,
+            682,
+            861,
+            644,
+            861
+          ],
+          "confidence": 0.896,
+          "span": {
+            "offset": 61,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            480,
+            870,
+            759,
+            870,
+            759,
+            907,
+            480,
+            908
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 63,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            859,
+            1583,
+            911,
+            1583,
+            911,
+            1659,
+            859,
+            1659
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 78,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            919,
+            1583,
+            973,
+            1583,
+            972,
+            1660,
+            919,
+            1660
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 79,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            980,
+            1583,
+            1068,
+            1583,
+            1068,
+            1664,
+            980,
+            1661
+          ],
+          "confidence": 0.923,
+          "span": {
+            "offset": 80,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            833,
+            1665,
+            950,
+            1665,
+            950,
+            1691,
+            833,
+            1691
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 82,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            958,
+            1665,
+            1065,
+            1666,
+            1065,
+            1692,
+            958,
+            1691
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 91,
+            "length": 9
+          }
+        },
+        {
+          "content": "52",
+          "polygon": [
+            72,
+            1663,
+            106,
+            1663,
+            106,
+            1686,
+            72,
+            1687
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 101,
+            "length": 2
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "核稿人員:",
+          "polygon": [
+            61,
+            167,
+            178,
+            166,
+            178,
+            193,
+            61,
+            194
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "核稿意見:",
+          "polygon": [
+            61,
+            232,
+            178,
+            232,
+            178,
+            259,
+            62,
+            259
+          ],
+          "spans": [
+            {
+              "offset": 6,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "發",
+          "polygon": [
+            302,
+            225,
+            336,
+            225,
+            336,
+            261,
+            302,
+            261
+          ],
+          "spans": [
+            {
+              "offset": 12,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "喬書漢(Shu Han Chiao/OOP)於 89/04/01 10:42:14 AM",
+          "polygon": [
+            566,
+            265,
+            1131,
+            267,
+            1131,
+            292,
+            566,
+            290
+          ],
+          "spans": [
+            {
+              "offset": 14,
+              "length": 44
+            }
+          ]
+        },
+        {
+          "content": "許躍薾",
+          "polygon": [
+            566,
+            822,
+            682,
+            822,
+            682,
+            860,
+            566,
+            860
+          ],
+          "spans": [
+            {
+              "offset": 59,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            480,
+            870,
+            758,
+            870,
+            758,
+            907,
+            480,
+            907
+          ],
+          "spans": [
+            {
+              "offset": 63,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            859,
+            1581,
+            1068,
+            1583,
+            1067,
+            1663,
+            859,
+            1658
+          ],
+          "spans": [
+            {
+              "offset": 78,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            833,
+            1664,
+            1064,
+            1664,
+            1064,
+            1691,
+            833,
+            1691
+          ],
+          "spans": [
+            {
+              "offset": 82,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "52",
+          "polygon": [
+            72,
+            1663,
+            106,
+            1663,
+            106,
+            1687,
+            72,
+            1687
+          ],
+          "spans": [
+            {
+              "offset": 101,
+              "length": 2
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 103
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            61,
+            167,
+            178,
+            166,
+            178,
+            193,
+            61,
+            194
+          ]
+        }
+      ],
+      "content": "核稿人員:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 6,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            61,
+            224,
+            336,
+            225,
+            336,
+            261,
+            61,
+            261
+          ]
+        }
+      ],
+      "content": "核稿意見: 發"
+    },
+    {
+      "spans": [
+        {
+          "offset": 14,
+          "length": 44
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            566,
+            265,
+            1131,
+            267,
+            1131,
+            292,
+            566,
+            290
+          ]
+        }
+      ],
+      "content": "喬書漢(Shu Han Chiao/OOP)於 89/04/01 10:42:14 AM"
+    },
+    {
+      "spans": [
+        {
+          "offset": 59,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            480,
+            822,
+            758,
+            822,
+            758,
+            907,
+            480,
+            907
+          ]
+        }
+      ],
+      "content": "許躍薾 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 78,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            834,
+            1581,
+            1068,
+            1583,
+            1067,
+            1693,
+            833,
+            1691
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 101,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            72,
+            1663,
+            106,
+            1663,
+            106,
+            1687,
+            72,
+            1687
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "52"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 78,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 101,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 100
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            827,
+            1555,
+            1206,
+            1555,
+            1206,
+            1702,
+            827,
+            1702
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 78,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/4"
+      ]
+    }
+  ]
+}

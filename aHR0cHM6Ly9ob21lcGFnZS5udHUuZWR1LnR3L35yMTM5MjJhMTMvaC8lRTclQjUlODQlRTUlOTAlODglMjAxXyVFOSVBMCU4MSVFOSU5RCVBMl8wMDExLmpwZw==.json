@@ -1,0 +1,660 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "001\n史\n館\n006000000729A\nThe Economist DIARY\nDER Academia Historica\n002",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.188277006149292,
+      "width": 1125,
+      "height": 1526,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "001",
+          "polygon": [
+            986,
+            57,
+            1028,
+            57,
+            1028,
+            84,
+            986,
+            84
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            174,
+            54,
+            198,
+            54,
+            198,
+            74,
+            174,
+            74
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": "館",
+          "polygon": [
+            243,
+            55,
+            275,
+            55,
+            275,
+            76,
+            243,
+            76
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 6,
+            "length": 1
+          }
+        },
+        {
+          "content": "006000000729A",
+          "polygon": [
+            105,
+            137,
+            265,
+            137,
+            265,
+            158,
+            105,
+            157
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 8,
+            "length": 13
+          }
+        },
+        {
+          "content": "The",
+          "polygon": [
+            505,
+            298,
+            634,
+            298,
+            634,
+            358,
+            505,
+            357
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 22,
+            "length": 3
+          }
+        },
+        {
+          "content": "Economist",
+          "polygon": [
+            375,
+            361,
+            767,
+            367,
+            767,
+            424,
+            375,
+            423
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 26,
+            "length": 9
+          }
+        },
+        {
+          "content": "DIARY",
+          "polygon": [
+            467,
+            442,
+            667,
+            442,
+            667,
+            490,
+            468,
+            491
+          ],
+          "confidence": 0.957,
+          "span": {
+            "offset": 36,
+            "length": 5
+          }
+        },
+        {
+          "content": "DER",
+          "polygon": [
+            782,
+            1374,
+            963,
+            1376,
+            963,
+            1446,
+            783,
+            1443
+          ],
+          "confidence": 0.093,
+          "span": {
+            "offset": 42,
+            "length": 3
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            760,
+            1446,
+            859,
+            1446,
+            858,
+            1470,
+            760,
+            1471
+          ],
+          "confidence": 0.637,
+          "span": {
+            "offset": 46,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            863,
+            1446,
+            958,
+            1447,
+            958,
+            1470,
+            863,
+            1470
+          ],
+          "confidence": 0.633,
+          "span": {
+            "offset": 55,
+            "length": 9
+          }
+        },
+        {
+          "content": "002",
+          "polygon": [
+            32,
+            1459,
+            75,
+            1459,
+            75,
+            1487,
+            32,
+            1486
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 65,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "001",
+          "polygon": [
+            986,
+            57,
+            1027,
+            57,
+            1027,
+            84,
+            986,
+            84
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "史",
+          "polygon": [
+            174,
+            54,
+            197,
+            54,
+            197,
+            74,
+            174,
+            74
+          ],
+          "spans": [
+            {
+              "offset": 4,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "館",
+          "polygon": [
+            243,
+            55,
+            275,
+            55,
+            274,
+            76,
+            242,
+            76
+          ],
+          "spans": [
+            {
+              "offset": 6,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "006000000729A",
+          "polygon": [
+            105,
+            136,
+            265,
+            137,
+            265,
+            158,
+            105,
+            157
+          ],
+          "spans": [
+            {
+              "offset": 8,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "The",
+          "polygon": [
+            505,
+            298,
+            634,
+            298,
+            634,
+            358,
+            505,
+            357
+          ],
+          "spans": [
+            {
+              "offset": 22,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Economist",
+          "polygon": [
+            375,
+            361,
+            767,
+            366,
+            767,
+            424,
+            375,
+            422
+          ],
+          "spans": [
+            {
+              "offset": 26,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "DIARY",
+          "polygon": [
+            467,
+            442,
+            666,
+            441,
+            666,
+            490,
+            468,
+            491
+          ],
+          "spans": [
+            {
+              "offset": 36,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "DER",
+          "polygon": [
+            782,
+            1373,
+            963,
+            1376,
+            962,
+            1445,
+            782,
+            1442
+          ],
+          "spans": [
+            {
+              "offset": 42,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            760,
+            1446,
+            957,
+            1445,
+            958,
+            1469,
+            760,
+            1470
+          ],
+          "spans": [
+            {
+              "offset": 46,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "002",
+          "polygon": [
+            32,
+            1459,
+            75,
+            1459,
+            75,
+            1486,
+            32,
+            1486
+          ],
+          "spans": [
+            {
+              "offset": 65,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 68
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            986,
+            57,
+            1027,
+            57,
+            1027,
+            84,
+            986,
+            84
+          ]
+        }
+      ],
+      "content": "001"
+    },
+    {
+      "spans": [
+        {
+          "offset": 4,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            174,
+            54,
+            197,
+            54,
+            197,
+            74,
+            174,
+            74
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "史"
+    },
+    {
+      "spans": [
+        {
+          "offset": 6,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            243,
+            55,
+            275,
+            55,
+            274,
+            76,
+            242,
+            76
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "館"
+    },
+    {
+      "spans": [
+        {
+          "offset": 8,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            105,
+            136,
+            265,
+            137,
+            265,
+            158,
+            105,
+            157
+          ]
+        }
+      ],
+      "role": "pageHeader",
+      "content": "006000000729A"
+    },
+    {
+      "spans": [
+        {
+          "offset": 22,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            375,
+            298,
+            767,
+            297,
+            767,
+            489,
+            375,
+            491
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "The Economist DIARY"
+    },
+    {
+      "spans": [
+        {
+          "offset": 42,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            761,
+            1373,
+            963,
+            1375,
+            962,
+            1473,
+            760,
+            1470
+          ]
+        }
+      ],
+      "content": "DER Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 65,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            32,
+            1459,
+            75,
+            1459,
+            75,
+            1486,
+            32,
+            1486
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "002"
+    }
+  ],
+  "styles": [],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 64
+        }
+      ],
+      "elements": [
+        "/sections/1",
+        "/sections/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 21
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/figures/0"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 22,
+          "length": 42
+        }
+      ],
+      "elements": [
+        "/paragraphs/4",
+        "/paragraphs/5"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            50,
+            49,
+            332,
+            49,
+            332,
+            166,
+            50,
+            166
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 4,
+          "length": 17
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+{
+  "apiVersion": "2024-07-31-preview",
+  "modelId": "prebuilt-layout",
+  "stringIndexType": "textElements",
+  "content": "3/4 Ton Pick up 1953 Dodge 道奇\nEngine No. 7245-7545\nff T245-60214\n240780214\nFF T245-59013\n許麗薦 140.112.213.82\n國史饭 Academia Historica\n219",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.7384687066078186,
+      "width": 1082,
+      "height": 1550,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "3/4",
+          "polygon": [
+            361,
+            160,
+            405,
+            161,
+            405,
+            192,
+            360,
+            192
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 0,
+            "length": 3
+          }
+        },
+        {
+          "content": "Ton",
+          "polygon": [
+            421,
+            162,
+            466,
+            163,
+            466,
+            194,
+            420,
+            192
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 4,
+            "length": 3
+          }
+        },
+        {
+          "content": "Pick",
+          "polygon": [
+            481,
+            164,
+            540,
+            166,
+            539,
+            196,
+            480,
+            194
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 8,
+            "length": 4
+          }
+        },
+        {
+          "content": "up",
+          "polygon": [
+            554,
+            166,
+            585,
+            168,
+            585,
+            197,
+            554,
+            196
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 13,
+            "length": 2
+          }
+        },
+        {
+          "content": "1953",
+          "polygon": [
+            389,
+            215,
+            450,
+            216,
+            450,
+            242,
+            389,
+            240
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "Dodge",
+          "polygon": [
+            478,
+            217,
+            553,
+            218,
+            553,
+            241,
+            478,
+            240
+          ],
+          "confidence": 0.694,
+          "span": {
+            "offset": 21,
+            "length": 5
+          }
+        },
+        {
+          "content": "道",
+          "polygon": [
+            598,
+            198,
+            631,
+            199,
+            629,
+            253,
+            597,
+            252
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 27,
+            "length": 1
+          }
+        },
+        {
+          "content": "奇",
+          "polygon": [
+            631,
+            199,
+            681,
+            201,
+            681,
+            255,
+            630,
+            253
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 28,
+            "length": 1
+          }
+        },
+        {
+          "content": "Engine",
+          "polygon": [
+            177,
+            283,
+            267,
+            284,
+            266,
+            313,
+            177,
+            312
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 30,
+            "length": 6
+          }
+        },
+        {
+          "content": "No.",
+          "polygon": [
+            284,
+            285,
+            324,
+            285,
+            323,
+            314,
+            284,
+            314
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 37,
+            "length": 3
+          }
+        },
+        {
+          "content": "7245-7545",
+          "polygon": [
+            343,
+            285,
+            477,
+            288,
+            477,
+            317,
+            342,
+            315
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 41,
+            "length": 9
+          }
+        },
+        {
+          "content": "ff",
+          "polygon": [
+            237,
+            435,
+            251,
+            435,
+            251,
+            450,
+            237,
+            450
+          ],
+          "confidence": 0.124,
+          "span": {
+            "offset": 51,
+            "length": 2
+          }
+        },
+        {
+          "content": "T245-60214",
+          "polygon": [
+            339,
+            435,
+            490,
+            437,
+            490,
+            465,
+            339,
+            462
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 54,
+            "length": 10
+          }
+        },
+        {
+          "content": "240780214",
+          "polygon": [
+            605,
+            473,
+            979,
+            474,
+            979,
+            545,
+            604,
+            541
+          ],
+          "confidence": 0.487,
+          "span": {
+            "offset": 65,
+            "length": 9
+          }
+        },
+        {
+          "content": "FF",
+          "polygon": [
+            236,
+            586,
+            248,
+            586,
+            248,
+            599,
+            235,
+            599
+          ],
+          "confidence": 0.139,
+          "span": {
+            "offset": 75,
+            "length": 2
+          }
+        },
+        {
+          "content": "T245-59013",
+          "polygon": [
+            337,
+            585,
+            488,
+            587,
+            488,
+            614,
+            337,
+            612
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 78,
+            "length": 10
+          }
+        },
+        {
+          "content": "許",
+          "polygon": [
+            484,
+            721,
+            510,
+            722,
+            510,
+            761,
+            484,
+            761
+          ],
+          "confidence": 0.676,
+          "span": {
+            "offset": 89,
+            "length": 1
+          }
+        },
+        {
+          "content": "麗",
+          "polygon": [
+            521,
+            722,
+            546,
+            722,
+            546,
+            761,
+            521,
+            761
+          ],
+          "confidence": 0.721,
+          "span": {
+            "offset": 90,
+            "length": 1
+          }
+        },
+        {
+          "content": "薦",
+          "polygon": [
+            562,
+            722,
+            600,
+            722,
+            600,
+            761,
+            562,
+            761
+          ],
+          "confidence": 0.66,
+          "span": {
+            "offset": 91,
+            "length": 1
+          }
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            397,
+            771,
+            675,
+            772,
+            675,
+            808,
+            397,
+            808
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 93,
+            "length": 14
+          }
+        },
+        {
+          "content": "國",
+          "polygon": [
+            731,
+            1397,
+            778,
+            1397,
+            778,
+            1467,
+            730,
+            1467
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 108,
+            "length": 1
+          }
+        },
+        {
+          "content": "史",
+          "polygon": [
+            785,
+            1396,
+            831,
+            1396,
+            831,
+            1468,
+            785,
+            1468
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 109,
+            "length": 1
+          }
+        },
+        {
+          "content": "饭",
+          "polygon": [
+            833,
+            1396,
+            916,
+            1396,
+            916,
+            1470,
+            832,
+            1468
+          ],
+          "confidence": 0.836,
+          "span": {
+            "offset": 110,
+            "length": 1
+          }
+        },
+        {
+          "content": "Academia",
+          "polygon": [
+            708,
+            1469,
+            812,
+            1469,
+            812,
+            1493,
+            708,
+            1493
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 112,
+            "length": 8
+          }
+        },
+        {
+          "content": "Historica",
+          "polygon": [
+            818,
+            1469,
+            913,
+            1470,
+            913,
+            1494,
+            818,
+            1493
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 121,
+            "length": 9
+          }
+        },
+        {
+          "content": "219",
+          "polygon": [
+            89,
+            1462,
+            150,
+            1460,
+            150,
+            1519,
+            90,
+            1521
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 131,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "3/4 Ton Pick up",
+          "polygon": [
+            361,
+            160,
+            585,
+            166,
+            584,
+            197,
+            360,
+            191
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "1953",
+          "polygon": [
+            389,
+            214,
+            450,
+            216,
+            450,
+            242,
+            388,
+            240
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Dodge",
+          "polygon": [
+            478,
+            217,
+            553,
+            218,
+            553,
+            241,
+            477,
+            240
+          ],
+          "spans": [
+            {
+              "offset": 21,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "道奇",
+          "polygon": [
+            598,
+            198,
+            681,
+            201,
+            680,
+            255,
+            597,
+            251
+          ],
+          "spans": [
+            {
+              "offset": 27,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Engine No. 7245-7545",
+          "polygon": [
+            177,
+            282,
+            477,
+            287,
+            477,
+            317,
+            177,
+            312
+          ],
+          "spans": [
+            {
+              "offset": 30,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "ff",
+          "polygon": [
+            237,
+            435,
+            251,
+            435,
+            250,
+            450,
+            237,
+            450
+          ],
+          "spans": [
+            {
+              "offset": 51,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "T245-60214",
+          "polygon": [
+            339,
+            435,
+            490,
+            437,
+            489,
+            464,
+            339,
+            462
+          ],
+          "spans": [
+            {
+              "offset": 54,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "240780214",
+          "polygon": [
+            604,
+            473,
+            978,
+            474,
+            978,
+            544,
+            604,
+            544
+          ],
+          "spans": [
+            {
+              "offset": 65,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "FF",
+          "polygon": [
+            236,
+            585,
+            248,
+            586,
+            248,
+            599,
+            235,
+            598
+          ],
+          "spans": [
+            {
+              "offset": 75,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "T245-59013",
+          "polygon": [
+            337,
+            585,
+            488,
+            587,
+            487,
+            614,
+            337,
+            612
+          ],
+          "spans": [
+            {
+              "offset": 78,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "許麗薦",
+          "polygon": [
+            484,
+            721,
+            600,
+            722,
+            600,
+            761,
+            484,
+            761
+          ],
+          "spans": [
+            {
+              "offset": 89,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "140.112.213.82",
+          "polygon": [
+            397,
+            771,
+            675,
+            771,
+            675,
+            808,
+            397,
+            808
+          ],
+          "spans": [
+            {
+              "offset": 93,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "國史饭",
+          "polygon": [
+            731,
+            1395,
+            915,
+            1395,
+            915,
+            1469,
+            730,
+            1468
+          ],
+          "spans": [
+            {
+              "offset": 108,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Academia Historica",
+          "polygon": [
+            708,
+            1468,
+            913,
+            1469,
+            913,
+            1493,
+            708,
+            1493
+          ],
+          "spans": [
+            {
+              "offset": 112,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "219",
+          "polygon": [
+            89,
+            1462,
+            148,
+            1460,
+            150,
+            1519,
+            90,
+            1521
+          ],
+          "spans": [
+            {
+              "offset": 131,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 134
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 29
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            361,
+            156,
+            684,
+            170,
+            680,
+            255,
+            357,
+            241
+          ]
+        }
+      ],
+      "content": "3/4 Ton Pick up 1953 Dodge 道奇"
+    },
+    {
+      "spans": [
+        {
+          "offset": 30,
+          "length": 20
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            177,
+            282,
+            477,
+            287,
+            477,
+            317,
+            177,
+            312
+          ]
+        }
+      ],
+      "content": "Engine No. 7245-7545"
+    },
+    {
+      "spans": [
+        {
+          "offset": 51,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            237,
+            434,
+            490,
+            437,
+            489,
+            464,
+            237,
+            461
+          ]
+        }
+      ],
+      "content": "ff T245-60214"
+    },
+    {
+      "spans": [
+        {
+          "offset": 65,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            604,
+            473,
+            978,
+            474,
+            978,
+            544,
+            604,
+            544
+          ]
+        }
+      ],
+      "content": "240780214"
+    },
+    {
+      "spans": [
+        {
+          "offset": 75,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            235,
+            584,
+            488,
+            587,
+            487,
+            614,
+            235,
+            610
+          ]
+        }
+      ],
+      "content": "FF T245-59013"
+    },
+    {
+      "spans": [
+        {
+          "offset": 89,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            397,
+            721,
+            675,
+            722,
+            675,
+            808,
+            397,
+            808
+          ]
+        }
+      ],
+      "content": "許麗薦 140.112.213.82"
+    },
+    {
+      "spans": [
+        {
+          "offset": 108,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            708,
+            1395,
+            915,
+            1395,
+            915,
+            1493,
+            708,
+            1493
+          ]
+        }
+      ],
+      "content": "國史饭 Academia Historica"
+    },
+    {
+      "spans": [
+        {
+          "offset": 131,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            88,
+            1462,
+            148,
+            1460,
+            150,
+            1519,
+            90,
+            1521
+          ]
+        }
+      ],
+      "role": "pageNumber",
+      "content": "219"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 27,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 108,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 131,
+          "length": 3
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text",
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 130
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/figures/0"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "1.1",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            708,
+            1387,
+            919,
+            1387,
+            918,
+            1498,
+            708,
+            1498
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 108,
+          "length": 22
+        }
+      ],
+      "elements": [
+        "/paragraphs/6"
+      ]
+    }
+  ]
+}
